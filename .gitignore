@@ -1,0 +1,40 @@
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos del sistema (Mac)
+.DS_Store
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# VS Code
+.vscode/
+
+# Datos grandes (opcional, muy recomendado en NLP)
+data/
+datasets/
+*.csv
+*.tsv
+
+# Modelos entrenados (pesan mucho)
+models/
+*.pt
+*.bin
+
+# Configuración local
+.env
