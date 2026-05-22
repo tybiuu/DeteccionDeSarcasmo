@@ -38,3 +38,7 @@ models/
 
 # Configuración local
 .env
+
+glove-sbwc.i25.vec.gz
+glove-sbwc.i25.vec
+glove-sbwc-w2v.vec
