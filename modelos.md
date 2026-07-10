@@ -213,6 +213,20 @@ GRIDS_GLOVE = {
 print('Pipelines y grids definidos.')
 ```
 
+```python
+print(f'{"Variante":10} {"Preprocesamiento":18} {"Dim. TF-IDF":>12} {"Dim. total (+9)":>16}')
+print('-' * 60)
+
+for PREP in PREPS:
+    SUFIJO = '' if PREP == 'normal' else f'_{PREP}'
+    for ds in ['mx', 'es', 'cu']:
+        df_tr = pd.read_csv(f'{DATA_DIR}/train_clean{SUFIJO}_{ds}.csv')
+        X_transformed = build_tfidf_prep().fit_transform(df_tr[['MESSAGE_CLEAN'] + FEATURE_COLS])
+        dim_tfidf = X_transformed.shape[1] - 9
+        print(f'{ds:10} {PREP:18} {dim_tfidf:>12,} {X_transformed.shape[1]:>16,}')
+
+```
+
 ## 5. Función principal de experimentos
 Nested CV: outer loop (5 folds) evalúa estabilidad, inner loop (GridSearchCV)
 selecciona hiperparámetros. Reentrenamiento final sobre todo el train
@@ -609,6 +623,7 @@ print(f'\nCSV de importancias guardado: {DATA_DIR}/feature_importance_ling.csv')
 ```python
 # Figura: ranking de importancias lingüísticas por variante (mejor modelo)
 import numpy as np
+import matplotlib.pyplot as plt
 
 NOMBRES_FEATURES = [
     'Exclamaciones', 'Interrogaciones', 'Mayúsculas',
@@ -710,4 +725,64 @@ for ds, r in mejores.items():
     print(f'  Falsos positivos ({len(fp_rows)} total):')
     for _, row in fp_rows.head(5).iterrows():
         print(f'    → {str(row["MESSAGE_CLEAN"])[:120]}')
+```
+
+```python
+from sklearn.pipeline import Pipeline
+from sklearn.compose import ColumnTransformer
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.preprocessing import StandardScaler
+from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import f1_score
+import pandas as pd
+
+CONFIGS = [
+    {'variante': 'mx', 'prep': 'normal', 'modelo': 'LR',
+     'params': {'C': 1.0, 'solver': 'liblinear'}, 'ngram_range': (1, 2)},
+    {'variante': 'es', 'prep': 'stem', 'modelo': 'RF',
+     'params': {'max_depth': None, 'min_samples_split': 5, 'n_estimators': 200}, 'ngram_range': (1, 2)},
+    {'variante': 'cu', 'prep': 'stem', 'modelo': 'RF',
+     'params': {'max_depth': 10, 'min_samples_split': 5, 'n_estimators': 200}, 'ngram_range': (1, 1)},
+]
+
+def build_clf(modelo, params):
+    if modelo == 'LR':
+        return LogisticRegression(max_iter=10000, random_state=42, class_weight='balanced', **params)
+    return RandomForestClassifier(random_state=42, class_weight='balanced', **params)
+
+def build_prep(ngram_range):
+    return ColumnTransformer([
+        ('tfidf_word', TfidfVectorizer(stop_words=STOP_WORDS, max_features=10000,
+                                        ngram_range=ngram_range), 'MESSAGE_CLEAN'),
+        ('ling', 'passthrough', FEATURE_COLS)
+    ])
+
+print(f'{"Variante":10} {"Modelo":8} {"F1-Macro sin escalar":>22} {"F1-Macro con escalar":>22}')
+print('-' * 65)
+
+for cfg in CONFIGS:
+    sufijo = '' if cfg['prep'] == 'normal' else f"_{cfg['prep']}"
+    df_tr = pd.read_csv(f"{DATA_DIR}/train_clean{sufijo}_{cfg['variante']}.csv")
+    df_te = pd.read_csv(f"{DATA_DIR}/test_clean{sufijo}_{cfg['variante']}.csv")
+
+    X_tr_raw = df_tr[['MESSAGE_CLEAN'] + FEATURE_COLS]
+    X_te_raw = df_te[['MESSAGE_CLEAN'] + FEATURE_COLS]
+    y_tr = df_tr['IS_IRONIC'].values
+    y_te = df_te['IS_IRONIC'].values
+
+    # Sin escalar (pipeline actual del artículo)
+    pipe_sin = Pipeline([('prep', build_prep(cfg['ngram_range'])),
+                          ('clf', build_clf(cfg['modelo'], cfg['params']))])
+    pipe_sin.fit(X_tr_raw, y_tr)
+    f1_sin = f1_score(y_te, pipe_sin.predict(X_te_raw), average='macro')
+
+    # Con escalado, with_mean=False (compatible con matriz dispersa)
+    pipe_con = Pipeline([('prep', build_prep(cfg['ngram_range'])),
+                          ('scaler', StandardScaler(with_mean=False)),
+                          ('clf', build_clf(cfg['modelo'], cfg['params']))])
+    pipe_con.fit(X_tr_raw, y_tr)
+    f1_con = f1_score(y_te, pipe_con.predict(X_te_raw), average='macro')
+
+    print(f"{cfg['variante']:10} {cfg['modelo']:8} {f1_sin:>22.4f} {f1_con:>22.4f}")
 ```

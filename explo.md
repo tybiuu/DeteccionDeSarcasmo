@@ -179,7 +179,7 @@ def extraer_features(texto):
     # 5. Risas: expresiones en español e inglés
     # (González-Ibáñez et al., 2011)
     n_ris = len(re.findall(
-        r'\b(ja+ja+|je+je+|ji+ji+|ha+ha+|xs+|xd+|lol+|jsjs)\b',
+        r'\b(ja+ja+|je+je+|ji+ji+|ha+ha+|xd+|lol+|jsjs)\b',
         texto_norm
     ))
 

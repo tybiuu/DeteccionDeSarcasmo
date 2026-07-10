@@ -124,7 +124,7 @@ def extraer_features_linguisticos(texto):
     n_emo = sum(1 for c in texto_str if c in emoji.EMOJI_DATA)
     # 5. Risas (González-Ibáñez et al., 2011)
     n_ris = len(re.findall(
-        r'\b(ja+ja+|je+je+|ji+ji+|ha+ha+|xs+|xd+|lol+|jsjs)\b', texto_norm))
+        r'\b(ja+ja+|je+je+|ji+ji+|ha+ha+|xd+|lol+|jsjs)\b', texto_norm))
     # 6. Negaciones (González-Ibáñez et al., 2011; RAE, 2011)
     n_neg = sum(1 for p in palabras if p in NEGACIONES)
     # 7. Elongación: mismo carácter 3+ veces (Šandor & Bagić Babac, 2023; Joshi et al., 2016)
