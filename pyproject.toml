@@ -23,7 +23,19 @@ dependencies = [
     "markitdown[all]>=0.1.5",
     "xgboost>=3.2.0",
     "optuna>=5.0.0",
+    "torch>=2.14.0",
+    "torchvision>=0.29.0",
+    "torchaudio>=2.11.0",
 ]
 
 [tool.uv]
 package = false
+
+[tool.uv.sources]
+torch = { index = "pytorch" }
+torchvision = { index = "pytorch" }
+torchaudio = { index = "pytorch" }
+
+[[tool.uv.index]]
+name = "pytorch"
+url = "https://download.pytorch.org/whl/cu130"
