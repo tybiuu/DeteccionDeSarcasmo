@@ -1,0 +1,124 @@
+{
+  "modo": "completo",
+  "random_state": 42,
+  "variantes": [
+    "mx",
+    "es",
+    "cu"
+  ],
+  "tfidf_comun": true,
+  "tfidf_perfil": "LR_RF_ORIGINAL_10K_STOPWORDS_ES_NGRAMAS_INNER",
+  "splitter": "StratifiedGroupKFold",
+  "group_key": "transitive_normal_stem_lemma_message_exact",
+  "group_audit": [
+    {
+      "variante": "mx",
+      "n_train": 2399,
+      "n_grupos": 2393,
+      "n_grupos_multiples": 3,
+      "n_filas_en_grupos_multiples": 9,
+      "tamano_grupo_max": 5,
+      "n_grupos_etiquetas_contradictorias": 0,
+      "criterio": "union_texto_normal_stem_lemma_y_original_exacto"
+    },
+    {
+      "variante": "es",
+      "n_train": 2397,
+      "n_grupos": 2289,
+      "n_grupos_multiples": 45,
+      "n_filas_en_grupos_multiples": 153,
+      "tamano_grupo_max": 17,
+      "n_grupos_etiquetas_contradictorias": 1,
+      "criterio": "union_texto_normal_stem_lemma_y_original_exacto"
+    },
+    {
+      "variante": "cu",
+      "n_train": 2400,
+      "n_grupos": 2389,
+      "n_grupos_multiples": 11,
+      "n_filas_en_grupos_multiples": 22,
+      "tamano_grupo_max": 2,
+      "n_grupos_etiquetas_contradictorias": 0,
+      "criterio": "union_texto_normal_stem_lemma_y_original_exacto"
+    }
+  ],
+  "n_outer": 5,
+  "n_inner": 3,
+  "n_trials_nested_xgb": 50,
+  "n_trials_final_xgb": 50,
+  "grids_lr_rf": {
+    "LR": {
+      "clf__C": [
+        0.1,
+        1.0,
+        10
+      ],
+      "clf__solver": [
+        "liblinear"
+      ],
+      "features__tfidf__ngram_range": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ]
+      ]
+    },
+    "RF": {
+      "clf__n_estimators": [
+        100,
+        200,
+        300
+      ],
+      "clf__max_depth": [
+        null,
+        10,
+        20
+      ],
+      "clf__min_samples_split": [
+        2,
+        5
+      ],
+      "features__tfidf__ngram_range": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ]
+      ]
+    }
+  },
+  "tfidf_config": {
+    "ngram_range_candidates": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "max_features": 10000,
+    "min_df": 1,
+    "max_df": 1.0,
+    "sublinear_tf": false,
+    "lowercase": true,
+    "stop_words": "NLTK spanish",
+    "n_stopwords": 313
+  },
+  "xgb_search": "TPE seeded; 6 initial prep × ngram trials; total budget includes them",
+  "versions": {
+    "numpy": "1.26.4",
+    "pandas": "3.0.3",
+    "sklearn": "1.8.0",
+    "xgboost": "3.2.0",
+    "optuna": "5.0.0"
+  }
+}

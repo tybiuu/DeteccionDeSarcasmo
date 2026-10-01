@@ -1,0 +1,31 @@
+[2026-10-01 08:53:53] [MX][HardVoting][Outer 1/5] reajuste de LR, RF y XGBoost
+[2026-10-01 08:53:54] [MX][HardVoting][Outer 1/5] F1-Macro=0.6397
+[2026-10-01 08:53:54] [MX][HardVoting][Outer 2/5] reajuste de LR, RF y XGBoost
+[2026-10-01 08:53:55] [MX][HardVoting][Outer 2/5] F1-Macro=0.6109
+[2026-10-01 08:53:55] [MX][HardVoting][Outer 3/5] reajuste de LR, RF y XGBoost
+[2026-10-01 08:53:57] [MX][HardVoting][Outer 3/5] F1-Macro=0.6338
+[2026-10-01 08:53:57] [MX][HardVoting][Outer 4/5] reajuste de LR, RF y XGBoost
+[2026-10-01 08:53:58] [MX][HardVoting][Outer 4/5] F1-Macro=0.6399
+[2026-10-01 08:53:58] [MX][HardVoting][Outer 5/5] reajuste de LR, RF y XGBoost
+[2026-10-01 08:53:59] [MX][HardVoting][Outer 5/5] F1-Macro=0.6409
+[2026-10-01 08:53:59] [ES][HardVoting][Outer 1/5] reajuste de LR, RF y XGBoost
+[2026-10-01 08:54:03] [ES][HardVoting][Outer 1/5] F1-Macro=0.7158
+[2026-10-01 08:54:03] [ES][HardVoting][Outer 2/5] reajuste de LR, RF y XGBoost
+[2026-10-01 08:54:04] [ES][HardVoting][Outer 2/5] F1-Macro=0.7039
+[2026-10-01 08:54:04] [ES][HardVoting][Outer 3/5] reajuste de LR, RF y XGBoost
+[2026-10-01 08:54:07] [ES][HardVoting][Outer 3/5] F1-Macro=0.7311
+[2026-10-01 08:54:07] [ES][HardVoting][Outer 4/5] reajuste de LR, RF y XGBoost
+[2026-10-01 08:54:09] [ES][HardVoting][Outer 4/5] F1-Macro=0.7086
+[2026-10-01 08:54:09] [ES][HardVoting][Outer 5/5] reajuste de LR, RF y XGBoost
+[2026-10-01 08:54:10] [ES][HardVoting][Outer 5/5] F1-Macro=0.6819
+[2026-10-01 08:54:11] [CU][HardVoting][Outer 1/5] reajuste de LR, RF y XGBoost
+[2026-10-01 08:54:13] [CU][HardVoting][Outer 1/5] F1-Macro=0.6648
+[2026-10-01 08:54:13] [CU][HardVoting][Outer 2/5] reajuste de LR, RF y XGBoost
+[2026-10-01 08:54:14] [CU][HardVoting][Outer 2/5] F1-Macro=0.6478
+[2026-10-01 08:54:14] [CU][HardVoting][Outer 3/5] reajuste de LR, RF y XGBoost
+[2026-10-01 08:54:15] [CU][HardVoting][Outer 3/5] F1-Macro=0.6393
+[2026-10-01 08:54:15] [CU][HardVoting][Outer 4/5] reajuste de LR, RF y XGBoost
+[2026-10-01 08:54:17] [CU][HardVoting][Outer 4/5] F1-Macro=0.6564
+[2026-10-01 08:54:17] [CU][HardVoting][Outer 5/5] reajuste de LR, RF y XGBoost
+[2026-10-01 08:54:18] [CU][HardVoting][Outer 5/5] F1-Macro=0.6986
+[2026-10-01 08:54:18] FINALIZADO: Hard Voting: Nested CV completada (15/15 contados)

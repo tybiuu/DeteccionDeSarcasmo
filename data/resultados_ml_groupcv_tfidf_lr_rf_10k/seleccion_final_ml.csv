@@ -1,0 +1,10 @@
+variante,modelo,preprocessing,ngramas,best_f1_cv_final,cv_std_final,best_params
+cu,LR,stem,uni_bi,0.6661169497984376,0.008600234074518027,"{'clf__C': 1.0, 'clf__solver': 'liblinear', 'features__tfidf__ngram_range': (1, 2)}"
+cu,RF,stem,uni,0.6637337884129559,0.0026576792653821854,"{'clf__max_depth': 10, 'clf__min_samples_split': 5, 'clf__n_estimators': 200, 'features__tfidf__ngram_range': (1, 1)}"
+cu,XGBoost,stem,uni_bi,0.6585983819757831,0.023654392731963476,"{'n_estimators': 600, 'max_depth': 4, 'learning_rate': 0.020075004105078148, 'min_child_weight': 2, 'subsample': 0.8193494057220626, 'colsample_bytree': 0.8157279349117083, 'gamma': 4.242680767742599, 'reg_alpha': 0.046351870629552906, 'reg_lambda': 4.580643560946202, 'scale_pos_weight': 1.9490602729806832}"
+es,LR,lemma,uni_bi,0.7106014214934371,0.026691782475346995,"{'clf__C': 1.0, 'clf__solver': 'liblinear', 'features__tfidf__ngram_range': (1, 2)}"
+es,RF,stem,uni,0.7064357479627001,0.011106570521369496,"{'clf__max_depth': None, 'clf__min_samples_split': 5, 'clf__n_estimators': 300, 'features__tfidf__ngram_range': (1, 1)}"
+es,XGBoost,stem,uni,0.7018234780753977,0.01352874072745545,"{'n_estimators': 700, 'max_depth': 3, 'learning_rate': 0.027779348579956807, 'min_child_weight': 2, 'subsample': 0.5591423727934073, 'colsample_bytree': 0.5069218046356705, 'gamma': 2.839681456077562, 'reg_alpha': 0.001254239612117824, 'reg_lambda': 2.5540871180073728, 'scale_pos_weight': 1.5599288554937685}"
+mx,LR,normal,uni_bi,0.643653147444894,0.03021423364904854,"{'clf__C': 1.0, 'clf__solver': 'liblinear', 'features__tfidf__ngram_range': (1, 2)}"
+mx,RF,lemma,uni,0.6427029369428127,0.006240687383995734,"{'clf__max_depth': 20, 'clf__min_samples_split': 5, 'clf__n_estimators': 300, 'features__tfidf__ngram_range': (1, 1)}"
+mx,XGBoost,lemma,uni,0.6209517628876063,0.008638117819710082,"{'n_estimators': 400, 'max_depth': 5, 'learning_rate': 0.07667732541649683, 'min_child_weight': 2, 'subsample': 0.8469710880946255, 'colsample_bytree': 0.7255821550251189, 'gamma': 2.136353897655443, 'reg_alpha': 0.0031500629506197213, 'reg_lambda': 4.902160851392887, 'scale_pos_weight': 1.6361660984833089}"

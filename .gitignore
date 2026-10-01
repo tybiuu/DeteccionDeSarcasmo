@@ -1,52 +1,79 @@
-# Entornos virtuales
+# ============================================================
+# Entornos y herramientas
+# ============================================================
 venv/
 .env/
 .venv/
 .uv-cache/
 .uv-python/
-
-# Python cache
+.env
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Jupyter Notebook
 .ipynb_checkpoints/
-
-# Archivos del sistema (Mac)
 .DS_Store
-
-# Archivos de logs
-*.log
-
-# Archivos temporales
-*.tmp
-*.swp
-
-# VS Code
 .vscode/
-
-# Datos grandes (opcional, muy recomendado en NLP)
-data/
-datasets/
+*.swp
+*.tmp
+# ============================================================
+# Archivos pesados (en general)
+# ============================================================
+*.log
 *.csv
 *.tsv
-
-# Modelos entrenados (pesan mucho)
 models/
 *.pt
 *.bin
-
-# Configuración local
-.env
-
+*.safetensors
 glove-sbwc.i25.vec.gz
 glove-sbwc.i25.vec
 glove-sbwc-w2v.vec
+datasets/
+
+# ============================================================
+# data/: se ignora todo y luego se permite lo que sí se guarda
+# ============================================================
+
+data/*
+# Datos originales de IroSvA
+!data/irosva.*.csv
+# Exploración (figuras)
+!data/exploracion/
+
+# Datos preprocesados (los mismos para todas las computadoras)
+!data/train_clean*.csv
+!data/test_clean*.csv
+!data/manifest_preprocesamiento_ml.csv
+!data/auditoria_duplicados_conflictos_train_ml.csv
+!data/conflictos_etiqueta_train_ml.csv
+!data/transformers/
+!data/transformers/*.csv
+
+# Resultados de los modelos y de la comparación final
+!data/resultados_*/
+!data/resultados_*/**/*.csv
+!data/resultados_*/**/monitor.log
 
 
+# ============================================================
+# Dentro de los resultados: lo que NO se guarda
+# (van al final para que tengan prioridad)
+# ============================================================
+
+# Checkpoints y temporales de los Transformers (gigas)
 data/resultados_*/seguimiento/*/*/ckpt/
 data/resultados_*/seguimiento/*/*/tmp/
+
+# Corridas en modo prueba
+
+data/resultados_*/seguimiento/*/prueba/
+data/resultados_ml_*/prueba/
+
+# Modelos finales de ML (solo los usa Hard Voting, en la misma máquina)
+data/resultados_ml_*/modelos_finales/
+
+# Corridas antiguas de los Transformers (sin _v3): datos ya no válidos
+data/resultados_*_tpe20/
 *.pkl.tmp
 *.csv.tmp

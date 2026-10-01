@@ -1,0 +1,4 @@
+pipeline_version,variante,train_final,test_n
+ml_comun_v1,mx,2399,600
+ml_comun_v1,es,2397,600
+ml_comun_v1,cu,2400,600
