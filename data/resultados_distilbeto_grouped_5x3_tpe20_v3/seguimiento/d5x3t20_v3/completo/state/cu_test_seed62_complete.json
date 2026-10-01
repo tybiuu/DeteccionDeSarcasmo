@@ -1,0 +1,10 @@
+{
+  "config_id": "P_l4_b16_e5_w1_b_d1",
+  "seed": 62,
+  "f1_macro": 0.709109980210941,
+  "accuracy": 0.735,
+  "precision_macro": 0.7053510667510356,
+  "recall_macro": 0.7150000000000001,
+  "f1_macro_sin_coincidencias": 0.7088472931703336,
+  "n_coincidencias": 1
+}

@@ -1,0 +1,9 @@
+{
+  "status": "complete",
+  "config_id": "P_l4_b32_e5_w1_b_d2",
+  "f1_train": 0.8992673992673993,
+  "f1_outer_clase_0": 0.809375,
+  "f1_outer_clase_1": 0.61875,
+  "f1_outer": 0.7140625,
+  "gap": 0.18520489926739925
+}
