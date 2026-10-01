@@ -1,0 +1,4 @@
+pipeline_version,variante,train_final,test_n
+transformers_comun_v2,mx,2399,600
+transformers_comun_v2,es,2397,600
+transformers_comun_v2,cu,2400,600
