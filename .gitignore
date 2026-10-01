@@ -44,3 +44,9 @@ models/
 glove-sbwc.i25.vec.gz
 glove-sbwc.i25.vec
 glove-sbwc-w2v.vec
+
+
+data/resultados_*/seguimiento/*/*/ckpt/
+data/resultados_*/seguimiento/*/*/tmp/
+*.pkl.tmp
+*.csv.tmp
