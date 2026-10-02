@@ -1,0 +1,65 @@
+{
+  "checkpoint": "dccuchile/distilbert-base-spanish-uncased",
+  "modo": "completo",
+  "variantes": [
+    "mx",
+    "es",
+    "cu"
+  ],
+  "outer": 5,
+  "inner": 3,
+  "trials": 20,
+  "startup_trials": 5,
+  "semilla": 42,
+  "max_length": 128,
+  "search_space": {
+    "preprocessing": [
+      "PYSENTIMIENTO"
+    ],
+    "learning_rate": [
+      2e-05,
+      3e-05,
+      4e-05,
+      5e-05
+    ],
+    "batch_size": [
+      16,
+      32
+    ],
+    "num_train_epochs": [
+      3,
+      4,
+      5
+    ],
+    "weight_decay": [
+      0.0,
+      0.01,
+      0.05,
+      0.1
+    ],
+    "loss_mode": [
+      "standard",
+      "balanced"
+    ],
+    "classifier_dropout": [
+      0.1,
+      0.2,
+      0.3
+    ]
+  },
+  "preprocessing_pipeline": "transformers_comun_v2",
+  "train_final": {
+    "mx": 2399,
+    "es": 2397,
+    "cu": 2400
+  },
+  "group_strategy": "original_pysentimiento_tokenized_connected_components_v1",
+  "fixed_training": {
+    "optim": "adamw_torch",
+    "warmup_ratio": 0.1,
+    "early_stopping_patience": 1,
+    "refit_epoch_strategy": "median_inner_best_epoch_rounded",
+    "curvas": "train_eval_loss_epoch_csv_best_outer_png_v1",
+    "checkpoint": "epoch_inner_and_refit_save_total_limit_2_v1"
+  }
+}

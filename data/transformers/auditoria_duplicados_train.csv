@@ -1,0 +1,4 @@
+variante,n_original,textos_repetidos,conflictos_texto,filas_retiradas_conflicto,filas_duplicadas_misma_etiqueta_retiradas,n_tras_control_duplicados
+mx,2400,1,0,0,1,2399
+es,2400,2,1,2,1,2397
+cu,2400,0,0,0,0,2400

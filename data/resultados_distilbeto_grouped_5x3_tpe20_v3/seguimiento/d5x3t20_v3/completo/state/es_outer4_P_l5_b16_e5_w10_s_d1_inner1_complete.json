@@ -1,0 +1,18 @@
+{
+  "status": "complete",
+  "config_id": "P_l5_b16_e5_w10_s_d1",
+  "config": {
+    "preprocessing": "PYSENTIMIENTO",
+    "learning_rate": 5e-05,
+    "batch_size": 16,
+    "num_train_epochs": 5,
+    "weight_decay": 0.1,
+    "loss_mode": "standard",
+    "classifier_dropout": 0.1
+  },
+  "f1_inner": 0.7078771539092721,
+  "best_epoch": 1,
+  "inner_fold": 1,
+  "seed": 4643,
+  "checkpoint_used_to_resume": null
+}
