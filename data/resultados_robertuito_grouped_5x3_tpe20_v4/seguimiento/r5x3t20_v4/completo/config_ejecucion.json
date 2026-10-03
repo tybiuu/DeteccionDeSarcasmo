@@ -1,0 +1,68 @@
+{
+  "checkpoint": "pysentimiento/robertuito-base-uncased",
+  "modo": "completo",
+  "variantes": [
+    "mx",
+    "es",
+    "cu"
+  ],
+  "outer": 5,
+  "inner": 3,
+  "trials": 20,
+  "startup_trials": 5,
+  "semilla": 42,
+  "max_length": 128,
+  "search_space": {
+    "preprocessing": [
+      "PYSENTIMIENTO"
+    ],
+    "learning_rate": [
+      1e-05,
+      2e-05
+    ],
+    "batch_size": [
+      16
+    ],
+    "num_train_epochs": [
+      4,
+      6
+    ],
+    "weight_decay": [
+      0.01,
+      0.1
+    ],
+    "loss_mode": [
+      "standard",
+      "balanced"
+    ],
+    "classifier_dropout": [
+      0.1,
+      0.2,
+      0.3
+    ],
+    "label_smoothing": [
+      0.1
+    ],
+    "lr_decay": [
+      0.9
+    ]
+  },
+  "preprocessing_pipeline": "transformers_comun_v2",
+  "train_final": {
+    "mx": 2399,
+    "es": 2397,
+    "cu": 2400
+  },
+  "group_strategy": "original_pysentimiento_tokenized_connected_components_v1",
+  "fixed_training": {
+    "optim": "adamw_torch",
+    "warmup_ratio": 0.1,
+    "early_stopping_patience": 2,
+    "early_stopping": "parada_temprana_f1_sin_checkpoints_v4",
+    "refit_epoch_strategy": "median_inner_best_epoch_rounded_same_scheduler_v4",
+    "loss": "ce_label_smoothing_train_only_v4",
+    "optimizer": "adamw_layerwise_lr_decay_v4",
+    "curvas": "train_eval_loss_epoch_csv_best_outer_png_v1",
+    "checkpoint": "refit_and_test_only_v4"
+  }
+}
