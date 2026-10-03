@@ -1,0 +1,2378 @@
+[2026-10-02 13:39:32] MX | Outer 1/5
+[2026-10-02 13:39:33] MX outer1 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 13:39:50] MX outer1 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 1: F1=0.6487
+[2026-10-02 13:39:50] MX outer1 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 13:40:12] MX outer1 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 2: F1=0.6745
+[2026-10-02 13:40:12] MX outer1 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 13:40:37] MX outer1 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 3: F1=0.6343
+[2026-10-02 13:40:38] MX outer1 | trial 1/20 F1_inner=0.6525 | mejor=0.6525
+[2026-10-02 13:40:38] MX outer1 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 13:41:04] MX outer1 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 1: F1=0.6398
+[2026-10-02 13:41:04] MX outer1 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 13:41:29] MX outer1 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 2: F1=0.6583
+[2026-10-02 13:41:29] MX outer1 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 13:41:55] MX outer1 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 3: F1=0.6018
+[2026-10-02 13:41:56] MX outer1 | trial 2/20 F1_inner=0.6333 | mejor=0.6525
+[2026-10-02 13:41:56] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 inner=1: F1=0.6487
+[2026-10-02 13:41:56] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 inner=2: F1=0.6745
+[2026-10-02 13:41:56] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 inner=3: F1=0.6343
+[2026-10-02 13:41:56] MX outer1 | trial 3/20 F1_inner=0.6525 | mejor=0.6525
+[2026-10-02 13:41:56] MX outer1 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 13:42:22] MX outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.6455
+[2026-10-02 13:42:22] MX outer1 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 13:42:47] MX outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.6811
+[2026-10-02 13:42:47] MX outer1 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 13:43:12] MX outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.6624
+[2026-10-02 13:43:13] MX outer1 | trial 4/20 F1_inner=0.6630 | mejor=0.6630
+[2026-10-02 13:43:13] MX outer1 | cfg=P_l1_b16_e4_w10_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 13:43:30] MX outer1 cfg=P_l1_b16_e4_w10_s_d3_s1_r9 Inner 1: F1=0.5933
+[2026-10-02 13:43:30] MX outer1 | cfg=P_l1_b16_e4_w10_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 13:43:47] MX outer1 cfg=P_l1_b16_e4_w10_s_d3_s1_r9 Inner 2: F1=0.5611
+[2026-10-02 13:43:47] MX outer1 | cfg=P_l1_b16_e4_w10_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 13:44:04] MX outer1 cfg=P_l1_b16_e4_w10_s_d3_s1_r9 Inner 3: F1=0.5546
+[2026-10-02 13:44:05] MX outer1 | trial 5/20 F1_inner=0.5697 | mejor=0.6630
+[2026-10-02 13:44:05] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=1: F1=0.6455
+[2026-10-02 13:44:05] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=2: F1=0.6811
+[2026-10-02 13:44:05] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=3: F1=0.6624
+[2026-10-02 13:44:05] MX outer1 | trial 6/20 F1_inner=0.6630 | mejor=0.6630
+[2026-10-02 13:44:05] MX outer1 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 13:44:23] MX outer1 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 1: F1=0.6398
+[2026-10-02 13:44:23] MX outer1 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 13:44:40] MX outer1 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 2: F1=0.6615
+[2026-10-02 13:44:40] MX outer1 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 13:44:57] MX outer1 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 3: F1=0.6562
+[2026-10-02 13:44:57] MX outer1 | trial 7/20 F1_inner=0.6525 | mejor=0.6630
+[2026-10-02 13:44:58] MX outer1 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 13:45:23] MX outer1 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.6447
+[2026-10-02 13:45:23] MX outer1 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 13:45:48] MX outer1 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.6674
+[2026-10-02 13:45:48] MX outer1 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 13:46:13] MX outer1 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.6404
+[2026-10-02 13:46:13] MX outer1 | trial 8/20 F1_inner=0.6508 | mejor=0.6630
+[2026-10-02 13:46:13] MX outer1 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 13:46:30] MX outer1 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 1: F1=0.6404
+[2026-10-02 13:46:30] MX outer1 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 13:46:48] MX outer1 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 2: F1=0.6643
+[2026-10-02 13:46:48] MX outer1 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 13:47:05] MX outer1 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 3: F1=0.6467
+[2026-10-02 13:47:06] MX outer1 | trial 9/20 F1_inner=0.6504 | mejor=0.6630
+[2026-10-02 13:47:06] MX outer1 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 13:47:30] MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 1: F1=0.6557
+[2026-10-02 13:47:30] MX outer1 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 13:47:55] MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 2: F1=0.6816
+[2026-10-02 13:47:55] MX outer1 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 13:48:20] MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 3: F1=0.6549
+[2026-10-02 13:48:20] MX outer1 | trial 10/20 F1_inner=0.6641 | mejor=0.6641
+[2026-10-02 13:48:20] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=1: F1=0.6557
+[2026-10-02 13:48:20] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=2: F1=0.6816
+[2026-10-02 13:48:20] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=3: F1=0.6549
+[2026-10-02 13:48:21] MX outer1 | trial 11/20 F1_inner=0.6641 | mejor=0.6641
+[2026-10-02 13:48:21] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=1: F1=0.6557
+[2026-10-02 13:48:21] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=2: F1=0.6816
+[2026-10-02 13:48:21] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=3: F1=0.6549
+[2026-10-02 13:48:21] MX outer1 | trial 12/20 F1_inner=0.6641 | mejor=0.6641
+[2026-10-02 13:48:21] MX outer1 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 13:48:39] MX outer1 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 1: F1=0.6451
+[2026-10-02 13:48:39] MX outer1 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 13:49:04] MX outer1 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 2: F1=0.6806
+[2026-10-02 13:49:04] MX outer1 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 13:49:28] MX outer1 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 3: F1=0.6358
+[2026-10-02 13:49:29] MX outer1 | trial 13/20 F1_inner=0.6538 | mejor=0.6641
+[2026-10-02 13:49:29] MX outer1 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 13:49:50] MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 1: F1=0.6544
+[2026-10-02 13:49:50] MX outer1 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 13:50:15] MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 2: F1=0.6798
+[2026-10-02 13:50:15] MX outer1 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 13:50:40] MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 3: F1=0.6554
+[2026-10-02 13:50:40] MX outer1 | trial 14/20 F1_inner=0.6632 | mejor=0.6641
+[2026-10-02 13:50:40] MX outer1 | cfg=P_l1_b16_e6_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 13:51:05] MX outer1 cfg=P_l1_b16_e6_w1_b_d1_s1_r9 Inner 1: F1=0.6456
+[2026-10-02 13:51:05] MX outer1 | cfg=P_l1_b16_e6_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 13:51:30] MX outer1 cfg=P_l1_b16_e6_w1_b_d1_s1_r9 Inner 2: F1=0.6689
+[2026-10-02 13:51:30] MX outer1 | cfg=P_l1_b16_e6_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 13:51:56] MX outer1 cfg=P_l1_b16_e6_w1_b_d1_s1_r9 Inner 3: F1=0.6432
+[2026-10-02 13:51:56] MX outer1 | trial 15/20 F1_inner=0.6526 | mejor=0.6641
+[2026-10-02 13:51:56] MX outer1 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 13:52:17] MX outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 1: F1=0.6495
+[2026-10-02 13:52:17] MX outer1 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 13:52:42] MX outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 2: F1=0.6674
+[2026-10-02 13:52:42] MX outer1 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 13:53:07] MX outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 3: F1=0.6562
+[2026-10-02 13:53:07] MX outer1 | trial 16/20 F1_inner=0.6577 | mejor=0.6641
+[2026-10-02 13:53:07] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=1: F1=0.6557
+[2026-10-02 13:53:07] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=2: F1=0.6816
+[2026-10-02 13:53:07] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=3: F1=0.6549
+[2026-10-02 13:53:08] MX outer1 | trial 17/20 F1_inner=0.6641 | mejor=0.6641
+[2026-10-02 13:53:08] MX outer1 | cfg=P_l1_b16_e4_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 13:53:25] MX outer1 cfg=P_l1_b16_e4_w1_s_d2_s1_r9 Inner 1: F1=0.5933
+[2026-10-02 13:53:25] MX outer1 | cfg=P_l1_b16_e4_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 13:53:42] MX outer1 cfg=P_l1_b16_e4_w1_s_d2_s1_r9 Inner 2: F1=0.5762
+[2026-10-02 13:53:42] MX outer1 | cfg=P_l1_b16_e4_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 13:53:59] MX outer1 cfg=P_l1_b16_e4_w1_s_d2_s1_r9 Inner 3: F1=0.5660
+[2026-10-02 13:53:59] MX outer1 | trial 18/20 F1_inner=0.5785 | mejor=0.6641
+[2026-10-02 13:53:59] MX outer1 | cfg=P_l1_b16_e6_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 13:54:25] MX outer1 cfg=P_l1_b16_e6_w10_b_d1_s1_r9 Inner 1: F1=0.6456
+[2026-10-02 13:54:25] MX outer1 | cfg=P_l1_b16_e6_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 13:54:50] MX outer1 cfg=P_l1_b16_e6_w10_b_d1_s1_r9 Inner 2: F1=0.6681
+[2026-10-02 13:54:50] MX outer1 | cfg=P_l1_b16_e6_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 13:55:16] MX outer1 cfg=P_l1_b16_e6_w10_b_d1_s1_r9 Inner 3: F1=0.6419
+[2026-10-02 13:55:16] MX outer1 | trial 19/20 F1_inner=0.6519 | mejor=0.6641
+[2026-10-02 13:55:16] MX outer1 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 13:55:33] MX outer1 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 1: F1=0.6417
+[2026-10-02 13:55:33] MX outer1 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 13:55:51] MX outer1 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 2: F1=0.6661
+[2026-10-02 13:55:51] MX outer1 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 13:56:08] MX outer1 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 3: F1=0.6501
+[2026-10-02 13:56:08] MX outer1 | trial 20/20 F1_inner=0.6527 | mejor=0.6641
+[2026-10-02 13:56:08] MX Outer 1: refit PYSENTIMIENTO, 5 épocas
+[2026-10-02 13:56:38] ACTIVO: MX Outer 1: refit PYSENTIMIENTO, 5 épocas
+[2026-10-02 13:56:43] MX Outer 1 refit: F1_train=0.9622, F1_outer=0.6288
+[2026-10-02 13:56:43] [MX][BETO][Outer 1/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.6641±0.0152 | F1_train=0.9622 | F1_outer=0.6288 | gap=0.3333
+[2026-10-02 13:56:43] MX | Outer 2/5
+[2026-10-02 13:56:44] MX outer2 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 13:57:01] MX outer2 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 1: F1=0.6168
+[2026-10-02 13:57:01] MX outer2 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 13:57:18] MX outer2 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 2: F1=0.6379
+[2026-10-02 13:57:18] MX outer2 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 13:57:35] MX outer2 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 3: F1=0.6406
+[2026-10-02 13:57:35] MX outer2 | trial 1/20 F1_inner=0.6318 | mejor=0.6318
+[2026-10-02 13:57:36] MX outer2 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 13:58:00] MX outer2 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 1: F1=0.6257
+[2026-10-02 13:58:00] MX outer2 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 13:58:26] MX outer2 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 2: F1=0.6172
+[2026-10-02 13:58:26] MX outer2 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 13:58:44] MX outer2 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 3: F1=0.6320
+[2026-10-02 13:58:44] MX outer2 | trial 2/20 F1_inner=0.6250 | mejor=0.6318
+[2026-10-02 13:58:44] MX outer2 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 13:59:09] MX outer2 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 1: F1=0.6307
+[2026-10-02 13:59:09] MX outer2 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 13:59:31] MX outer2 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 2: F1=0.6379
+[2026-10-02 13:59:31] MX outer2 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 13:59:48] MX outer2 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 3: F1=0.6461
+[2026-10-02 13:59:48] MX outer2 | trial 3/20 F1_inner=0.6382 | mejor=0.6382
+[2026-10-02 13:59:48] MX outer2 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:00:06] MX outer2 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 1: F1=0.6322
+[2026-10-02 14:00:06] MX outer2 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:00:23] MX outer2 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 2: F1=0.6444
+[2026-10-02 14:00:23] MX outer2 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:00:40] MX outer2 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 3: F1=0.6615
+[2026-10-02 14:00:41] MX outer2 | trial 4/20 F1_inner=0.6460 | mejor=0.6460
+[2026-10-02 14:00:41] MX outer2 | cfg=P_l1_b16_e6_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 14:01:06] MX outer2 cfg=P_l1_b16_e6_w1_b_d3_s1_r9 Inner 1: F1=0.6268
+[2026-10-02 14:01:06] MX outer2 | cfg=P_l1_b16_e6_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 14:01:27] MX outer2 cfg=P_l1_b16_e6_w1_b_d3_s1_r9 Inner 2: F1=0.6423
+[2026-10-02 14:01:27] MX outer2 | cfg=P_l1_b16_e6_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 14:01:52] MX outer2 cfg=P_l1_b16_e6_w1_b_d3_s1_r9 Inner 3: F1=0.6438
+[2026-10-02 14:01:52] MX outer2 | trial 5/20 F1_inner=0.6376 | mejor=0.6460
+[2026-10-02 14:01:52] MX outer2 | cfg=P_l2_b16_e4_w10_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:02:10] MX outer2 cfg=P_l2_b16_e4_w10_s_d2_s1_r9 Inner 1: F1=0.6221
+[2026-10-02 14:02:10] MX outer2 | cfg=P_l2_b16_e4_w10_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:02:27] MX outer2 cfg=P_l2_b16_e4_w10_s_d2_s1_r9 Inner 2: F1=0.6342
+[2026-10-02 14:02:27] MX outer2 | cfg=P_l2_b16_e4_w10_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:02:44] MX outer2 cfg=P_l2_b16_e4_w10_s_d2_s1_r9 Inner 3: F1=0.6399
+[2026-10-02 14:02:45] MX outer2 | trial 6/20 F1_inner=0.6321 | mejor=0.6460
+[2026-10-02 14:02:45] REUTILIZADO MX outer2 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=1: F1=0.6322
+[2026-10-02 14:02:45] REUTILIZADO MX outer2 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=2: F1=0.6444
+[2026-10-02 14:02:45] REUTILIZADO MX outer2 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=3: F1=0.6615
+[2026-10-02 14:02:45] MX outer2 | trial 7/20 F1_inner=0.6460 | mejor=0.6460
+[2026-10-02 14:02:45] MX outer2 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:03:02] MX outer2 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 1: F1=0.6302
+[2026-10-02 14:03:02] MX outer2 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:03:15] MX outer2 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 2: F1=0.6435
+[2026-10-02 14:03:15] MX outer2 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:03:33] MX outer2 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 3: F1=0.6624
+[2026-10-02 14:03:33] MX outer2 | trial 8/20 F1_inner=0.6453 | mejor=0.6460
+[2026-10-02 14:03:33] MX outer2 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:03:54] MX outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 1: F1=0.6283
+[2026-10-02 14:03:54] MX outer2 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:04:12] MX outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 2: F1=0.6465
+[2026-10-02 14:04:12] MX outer2 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:04:37] MX outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 3: F1=0.6546
+[2026-10-02 14:04:38] MX outer2 | trial 9/20 F1_inner=0.6431 | mejor=0.6460
+[2026-10-02 14:04:38] MX outer2 | cfg=P_l1_b16_e6_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:05:03] MX outer2 cfg=P_l1_b16_e6_w10_b_d2_s1_r9 Inner 1: F1=0.6316
+[2026-10-02 14:05:03] MX outer2 | cfg=P_l1_b16_e6_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:05:24] MX outer2 cfg=P_l1_b16_e6_w10_b_d2_s1_r9 Inner 2: F1=0.6401
+[2026-10-02 14:05:24] MX outer2 | cfg=P_l1_b16_e6_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:05:49] MX outer2 cfg=P_l1_b16_e6_w10_b_d2_s1_r9 Inner 3: F1=0.6499
+[2026-10-02 14:05:50] MX outer2 | trial 10/20 F1_inner=0.6406 | mejor=0.6460
+[2026-10-02 14:05:50] MX outer2 | cfg=P_l1_b16_e4_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:06:07] MX outer2 cfg=P_l1_b16_e4_w1_b_d2_s1_r9 Inner 1: F1=0.6173
+[2026-10-02 14:06:07] MX outer2 | cfg=P_l1_b16_e4_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:06:24] MX outer2 cfg=P_l1_b16_e4_w1_b_d2_s1_r9 Inner 2: F1=0.6382
+[2026-10-02 14:06:24] MX outer2 | cfg=P_l1_b16_e4_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:06:41] MX outer2 cfg=P_l1_b16_e4_w1_b_d2_s1_r9 Inner 3: F1=0.6457
+[2026-10-02 14:06:42] MX outer2 | trial 11/20 F1_inner=0.6337 | mejor=0.6460
+[2026-10-02 14:06:42] REUTILIZADO MX outer2 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=1: F1=0.6322
+[2026-10-02 14:06:42] REUTILIZADO MX outer2 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=2: F1=0.6444
+[2026-10-02 14:06:42] REUTILIZADO MX outer2 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=3: F1=0.6615
+[2026-10-02 14:06:42] MX outer2 | trial 12/20 F1_inner=0.6460 | mejor=0.6460
+[2026-10-02 14:06:42] MX outer2 | cfg=P_l2_b16_e4_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 14:06:59] MX outer2 cfg=P_l2_b16_e4_w10_b_d3_s1_r9 Inner 1: F1=0.6328
+[2026-10-02 14:06:59] MX outer2 | cfg=P_l2_b16_e4_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 14:07:17] MX outer2 cfg=P_l2_b16_e4_w10_b_d3_s1_r9 Inner 2: F1=0.6444
+[2026-10-02 14:07:17] MX outer2 | cfg=P_l2_b16_e4_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 14:07:34] MX outer2 cfg=P_l2_b16_e4_w10_b_d3_s1_r9 Inner 3: F1=0.6557
+[2026-10-02 14:07:34] MX outer2 | trial 13/20 F1_inner=0.6443 | mejor=0.6460
+[2026-10-02 14:07:34] MX outer2 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:07:52] MX outer2 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 1: F1=0.6059
+[2026-10-02 14:07:52] MX outer2 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:08:09] MX outer2 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 2: F1=0.5842
+[2026-10-02 14:08:09] MX outer2 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:08:26] MX outer2 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 3: F1=0.6082
+[2026-10-02 14:08:26] MX outer2 | trial 14/20 F1_inner=0.5994 | mejor=0.6460
+[2026-10-02 14:08:26] MX outer2 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:08:43] MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 1: F1=0.6342
+[2026-10-02 14:08:43] MX outer2 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:09:09] MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 2: F1=0.6509
+[2026-10-02 14:09:09] MX outer2 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:09:30] MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 3: F1=0.6558
+[2026-10-02 14:09:30] MX outer2 | trial 15/20 F1_inner=0.6470 | mejor=0.6470
+[2026-10-02 14:09:31] MX outer2 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:09:48] MX outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.6355
+[2026-10-02 14:09:48] MX outer2 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:10:13] MX outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.6532
+[2026-10-02 14:10:13] MX outer2 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:10:34] MX outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.6544
+[2026-10-02 14:10:35] MX outer2 | trial 16/20 F1_inner=0.6477 | mejor=0.6477
+[2026-10-02 14:10:35] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=1: F1=0.6355
+[2026-10-02 14:10:35] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=2: F1=0.6532
+[2026-10-02 14:10:35] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=3: F1=0.6544
+[2026-10-02 14:10:35] MX outer2 | trial 17/20 F1_inner=0.6477 | mejor=0.6477
+[2026-10-02 14:10:35] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=1: F1=0.6355
+[2026-10-02 14:10:35] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=2: F1=0.6532
+[2026-10-02 14:10:35] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=3: F1=0.6544
+[2026-10-02 14:10:35] MX outer2 | trial 18/20 F1_inner=0.6477 | mejor=0.6477
+[2026-10-02 14:10:35] MX outer2 | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:11:01] MX outer2 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 Inner 1: F1=0.6258
+[2026-10-02 14:11:01] MX outer2 | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:11:26] MX outer2 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 Inner 2: F1=0.6402
+[2026-10-02 14:11:26] MX outer2 | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:11:51] MX outer2 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 Inner 3: F1=0.6441
+[2026-10-02 14:11:51] MX outer2 | trial 19/20 F1_inner=0.6367 | mejor=0.6477
+[2026-10-02 14:11:51] MX outer2 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:12:08] MX outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 1: F1=0.6288
+[2026-10-02 14:12:08] MX outer2 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:12:26] MX outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 2: F1=0.6465
+[2026-10-02 14:12:26] MX outer2 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:12:51] MX outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 3: F1=0.6535
+[2026-10-02 14:12:51] MX outer2 | trial 20/20 F1_inner=0.6429 | mejor=0.6477
+[2026-10-02 14:12:51] MX Outer 2: refit PYSENTIMIENTO, 3 épocas
+[2026-10-02 14:13:13] MX Outer 2 refit: F1_train=0.8451, F1_outer=0.6462
+[2026-10-02 14:13:13] [MX][BETO][Outer 2/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.6477±0.0106 | F1_train=0.8451 | F1_outer=0.6462 | gap=0.1989
+[2026-10-02 14:13:13] MX | Outer 3/5
+[2026-10-02 14:13:14] MX outer3 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 14:13:31] MX outer3 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 1: F1=0.6190
+[2026-10-02 14:13:31] MX outer3 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 14:13:50] MX outer3 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 2: F1=0.6334
+[2026-10-02 14:13:50] MX outer3 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 14:14:07] MX outer3 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 3: F1=0.6141
+[2026-10-02 14:14:07] MX outer3 | trial 1/20 F1_inner=0.6222 | mejor=0.6222
+[2026-10-02 14:14:07] MX outer3 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:14:33] MX outer3 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 1: F1=0.6457
+[2026-10-02 14:14:33] MX outer3 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:14:58] MX outer3 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 2: F1=0.6504
+[2026-10-02 14:14:58] MX outer3 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:15:23] MX outer3 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 3: F1=0.6509
+[2026-10-02 14:15:23] MX outer3 | trial 2/20 F1_inner=0.6490 | mejor=0.6490
+[2026-10-02 14:15:23] MX outer3 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:15:49] MX outer3 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 1: F1=0.6546
+[2026-10-02 14:15:49] MX outer3 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:16:09] MX outer3 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 2: F1=0.6460
+[2026-10-02 14:16:09] MX outer3 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:16:34] MX outer3 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 3: F1=0.6519
+[2026-10-02 14:16:34] MX outer3 | trial 3/20 F1_inner=0.6508 | mejor=0.6508
+[2026-10-02 14:16:34] MX outer3 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:17:00] MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.6545
+[2026-10-02 14:17:00] MX outer3 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:17:17] MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.6605
+[2026-10-02 14:17:17] MX outer3 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:17:43] MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.6737
+[2026-10-02 14:17:43] MX outer3 | trial 4/20 F1_inner=0.6629 | mejor=0.6629
+[2026-10-02 14:17:43] MX outer3 | cfg=P_l2_b16_e4_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:18:00] MX outer3 cfg=P_l2_b16_e4_w1_s_d1_s1_r9 Inner 1: F1=0.6312
+[2026-10-02 14:18:00] MX outer3 | cfg=P_l2_b16_e4_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:18:17] MX outer3 cfg=P_l2_b16_e4_w1_s_d1_s1_r9 Inner 2: F1=0.6460
+[2026-10-02 14:18:17] MX outer3 | cfg=P_l2_b16_e4_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:18:34] MX outer3 cfg=P_l2_b16_e4_w1_s_d1_s1_r9 Inner 3: F1=0.6471
+[2026-10-02 14:18:34] MX outer3 | trial 5/20 F1_inner=0.6415 | mejor=0.6629
+[2026-10-02 14:18:34] MX outer3 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 14:19:01] MX outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 1: F1=0.6607
+[2026-10-02 14:19:01] MX outer3 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 14:19:19] MX outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 2: F1=0.6584
+[2026-10-02 14:19:19] MX outer3 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 14:19:44] MX outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 3: F1=0.6600
+[2026-10-02 14:19:45] MX outer3 | trial 6/20 F1_inner=0.6597 | mejor=0.6629
+[2026-10-02 14:19:45] MX outer3 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:20:10] MX outer3 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.6356
+[2026-10-02 14:20:10] MX outer3 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:20:35] MX outer3 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.6450
+[2026-10-02 14:20:35] MX outer3 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:21:00] MX outer3 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.6404
+[2026-10-02 14:21:01] MX outer3 | trial 7/20 F1_inner=0.6403 | mejor=0.6629
+[2026-10-02 14:21:01] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=1: F1=0.6545
+[2026-10-02 14:21:01] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=2: F1=0.6605
+[2026-10-02 14:21:01] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=3: F1=0.6737
+[2026-10-02 14:21:01] MX outer3 | trial 8/20 F1_inner=0.6629 | mejor=0.6629
+[2026-10-02 14:21:01] MX outer3 | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:21:18] MX outer3 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 1: F1=0.6504
+[2026-10-02 14:21:18] MX outer3 | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:21:35] MX outer3 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 2: F1=0.6652
+[2026-10-02 14:21:35] MX outer3 | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:21:53] MX outer3 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 3: F1=0.6455
+[2026-10-02 14:21:53] MX outer3 | trial 9/20 F1_inner=0.6537 | mejor=0.6629
+[2026-10-02 14:21:53] MX outer3 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:22:18] MX outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 1: F1=0.6544
+[2026-10-02 14:22:18] MX outer3 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:22:35] MX outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 2: F1=0.6552
+[2026-10-02 14:22:35] MX outer3 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:23:01] MX outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 3: F1=0.6779
+[2026-10-02 14:23:01] MX outer3 | trial 10/20 F1_inner=0.6625 | mejor=0.6629
+[2026-10-02 14:23:01] MX outer3 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:23:18] MX outer3 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 1: F1=0.5864
+[2026-10-02 14:23:18] MX outer3 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:23:35] MX outer3 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 2: F1=0.6320
+[2026-10-02 14:23:35] MX outer3 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:23:53] MX outer3 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 3: F1=0.6018
+[2026-10-02 14:23:53] MX outer3 | trial 11/20 F1_inner=0.6068 | mejor=0.6629
+[2026-10-02 14:23:53] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=1: F1=0.6545
+[2026-10-02 14:23:53] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=2: F1=0.6605
+[2026-10-02 14:23:53] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=3: F1=0.6737
+[2026-10-02 14:23:54] MX outer3 | trial 12/20 F1_inner=0.6629 | mejor=0.6629
+[2026-10-02 14:23:54] MX outer3 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:24:19] MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 1: F1=0.6532
+[2026-10-02 14:24:19] MX outer3 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:24:36] MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 2: F1=0.6605
+[2026-10-02 14:24:36] MX outer3 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:25:02] MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 3: F1=0.6758
+[2026-10-02 14:25:02] MX outer3 | trial 13/20 F1_inner=0.6632 | mejor=0.6632
+[2026-10-02 14:25:02] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=1: F1=0.6532
+[2026-10-02 14:25:02] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=2: F1=0.6605
+[2026-10-02 14:25:02] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=3: F1=0.6758
+[2026-10-02 14:25:02] MX outer3 | trial 14/20 F1_inner=0.6632 | mejor=0.6632
+[2026-10-02 14:25:02] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=1: F1=0.6532
+[2026-10-02 14:25:02] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=2: F1=0.6605
+[2026-10-02 14:25:02] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=3: F1=0.6758
+[2026-10-02 14:25:03] MX outer3 | trial 15/20 F1_inner=0.6632 | mejor=0.6632
+[2026-10-02 14:25:03] MX outer3 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:25:20] MX outer3 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 1: F1=0.6504
+[2026-10-02 14:25:20] MX outer3 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:25:37] MX outer3 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 2: F1=0.6646
+[2026-10-02 14:25:37] MX outer3 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:25:55] MX outer3 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 3: F1=0.6455
+[2026-10-02 14:25:55] MX outer3 | trial 16/20 F1_inner=0.6535 | mejor=0.6632
+[2026-10-02 14:25:55] MX outer3 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 14:26:20] MX outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 1: F1=0.6600
+[2026-10-02 14:26:20] MX outer3 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 14:26:37] MX outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 2: F1=0.6625
+[2026-10-02 14:26:37] MX outer3 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 14:27:03] MX outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 3: F1=0.6587
+[2026-10-02 14:27:03] MX outer3 | trial 17/20 F1_inner=0.6604 | mejor=0.6632
+[2026-10-02 14:27:03] MX outer3 | cfg=P_l1_b16_e6_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:27:28] MX outer3 cfg=P_l1_b16_e6_w10_b_d2_s1_r9 Inner 1: F1=0.6376
+[2026-10-02 14:27:28] MX outer3 | cfg=P_l1_b16_e6_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:27:53] MX outer3 cfg=P_l1_b16_e6_w10_b_d2_s1_r9 Inner 2: F1=0.6461
+[2026-10-02 14:27:53] MX outer3 | cfg=P_l1_b16_e6_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:28:18] MX outer3 cfg=P_l1_b16_e6_w10_b_d2_s1_r9 Inner 3: F1=0.6404
+[2026-10-02 14:28:19] MX outer3 | trial 18/20 F1_inner=0.6414 | mejor=0.6632
+[2026-10-02 14:28:19] MX outer3 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 14:28:44] MX outer3 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 1: F1=0.6094
+[2026-10-02 14:28:44] MX outer3 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 14:29:05] MX outer3 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 2: F1=0.6390
+[2026-10-02 14:29:05] MX outer3 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 14:29:31] MX outer3 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 3: F1=0.6173
+[2026-10-02 14:29:31] MX outer3 | trial 19/20 F1_inner=0.6219 | mejor=0.6632
+[2026-10-02 14:29:31] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=1: F1=0.6532
+[2026-10-02 14:29:31] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=2: F1=0.6605
+[2026-10-02 14:29:31] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=3: F1=0.6758
+[2026-10-02 14:29:32] MX outer3 | trial 20/20 F1_inner=0.6632 | mejor=0.6632
+[2026-10-02 14:29:32] MX Outer 3: refit PYSENTIMIENTO, 4 épocas
+[2026-10-02 14:30:01] MX Outer 3 refit: F1_train=0.9462, F1_outer=0.6503
+[2026-10-02 14:30:01] [MX][BETO][Outer 3/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.6632±0.0116 | F1_train=0.9462 | F1_outer=0.6503 | gap=0.2960
+[2026-10-02 14:30:01] MX | Outer 4/5
+[2026-10-02 14:30:01] MX outer4 | cfg=P_l1_b16_e6_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:30:22] MX outer4 cfg=P_l1_b16_e6_w10_b_d1_s1_r9 Inner 1: F1=0.6745
+[2026-10-02 14:30:22] MX outer4 | cfg=P_l1_b16_e6_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:30:47] MX outer4 cfg=P_l1_b16_e6_w10_b_d1_s1_r9 Inner 2: F1=0.6521
+[2026-10-02 14:30:47] MX outer4 | cfg=P_l1_b16_e6_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:31:13] MX outer4 cfg=P_l1_b16_e6_w10_b_d1_s1_r9 Inner 3: F1=0.6338
+[2026-10-02 14:31:13] MX outer4 | trial 1/20 F1_inner=0.6534 | mejor=0.6534
+[2026-10-02 14:31:13] MX outer4 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:31:31] MX outer4 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 1: F1=0.6828
+[2026-10-02 14:31:31] MX outer4 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:31:48] MX outer4 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 2: F1=0.6702
+[2026-10-02 14:31:48] MX outer4 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:32:09] MX outer4 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 3: F1=0.6476
+[2026-10-02 14:32:10] MX outer4 | trial 2/20 F1_inner=0.6668 | mejor=0.6668
+[2026-10-02 14:32:10] MX outer4 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:32:31] MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.6819
+[2026-10-02 14:32:31] MX outer4 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:32:56] MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.6764
+[2026-10-02 14:32:56] MX outer4 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:33:22] MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.6481
+[2026-10-02 14:33:22] MX outer4 | trial 3/20 F1_inner=0.6688 | mejor=0.6688
+[2026-10-02 14:33:22] MX outer4 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:33:39] MX outer4 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 1: F1=0.6283
+[2026-10-02 14:33:39] MX outer4 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:33:57] MX outer4 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 2: F1=0.6149
+[2026-10-02 14:33:57] MX outer4 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:34:15] MX outer4 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 3: F1=0.6128
+[2026-10-02 14:34:15] MX outer4 | trial 4/20 F1_inner=0.6187 | mejor=0.6688
+[2026-10-02 14:34:15] MX outer4 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 14:34:40] MX outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 1: F1=0.6848
+[2026-10-02 14:34:40] MX outer4 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 14:35:05] MX outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 2: F1=0.6639
+[2026-10-02 14:35:05] MX outer4 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 14:35:31] MX outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 3: F1=0.6475
+[2026-10-02 14:35:31] MX outer4 | trial 5/20 F1_inner=0.6654 | mejor=0.6688
+[2026-10-02 14:35:31] MX outer4 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:35:56] MX outer4 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 1: F1=0.6615
+[2026-10-02 14:35:56] MX outer4 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:36:21] MX outer4 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 2: F1=0.6588
+[2026-10-02 14:36:21] MX outer4 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:36:47] MX outer4 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 3: F1=0.6372
+[2026-10-02 14:36:47] MX outer4 | trial 6/20 F1_inner=0.6525 | mejor=0.6688
+[2026-10-02 14:36:47] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=1: F1=0.6819
+[2026-10-02 14:36:47] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=2: F1=0.6764
+[2026-10-02 14:36:47] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=3: F1=0.6481
+[2026-10-02 14:36:48] MX outer4 | trial 7/20 F1_inner=0.6688 | mejor=0.6688
+[2026-10-02 14:36:48] MX outer4 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:37:06] MX outer4 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 1: F1=0.6874
+[2026-10-02 14:37:06] MX outer4 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:37:24] MX outer4 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 2: F1=0.6547
+[2026-10-02 14:37:24] MX outer4 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:37:42] MX outer4 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 3: F1=0.6345
+[2026-10-02 14:37:42] MX outer4 | trial 8/20 F1_inner=0.6589 | mejor=0.6688
+[2026-10-02 14:37:42] MX outer4 | cfg=P_l1_b16_e4_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:38:01] MX outer4 cfg=P_l1_b16_e4_w1_b_d1_s1_r9 Inner 1: F1=0.6336
+[2026-10-02 14:38:01] MX outer4 | cfg=P_l1_b16_e4_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:38:19] MX outer4 cfg=P_l1_b16_e4_w1_b_d1_s1_r9 Inner 2: F1=0.6462
+[2026-10-02 14:38:19] MX outer4 | cfg=P_l1_b16_e4_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:38:37] MX outer4 cfg=P_l1_b16_e4_w1_b_d1_s1_r9 Inner 3: F1=0.6210
+[2026-10-02 14:38:37] MX outer4 | trial 9/20 F1_inner=0.6336 | mejor=0.6688
+[2026-10-02 14:38:37] MX outer4 | cfg=P_l1_b16_e4_w1_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 14:38:55] MX outer4 cfg=P_l1_b16_e4_w1_s_d3_s1_r9 Inner 1: F1=0.5979
+[2026-10-02 14:38:55] MX outer4 | cfg=P_l1_b16_e4_w1_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 14:39:13] MX outer4 cfg=P_l1_b16_e4_w1_s_d3_s1_r9 Inner 2: F1=0.5944
+[2026-10-02 14:39:13] MX outer4 | cfg=P_l1_b16_e4_w1_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 14:39:31] MX outer4 cfg=P_l1_b16_e4_w1_s_d3_s1_r9 Inner 3: F1=0.6059
+[2026-10-02 14:39:31] MX outer4 | trial 10/20 F1_inner=0.5994 | mejor=0.6688
+[2026-10-02 14:39:32] MX outer4 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 14:39:49] MX outer4 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 1: F1=0.6876
+[2026-10-02 14:39:49] MX outer4 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 14:40:07] MX outer4 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 2: F1=0.6497
+[2026-10-02 14:40:07] MX outer4 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 14:40:25] MX outer4 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 3: F1=0.6365
+[2026-10-02 14:40:25] MX outer4 | trial 11/20 F1_inner=0.6579 | mejor=0.6688
+[2026-10-02 14:40:26] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=1: F1=0.6819
+[2026-10-02 14:40:26] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=2: F1=0.6764
+[2026-10-02 14:40:26] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=3: F1=0.6481
+[2026-10-02 14:40:26] MX outer4 | trial 12/20 F1_inner=0.6688 | mejor=0.6688
+[2026-10-02 14:40:26] MX outer4 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:40:43] MX outer4 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 1: F1=0.6731
+[2026-10-02 14:40:44] MX outer4 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:41:11] MX outer4 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 2: F1=0.6658
+[2026-10-02 14:41:11] MX outer4 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:41:37] MX outer4 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 3: F1=0.6487
+[2026-10-02 14:41:37] MX outer4 | trial 13/20 F1_inner=0.6625 | mejor=0.6688
+[2026-10-02 14:41:37] MX outer4 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:41:59] MX outer4 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.6738
+[2026-10-02 14:41:59] MX outer4 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:42:25] MX outer4 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.6442
+[2026-10-02 14:42:25] MX outer4 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:42:52] MX outer4 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.6280
+[2026-10-02 14:42:53] MX outer4 | trial 14/20 F1_inner=0.6487 | mejor=0.6688
+[2026-10-02 14:42:53] MX outer4 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:43:15] MX outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 1: F1=0.6812
+[2026-10-02 14:43:15] MX outer4 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:43:42] MX outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 2: F1=0.6750
+[2026-10-02 14:43:42] MX outer4 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:44:05] MX outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 3: F1=0.6504
+[2026-10-02 14:44:05] MX outer4 | trial 15/20 F1_inner=0.6688 | mejor=0.6688
+[2026-10-02 14:44:05] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=1: F1=0.6812
+[2026-10-02 14:44:05] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=2: F1=0.6750
+[2026-10-02 14:44:05] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=3: F1=0.6504
+[2026-10-02 14:44:05] MX outer4 | trial 16/20 F1_inner=0.6688 | mejor=0.6688
+[2026-10-02 14:44:05] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=1: F1=0.6812
+[2026-10-02 14:44:05] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=2: F1=0.6750
+[2026-10-02 14:44:05] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=3: F1=0.6504
+[2026-10-02 14:44:06] MX outer4 | trial 17/20 F1_inner=0.6688 | mejor=0.6688
+[2026-10-02 14:44:06] MX outer4 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:44:29] MX outer4 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 1: F1=0.6792
+[2026-10-02 14:44:29] MX outer4 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:44:55] MX outer4 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 2: F1=0.6750
+[2026-10-02 14:44:55] MX outer4 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:45:18] MX outer4 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 3: F1=0.6476
+[2026-10-02 14:45:18] MX outer4 | trial 18/20 F1_inner=0.6673 | mejor=0.6688
+[2026-10-02 14:45:18] MX outer4 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:45:36] MX outer4 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 1: F1=0.6846
+[2026-10-02 14:45:36] MX outer4 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:45:54] MX outer4 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 2: F1=0.6569
+[2026-10-02 14:45:54] MX outer4 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:46:12] MX outer4 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 3: F1=0.6312
+[2026-10-02 14:46:12] MX outer4 | trial 19/20 F1_inner=0.6576 | mejor=0.6688
+[2026-10-02 14:46:13] MX outer4 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 14:46:31] MX outer4 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 1: F1=0.6869
+[2026-10-02 14:46:31] MX outer4 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 14:46:53] MX outer4 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 2: F1=0.6705
+[2026-10-02 14:46:53] MX outer4 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 14:47:19] MX outer4 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 3: F1=0.6465
+[2026-10-02 14:47:19] MX outer4 | trial 20/20 F1_inner=0.6680 | mejor=0.6688
+[2026-10-02 14:47:19] MX Outer 4: refit PYSENTIMIENTO, 3 épocas
+[2026-10-02 14:47:42] MX Outer 4 refit: F1_train=0.9021, F1_outer=0.6678
+[2026-10-02 14:47:43] [MX][BETO][Outer 4/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.6688±0.0163 | F1_train=0.9021 | F1_outer=0.6678 | gap=0.2343
+[2026-10-02 14:47:43] MX | Outer 5/5
+[2026-10-02 14:47:43] MX outer5 | cfg=P_l2_b16_e4_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:48:01] MX outer5 cfg=P_l2_b16_e4_w10_s_d1_s1_r9 Inner 1: F1=0.6594
+[2026-10-02 14:48:01] MX outer5 | cfg=P_l2_b16_e4_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:48:19] MX outer5 cfg=P_l2_b16_e4_w10_s_d1_s1_r9 Inner 2: F1=0.6357
+[2026-10-02 14:48:19] MX outer5 | cfg=P_l2_b16_e4_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:48:38] MX outer5 cfg=P_l2_b16_e4_w10_s_d1_s1_r9 Inner 3: F1=0.6576
+[2026-10-02 14:48:38] MX outer5 | trial 1/20 F1_inner=0.6509 | mejor=0.6509
+[2026-10-02 14:48:38] MX outer5 | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:48:56] MX outer5 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 Inner 1: F1=0.6560
+[2026-10-02 14:48:56] MX outer5 | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:49:15] MX outer5 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 Inner 2: F1=0.6347
+[2026-10-02 14:49:15] MX outer5 | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:49:41] MX outer5 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 Inner 3: F1=0.6605
+[2026-10-02 14:49:41] MX outer5 | trial 2/20 F1_inner=0.6504 | mejor=0.6509
+[2026-10-02 14:49:41] MX outer5 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:50:00] MX outer5 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 1: F1=0.5970
+[2026-10-02 14:50:00] MX outer5 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:50:18] MX outer5 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 2: F1=0.6072
+[2026-10-02 14:50:18] MX outer5 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:50:36] MX outer5 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 3: F1=0.6052
+[2026-10-02 14:50:36] MX outer5 | trial 3/20 F1_inner=0.6031 | mejor=0.6509
+[2026-10-02 14:50:36] MX outer5 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 14:50:55] MX outer5 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 1: F1=0.6335
+[2026-10-02 14:50:55] MX outer5 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 14:51:13] MX outer5 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 2: F1=0.6307
+[2026-10-02 14:51:13] MX outer5 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 14:51:31] MX outer5 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 3: F1=0.6285
+[2026-10-02 14:51:32] MX outer5 | trial 4/20 F1_inner=0.6309 | mejor=0.6509
+[2026-10-02 14:51:32] MX outer5 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:51:50] MX outer5 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 1: F1=0.6546
+[2026-10-02 14:51:50] MX outer5 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:52:09] MX outer5 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 2: F1=0.6370
+[2026-10-02 14:52:09] MX outer5 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:52:26] MX outer5 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 3: F1=0.6519
+[2026-10-02 14:52:27] MX outer5 | trial 5/20 F1_inner=0.6478 | mejor=0.6509
+[2026-10-02 14:52:27] REUTILIZADO MX outer5 cfg=P_l2_b16_e4_w10_s_d1_s1_r9 inner=1: F1=0.6594
+[2026-10-02 14:52:27] REUTILIZADO MX outer5 cfg=P_l2_b16_e4_w10_s_d1_s1_r9 inner=2: F1=0.6357
+[2026-10-02 14:52:27] REUTILIZADO MX outer5 cfg=P_l2_b16_e4_w10_s_d1_s1_r9 inner=3: F1=0.6576
+[2026-10-02 14:52:27] MX outer5 | trial 6/20 F1_inner=0.6509 | mejor=0.6509
+[2026-10-02 14:52:27] MX outer5 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:52:45] MX outer5 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 1: F1=0.6578
+[2026-10-02 14:52:45] MX outer5 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:53:03] MX outer5 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 2: F1=0.6389
+[2026-10-02 14:53:03] MX outer5 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:53:21] MX outer5 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 3: F1=0.6482
+[2026-10-02 14:53:21] MX outer5 | trial 7/20 F1_inner=0.6483 | mejor=0.6509
+[2026-10-02 14:53:21] MX outer5 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:53:48] MX outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 1: F1=0.6542
+[2026-10-02 14:53:48] MX outer5 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:54:11] MX outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 2: F1=0.6361
+[2026-10-02 14:54:11] MX outer5 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:54:33] MX outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 3: F1=0.6559
+[2026-10-02 14:54:33] MX outer5 | trial 8/20 F1_inner=0.6487 | mejor=0.6509
+[2026-10-02 14:54:33] MX outer5 | cfg=P_l1_b16_e6_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:55:00] MX outer5 cfg=P_l1_b16_e6_w1_s_d1_s1_r9 Inner 1: F1=0.6480
+[2026-10-02 14:55:00] MX outer5 | cfg=P_l1_b16_e6_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:55:26] MX outer5 cfg=P_l1_b16_e6_w1_s_d1_s1_r9 Inner 2: F1=0.6182
+[2026-10-02 14:55:26] MX outer5 | cfg=P_l1_b16_e6_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:55:53] MX outer5 cfg=P_l1_b16_e6_w1_s_d1_s1_r9 Inner 3: F1=0.6527
+[2026-10-02 14:55:53] MX outer5 | trial 9/20 F1_inner=0.6396 | mejor=0.6509
+[2026-10-02 14:55:53] MX outer5 | cfg=P_l2_b16_e4_w1_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 14:56:11] MX outer5 cfg=P_l2_b16_e4_w1_s_d3_s1_r9 Inner 1: F1=0.6537
+[2026-10-02 14:56:11] MX outer5 | cfg=P_l2_b16_e4_w1_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 14:56:29] MX outer5 cfg=P_l2_b16_e4_w1_s_d3_s1_r9 Inner 2: F1=0.6299
+[2026-10-02 14:56:29] MX outer5 | cfg=P_l2_b16_e4_w1_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 14:56:47] MX outer5 cfg=P_l2_b16_e4_w1_s_d3_s1_r9 Inner 3: F1=0.6360
+[2026-10-02 14:56:47] MX outer5 | trial 10/20 F1_inner=0.6399 | mejor=0.6509
+[2026-10-02 14:56:47] MX outer5 | cfg=P_l1_b16_e4_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 14:57:05] MX outer5 cfg=P_l1_b16_e4_w1_b_d2_s1_r9 Inner 1: F1=0.6308
+[2026-10-02 14:57:05] MX outer5 | cfg=P_l1_b16_e4_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 14:57:23] MX outer5 cfg=P_l1_b16_e4_w1_b_d2_s1_r9 Inner 2: F1=0.6266
+[2026-10-02 14:57:23] MX outer5 | cfg=P_l1_b16_e4_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 14:57:41] MX outer5 cfg=P_l1_b16_e4_w1_b_d2_s1_r9 Inner 3: F1=0.6303
+[2026-10-02 14:57:42] MX outer5 | trial 11/20 F1_inner=0.6292 | mejor=0.6509
+[2026-10-02 14:57:42] MX outer5 | cfg=P_l2_b16_e4_w10_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 14:58:04] MX outer5 cfg=P_l2_b16_e4_w10_s_d3_s1_r9 Inner 1: F1=0.6580
+[2026-10-02 14:58:04] MX outer5 | cfg=P_l2_b16_e4_w10_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 14:58:22] MX outer5 cfg=P_l2_b16_e4_w10_s_d3_s1_r9 Inner 2: F1=0.6299
+[2026-10-02 14:58:22] MX outer5 | cfg=P_l2_b16_e4_w10_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 14:58:40] MX outer5 cfg=P_l2_b16_e4_w10_s_d3_s1_r9 Inner 3: F1=0.6365
+[2026-10-02 14:58:40] MX outer5 | trial 12/20 F1_inner=0.6415 | mejor=0.6509
+[2026-10-02 14:58:40] REUTILIZADO MX outer5 cfg=P_l2_b16_e4_w10_s_d1_s1_r9 inner=1: F1=0.6594
+[2026-10-02 14:58:40] REUTILIZADO MX outer5 cfg=P_l2_b16_e4_w10_s_d1_s1_r9 inner=2: F1=0.6357
+[2026-10-02 14:58:40] REUTILIZADO MX outer5 cfg=P_l2_b16_e4_w10_s_d1_s1_r9 inner=3: F1=0.6576
+[2026-10-02 14:58:40] MX outer5 | trial 13/20 F1_inner=0.6509 | mejor=0.6509
+[2026-10-02 14:58:41] MX outer5 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:58:59] MX outer5 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 1: F1=0.6601
+[2026-10-02 14:58:59] MX outer5 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 14:59:18] MX outer5 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 2: F1=0.6389
+[2026-10-02 14:59:18] MX outer5 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 14:59:36] MX outer5 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 3: F1=0.6516
+[2026-10-02 14:59:36] MX outer5 | trial 14/20 F1_inner=0.6502 | mejor=0.6509
+[2026-10-02 14:59:36] MX outer5 | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 14:59:59] MX outer5 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 1: F1=0.6582
+[2026-10-02 14:59:59] MX outer5 | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 15:00:18] MX outer5 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 2: F1=0.6425
+[2026-10-02 15:00:18] MX outer5 | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 15:00:36] MX outer5 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 3: F1=0.6530
+[2026-10-02 15:00:37] MX outer5 | trial 15/20 F1_inner=0.6512 | mejor=0.6512
+[2026-10-02 15:00:37] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 inner=1: F1=0.6582
+[2026-10-02 15:00:37] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 inner=2: F1=0.6425
+[2026-10-02 15:00:37] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 inner=3: F1=0.6530
+[2026-10-02 15:00:37] MX outer5 | trial 16/20 F1_inner=0.6512 | mejor=0.6512
+[2026-10-02 15:00:37] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 inner=1: F1=0.6582
+[2026-10-02 15:00:37] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 inner=2: F1=0.6425
+[2026-10-02 15:00:37] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 inner=3: F1=0.6530
+[2026-10-02 15:00:37] MX outer5 | trial 17/20 F1_inner=0.6512 | mejor=0.6512
+[2026-10-02 15:00:38] MX outer5 | cfg=P_l1_b16_e6_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 15:01:04] MX outer5 cfg=P_l1_b16_e6_w10_s_d1_s1_r9 Inner 1: F1=0.6507
+[2026-10-02 15:01:04] MX outer5 | cfg=P_l1_b16_e6_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 15:01:30] MX outer5 cfg=P_l1_b16_e6_w10_s_d1_s1_r9 Inner 2: F1=0.6182
+[2026-10-02 15:01:30] MX outer5 | cfg=P_l1_b16_e6_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 15:01:57] MX outer5 cfg=P_l1_b16_e6_w10_s_d1_s1_r9 Inner 3: F1=0.6541
+[2026-10-02 15:01:57] MX outer5 | trial 18/20 F1_inner=0.6410 | mejor=0.6512
+[2026-10-02 15:01:57] MX outer5 | cfg=P_l2_b16_e6_w10_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 15:02:23] MX outer5 cfg=P_l2_b16_e6_w10_s_d3_s1_r9 Inner 1: F1=0.6492
+[2026-10-02 15:02:23] MX outer5 | cfg=P_l2_b16_e6_w10_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 15:02:50] MX outer5 cfg=P_l2_b16_e6_w10_s_d3_s1_r9 Inner 2: F1=0.6430
+[2026-10-02 15:02:50] MX outer5 | cfg=P_l2_b16_e6_w10_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 15:03:17] MX outer5 cfg=P_l2_b16_e6_w10_s_d3_s1_r9 Inner 3: F1=0.6480
+[2026-10-02 15:03:17] MX outer5 | trial 19/20 F1_inner=0.6467 | mejor=0.6512
+[2026-10-02 15:03:17] MX outer5 | cfg=P_l1_b16_e6_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 15:03:43] MX outer5 cfg=P_l1_b16_e6_w1_b_d3_s1_r9 Inner 1: F1=0.6422
+[2026-10-02 15:03:43] MX outer5 | cfg=P_l1_b16_e6_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 15:04:10] MX outer5 cfg=P_l1_b16_e6_w1_b_d3_s1_r9 Inner 2: F1=0.6419
+[2026-10-02 15:04:10] MX outer5 | cfg=P_l1_b16_e6_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 15:04:37] MX outer5 cfg=P_l1_b16_e6_w1_b_d3_s1_r9 Inner 3: F1=0.6431
+[2026-10-02 15:04:38] MX outer5 | trial 20/20 F1_inner=0.6424 | mejor=0.6512
+[2026-10-02 15:04:38] MX Outer 5: refit PYSENTIMIENTO, 2 épocas
+[2026-10-02 15:04:55] MX Outer 5 refit: F1_train=0.8527, F1_outer=0.6547
+[2026-10-02 15:04:55] [MX][BETO][Outer 5/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.6512±0.0080 | F1_train=0.8527 | F1_outer=0.6547 | gap=0.1980
+[2026-10-02 15:04:56] ES | Outer 1/5
+[2026-10-02 15:04:56] ES outer1 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:05:23] ES outer1 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 1: F1=0.7325
+[2026-10-02 15:05:23] ES outer1 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:05:41] ES outer1 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 2: F1=0.7383
+[2026-10-02 15:05:41] ES outer1 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:06:00] ES outer1 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 3: F1=0.7290
+[2026-10-02 15:06:00] ES outer1 | trial 1/20 F1_inner=0.7333 | mejor=0.7333
+[2026-10-02 15:06:00] ES outer1 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 15:06:27] ES outer1 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 1: F1=0.6974
+[2026-10-02 15:06:27] ES outer1 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 15:06:56] ES outer1 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 2: F1=0.7234
+[2026-10-02 15:06:56] ES outer1 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 15:07:22] ES outer1 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 3: F1=0.7107
+[2026-10-02 15:07:22] ES outer1 | trial 2/20 F1_inner=0.7105 | mejor=0.7333
+[2026-10-02 15:07:23] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 inner=1: F1=0.7325
+[2026-10-02 15:07:23] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 inner=2: F1=0.7383
+[2026-10-02 15:07:23] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 inner=3: F1=0.7290
+[2026-10-02 15:07:23] ES outer1 | trial 3/20 F1_inner=0.7333 | mejor=0.7333
+[2026-10-02 15:07:23] ES outer1 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:07:49] ES outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.7325
+[2026-10-02 15:07:49] ES outer1 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:08:16] ES outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.7371
+[2026-10-02 15:08:16] ES outer1 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:08:42] ES outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.7417
+[2026-10-02 15:08:43] ES outer1 | trial 4/20 F1_inner=0.7371 | mejor=0.7371
+[2026-10-02 15:08:43] ES outer1 | cfg=P_l1_b16_e4_w10_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 15:09:02] ES outer1 cfg=P_l1_b16_e4_w10_s_d3_s1_r9 Inner 1: F1=0.6784
+[2026-10-02 15:09:02] ES outer1 | cfg=P_l1_b16_e4_w10_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 15:09:19] ES outer1 cfg=P_l1_b16_e4_w10_s_d3_s1_r9 Inner 2: F1=0.6840
+[2026-10-02 15:09:19] ES outer1 | cfg=P_l1_b16_e4_w10_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 15:09:37] ES outer1 cfg=P_l1_b16_e4_w10_s_d3_s1_r9 Inner 3: F1=0.6763
+[2026-10-02 15:09:37] ES outer1 | trial 5/20 F1_inner=0.6796 | mejor=0.7371
+[2026-10-02 15:09:38] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=1: F1=0.7325
+[2026-10-02 15:09:38] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=2: F1=0.7371
+[2026-10-02 15:09:38] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=3: F1=0.7417
+[2026-10-02 15:09:38] ES outer1 | trial 6/20 F1_inner=0.7371 | mejor=0.7371
+[2026-10-02 15:09:38] ES outer1 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 15:09:56] ES outer1 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 1: F1=0.7201
+[2026-10-02 15:09:56] ES outer1 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 15:10:14] ES outer1 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 2: F1=0.7283
+[2026-10-02 15:10:14] ES outer1 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 15:10:32] ES outer1 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 3: F1=0.7238
+[2026-10-02 15:10:32] ES outer1 | trial 7/20 F1_inner=0.7241 | mejor=0.7371
+[2026-10-02 15:10:32] ES outer1 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:10:59] ES outer1 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.7026
+[2026-10-02 15:10:59] ES outer1 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:11:26] ES outer1 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.7334
+[2026-10-02 15:11:26] ES outer1 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:11:53] ES outer1 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.7238
+[2026-10-02 15:11:53] ES outer1 | trial 8/20 F1_inner=0.7199 | mejor=0.7371
+[2026-10-02 15:11:53] ES outer1 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 15:12:11] ES outer1 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 1: F1=0.7215
+[2026-10-02 15:12:11] ES outer1 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 15:12:29] ES outer1 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 2: F1=0.7295
+[2026-10-02 15:12:29] ES outer1 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 15:12:47] ES outer1 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 3: F1=0.7339
+[2026-10-02 15:12:48] ES outer1 | trial 9/20 F1_inner=0.7283 | mejor=0.7371
+[2026-10-02 15:12:48] ES outer1 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 15:13:14] ES outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 1: F1=0.7312
+[2026-10-02 15:13:14] ES outer1 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 15:13:42] ES outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 2: F1=0.7316
+[2026-10-02 15:13:42] ES outer1 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 15:14:08] ES outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 3: F1=0.7391
+[2026-10-02 15:14:08] ES outer1 | trial 10/20 F1_inner=0.7340 | mejor=0.7371
+[2026-10-02 15:14:09] ES outer1 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 15:14:36] ES outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 1: F1=0.7259
+[2026-10-02 15:14:36] ES outer1 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 15:15:02] ES outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 2: F1=0.7351
+[2026-10-02 15:15:02] ES outer1 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 15:15:29] ES outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 3: F1=0.7417
+[2026-10-02 15:15:29] ES outer1 | trial 11/20 F1_inner=0.7342 | mejor=0.7371
+[2026-10-02 15:15:30] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=1: F1=0.7325
+[2026-10-02 15:15:30] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=2: F1=0.7371
+[2026-10-02 15:15:30] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=3: F1=0.7417
+[2026-10-02 15:15:30] ES outer1 | trial 12/20 F1_inner=0.7371 | mejor=0.7371
+[2026-10-02 15:15:30] ES outer1 | cfg=P_l1_b16_e4_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:15:48] ES outer1 cfg=P_l1_b16_e4_w10_b_d2_s1_r9 Inner 1: F1=0.6823
+[2026-10-02 15:15:48] ES outer1 | cfg=P_l1_b16_e4_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:16:07] ES outer1 cfg=P_l1_b16_e4_w10_b_d2_s1_r9 Inner 2: F1=0.6902
+[2026-10-02 15:16:07] ES outer1 | cfg=P_l1_b16_e4_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:16:25] ES outer1 cfg=P_l1_b16_e4_w10_b_d2_s1_r9 Inner 3: F1=0.6892
+[2026-10-02 15:16:26] ES outer1 | trial 13/20 F1_inner=0.6872 | mejor=0.7371
+[2026-10-02 15:16:26] ES outer1 | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:16:44] ES outer1 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 1: F1=0.7216
+[2026-10-02 15:16:44] ES outer1 | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:17:02] ES outer1 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 2: F1=0.7283
+[2026-10-02 15:17:02] ES outer1 | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:17:21] ES outer1 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 3: F1=0.7286
+[2026-10-02 15:17:21] ES outer1 | trial 14/20 F1_inner=0.7262 | mejor=0.7371
+[2026-10-02 15:17:21] ES outer1 | cfg=P_l1_b16_e6_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 15:17:48] ES outer1 cfg=P_l1_b16_e6_w1_s_d1_s1_r9 Inner 1: F1=0.7035
+[2026-10-02 15:17:48] ES outer1 | cfg=P_l1_b16_e6_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 15:18:14] ES outer1 cfg=P_l1_b16_e6_w1_s_d1_s1_r9 Inner 2: F1=0.7372
+[2026-10-02 15:18:14] ES outer1 | cfg=P_l1_b16_e6_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 15:18:41] ES outer1 cfg=P_l1_b16_e6_w1_s_d1_s1_r9 Inner 3: F1=0.7130
+[2026-10-02 15:18:41] ES outer1 | trial 15/20 F1_inner=0.7179 | mejor=0.7371
+[2026-10-02 15:18:42] ES outer1 | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:19:08] ES outer1 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 Inner 1: F1=0.7314
+[2026-10-02 15:19:08] ES outer1 | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:19:26] ES outer1 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 Inner 2: F1=0.7369
+[2026-10-02 15:19:26] ES outer1 | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:19:44] ES outer1 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 Inner 3: F1=0.7305
+[2026-10-02 15:19:44] ES outer1 | trial 16/20 F1_inner=0.7329 | mejor=0.7371
+[2026-10-02 15:19:45] ES outer1 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 15:20:11] ES outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 1: F1=0.7277
+[2026-10-02 15:20:11] ES outer1 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 15:20:39] ES outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 2: F1=0.7342
+[2026-10-02 15:20:39] ES outer1 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 15:21:05] ES outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 3: F1=0.7417
+[2026-10-02 15:21:06] ES outer1 | trial 17/20 F1_inner=0.7346 | mejor=0.7371
+[2026-10-02 15:21:06] ES outer1 | cfg=P_l1_b16_e4_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:21:24] ES outer1 cfg=P_l1_b16_e4_w1_s_d2_s1_r9 Inner 1: F1=0.6829
+[2026-10-02 15:21:24] ES outer1 | cfg=P_l1_b16_e4_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:21:42] ES outer1 cfg=P_l1_b16_e4_w1_s_d2_s1_r9 Inner 2: F1=0.7034
+[2026-10-02 15:21:42] ES outer1 | cfg=P_l1_b16_e4_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:22:00] ES outer1 cfg=P_l1_b16_e4_w1_s_d2_s1_r9 Inner 3: F1=0.6814
+[2026-10-02 15:22:01] ES outer1 | trial 18/20 F1_inner=0.6892 | mejor=0.7371
+[2026-10-02 15:22:01] ES outer1 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:22:27] ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 1: F1=0.7359
+[2026-10-02 15:22:27] ES outer1 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:22:54] ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 2: F1=0.7371
+[2026-10-02 15:22:54] ES outer1 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:23:21] ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 3: F1=0.7417
+[2026-10-02 15:23:22] ES outer1 | trial 19/20 F1_inner=0.7382 | mejor=0.7382
+[2026-10-02 15:23:22] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=1: F1=0.7359
+[2026-10-02 15:23:22] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=2: F1=0.7371
+[2026-10-02 15:23:22] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=3: F1=0.7417
+[2026-10-02 15:23:22] ES outer1 | trial 20/20 F1_inner=0.7382 | mejor=0.7382
+[2026-10-02 15:23:22] ES Outer 1: refit PYSENTIMIENTO, 4 épocas
+[2026-10-02 15:23:53] ES Outer 1 refit: F1_train=0.9588, F1_outer=0.7607
+[2026-10-02 15:23:54] [ES][BETO][Outer 1/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.7382±0.0031 | F1_train=0.9588 | F1_outer=0.7607 | gap=0.1981
+[2026-10-02 15:23:54] ES | Outer 2/5
+[2026-10-02 15:23:54] ES outer2 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 15:24:13] ES outer2 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 1: F1=0.6878
+[2026-10-02 15:24:13] ES outer2 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 15:24:31] ES outer2 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 2: F1=0.7145
+[2026-10-02 15:24:31] ES outer2 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 15:24:49] ES outer2 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 3: F1=0.6561
+[2026-10-02 15:24:49] ES outer2 | trial 1/20 F1_inner=0.6861 | mejor=0.6861
+[2026-10-02 15:24:49] ES outer2 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:25:16] ES outer2 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 1: F1=0.7292
+[2026-10-02 15:25:16] ES outer2 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:25:42] ES outer2 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 2: F1=0.7287
+[2026-10-02 15:25:42] ES outer2 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:26:09] ES outer2 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 3: F1=0.6830
+[2026-10-02 15:26:09] ES outer2 | trial 2/20 F1_inner=0.7136 | mejor=0.7136
+[2026-10-02 15:26:09] ES outer2 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 15:26:36] ES outer2 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 1: F1=0.7436
+[2026-10-02 15:26:36] ES outer2 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 15:27:02] ES outer2 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 2: F1=0.7631
+[2026-10-02 15:27:02] ES outer2 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 15:27:28] ES outer2 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 3: F1=0.6955
+[2026-10-02 15:27:29] ES outer2 | trial 3/20 F1_inner=0.7341 | mejor=0.7341
+[2026-10-02 15:27:29] ES outer2 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:27:47] ES outer2 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 1: F1=0.7292
+[2026-10-02 15:27:47] ES outer2 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:28:06] ES outer2 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 2: F1=0.7544
+[2026-10-02 15:28:06] ES outer2 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:28:24] ES outer2 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 3: F1=0.6898
+[2026-10-02 15:28:24] ES outer2 | trial 4/20 F1_inner=0.7245 | mejor=0.7341
+[2026-10-02 15:28:24] ES outer2 | cfg=P_l1_b16_e6_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 15:28:51] ES outer2 cfg=P_l1_b16_e6_w1_b_d3_s1_r9 Inner 1: F1=0.7230
+[2026-10-02 15:28:51] ES outer2 | cfg=P_l1_b16_e6_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 15:29:14] ES outer2 cfg=P_l1_b16_e6_w1_b_d3_s1_r9 Inner 2: F1=0.7491
+[2026-10-02 15:29:14] ES outer2 | cfg=P_l1_b16_e6_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 15:29:41] ES outer2 cfg=P_l1_b16_e6_w1_b_d3_s1_r9 Inner 3: F1=0.6766
+[2026-10-02 15:29:41] ES outer2 | trial 5/20 F1_inner=0.7162 | mejor=0.7341
+[2026-10-02 15:29:42] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 inner=1: F1=0.7436
+[2026-10-02 15:29:42] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 inner=2: F1=0.7631
+[2026-10-02 15:29:42] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 inner=3: F1=0.6955
+[2026-10-02 15:29:42] ES outer2 | trial 6/20 F1_inner=0.7341 | mejor=0.7341
+[2026-10-02 15:29:42] ES outer2 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 15:30:08] ES outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 1: F1=0.7521
+[2026-10-02 15:30:08] ES outer2 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 15:30:30] ES outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 2: F1=0.7570
+[2026-10-02 15:30:30] ES outer2 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 15:30:57] ES outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 3: F1=0.7019
+[2026-10-02 15:30:57] ES outer2 | trial 7/20 F1_inner=0.7370 | mejor=0.7370
+[2026-10-02 15:30:57] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=1: F1=0.7521
+[2026-10-02 15:30:57] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=2: F1=0.7570
+[2026-10-02 15:30:57] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=3: F1=0.7019
+[2026-10-02 15:30:57] ES outer2 | trial 8/20 F1_inner=0.7370 | mejor=0.7370
+[2026-10-02 15:30:57] ES outer2 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 15:31:16] ES outer2 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 1: F1=0.7292
+[2026-10-02 15:31:16] ES outer2 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 15:31:34] ES outer2 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 2: F1=0.7548
+[2026-10-02 15:31:34] ES outer2 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 15:31:53] ES outer2 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 3: F1=0.6972
+[2026-10-02 15:31:53] ES outer2 | trial 9/20 F1_inner=0.7271 | mejor=0.7370
+[2026-10-02 15:31:53] ES outer2 | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 15:32:07] ES outer2 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 1: F1=0.7380
+[2026-10-02 15:32:07] ES outer2 | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 15:32:25] ES outer2 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 2: F1=0.7517
+[2026-10-02 15:32:25] ES outer2 | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 15:32:51] ES outer2 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 3: F1=0.6954
+[2026-10-02 15:32:52] ES outer2 | trial 10/20 F1_inner=0.7284 | mejor=0.7370
+[2026-10-02 15:32:52] ES outer2 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:33:19] ES outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.7459
+[2026-10-02 15:33:19] ES outer2 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:33:42] ES outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.7615
+[2026-10-02 15:33:42] ES outer2 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:34:05] ES outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.7077
+[2026-10-02 15:34:06] ES outer2 | trial 11/20 F1_inner=0.7383 | mejor=0.7383
+[2026-10-02 15:34:06] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=1: F1=0.7459
+[2026-10-02 15:34:06] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=2: F1=0.7615
+[2026-10-02 15:34:06] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=3: F1=0.7077
+[2026-10-02 15:34:06] ES outer2 | trial 12/20 F1_inner=0.7383 | mejor=0.7383
+[2026-10-02 15:34:06] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=1: F1=0.7459
+[2026-10-02 15:34:06] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=2: F1=0.7615
+[2026-10-02 15:34:06] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=3: F1=0.7077
+[2026-10-02 15:34:06] ES outer2 | trial 13/20 F1_inner=0.7383 | mejor=0.7383
+[2026-10-02 15:34:07] ES outer2 | cfg=P_l1_b16_e6_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:34:33] ES outer2 cfg=P_l1_b16_e6_w10_b_d2_s1_r9 Inner 1: F1=0.7221
+[2026-10-02 15:34:33] ES outer2 | cfg=P_l1_b16_e6_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:34:59] ES outer2 cfg=P_l1_b16_e6_w10_b_d2_s1_r9 Inner 2: F1=0.7512
+[2026-10-02 15:34:59] ES outer2 | cfg=P_l1_b16_e6_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:35:26] ES outer2 cfg=P_l1_b16_e6_w10_b_d2_s1_r9 Inner 3: F1=0.6866
+[2026-10-02 15:35:26] ES outer2 | trial 14/20 F1_inner=0.7200 | mejor=0.7383
+[2026-10-02 15:35:26] ES outer2 | cfg=P_l1_b16_e4_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:35:44] ES outer2 cfg=P_l1_b16_e4_w1_b_d2_s1_r9 Inner 1: F1=0.6910
+[2026-10-02 15:35:44] ES outer2 | cfg=P_l1_b16_e4_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:36:02] ES outer2 cfg=P_l1_b16_e4_w1_b_d2_s1_r9 Inner 2: F1=0.7202
+[2026-10-02 15:36:02] ES outer2 | cfg=P_l1_b16_e4_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:36:20] ES outer2 cfg=P_l1_b16_e4_w1_b_d2_s1_r9 Inner 3: F1=0.6627
+[2026-10-02 15:36:21] ES outer2 | trial 15/20 F1_inner=0.6913 | mejor=0.7383
+[2026-10-02 15:36:21] ES outer2 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 15:36:48] ES outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 1: F1=0.7428
+[2026-10-02 15:36:48] ES outer2 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 15:37:10] ES outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 2: F1=0.7591
+[2026-10-02 15:37:10] ES outer2 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 15:37:36] ES outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 3: F1=0.6980
+[2026-10-02 15:37:36] ES outer2 | trial 16/20 F1_inner=0.7333 | mejor=0.7383
+[2026-10-02 15:37:37] ES outer2 | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:37:55] ES outer2 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 1: F1=0.7292
+[2026-10-02 15:37:55] ES outer2 | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:38:14] ES outer2 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 2: F1=0.7530
+[2026-10-02 15:38:14] ES outer2 | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:38:32] ES outer2 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 3: F1=0.6909
+[2026-10-02 15:38:32] ES outer2 | trial 17/20 F1_inner=0.7243 | mejor=0.7383
+[2026-10-02 15:38:32] ES outer2 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:38:59] ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 1: F1=0.7473
+[2026-10-02 15:38:59] ES outer2 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:39:22] ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 2: F1=0.7635
+[2026-10-02 15:39:22] ES outer2 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:39:44] ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 3: F1=0.7091
+[2026-10-02 15:39:45] ES outer2 | trial 18/20 F1_inner=0.7400 | mejor=0.7400
+[2026-10-02 15:39:45] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=1: F1=0.7473
+[2026-10-02 15:39:45] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=2: F1=0.7635
+[2026-10-02 15:39:45] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=3: F1=0.7091
+[2026-10-02 15:39:45] ES outer2 | trial 19/20 F1_inner=0.7400 | mejor=0.7400
+[2026-10-02 15:39:45] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=1: F1=0.7473
+[2026-10-02 15:39:45] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=2: F1=0.7635
+[2026-10-02 15:39:45] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=3: F1=0.7091
+[2026-10-02 15:39:45] ES outer2 | trial 20/20 F1_inner=0.7400 | mejor=0.7400
+[2026-10-02 15:39:45] ES Outer 2: refit PYSENTIMIENTO, 3 épocas
+[2026-10-02 15:40:09] ES Outer 2 refit: F1_train=0.9285, F1_outer=0.7225
+[2026-10-02 15:40:10] [ES][BETO][Outer 2/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.7400±0.0280 | F1_train=0.9285 | F1_outer=0.7225 | gap=0.2060
+[2026-10-02 15:40:10] ES | Outer 3/5
+[2026-10-02 15:40:10] ES outer3 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 15:40:28] ES outer3 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 1: F1=0.7073
+[2026-10-02 15:40:28] ES outer3 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 15:40:46] ES outer3 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 2: F1=0.6748
+[2026-10-02 15:40:46] ES outer3 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 15:41:05] ES outer3 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 3: F1=0.6804
+[2026-10-02 15:41:05] ES outer3 | trial 1/20 F1_inner=0.6875 | mejor=0.6875
+[2026-10-02 15:41:06] ES outer3 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:41:32] ES outer3 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 1: F1=0.7588
+[2026-10-02 15:41:32] ES outer3 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:41:59] ES outer3 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 2: F1=0.7316
+[2026-10-02 15:41:59] ES outer3 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:42:21] ES outer3 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 3: F1=0.7284
+[2026-10-02 15:42:21] ES outer3 | trial 2/20 F1_inner=0.7396 | mejor=0.7396
+[2026-10-02 15:42:21] ES outer3 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 15:42:44] ES outer3 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 1: F1=0.7507
+[2026-10-02 15:42:44] ES outer3 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 15:43:10] ES outer3 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 2: F1=0.7403
+[2026-10-02 15:43:10] ES outer3 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 15:43:37] ES outer3 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 3: F1=0.7242
+[2026-10-02 15:43:37] ES outer3 | trial 3/20 F1_inner=0.7384 | mejor=0.7396
+[2026-10-02 15:43:37] ES outer3 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:44:04] ES outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.7537
+[2026-10-02 15:44:04] ES outer3 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:44:31] ES outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.7398
+[2026-10-02 15:44:31] ES outer3 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:44:58] ES outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.7322
+[2026-10-02 15:44:59] ES outer3 | trial 4/20 F1_inner=0.7419 | mejor=0.7419
+[2026-10-02 15:44:59] ES outer3 | cfg=P_l2_b16_e4_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 15:45:17] ES outer3 cfg=P_l2_b16_e4_w1_s_d1_s1_r9 Inner 1: F1=0.7549
+[2026-10-02 15:45:17] ES outer3 | cfg=P_l2_b16_e4_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 15:45:35] ES outer3 cfg=P_l2_b16_e4_w1_s_d1_s1_r9 Inner 2: F1=0.7213
+[2026-10-02 15:45:35] ES outer3 | cfg=P_l2_b16_e4_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 15:45:54] ES outer3 cfg=P_l2_b16_e4_w1_s_d1_s1_r9 Inner 3: F1=0.7249
+[2026-10-02 15:45:54] ES outer3 | trial 5/20 F1_inner=0.7337 | mejor=0.7419
+[2026-10-02 15:45:54] ES outer3 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 15:46:17] ES outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 1: F1=0.7488
+[2026-10-02 15:46:17] ES outer3 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 15:46:44] ES outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 2: F1=0.7384
+[2026-10-02 15:46:44] ES outer3 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 15:47:06] ES outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 3: F1=0.7354
+[2026-10-02 15:47:07] ES outer3 | trial 6/20 F1_inner=0.7409 | mejor=0.7419
+[2026-10-02 15:47:07] ES outer3 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:47:33] ES outer3 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.7357
+[2026-10-02 15:47:33] ES outer3 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:48:00] ES outer3 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.7107
+[2026-10-02 15:48:00] ES outer3 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:48:26] ES outer3 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.7119
+[2026-10-02 15:48:27] ES outer3 | trial 7/20 F1_inner=0.7194 | mejor=0.7419
+[2026-10-02 15:48:27] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=1: F1=0.7537
+[2026-10-02 15:48:27] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=2: F1=0.7398
+[2026-10-02 15:48:27] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=3: F1=0.7322
+[2026-10-02 15:48:27] ES outer3 | trial 8/20 F1_inner=0.7419 | mejor=0.7419
+[2026-10-02 15:48:27] ES outer3 | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:48:46] ES outer3 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 1: F1=0.7387
+[2026-10-02 15:48:46] ES outer3 | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:49:04] ES outer3 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 2: F1=0.7197
+[2026-10-02 15:49:04] ES outer3 | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:49:22] ES outer3 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 3: F1=0.7240
+[2026-10-02 15:49:22] ES outer3 | trial 9/20 F1_inner=0.7275 | mejor=0.7419
+[2026-10-02 15:49:22] ES outer3 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 15:49:48] ES outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 1: F1=0.7578
+[2026-10-02 15:49:48] ES outer3 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 15:50:15] ES outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 2: F1=0.7476
+[2026-10-02 15:50:15] ES outer3 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 15:50:37] ES outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 3: F1=0.7412
+[2026-10-02 15:50:37] ES outer3 | trial 10/20 F1_inner=0.7489 | mejor=0.7489
+[2026-10-02 15:50:37] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 inner=1: F1=0.7578
+[2026-10-02 15:50:37] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 inner=2: F1=0.7476
+[2026-10-02 15:50:37] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 inner=3: F1=0.7412
+[2026-10-02 15:50:38] ES outer3 | trial 11/20 F1_inner=0.7489 | mejor=0.7489
+[2026-10-02 15:50:38] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 inner=1: F1=0.7578
+[2026-10-02 15:50:38] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 inner=2: F1=0.7476
+[2026-10-02 15:50:38] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 inner=3: F1=0.7412
+[2026-10-02 15:50:38] ES outer3 | trial 12/20 F1_inner=0.7489 | mejor=0.7489
+[2026-10-02 15:50:38] ES outer3 | cfg=P_l1_b16_e6_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 15:51:05] ES outer3 cfg=P_l1_b16_e6_w10_b_d1_s1_r9 Inner 1: F1=0.7361
+[2026-10-02 15:51:05] ES outer3 | cfg=P_l1_b16_e6_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 15:51:33] ES outer3 cfg=P_l1_b16_e6_w10_b_d1_s1_r9 Inner 2: F1=0.7168
+[2026-10-02 15:51:33] ES outer3 | cfg=P_l1_b16_e6_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 15:51:59] ES outer3 cfg=P_l1_b16_e6_w10_b_d1_s1_r9 Inner 3: F1=0.7133
+[2026-10-02 15:52:00] ES outer3 | trial 13/20 F1_inner=0.7220 | mejor=0.7489
+[2026-10-02 15:52:00] ES outer3 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 15:52:18] ES outer3 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 1: F1=0.7392
+[2026-10-02 15:52:18] ES outer3 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 15:52:36] ES outer3 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 2: F1=0.7222
+[2026-10-02 15:52:36] ES outer3 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 15:52:54] ES outer3 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 3: F1=0.7240
+[2026-10-02 15:52:55] ES outer3 | trial 14/20 F1_inner=0.7285 | mejor=0.7489
+[2026-10-02 15:52:55] ES outer3 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 15:53:18] ES outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 1: F1=0.7488
+[2026-10-02 15:53:18] ES outer3 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 15:53:41] ES outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 2: F1=0.7291
+[2026-10-02 15:53:41] ES outer3 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 15:54:03] ES outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 3: F1=0.7354
+[2026-10-02 15:54:03] ES outer3 | trial 15/20 F1_inner=0.7378 | mejor=0.7489
+[2026-10-02 15:54:03] ES outer3 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 15:54:31] ES outer3 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 1: F1=0.7287
+[2026-10-02 15:54:31] ES outer3 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 15:54:56] ES outer3 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 2: F1=0.6920
+[2026-10-02 15:54:56] ES outer3 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 15:55:19] ES outer3 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 3: F1=0.6985
+[2026-10-02 15:55:19] ES outer3 | trial 16/20 F1_inner=0.7064 | mejor=0.7489
+[2026-10-02 15:55:19] ES outer3 | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 15:55:46] ES outer3 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 1: F1=0.7615
+[2026-10-02 15:55:46] ES outer3 | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 15:56:14] ES outer3 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 2: F1=0.7424
+[2026-10-02 15:56:14] ES outer3 | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 15:56:40] ES outer3 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 3: F1=0.7242
+[2026-10-02 15:56:41] ES outer3 | trial 17/20 F1_inner=0.7427 | mejor=0.7489
+[2026-10-02 15:56:41] ES outer3 | cfg=P_l2_b16_e4_w10_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 15:56:59] ES outer3 cfg=P_l2_b16_e4_w10_s_d3_s1_r9 Inner 1: F1=0.7483
+[2026-10-02 15:56:59] ES outer3 | cfg=P_l2_b16_e4_w10_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 15:57:16] ES outer3 cfg=P_l2_b16_e4_w10_s_d3_s1_r9 Inner 2: F1=0.7089
+[2026-10-02 15:57:16] ES outer3 | cfg=P_l2_b16_e4_w10_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 15:57:34] ES outer3 cfg=P_l2_b16_e4_w10_s_d3_s1_r9 Inner 3: F1=0.7228
+[2026-10-02 15:57:35] ES outer3 | trial 18/20 F1_inner=0.7266 | mejor=0.7489
+[2026-10-02 15:57:35] ES outer3 | cfg=P_l1_b16_e4_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 15:57:53] ES outer3 cfg=P_l1_b16_e4_w1_b_d1_s1_r9 Inner 1: F1=0.7113
+[2026-10-02 15:57:53] ES outer3 | cfg=P_l1_b16_e4_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 15:58:11] ES outer3 cfg=P_l1_b16_e4_w1_b_d1_s1_r9 Inner 2: F1=0.6884
+[2026-10-02 15:58:11] ES outer3 | cfg=P_l1_b16_e4_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 15:58:29] ES outer3 cfg=P_l1_b16_e4_w1_b_d1_s1_r9 Inner 3: F1=0.6799
+[2026-10-02 15:58:30] ES outer3 | trial 19/20 F1_inner=0.6932 | mejor=0.7489
+[2026-10-02 15:58:30] ES outer3 | cfg=P_l1_b16_e4_w10_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 15:58:49] ES outer3 cfg=P_l1_b16_e4_w10_s_d2_s1_r9 Inner 1: F1=0.7113
+[2026-10-02 15:58:49] ES outer3 | cfg=P_l1_b16_e4_w10_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 15:59:07] ES outer3 cfg=P_l1_b16_e4_w10_s_d2_s1_r9 Inner 2: F1=0.6516
+[2026-10-02 15:59:07] ES outer3 | cfg=P_l1_b16_e4_w10_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 15:59:25] ES outer3 cfg=P_l1_b16_e4_w10_s_d2_s1_r9 Inner 3: F1=0.6929
+[2026-10-02 15:59:26] ES outer3 | trial 20/20 F1_inner=0.6853 | mejor=0.7489
+[2026-10-02 15:59:26] ES Outer 3: refit PYSENTIMIENTO, 4 épocas
+[2026-10-02 15:59:56] ES Outer 3 refit: F1_train=0.9714, F1_outer=0.6949
+[2026-10-02 15:59:56] [ES][BETO][Outer 3/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.7489±0.0084 | F1_train=0.9714 | F1_outer=0.6949 | gap=0.2765
+[2026-10-02 15:59:56] ES | Outer 4/5
+[2026-10-02 15:59:56] ES outer4 | cfg=P_l1_b16_e6_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:00:24] ES outer4 cfg=P_l1_b16_e6_w10_b_d1_s1_r9 Inner 1: F1=0.7028
+[2026-10-02 16:00:24] ES outer4 | cfg=P_l1_b16_e6_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:00:51] ES outer4 cfg=P_l1_b16_e6_w10_b_d1_s1_r9 Inner 2: F1=0.6881
+[2026-10-02 16:00:51] ES outer4 | cfg=P_l1_b16_e6_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:01:18] ES outer4 cfg=P_l1_b16_e6_w10_b_d1_s1_r9 Inner 3: F1=0.7016
+[2026-10-02 16:01:18] ES outer4 | trial 1/20 F1_inner=0.6975 | mejor=0.6975
+[2026-10-02 16:01:18] ES outer4 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:01:40] ES outer4 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 1: F1=0.7249
+[2026-10-02 16:01:40] ES outer4 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:02:07] ES outer4 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 2: F1=0.7082
+[2026-10-02 16:02:07] ES outer4 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:02:25] ES outer4 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 3: F1=0.7207
+[2026-10-02 16:02:25] ES outer4 | trial 2/20 F1_inner=0.7180 | mejor=0.7180
+[2026-10-02 16:02:25] ES outer4 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 16:02:52] ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.7249
+[2026-10-02 16:02:52] ES outer4 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 16:03:18] ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.7095
+[2026-10-02 16:03:18] ES outer4 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 16:03:41] ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.7240
+[2026-10-02 16:03:42] ES outer4 | trial 3/20 F1_inner=0.7194 | mejor=0.7194
+[2026-10-02 16:03:42] ES outer4 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:04:00] ES outer4 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 1: F1=0.7061
+[2026-10-02 16:04:00] ES outer4 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:04:18] ES outer4 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 2: F1=0.6701
+[2026-10-02 16:04:18] ES outer4 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:04:36] ES outer4 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 3: F1=0.7158
+[2026-10-02 16:04:37] ES outer4 | trial 4/20 F1_inner=0.6973 | mejor=0.7194
+[2026-10-02 16:04:37] ES outer4 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 16:05:03] ES outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 1: F1=0.7241
+[2026-10-02 16:05:03] ES outer4 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 16:05:21] ES outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 2: F1=0.7048
+[2026-10-02 16:05:21] ES outer4 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 16:05:43] ES outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 3: F1=0.7211
+[2026-10-02 16:05:43] ES outer4 | trial 5/20 F1_inner=0.7167 | mejor=0.7194
+[2026-10-02 16:05:43] ES outer4 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 16:06:10] ES outer4 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 1: F1=0.7267
+[2026-10-02 16:06:10] ES outer4 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 16:06:36] ES outer4 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 2: F1=0.6860
+[2026-10-02 16:06:36] ES outer4 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 16:07:03] ES outer4 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 3: F1=0.7208
+[2026-10-02 16:07:03] ES outer4 | trial 6/20 F1_inner=0.7111 | mejor=0.7194
+[2026-10-02 16:07:03] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=1: F1=0.7249
+[2026-10-02 16:07:03] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=2: F1=0.7095
+[2026-10-02 16:07:03] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=3: F1=0.7240
+[2026-10-02 16:07:04] ES outer4 | trial 7/20 F1_inner=0.7194 | mejor=0.7194
+[2026-10-02 16:07:04] ES outer4 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 16:07:22] ES outer4 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 1: F1=0.7110
+[2026-10-02 16:07:22] ES outer4 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 16:07:39] ES outer4 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 2: F1=0.6955
+[2026-10-02 16:07:39] ES outer4 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 16:07:58] ES outer4 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 3: F1=0.7121
+[2026-10-02 16:07:58] ES outer4 | trial 8/20 F1_inner=0.7062 | mejor=0.7194
+[2026-10-02 16:07:58] ES outer4 | cfg=P_l1_b16_e4_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:08:16] ES outer4 cfg=P_l1_b16_e4_w1_b_d1_s1_r9 Inner 1: F1=0.6752
+[2026-10-02 16:08:16] ES outer4 | cfg=P_l1_b16_e4_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:08:34] ES outer4 cfg=P_l1_b16_e4_w1_b_d1_s1_r9 Inner 2: F1=0.6837
+[2026-10-02 16:08:34] ES outer4 | cfg=P_l1_b16_e4_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:08:55] ES outer4 cfg=P_l1_b16_e4_w1_b_d1_s1_r9 Inner 3: F1=0.6953
+[2026-10-02 16:08:56] ES outer4 | trial 9/20 F1_inner=0.6847 | mejor=0.7194
+[2026-10-02 16:08:56] ES outer4 | cfg=P_l1_b16_e4_w1_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 16:09:15] ES outer4 cfg=P_l1_b16_e4_w1_s_d3_s1_r9 Inner 1: F1=0.6923
+[2026-10-02 16:09:15] ES outer4 | cfg=P_l1_b16_e4_w1_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 16:09:33] ES outer4 cfg=P_l1_b16_e4_w1_s_d3_s1_r9 Inner 2: F1=0.6616
+[2026-10-02 16:09:33] ES outer4 | cfg=P_l1_b16_e4_w1_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 16:09:51] ES outer4 cfg=P_l1_b16_e4_w1_s_d3_s1_r9 Inner 3: F1=0.7138
+[2026-10-02 16:09:51] ES outer4 | trial 10/20 F1_inner=0.6892 | mejor=0.7194
+[2026-10-02 16:09:51] ES outer4 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 16:10:09] ES outer4 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 1: F1=0.7133
+[2026-10-02 16:10:09] ES outer4 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 16:10:27] ES outer4 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 2: F1=0.6974
+[2026-10-02 16:10:27] ES outer4 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 16:10:44] ES outer4 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 3: F1=0.7124
+[2026-10-02 16:10:45] ES outer4 | trial 11/20 F1_inner=0.7077 | mejor=0.7194
+[2026-10-02 16:10:45] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=1: F1=0.7249
+[2026-10-02 16:10:45] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=2: F1=0.7095
+[2026-10-02 16:10:45] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=3: F1=0.7240
+[2026-10-02 16:10:45] ES outer4 | trial 12/20 F1_inner=0.7194 | mejor=0.7194
+[2026-10-02 16:10:45] ES outer4 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 16:11:07] ES outer4 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 1: F1=0.7213
+[2026-10-02 16:11:07] ES outer4 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 16:11:34] ES outer4 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 2: F1=0.6992
+[2026-10-02 16:11:34] ES outer4 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 16:11:52] ES outer4 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 3: F1=0.7205
+[2026-10-02 16:11:52] ES outer4 | trial 13/20 F1_inner=0.7137 | mejor=0.7194
+[2026-10-02 16:11:52] ES outer4 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 16:12:21] ES outer4 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.7082
+[2026-10-02 16:12:21] ES outer4 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 16:12:48] ES outer4 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.6887
+[2026-10-02 16:12:48] ES outer4 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 16:13:14] ES outer4 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.7050
+[2026-10-02 16:13:15] ES outer4 | trial 14/20 F1_inner=0.7007 | mejor=0.7194
+[2026-10-02 16:13:15] ES outer4 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:13:42] ES outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 1: F1=0.7242
+[2026-10-02 16:13:42] ES outer4 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:14:09] ES outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 2: F1=0.7142
+[2026-10-02 16:14:09] ES outer4 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:14:32] ES outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 3: F1=0.7240
+[2026-10-02 16:14:32] ES outer4 | trial 15/20 F1_inner=0.7208 | mejor=0.7208
+[2026-10-02 16:14:32] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=1: F1=0.7242
+[2026-10-02 16:14:32] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=2: F1=0.7142
+[2026-10-02 16:14:32] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=3: F1=0.7240
+[2026-10-02 16:14:32] ES outer4 | trial 16/20 F1_inner=0.7208 | mejor=0.7208
+[2026-10-02 16:14:32] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=1: F1=0.7242
+[2026-10-02 16:14:32] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=2: F1=0.7142
+[2026-10-02 16:14:32] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=3: F1=0.7240
+[2026-10-02 16:14:33] ES outer4 | trial 17/20 F1_inner=0.7208 | mejor=0.7208
+[2026-10-02 16:14:33] ES outer4 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:14:55] ES outer4 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 1: F1=0.7149
+[2026-10-02 16:14:55] ES outer4 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:15:22] ES outer4 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 2: F1=0.7142
+[2026-10-02 16:15:22] ES outer4 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:15:45] ES outer4 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 3: F1=0.7240
+[2026-10-02 16:15:45] ES outer4 | trial 18/20 F1_inner=0.7177 | mejor=0.7208
+[2026-10-02 16:15:45] ES outer4 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:16:03] ES outer4 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 1: F1=0.7125
+[2026-10-02 16:16:03] ES outer4 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:16:21] ES outer4 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 2: F1=0.7051
+[2026-10-02 16:16:21] ES outer4 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:16:39] ES outer4 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 3: F1=0.7089
+[2026-10-02 16:16:40] ES outer4 | trial 19/20 F1_inner=0.7088 | mejor=0.7208
+[2026-10-02 16:16:40] ES outer4 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 16:17:02] ES outer4 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 1: F1=0.7328
+[2026-10-02 16:17:02] ES outer4 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 16:17:29] ES outer4 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 2: F1=0.6972
+[2026-10-02 16:17:29] ES outer4 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 16:17:47] ES outer4 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 3: F1=0.7291
+[2026-10-02 16:17:47] ES outer4 | trial 20/20 F1_inner=0.7197 | mejor=0.7208
+[2026-10-02 16:17:47] ES Outer 4: refit PYSENTIMIENTO, 5 épocas
+[2026-10-02 16:18:17] ACTIVO: ES Outer 4: refit PYSENTIMIENTO, 5 épocas
+[2026-10-02 16:18:24] ES Outer 4 refit: F1_train=0.9820, F1_outer=0.7738
+[2026-10-02 16:18:25] [ES][BETO][Outer 4/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.7208±0.0057 | F1_train=0.9820 | F1_outer=0.7738 | gap=0.2082
+[2026-10-02 16:18:25] ES | Outer 5/5
+[2026-10-02 16:18:25] ES outer5 | cfg=P_l2_b16_e4_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:18:43] ES outer5 cfg=P_l2_b16_e4_w10_s_d1_s1_r9 Inner 1: F1=0.7299
+[2026-10-02 16:18:43] ES outer5 | cfg=P_l2_b16_e4_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:19:02] ES outer5 cfg=P_l2_b16_e4_w10_s_d1_s1_r9 Inner 2: F1=0.7414
+[2026-10-02 16:19:02] ES outer5 | cfg=P_l2_b16_e4_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:19:19] ES outer5 cfg=P_l2_b16_e4_w10_s_d1_s1_r9 Inner 3: F1=0.7222
+[2026-10-02 16:19:20] ES outer5 | trial 1/20 F1_inner=0.7312 | mejor=0.7312
+[2026-10-02 16:19:20] ES outer5 | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 16:19:45] ES outer5 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 Inner 1: F1=0.7141
+[2026-10-02 16:19:45] ES outer5 | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 16:20:10] ES outer5 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 Inner 2: F1=0.7528
+[2026-10-02 16:20:10] ES outer5 | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 16:20:31] ES outer5 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 Inner 3: F1=0.7396
+[2026-10-02 16:20:32] ES outer5 | trial 2/20 F1_inner=0.7355 | mejor=0.7355
+[2026-10-02 16:20:32] ES outer5 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:20:50] ES outer5 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 1: F1=0.7063
+[2026-10-02 16:20:50] ES outer5 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:21:06] ES outer5 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 2: F1=0.7299
+[2026-10-02 16:21:06] ES outer5 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:21:23] ES outer5 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 3: F1=0.6737
+[2026-10-02 16:21:24] ES outer5 | trial 3/20 F1_inner=0.7033 | mejor=0.7355
+[2026-10-02 16:21:24] ES outer5 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 16:21:42] ES outer5 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 1: F1=0.6916
+[2026-10-02 16:21:42] ES outer5 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 16:22:00] ES outer5 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 2: F1=0.7119
+[2026-10-02 16:22:00] ES outer5 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 16:22:17] ES outer5 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 3: F1=0.6942
+[2026-10-02 16:22:17] ES outer5 | trial 4/20 F1_inner=0.6993 | mejor=0.7355
+[2026-10-02 16:22:17] ES outer5 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 16:22:42] ES outer5 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 1: F1=0.7141
+[2026-10-02 16:22:42] ES outer5 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 16:23:07] ES outer5 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 2: F1=0.7517
+[2026-10-02 16:23:07] ES outer5 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 16:23:28] ES outer5 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 3: F1=0.7396
+[2026-10-02 16:23:28] ES outer5 | trial 5/20 F1_inner=0.7352 | mejor=0.7355
+[2026-10-02 16:23:28] ES outer5 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 16:23:45] ES outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.7229
+[2026-10-02 16:23:45] ES outer5 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 16:24:11] ES outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.7524
+[2026-10-02 16:24:11] ES outer5 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 16:24:36] ES outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.7365
+[2026-10-02 16:24:37] ES outer5 | trial 6/20 F1_inner=0.7373 | mejor=0.7373
+[2026-10-02 16:24:37] ES outer5 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 16:24:54] ES outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 1: F1=0.7297
+[2026-10-02 16:24:54] ES outer5 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 16:25:11] ES outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 2: F1=0.7477
+[2026-10-02 16:25:11] ES outer5 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 16:25:36] ES outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 3: F1=0.7249
+[2026-10-02 16:25:37] ES outer5 | trial 7/20 F1_inner=0.7341 | mejor=0.7373
+[2026-10-02 16:25:37] ES outer5 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 16:26:02] ES outer5 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.7142
+[2026-10-02 16:26:02] ES outer5 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 16:26:27] ES outer5 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.7453
+[2026-10-02 16:26:27] ES outer5 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 16:26:52] ES outer5 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.7146
+[2026-10-02 16:26:52] ES outer5 | trial 8/20 F1_inner=0.7247 | mejor=0.7373
+[2026-10-02 16:26:53] ES outer5 | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 16:27:10] ES outer5 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 1: F1=0.7319
+[2026-10-02 16:27:10] ES outer5 | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 16:27:27] ES outer5 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 2: F1=0.7540
+[2026-10-02 16:27:27] ES outer5 | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 16:27:44] ES outer5 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 3: F1=0.7293
+[2026-10-02 16:27:45] ES outer5 | trial 9/20 F1_inner=0.7384 | mejor=0.7384
+[2026-10-02 16:27:45] REUTILIZADO ES outer5 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 inner=1: F1=0.7319
+[2026-10-02 16:27:45] REUTILIZADO ES outer5 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 inner=2: F1=0.7540
+[2026-10-02 16:27:45] REUTILIZADO ES outer5 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 inner=3: F1=0.7293
+[2026-10-02 16:27:45] ES outer5 | trial 10/20 F1_inner=0.7384 | mejor=0.7384
+[2026-10-02 16:27:45] ES outer5 | cfg=P_l1_b16_e4_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 16:28:03] ES outer5 cfg=P_l1_b16_e4_w1_s_d2_s1_r9 Inner 1: F1=0.7070
+[2026-10-02 16:28:03] ES outer5 | cfg=P_l1_b16_e4_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 16:28:20] ES outer5 cfg=P_l1_b16_e4_w1_s_d2_s1_r9 Inner 2: F1=0.7292
+[2026-10-02 16:28:20] ES outer5 | cfg=P_l1_b16_e4_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 16:28:37] ES outer5 cfg=P_l1_b16_e4_w1_s_d2_s1_r9 Inner 3: F1=0.6649
+[2026-10-02 16:28:37] ES outer5 | trial 11/20 F1_inner=0.7004 | mejor=0.7384
+[2026-10-02 16:28:37] REUTILIZADO ES outer5 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 inner=1: F1=0.7319
+[2026-10-02 16:28:37] REUTILIZADO ES outer5 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 inner=2: F1=0.7540
+[2026-10-02 16:28:37] REUTILIZADO ES outer5 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 inner=3: F1=0.7293
+[2026-10-02 16:28:38] ES outer5 | trial 12/20 F1_inner=0.7384 | mejor=0.7384
+[2026-10-02 16:28:38] ES outer5 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:28:55] ES outer5 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 1: F1=0.7319
+[2026-10-02 16:28:55] ES outer5 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:29:12] ES outer5 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 2: F1=0.7538
+[2026-10-02 16:29:12] ES outer5 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:29:30] ES outer5 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 3: F1=0.7333
+[2026-10-02 16:29:30] ES outer5 | trial 13/20 F1_inner=0.7397 | mejor=0.7397
+[2026-10-02 16:29:30] REUTILIZADO ES outer5 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 inner=1: F1=0.7319
+[2026-10-02 16:29:30] REUTILIZADO ES outer5 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 inner=2: F1=0.7538
+[2026-10-02 16:29:30] REUTILIZADO ES outer5 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 inner=3: F1=0.7333
+[2026-10-02 16:29:31] ES outer5 | trial 14/20 F1_inner=0.7397 | mejor=0.7397
+[2026-10-02 16:29:31] REUTILIZADO ES outer5 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 inner=1: F1=0.7319
+[2026-10-02 16:29:31] REUTILIZADO ES outer5 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 inner=2: F1=0.7538
+[2026-10-02 16:29:31] REUTILIZADO ES outer5 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 inner=3: F1=0.7333
+[2026-10-02 16:29:31] ES outer5 | trial 15/20 F1_inner=0.7397 | mejor=0.7397
+[2026-10-02 16:29:31] ES outer5 | cfg=P_l1_b16_e4_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:29:49] ES outer5 cfg=P_l1_b16_e4_w1_b_d1_s1_r9 Inner 1: F1=0.6930
+[2026-10-02 16:29:49] ES outer5 | cfg=P_l1_b16_e4_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:30:06] ES outer5 cfg=P_l1_b16_e4_w1_b_d1_s1_r9 Inner 2: F1=0.7158
+[2026-10-02 16:30:06] ES outer5 | cfg=P_l1_b16_e4_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:30:24] ES outer5 cfg=P_l1_b16_e4_w1_b_d1_s1_r9 Inner 3: F1=0.6946
+[2026-10-02 16:30:24] ES outer5 | trial 16/20 F1_inner=0.7011 | mejor=0.7397
+[2026-10-02 16:30:24] ES outer5 | cfg=P_l2_b16_e4_w1_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 16:30:41] ES outer5 cfg=P_l2_b16_e4_w1_s_d3_s1_r9 Inner 1: F1=0.7241
+[2026-10-02 16:30:41] ES outer5 | cfg=P_l2_b16_e4_w1_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 16:30:58] ES outer5 cfg=P_l2_b16_e4_w1_s_d3_s1_r9 Inner 2: F1=0.7354
+[2026-10-02 16:30:58] ES outer5 | cfg=P_l2_b16_e4_w1_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 16:31:15] ES outer5 cfg=P_l2_b16_e4_w1_s_d3_s1_r9 Inner 3: F1=0.7049
+[2026-10-02 16:31:16] ES outer5 | trial 17/20 F1_inner=0.7215 | mejor=0.7397
+[2026-10-02 16:31:16] ES outer5 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:31:33] ES outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 1: F1=0.7305
+[2026-10-02 16:31:33] ES outer5 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:31:58] ES outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 2: F1=0.7555
+[2026-10-02 16:31:58] ES outer5 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:32:23] ES outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 3: F1=0.7313
+[2026-10-02 16:32:23] ES outer5 | trial 18/20 F1_inner=0.7391 | mejor=0.7397
+[2026-10-02 16:32:23] ES outer5 | cfg=P_l2_b16_e4_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:32:40] ES outer5 cfg=P_l2_b16_e4_w1_s_d1_s1_r9 Inner 1: F1=0.7314
+[2026-10-02 16:32:40] ES outer5 | cfg=P_l2_b16_e4_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:32:57] ES outer5 cfg=P_l2_b16_e4_w1_s_d1_s1_r9 Inner 2: F1=0.7414
+[2026-10-02 16:32:57] ES outer5 | cfg=P_l2_b16_e4_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:33:15] ES outer5 cfg=P_l2_b16_e4_w1_s_d1_s1_r9 Inner 3: F1=0.7193
+[2026-10-02 16:33:15] ES outer5 | trial 19/20 F1_inner=0.7307 | mejor=0.7397
+[2026-10-02 16:33:15] ES outer5 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:33:33] ES outer5 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 1: F1=0.7319
+[2026-10-02 16:33:33] ES outer5 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:33:50] ES outer5 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 2: F1=0.7523
+[2026-10-02 16:33:50] ES outer5 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:34:08] ES outer5 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 3: F1=0.7342
+[2026-10-02 16:34:08] ES outer5 | trial 20/20 F1_inner=0.7395 | mejor=0.7397
+[2026-10-02 16:34:08] ES Outer 5: refit PYSENTIMIENTO, 4 épocas
+[2026-10-02 16:34:37] ES Outer 5 refit: F1_train=0.9271, F1_outer=0.7421
+[2026-10-02 16:34:37] [ES][BETO][Outer 5/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.7397±0.0122 | F1_train=0.9271 | F1_outer=0.7421 | gap=0.1851
+[2026-10-02 16:34:38] CU | Outer 1/5
+[2026-10-02 16:34:38] CU outer1 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 16:35:03] CU outer1 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 1: F1=0.6940
+[2026-10-02 16:35:03] CU outer1 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 16:35:29] CU outer1 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 2: F1=0.6993
+[2026-10-02 16:35:29] CU outer1 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 16:35:42] CU outer1 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 3: F1=0.6569
+[2026-10-02 16:35:42] CU outer1 | trial 1/20 F1_inner=0.6834 | mejor=0.6834
+[2026-10-02 16:35:43] CU outer1 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 16:36:10] CU outer1 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 1: F1=0.6796
+[2026-10-02 16:36:10] CU outer1 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 16:36:35] CU outer1 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 2: F1=0.6614
+[2026-10-02 16:36:35] CU outer1 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 16:36:57] CU outer1 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 3: F1=0.6518
+[2026-10-02 16:36:57] CU outer1 | trial 2/20 F1_inner=0.6643 | mejor=0.6834
+[2026-10-02 16:36:57] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 inner=1: F1=0.6940
+[2026-10-02 16:36:57] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 inner=2: F1=0.6993
+[2026-10-02 16:36:57] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 inner=3: F1=0.6569
+[2026-10-02 16:36:57] CU outer1 | trial 3/20 F1_inner=0.6834 | mejor=0.6834
+[2026-10-02 16:36:58] CU outer1 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 16:37:23] CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.7002
+[2026-10-02 16:37:23] CU outer1 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 16:37:50] CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.6930
+[2026-10-02 16:37:50] CU outer1 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 16:38:07] CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.6687
+[2026-10-02 16:38:08] CU outer1 | trial 4/20 F1_inner=0.6873 | mejor=0.6873
+[2026-10-02 16:38:08] CU outer1 | cfg=P_l1_b16_e4_w10_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 16:38:25] CU outer1 cfg=P_l1_b16_e4_w10_s_d3_s1_r9 Inner 1: F1=0.6403
+[2026-10-02 16:38:25] CU outer1 | cfg=P_l1_b16_e4_w10_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 16:38:43] CU outer1 cfg=P_l1_b16_e4_w10_s_d3_s1_r9 Inner 2: F1=0.6343
+[2026-10-02 16:38:43] CU outer1 | cfg=P_l1_b16_e4_w10_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 16:39:00] CU outer1 cfg=P_l1_b16_e4_w10_s_d3_s1_r9 Inner 3: F1=0.6537
+[2026-10-02 16:39:01] CU outer1 | trial 5/20 F1_inner=0.6428 | mejor=0.6873
+[2026-10-02 16:39:01] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=1: F1=0.7002
+[2026-10-02 16:39:01] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=2: F1=0.6930
+[2026-10-02 16:39:01] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=3: F1=0.6687
+[2026-10-02 16:39:01] CU outer1 | trial 6/20 F1_inner=0.6873 | mejor=0.6873
+[2026-10-02 16:39:01] CU outer1 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 16:39:19] CU outer1 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 1: F1=0.6811
+[2026-10-02 16:39:19] CU outer1 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 16:39:36] CU outer1 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 2: F1=0.6964
+[2026-10-02 16:39:36] CU outer1 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 16:39:54] CU outer1 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 3: F1=0.6757
+[2026-10-02 16:39:54] CU outer1 | trial 7/20 F1_inner=0.6844 | mejor=0.6873
+[2026-10-02 16:39:54] CU outer1 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 16:40:19] CU outer1 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.6738
+[2026-10-02 16:40:19] CU outer1 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 16:40:45] CU outer1 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.6910
+[2026-10-02 16:40:45] CU outer1 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 16:41:03] CU outer1 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.6573
+[2026-10-02 16:41:03] CU outer1 | trial 8/20 F1_inner=0.6740 | mejor=0.6873
+[2026-10-02 16:41:03] CU outer1 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:41:20] CU outer1 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 1: F1=0.6847
+[2026-10-02 16:41:20] CU outer1 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:41:38] CU outer1 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 2: F1=0.6965
+[2026-10-02 16:41:38] CU outer1 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:41:56] CU outer1 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 3: F1=0.6710
+[2026-10-02 16:41:56] CU outer1 | trial 9/20 F1_inner=0.6841 | mejor=0.6873
+[2026-10-02 16:41:56] CU outer1 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:42:22] CU outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 1: F1=0.7016
+[2026-10-02 16:42:22] CU outer1 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:42:43] CU outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 2: F1=0.6969
+[2026-10-02 16:42:43] CU outer1 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:43:01] CU outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 3: F1=0.6674
+[2026-10-02 16:43:01] CU outer1 | trial 10/20 F1_inner=0.6886 | mejor=0.6886
+[2026-10-02 16:43:01] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=1: F1=0.7016
+[2026-10-02 16:43:01] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=2: F1=0.6969
+[2026-10-02 16:43:01] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=3: F1=0.6674
+[2026-10-02 16:43:01] CU outer1 | trial 11/20 F1_inner=0.6886 | mejor=0.6886
+[2026-10-02 16:43:01] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=1: F1=0.7016
+[2026-10-02 16:43:01] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=2: F1=0.6969
+[2026-10-02 16:43:01] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=3: F1=0.6674
+[2026-10-02 16:43:02] CU outer1 | trial 12/20 F1_inner=0.6886 | mejor=0.6886
+[2026-10-02 16:43:02] CU outer1 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:43:27] CU outer1 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 1: F1=0.6893
+[2026-10-02 16:43:27] CU outer1 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:43:53] CU outer1 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 2: F1=0.7045
+[2026-10-02 16:43:53] CU outer1 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:44:06] CU outer1 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 3: F1=0.6594
+[2026-10-02 16:44:06] CU outer1 | trial 13/20 F1_inner=0.6844 | mejor=0.6886
+[2026-10-02 16:44:07] CU outer1 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:44:33] CU outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 1: F1=0.6987
+[2026-10-02 16:44:33] CU outer1 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:44:58] CU outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 2: F1=0.6954
+[2026-10-02 16:44:58] CU outer1 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:45:16] CU outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 3: F1=0.6674
+[2026-10-02 16:45:16] CU outer1 | trial 14/20 F1_inner=0.6872 | mejor=0.6886
+[2026-10-02 16:45:16] CU outer1 | cfg=P_l1_b16_e6_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:45:42] CU outer1 cfg=P_l1_b16_e6_w1_b_d1_s1_r9 Inner 1: F1=0.6763
+[2026-10-02 16:45:42] CU outer1 | cfg=P_l1_b16_e6_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:46:11] CU outer1 cfg=P_l1_b16_e6_w1_b_d1_s1_r9 Inner 2: F1=0.6848
+[2026-10-02 16:46:11] CU outer1 | cfg=P_l1_b16_e6_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:46:32] CU outer1 cfg=P_l1_b16_e6_w1_b_d1_s1_r9 Inner 3: F1=0.6580
+[2026-10-02 16:46:32] CU outer1 | trial 15/20 F1_inner=0.6730 | mejor=0.6886
+[2026-10-02 16:46:33] CU outer1 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 16:46:58] CU outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 1: F1=0.7029
+[2026-10-02 16:46:58] CU outer1 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 16:47:20] CU outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 2: F1=0.7022
+[2026-10-02 16:47:20] CU outer1 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 16:47:37] CU outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 3: F1=0.6687
+[2026-10-02 16:47:37] CU outer1 | trial 16/20 F1_inner=0.6913 | mejor=0.6913
+[2026-10-02 16:47:38] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 inner=1: F1=0.7029
+[2026-10-02 16:47:38] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 inner=2: F1=0.7022
+[2026-10-02 16:47:38] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 inner=3: F1=0.6687
+[2026-10-02 16:47:38] CU outer1 | trial 17/20 F1_inner=0.6913 | mejor=0.6913
+[2026-10-02 16:47:38] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 inner=1: F1=0.7029
+[2026-10-02 16:47:38] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 inner=2: F1=0.7022
+[2026-10-02 16:47:38] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 inner=3: F1=0.6687
+[2026-10-02 16:47:38] CU outer1 | trial 18/20 F1_inner=0.6913 | mejor=0.6913
+[2026-10-02 16:47:38] CU outer1 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 16:48:04] CU outer1 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 1: F1=0.6820
+[2026-10-02 16:48:04] CU outer1 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 16:48:29] CU outer1 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 2: F1=0.6942
+[2026-10-02 16:48:29] CU outer1 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 16:48:42] CU outer1 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 3: F1=0.6502
+[2026-10-02 16:48:43] CU outer1 | trial 19/20 F1_inner=0.6754 | mejor=0.6913
+[2026-10-02 16:48:43] CU outer1 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 16:49:09] CU outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 1: F1=0.7038
+[2026-10-02 16:49:09] CU outer1 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 16:49:31] CU outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 2: F1=0.7002
+[2026-10-02 16:49:31] CU outer1 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 16:49:48] CU outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 3: F1=0.6665
+[2026-10-02 16:49:49] CU outer1 | trial 20/20 F1_inner=0.6902 | mejor=0.6913
+[2026-10-02 16:49:49] CU Outer 1: refit PYSENTIMIENTO, 3 épocas
+[2026-10-02 16:50:12] CU Outer 1 refit: F1_train=0.9419, F1_outer=0.7323
+[2026-10-02 16:50:12] [CU][BETO][Outer 1/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.6913±0.0196 | F1_train=0.9419 | F1_outer=0.7323 | gap=0.2096
+[2026-10-02 16:50:12] CU | Outer 2/5
+[2026-10-02 16:50:12] CU outer2 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 16:50:30] CU outer2 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 1: F1=0.6708
+[2026-10-02 16:50:30] CU outer2 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 16:50:47] CU outer2 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 2: F1=0.6702
+[2026-10-02 16:50:47] CU outer2 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 16:51:05] CU outer2 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 3: F1=0.6988
+[2026-10-02 16:51:05] CU outer2 | trial 1/20 F1_inner=0.6799 | mejor=0.6799
+[2026-10-02 16:51:05] CU outer2 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 16:51:30] CU outer2 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 1: F1=0.6968
+[2026-10-02 16:51:30] CU outer2 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 16:51:57] CU outer2 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 2: F1=0.6915
+[2026-10-02 16:51:57] CU outer2 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 16:52:22] CU outer2 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 3: F1=0.7082
+[2026-10-02 16:52:23] CU outer2 | trial 2/20 F1_inner=0.6989 | mejor=0.6989
+[2026-10-02 16:52:23] CU outer2 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 16:52:50] CU outer2 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 1: F1=0.7193
+[2026-10-02 16:52:50] CU outer2 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 16:53:15] CU outer2 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 2: F1=0.7044
+[2026-10-02 16:53:15] CU outer2 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 16:53:41] CU outer2 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 3: F1=0.7389
+[2026-10-02 16:53:42] CU outer2 | trial 3/20 F1_inner=0.7209 | mejor=0.7209
+[2026-10-02 16:53:42] CU outer2 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 16:53:59] CU outer2 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 1: F1=0.7053
+[2026-10-02 16:53:59] CU outer2 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 16:54:17] CU outer2 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 2: F1=0.7008
+[2026-10-02 16:54:17] CU outer2 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 16:54:35] CU outer2 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 3: F1=0.7267
+[2026-10-02 16:54:36] CU outer2 | trial 4/20 F1_inner=0.7109 | mejor=0.7209
+[2026-10-02 16:54:36] CU outer2 | cfg=P_l1_b16_e6_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 16:55:01] CU outer2 cfg=P_l1_b16_e6_w1_b_d3_s1_r9 Inner 1: F1=0.6970
+[2026-10-02 16:55:01] CU outer2 | cfg=P_l1_b16_e6_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 16:55:27] CU outer2 cfg=P_l1_b16_e6_w1_b_d3_s1_r9 Inner 2: F1=0.6900
+[2026-10-02 16:55:27] CU outer2 | cfg=P_l1_b16_e6_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 16:55:52] CU outer2 cfg=P_l1_b16_e6_w1_b_d3_s1_r9 Inner 3: F1=0.7135
+[2026-10-02 16:55:52] CU outer2 | trial 5/20 F1_inner=0.7002 | mejor=0.7209
+[2026-10-02 16:55:52] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 inner=1: F1=0.7193
+[2026-10-02 16:55:52] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 inner=2: F1=0.7044
+[2026-10-02 16:55:52] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 inner=3: F1=0.7389
+[2026-10-02 16:55:53] CU outer2 | trial 6/20 F1_inner=0.7209 | mejor=0.7209
+[2026-10-02 16:55:53] CU outer2 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:56:18] CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 1: F1=0.7181
+[2026-10-02 16:56:18] CU outer2 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:56:44] CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 2: F1=0.7164
+[2026-10-02 16:56:44] CU outer2 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:57:09] CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 3: F1=0.7437
+[2026-10-02 16:57:10] CU outer2 | trial 7/20 F1_inner=0.7261 | mejor=0.7261
+[2026-10-02 16:57:10] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=1: F1=0.7181
+[2026-10-02 16:57:10] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=2: F1=0.7164
+[2026-10-02 16:57:10] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=3: F1=0.7437
+[2026-10-02 16:57:10] CU outer2 | trial 8/20 F1_inner=0.7261 | mejor=0.7261
+[2026-10-02 16:57:10] CU outer2 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:57:27] CU outer2 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 1: F1=0.7036
+[2026-10-02 16:57:27] CU outer2 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:57:45] CU outer2 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 2: F1=0.6993
+[2026-10-02 16:57:45] CU outer2 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:58:03] CU outer2 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 3: F1=0.7325
+[2026-10-02 16:58:03] CU outer2 | trial 9/20 F1_inner=0.7118 | mejor=0.7261
+[2026-10-02 16:58:03] CU outer2 | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 16:58:28] CU outer2 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 1: F1=0.7151
+[2026-10-02 16:58:28] CU outer2 | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 16:58:54] CU outer2 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 2: F1=0.7091
+[2026-10-02 16:58:54] CU outer2 | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 16:59:19] CU outer2 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 3: F1=0.7440
+[2026-10-02 16:59:20] CU outer2 | trial 10/20 F1_inner=0.7227 | mejor=0.7261
+[2026-10-02 16:59:20] CU outer2 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 16:59:45] CU outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.7109
+[2026-10-02 16:59:45] CU outer2 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 17:00:11] CU outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.7158
+[2026-10-02 17:00:11] CU outer2 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 17:00:37] CU outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.7428
+[2026-10-02 17:00:38] CU outer2 | trial 11/20 F1_inner=0.7232 | mejor=0.7261
+[2026-10-02 17:00:38] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=1: F1=0.7181
+[2026-10-02 17:00:38] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=2: F1=0.7164
+[2026-10-02 17:00:38] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=3: F1=0.7437
+[2026-10-02 17:00:38] CU outer2 | trial 12/20 F1_inner=0.7261 | mejor=0.7261
+[2026-10-02 17:00:38] CU outer2 | cfg=P_l1_b16_e6_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:01:04] CU outer2 cfg=P_l1_b16_e6_w1_b_d1_s1_r9 Inner 1: F1=0.6939
+[2026-10-02 17:01:04] CU outer2 | cfg=P_l1_b16_e6_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:01:29] CU outer2 cfg=P_l1_b16_e6_w1_b_d1_s1_r9 Inner 2: F1=0.6911
+[2026-10-02 17:01:29] CU outer2 | cfg=P_l1_b16_e6_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:01:55] CU outer2 cfg=P_l1_b16_e6_w1_b_d1_s1_r9 Inner 3: F1=0.7147
+[2026-10-02 17:01:55] CU outer2 | trial 13/20 F1_inner=0.6999 | mejor=0.7261
+[2026-10-02 17:01:55] CU outer2 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:02:21] CU outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 1: F1=0.7190
+[2026-10-02 17:02:21] CU outer2 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:02:46] CU outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 2: F1=0.7178
+[2026-10-02 17:02:46] CU outer2 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:03:11] CU outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 3: F1=0.7423
+[2026-10-02 17:03:12] CU outer2 | trial 14/20 F1_inner=0.7264 | mejor=0.7264
+[2026-10-02 17:03:12] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 inner=1: F1=0.7190
+[2026-10-02 17:03:12] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 inner=2: F1=0.7178
+[2026-10-02 17:03:12] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 inner=3: F1=0.7423
+[2026-10-02 17:03:12] CU outer2 | trial 15/20 F1_inner=0.7264 | mejor=0.7264
+[2026-10-02 17:03:12] CU outer2 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 17:03:38] CU outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 1: F1=0.7210
+[2026-10-02 17:03:38] CU outer2 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 17:04:04] CU outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 2: F1=0.7171
+[2026-10-02 17:04:04] CU outer2 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 17:04:29] CU outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 3: F1=0.7430
+[2026-10-02 17:04:29] CU outer2 | trial 16/20 F1_inner=0.7270 | mejor=0.7270
+[2026-10-02 17:04:29] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 inner=1: F1=0.7210
+[2026-10-02 17:04:29] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 inner=2: F1=0.7171
+[2026-10-02 17:04:29] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 inner=3: F1=0.7430
+[2026-10-02 17:04:30] CU outer2 | trial 17/20 F1_inner=0.7270 | mejor=0.7270
+[2026-10-02 17:04:30] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 inner=1: F1=0.7210
+[2026-10-02 17:04:30] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 inner=2: F1=0.7171
+[2026-10-02 17:04:30] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 inner=3: F1=0.7430
+[2026-10-02 17:04:30] CU outer2 | trial 18/20 F1_inner=0.7270 | mejor=0.7270
+[2026-10-02 17:04:30] CU outer2 | cfg=P_l2_b16_e4_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 17:04:48] CU outer2 cfg=P_l2_b16_e4_w10_b_d3_s1_r9 Inner 1: F1=0.7026
+[2026-10-02 17:04:48] CU outer2 | cfg=P_l2_b16_e4_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 17:05:05] CU outer2 cfg=P_l2_b16_e4_w10_b_d3_s1_r9 Inner 2: F1=0.6952
+[2026-10-02 17:05:05] CU outer2 | cfg=P_l2_b16_e4_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 17:05:22] CU outer2 cfg=P_l2_b16_e4_w10_b_d3_s1_r9 Inner 3: F1=0.7176
+[2026-10-02 17:05:22] CU outer2 | trial 19/20 F1_inner=0.7052 | mejor=0.7270
+[2026-10-02 17:05:22] CU outer2 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 17:05:48] CU outer2 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 1: F1=0.6950
+[2026-10-02 17:05:48] CU outer2 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 17:06:13] CU outer2 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 2: F1=0.6838
+[2026-10-02 17:06:13] CU outer2 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 17:06:39] CU outer2 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 3: F1=0.7078
+[2026-10-02 17:06:39] CU outer2 | trial 20/20 F1_inner=0.6955 | mejor=0.7270
+[2026-10-02 17:06:39] CU Outer 2: refit PYSENTIMIENTO, 6 épocas
+[2026-10-02 17:07:09] ACTIVO: CU Outer 2: refit PYSENTIMIENTO, 6 épocas
+[2026-10-02 17:07:21] CU Outer 2 refit: F1_train=0.9878, F1_outer=0.6972
+[2026-10-02 17:07:21] [CU][BETO][Outer 2/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.7270±0.0140 | F1_train=0.9878 | F1_outer=0.6972 | gap=0.2906
+[2026-10-02 17:07:21] CU | Outer 3/5
+[2026-10-02 17:07:22] CU outer3 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 17:07:39] CU outer3 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 1: F1=0.7042
+[2026-10-02 17:07:39] CU outer3 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 17:07:57] CU outer3 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 2: F1=0.6470
+[2026-10-02 17:07:57] CU outer3 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 17:08:14] CU outer3 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 3: F1=0.6627
+[2026-10-02 17:08:14] CU outer3 | trial 1/20 F1_inner=0.6713 | mejor=0.6713
+[2026-10-02 17:08:14] CU outer3 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 17:08:40] CU outer3 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 1: F1=0.7295
+[2026-10-02 17:08:40] CU outer3 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 17:09:05] CU outer3 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 2: F1=0.6855
+[2026-10-02 17:09:05] CU outer3 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 17:09:31] CU outer3 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 3: F1=0.7094
+[2026-10-02 17:09:31] CU outer3 | trial 2/20 F1_inner=0.7081 | mejor=0.7081
+[2026-10-02 17:09:31] CU outer3 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:09:57] CU outer3 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 1: F1=0.7309
+[2026-10-02 17:09:57] CU outer3 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:10:23] CU outer3 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 2: F1=0.6902
+[2026-10-02 17:10:23] CU outer3 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:10:48] CU outer3 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 3: F1=0.7122
+[2026-10-02 17:10:48] CU outer3 | trial 3/20 F1_inner=0.7111 | mejor=0.7111
+[2026-10-02 17:10:48] CU outer3 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 17:11:10] CU outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.7281
+[2026-10-02 17:11:10] CU outer3 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 17:11:35] CU outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.7101
+[2026-10-02 17:11:35] CU outer3 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 17:12:00] CU outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.7056
+[2026-10-02 17:12:00] CU outer3 | trial 4/20 F1_inner=0.7146 | mejor=0.7146
+[2026-10-02 17:12:01] CU outer3 | cfg=P_l2_b16_e4_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:12:18] CU outer3 cfg=P_l2_b16_e4_w1_s_d1_s1_r9 Inner 1: F1=0.7236
+[2026-10-02 17:12:18] CU outer3 | cfg=P_l2_b16_e4_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:12:35] CU outer3 cfg=P_l2_b16_e4_w1_s_d1_s1_r9 Inner 2: F1=0.6744
+[2026-10-02 17:12:35] CU outer3 | cfg=P_l2_b16_e4_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:12:53] CU outer3 cfg=P_l2_b16_e4_w1_s_d1_s1_r9 Inner 3: F1=0.6964
+[2026-10-02 17:12:53] CU outer3 | trial 5/20 F1_inner=0.6981 | mejor=0.7146
+[2026-10-02 17:12:53] CU outer3 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 17:13:14] CU outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 1: F1=0.7243
+[2026-10-02 17:13:14] CU outer3 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 17:13:41] CU outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 2: F1=0.7086
+[2026-10-02 17:13:41] CU outer3 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 17:14:02] CU outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 3: F1=0.7047
+[2026-10-02 17:14:02] CU outer3 | trial 6/20 F1_inner=0.7125 | mejor=0.7146
+[2026-10-02 17:14:02] CU outer3 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 17:14:20] CU outer3 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.7039
+[2026-10-02 17:14:20] CU outer3 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 17:14:45] CU outer3 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.6744
+[2026-10-02 17:14:45] CU outer3 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 17:15:10] CU outer3 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.6779
+[2026-10-02 17:15:10] CU outer3 | trial 7/20 F1_inner=0.6854 | mejor=0.7146
+[2026-10-02 17:15:10] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=1: F1=0.7281
+[2026-10-02 17:15:10] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=2: F1=0.7101
+[2026-10-02 17:15:10] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=3: F1=0.7056
+[2026-10-02 17:15:11] CU outer3 | trial 8/20 F1_inner=0.7146 | mejor=0.7146
+[2026-10-02 17:15:11] CU outer3 | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 17:15:28] CU outer3 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 1: F1=0.7124
+[2026-10-02 17:15:28] CU outer3 | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 17:15:46] CU outer3 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 2: F1=0.6902
+[2026-10-02 17:15:46] CU outer3 | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 17:16:04] CU outer3 cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 3: F1=0.6904
+[2026-10-02 17:16:04] CU outer3 | trial 9/20 F1_inner=0.6977 | mejor=0.7146
+[2026-10-02 17:16:04] CU outer3 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:16:26] CU outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 1: F1=0.7252
+[2026-10-02 17:16:26] CU outer3 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:16:52] CU outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 2: F1=0.7115
+[2026-10-02 17:16:52] CU outer3 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:17:17] CU outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 3: F1=0.7079
+[2026-10-02 17:17:18] CU outer3 | trial 10/20 F1_inner=0.7149 | mejor=0.7149
+[2026-10-02 17:17:18] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 inner=1: F1=0.7252
+[2026-10-02 17:17:18] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 inner=2: F1=0.7115
+[2026-10-02 17:17:18] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 inner=3: F1=0.7079
+[2026-10-02 17:17:18] CU outer3 | trial 11/20 F1_inner=0.7149 | mejor=0.7149
+[2026-10-02 17:17:18] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 inner=1: F1=0.7252
+[2026-10-02 17:17:18] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 inner=2: F1=0.7115
+[2026-10-02 17:17:18] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 inner=3: F1=0.7079
+[2026-10-02 17:17:18] CU outer3 | trial 12/20 F1_inner=0.7149 | mejor=0.7149
+[2026-10-02 17:17:18] CU outer3 | cfg=P_l1_b16_e6_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:17:36] CU outer3 cfg=P_l1_b16_e6_w10_b_d1_s1_r9 Inner 1: F1=0.7178
+[2026-10-02 17:17:36] CU outer3 | cfg=P_l1_b16_e6_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:18:01] CU outer3 cfg=P_l1_b16_e6_w10_b_d1_s1_r9 Inner 2: F1=0.6820
+[2026-10-02 17:18:01] CU outer3 | cfg=P_l1_b16_e6_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:18:27] CU outer3 cfg=P_l1_b16_e6_w10_b_d1_s1_r9 Inner 3: F1=0.6813
+[2026-10-02 17:18:27] CU outer3 | trial 13/20 F1_inner=0.6937 | mejor=0.7149
+[2026-10-02 17:18:27] CU outer3 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:18:44] CU outer3 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 1: F1=0.7119
+[2026-10-02 17:18:44] CU outer3 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:19:03] CU outer3 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 2: F1=0.6850
+[2026-10-02 17:19:03] CU outer3 | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:19:23] CU outer3 cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 3: F1=0.6932
+[2026-10-02 17:19:23] CU outer3 | trial 14/20 F1_inner=0.6967 | mejor=0.7149
+[2026-10-02 17:19:23] CU outer3 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 17:19:50] CU outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 1: F1=0.7224
+[2026-10-02 17:19:50] CU outer3 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 17:20:20] CU outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 2: F1=0.7086
+[2026-10-02 17:20:20] CU outer3 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 17:20:48] CU outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 3: F1=0.7099
+[2026-10-02 17:20:49] CU outer3 | trial 15/20 F1_inner=0.7136 | mejor=0.7149
+[2026-10-02 17:20:49] CU outer3 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 17:21:14] CU outer3 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 1: F1=0.7174
+[2026-10-02 17:21:14] CU outer3 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 17:21:39] CU outer3 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 2: F1=0.6765
+[2026-10-02 17:21:39] CU outer3 | cfg=P_l1_b16_e6_w10_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 17:22:01] CU outer3 cfg=P_l1_b16_e6_w10_s_d3_s1_r9 Inner 3: F1=0.6718
+[2026-10-02 17:22:01] CU outer3 | trial 16/20 F1_inner=0.6886 | mejor=0.7149
+[2026-10-02 17:22:02] CU outer3 | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:22:27] CU outer3 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 1: F1=0.7309
+[2026-10-02 17:22:27] CU outer3 | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:22:53] CU outer3 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 2: F1=0.6902
+[2026-10-02 17:22:53] CU outer3 | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:23:18] CU outer3 cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 3: F1=0.7108
+[2026-10-02 17:23:19] CU outer3 | trial 17/20 F1_inner=0.7106 | mejor=0.7149
+[2026-10-02 17:23:19] CU outer3 | cfg=P_l2_b16_e4_w10_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 17:23:36] CU outer3 cfg=P_l2_b16_e4_w10_s_d3_s1_r9 Inner 1: F1=0.7226
+[2026-10-02 17:23:36] CU outer3 | cfg=P_l2_b16_e4_w10_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 17:23:53] CU outer3 cfg=P_l2_b16_e4_w10_s_d3_s1_r9 Inner 2: F1=0.6627
+[2026-10-02 17:23:53] CU outer3 | cfg=P_l2_b16_e4_w10_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 17:24:11] CU outer3 cfg=P_l2_b16_e4_w10_s_d3_s1_r9 Inner 3: F1=0.6942
+[2026-10-02 17:24:11] CU outer3 | trial 18/20 F1_inner=0.6932 | mejor=0.7149
+[2026-10-02 17:24:11] CU outer3 | cfg=P_l1_b16_e4_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:24:29] CU outer3 cfg=P_l1_b16_e4_w1_b_d1_s1_r9 Inner 1: F1=0.7078
+[2026-10-02 17:24:29] CU outer3 | cfg=P_l1_b16_e4_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:24:46] CU outer3 cfg=P_l1_b16_e4_w1_b_d1_s1_r9 Inner 2: F1=0.6483
+[2026-10-02 17:24:46] CU outer3 | cfg=P_l1_b16_e4_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:25:03] CU outer3 cfg=P_l1_b16_e4_w1_b_d1_s1_r9 Inner 3: F1=0.6625
+[2026-10-02 17:25:03] CU outer3 | trial 19/20 F1_inner=0.6729 | mejor=0.7149
+[2026-10-02 17:25:03] CU outer3 | cfg=P_l1_b16_e4_w10_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 17:25:22] CU outer3 cfg=P_l1_b16_e4_w10_s_d2_s1_r9 Inner 1: F1=0.6611
+[2026-10-02 17:25:22] CU outer3 | cfg=P_l1_b16_e4_w10_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 17:25:39] CU outer3 cfg=P_l1_b16_e4_w10_s_d2_s1_r9 Inner 2: F1=0.6656
+[2026-10-02 17:25:39] CU outer3 | cfg=P_l1_b16_e4_w10_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 17:25:57] CU outer3 cfg=P_l1_b16_e4_w10_s_d2_s1_r9 Inner 3: F1=0.6462
+[2026-10-02 17:25:57] CU outer3 | trial 20/20 F1_inner=0.6576 | mejor=0.7149
+[2026-10-02 17:25:57] CU Outer 3: refit PYSENTIMIENTO, 5 épocas
+[2026-10-02 17:26:27] ACTIVO: CU Outer 3: refit PYSENTIMIENTO, 5 épocas
+[2026-10-02 17:26:32] CU Outer 3 refit: F1_train=0.9884, F1_outer=0.7149
+[2026-10-02 17:26:32] [CU][BETO][Outer 3/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.7149±0.0092 | F1_train=0.9884 | F1_outer=0.7149 | gap=0.2735
+[2026-10-02 17:26:32] CU | Outer 4/5
+[2026-10-02 17:26:33] CU outer4 | cfg=P_l1_b16_e6_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:26:58] CU outer4 cfg=P_l1_b16_e6_w10_b_d1_s1_r9 Inner 1: F1=0.6986
+[2026-10-02 17:26:58] CU outer4 | cfg=P_l1_b16_e6_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:27:24] CU outer4 cfg=P_l1_b16_e6_w10_b_d1_s1_r9 Inner 2: F1=0.6682
+[2026-10-02 17:27:24] CU outer4 | cfg=P_l1_b16_e6_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:27:50] CU outer4 cfg=P_l1_b16_e6_w10_b_d1_s1_r9 Inner 3: F1=0.6860
+[2026-10-02 17:27:50] CU outer4 | trial 1/20 F1_inner=0.6843 | mejor=0.6843
+[2026-10-02 17:27:50] CU outer4 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:28:08] CU outer4 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 1: F1=0.6817
+[2026-10-02 17:28:08] CU outer4 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:28:34] CU outer4 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 2: F1=0.7078
+[2026-10-02 17:28:34] CU outer4 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:29:00] CU outer4 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 3: F1=0.6898
+[2026-10-02 17:29:00] CU outer4 | trial 2/20 F1_inner=0.6931 | mejor=0.6931
+[2026-10-02 17:29:00] CU outer4 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 17:29:26] CU outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.7122
+[2026-10-02 17:29:26] CU outer4 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 17:29:52] CU outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.7039
+[2026-10-02 17:29:52] CU outer4 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 17:30:17] CU outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.7009
+[2026-10-02 17:30:18] CU outer4 | trial 3/20 F1_inner=0.7057 | mejor=0.7057
+[2026-10-02 17:30:18] CU outer4 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:30:35] CU outer4 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 1: F1=0.6529
+[2026-10-02 17:30:35] CU outer4 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:30:53] CU outer4 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 2: F1=0.6484
+[2026-10-02 17:30:53] CU outer4 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:31:11] CU outer4 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 3: F1=0.6395
+[2026-10-02 17:31:11] CU outer4 | trial 4/20 F1_inner=0.6469 | mejor=0.7057
+[2026-10-02 17:31:11] CU outer4 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 17:31:37] CU outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 1: F1=0.7097
+[2026-10-02 17:31:37] CU outer4 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 17:32:02] CU outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 2: F1=0.6988
+[2026-10-02 17:32:02] CU outer4 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 17:32:28] CU outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9 Inner 3: F1=0.7041
+[2026-10-02 17:32:28] CU outer4 | trial 5/20 F1_inner=0.7042 | mejor=0.7057
+[2026-10-02 17:32:28] CU outer4 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 17:32:53] CU outer4 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 1: F1=0.6848
+[2026-10-02 17:32:53] CU outer4 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 17:33:19] CU outer4 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 2: F1=0.6786
+[2026-10-02 17:33:19] CU outer4 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 17:33:40] CU outer4 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 3: F1=0.6554
+[2026-10-02 17:33:40] CU outer4 | trial 6/20 F1_inner=0.6729 | mejor=0.7057
+[2026-10-02 17:33:41] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=1: F1=0.7122
+[2026-10-02 17:33:41] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=2: F1=0.7039
+[2026-10-02 17:33:41] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=3: F1=0.7009
+[2026-10-02 17:33:41] CU outer4 | trial 7/20 F1_inner=0.7057 | mejor=0.7057
+[2026-10-02 17:33:41] CU outer4 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 17:33:58] CU outer4 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 1: F1=0.7023
+[2026-10-02 17:33:58] CU outer4 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 17:34:16] CU outer4 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 2: F1=0.6791
+[2026-10-02 17:34:16] CU outer4 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 17:34:34] CU outer4 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 3: F1=0.6925
+[2026-10-02 17:34:34] CU outer4 | trial 8/20 F1_inner=0.6913 | mejor=0.7057
+[2026-10-02 17:34:34] CU outer4 | cfg=P_l1_b16_e4_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:34:52] CU outer4 cfg=P_l1_b16_e4_w1_b_d1_s1_r9 Inner 1: F1=0.6788
+[2026-10-02 17:34:52] CU outer4 | cfg=P_l1_b16_e4_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:35:09] CU outer4 cfg=P_l1_b16_e4_w1_b_d1_s1_r9 Inner 2: F1=0.6575
+[2026-10-02 17:35:09] CU outer4 | cfg=P_l1_b16_e4_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:35:27] CU outer4 cfg=P_l1_b16_e4_w1_b_d1_s1_r9 Inner 3: F1=0.6671
+[2026-10-02 17:35:27] CU outer4 | trial 9/20 F1_inner=0.6678 | mejor=0.7057
+[2026-10-02 17:35:27] CU outer4 | cfg=P_l1_b16_e4_w1_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 17:35:44] CU outer4 cfg=P_l1_b16_e4_w1_s_d3_s1_r9 Inner 1: F1=0.6557
+[2026-10-02 17:35:44] CU outer4 | cfg=P_l1_b16_e4_w1_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 17:36:02] CU outer4 cfg=P_l1_b16_e4_w1_s_d3_s1_r9 Inner 2: F1=0.6329
+[2026-10-02 17:36:02] CU outer4 | cfg=P_l1_b16_e4_w1_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 17:36:20] CU outer4 cfg=P_l1_b16_e4_w1_s_d3_s1_r9 Inner 3: F1=0.6309
+[2026-10-02 17:36:20] CU outer4 | trial 10/20 F1_inner=0.6398 | mejor=0.7057
+[2026-10-02 17:36:20] CU outer4 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 17:36:38] CU outer4 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 1: F1=0.7009
+[2026-10-02 17:36:38] CU outer4 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 17:36:56] CU outer4 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 2: F1=0.6664
+[2026-10-02 17:36:56] CU outer4 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 17:37:13] CU outer4 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 3: F1=0.6988
+[2026-10-02 17:37:14] CU outer4 | trial 11/20 F1_inner=0.6887 | mejor=0.7057
+[2026-10-02 17:37:14] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=1: F1=0.7122
+[2026-10-02 17:37:14] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=2: F1=0.7039
+[2026-10-02 17:37:14] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 inner=3: F1=0.7009
+[2026-10-02 17:37:14] CU outer4 | trial 12/20 F1_inner=0.7057 | mejor=0.7057
+[2026-10-02 17:37:14] CU outer4 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 17:37:31] CU outer4 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 1: F1=0.6798
+[2026-10-02 17:37:31] CU outer4 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 17:37:57] CU outer4 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 2: F1=0.6976
+[2026-10-02 17:37:57] CU outer4 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 17:38:22] CU outer4 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 3: F1=0.6792
+[2026-10-02 17:38:22] CU outer4 | trial 13/20 F1_inner=0.6855 | mejor=0.7057
+[2026-10-02 17:38:22] CU outer4 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 17:38:47] CU outer4 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.6972
+[2026-10-02 17:38:47] CU outer4 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 17:39:13] CU outer4 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.6628
+[2026-10-02 17:39:13] CU outer4 | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 17:39:38] CU outer4 cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.6860
+[2026-10-02 17:39:38] CU outer4 | trial 14/20 F1_inner=0.6820 | mejor=0.7057
+[2026-10-02 17:39:38] CU outer4 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:40:03] CU outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 1: F1=0.7119
+[2026-10-02 17:40:03] CU outer4 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:40:29] CU outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 2: F1=0.7025
+[2026-10-02 17:40:29] CU outer4 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:40:54] CU outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 3: F1=0.7037
+[2026-10-02 17:40:54] CU outer4 | trial 15/20 F1_inner=0.7060 | mejor=0.7060
+[2026-10-02 17:40:54] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=1: F1=0.7119
+[2026-10-02 17:40:54] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=2: F1=0.7025
+[2026-10-02 17:40:54] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=3: F1=0.7037
+[2026-10-02 17:40:54] CU outer4 | trial 16/20 F1_inner=0.7060 | mejor=0.7060
+[2026-10-02 17:40:55] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=1: F1=0.7119
+[2026-10-02 17:40:55] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=2: F1=0.7025
+[2026-10-02 17:40:55] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9 inner=3: F1=0.7037
+[2026-10-02 17:40:55] CU outer4 | trial 17/20 F1_inner=0.7060 | mejor=0.7060
+[2026-10-02 17:40:55] CU outer4 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:41:20] CU outer4 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 1: F1=0.7119
+[2026-10-02 17:41:20] CU outer4 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:41:46] CU outer4 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 2: F1=0.7009
+[2026-10-02 17:41:46] CU outer4 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:42:11] CU outer4 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 3: F1=0.7016
+[2026-10-02 17:42:12] CU outer4 | trial 18/20 F1_inner=0.7048 | mejor=0.7060
+[2026-10-02 17:42:12] CU outer4 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:42:30] CU outer4 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 1: F1=0.7016
+[2026-10-02 17:42:30] CU outer4 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:42:47] CU outer4 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 2: F1=0.6877
+[2026-10-02 17:42:47] CU outer4 | cfg=P_l2_b16_e4_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:43:05] CU outer4 cfg=P_l2_b16_e4_w1_b_d1_s1_r9 Inner 3: F1=0.7037
+[2026-10-02 17:43:05] CU outer4 | trial 19/20 F1_inner=0.6977 | mejor=0.7060
+[2026-10-02 17:43:05] CU outer4 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 17:43:31] CU outer4 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 1: F1=0.7084
+[2026-10-02 17:43:31] CU outer4 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 17:43:57] CU outer4 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 2: F1=0.7035
+[2026-10-02 17:43:57] CU outer4 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 17:44:22] CU outer4 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 3: F1=0.6902
+[2026-10-02 17:44:22] CU outer4 | trial 20/20 F1_inner=0.7007 | mejor=0.7060
+[2026-10-02 17:44:22] CU Outer 4: refit PYSENTIMIENTO, 5 épocas
+[2026-10-02 17:44:52] ACTIVO: CU Outer 4: refit PYSENTIMIENTO, 5 épocas
+[2026-10-02 17:44:58] CU Outer 4 refit: F1_train=0.9872, F1_outer=0.7573
+[2026-10-02 17:44:58] [CU][BETO][Outer 4/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.7060±0.0051 | F1_train=0.9872 | F1_outer=0.7573 | gap=0.2299
+[2026-10-02 17:44:58] CU | Outer 5/5
+[2026-10-02 17:44:59] CU outer5 | cfg=P_l2_b16_e4_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:45:16] CU outer5 cfg=P_l2_b16_e4_w10_s_d1_s1_r9 Inner 1: F1=0.7105
+[2026-10-02 17:45:16] CU outer5 | cfg=P_l2_b16_e4_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:45:34] CU outer5 cfg=P_l2_b16_e4_w10_s_d1_s1_r9 Inner 2: F1=0.6813
+[2026-10-02 17:45:34] CU outer5 | cfg=P_l2_b16_e4_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:45:52] CU outer5 cfg=P_l2_b16_e4_w10_s_d1_s1_r9 Inner 3: F1=0.7099
+[2026-10-02 17:45:52] CU outer5 | trial 1/20 F1_inner=0.7006 | mejor=0.7006
+[2026-10-02 17:45:52] CU outer5 | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 17:46:13] CU outer5 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 Inner 1: F1=0.7132
+[2026-10-02 17:46:13] CU outer5 | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 17:46:38] CU outer5 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 Inner 2: F1=0.6962
+[2026-10-02 17:46:38] CU outer5 | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 17:47:04] CU outer5 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 Inner 3: F1=0.7204
+[2026-10-02 17:47:04] CU outer5 | trial 2/20 F1_inner=0.7099 | mejor=0.7099
+[2026-10-02 17:47:04] CU outer5 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:47:21] CU outer5 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 1: F1=0.6842
+[2026-10-02 17:47:21] CU outer5 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:47:39] CU outer5 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 2: F1=0.6408
+[2026-10-02 17:47:39] CU outer5 | cfg=P_l1_b16_e4_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:47:56] CU outer5 cfg=P_l1_b16_e4_w10_s_d1_s1_r9 Inner 3: F1=0.6587
+[2026-10-02 17:47:56] CU outer5 | trial 3/20 F1_inner=0.6612 | mejor=0.7099
+[2026-10-02 17:47:56] CU outer5 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 17:48:13] CU outer5 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 1: F1=0.6535
+[2026-10-02 17:48:14] CU outer5 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 17:48:31] CU outer5 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 2: F1=0.6628
+[2026-10-02 17:48:31] CU outer5 | cfg=P_l1_b16_e4_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 17:48:48] CU outer5 cfg=P_l1_b16_e4_w10_b_d3_s1_r9 Inner 3: F1=0.6600
+[2026-10-02 17:48:48] CU outer5 | trial 4/20 F1_inner=0.6588 | mejor=0.7099
+[2026-10-02 17:48:48] CU outer5 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 17:49:09] CU outer5 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 1: F1=0.7109
+[2026-10-02 17:49:09] CU outer5 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 17:49:34] CU outer5 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 2: F1=0.6962
+[2026-10-02 17:49:34] CU outer5 | cfg=P_l2_b16_e6_w10_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 17:49:59] CU outer5 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 Inner 3: F1=0.7204
+[2026-10-02 17:49:59] CU outer5 | trial 5/20 F1_inner=0.7092 | mejor=0.7099
+[2026-10-02 17:49:59] CU outer5 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 17:50:21] CU outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.7042
+[2026-10-02 17:50:21] CU outer5 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 17:50:46] CU outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.6973
+[2026-10-02 17:50:46] CU outer5 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 17:51:12] CU outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.6988
+[2026-10-02 17:51:12] CU outer5 | trial 6/20 F1_inner=0.7001 | mejor=0.7099
+[2026-10-02 17:51:12] CU outer5 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 17:51:34] CU outer5 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 1: F1=0.7030
+[2026-10-02 17:51:34] CU outer5 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 17:51:55] CU outer5 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 2: F1=0.6856
+[2026-10-02 17:51:55] CU outer5 | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 17:52:20] CU outer5 cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 3: F1=0.7144
+[2026-10-02 17:52:20] CU outer5 | trial 7/20 F1_inner=0.7010 | mejor=0.7099
+[2026-10-02 17:52:20] CU outer5 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 17:52:42] CU outer5 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 1: F1=0.6852
+[2026-10-02 17:52:42] CU outer5 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 17:53:07] CU outer5 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 2: F1=0.6785
+[2026-10-02 17:53:07] CU outer5 | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 17:53:33] CU outer5 cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 3: F1=0.7002
+[2026-10-02 17:53:33] CU outer5 | trial 8/20 F1_inner=0.6880 | mejor=0.7099
+[2026-10-02 17:53:33] CU outer5 | cfg=P_l2_b16_e4_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 17:53:51] CU outer5 cfg=P_l2_b16_e4_w1_s_d2_s1_r9 Inner 1: F1=0.7081
+[2026-10-02 17:53:51] CU outer5 | cfg=P_l2_b16_e4_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 17:54:09] CU outer5 cfg=P_l2_b16_e4_w1_s_d2_s1_r9 Inner 2: F1=0.6833
+[2026-10-02 17:54:09] CU outer5 | cfg=P_l2_b16_e4_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 17:54:26] CU outer5 cfg=P_l2_b16_e4_w1_s_d2_s1_r9 Inner 3: F1=0.7085
+[2026-10-02 17:54:26] CU outer5 | trial 9/20 F1_inner=0.6999 | mejor=0.7099
+[2026-10-02 17:54:26] CU outer5 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:54:48] CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 1: F1=0.7130
+[2026-10-02 17:54:48] CU outer5 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:55:13] CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 2: F1=0.6962
+[2026-10-02 17:55:13] CU outer5 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:55:31] CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9 Inner 3: F1=0.6984
+[2026-10-02 17:55:31] CU outer5 | trial 10/20 F1_inner=0.7025 | mejor=0.7099
+[2026-10-02 17:55:31] CU outer5 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:55:52] CU outer5 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 1: F1=0.7169
+[2026-10-02 17:55:52] CU outer5 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:56:18] CU outer5 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 2: F1=0.6864
+[2026-10-02 17:56:18] CU outer5 | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:56:43] CU outer5 cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 3: F1=0.7235
+[2026-10-02 17:56:43] CU outer5 | trial 11/20 F1_inner=0.7089 | mejor=0.7099
+[2026-10-02 17:56:44] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 inner=1: F1=0.7109
+[2026-10-02 17:56:44] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 inner=2: F1=0.6962
+[2026-10-02 17:56:44] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_s_d2_s1_r9 inner=3: F1=0.7204
+[2026-10-02 17:56:44] CU outer5 | trial 12/20 F1_inner=0.7092 | mejor=0.7099
+[2026-10-02 17:56:44] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 inner=1: F1=0.7132
+[2026-10-02 17:56:44] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 inner=2: F1=0.6962
+[2026-10-02 17:56:44] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 inner=3: F1=0.7204
+[2026-10-02 17:56:44] CU outer5 | trial 13/20 F1_inner=0.7099 | mejor=0.7099
+[2026-10-02 17:56:44] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 inner=1: F1=0.7132
+[2026-10-02 17:56:44] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 inner=2: F1=0.6962
+[2026-10-02 17:56:44] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 inner=3: F1=0.7204
+[2026-10-02 17:56:45] CU outer5 | trial 14/20 F1_inner=0.7099 | mejor=0.7099
+[2026-10-02 17:56:45] CU outer5 | cfg=P_l1_b16_e4_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 17:57:02] CU outer5 cfg=P_l1_b16_e4_w1_b_d2_s1_r9 Inner 1: F1=0.6633
+[2026-10-02 17:57:02] CU outer5 | cfg=P_l1_b16_e4_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 17:57:20] CU outer5 cfg=P_l1_b16_e4_w1_b_d2_s1_r9 Inner 2: F1=0.6586
+[2026-10-02 17:57:20] CU outer5 | cfg=P_l1_b16_e4_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 17:57:37] CU outer5 cfg=P_l1_b16_e4_w1_b_d2_s1_r9 Inner 3: F1=0.6607
+[2026-10-02 17:57:38] CU outer5 | trial 15/20 F1_inner=0.6609 | mejor=0.7099
+[2026-10-02 17:57:38] CU outer5 | cfg=P_l1_b16_e6_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 17:58:03] CU outer5 cfg=P_l1_b16_e6_w1_b_d1_s1_r9 Inner 1: F1=0.6922
+[2026-10-02 17:58:03] CU outer5 | cfg=P_l1_b16_e6_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 17:58:29] CU outer5 cfg=P_l1_b16_e6_w1_b_d1_s1_r9 Inner 2: F1=0.6756
+[2026-10-02 17:58:29] CU outer5 | cfg=P_l1_b16_e6_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 17:58:54] CU outer5 cfg=P_l1_b16_e6_w1_b_d1_s1_r9 Inner 3: F1=0.6882
+[2026-10-02 17:58:55] CU outer5 | trial 16/20 F1_inner=0.6853 | mejor=0.7099
+[2026-10-02 17:58:55] CU outer5 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 17:59:12] CU outer5 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 1: F1=0.6931
+[2026-10-02 17:59:12] CU outer5 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 17:59:30] CU outer5 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 2: F1=0.6710
+[2026-10-02 17:59:30] CU outer5 | cfg=P_l2_b16_e4_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 17:59:47] CU outer5 cfg=P_l2_b16_e4_w1_b_d3_s1_r9 Inner 3: F1=0.6815
+[2026-10-02 17:59:48] CU outer5 | trial 17/20 F1_inner=0.6819 | mejor=0.7099
+[2026-10-02 17:59:48] CU outer5 | cfg=P_l1_b16_e6_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:00:13] CU outer5 cfg=P_l1_b16_e6_w10_b_d2_s1_r9 Inner 1: F1=0.6867
+[2026-10-02 18:00:13] CU outer5 | cfg=P_l1_b16_e6_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:00:39] CU outer5 cfg=P_l1_b16_e6_w10_b_d2_s1_r9 Inner 2: F1=0.6733
+[2026-10-02 18:00:39] CU outer5 | cfg=P_l1_b16_e6_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:01:04] CU outer5 cfg=P_l1_b16_e6_w10_b_d2_s1_r9 Inner 3: F1=0.6861
+[2026-10-02 18:01:04] CU outer5 | trial 18/20 F1_inner=0.6820 | mejor=0.7099
+[2026-10-02 18:01:04] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 inner=1: F1=0.7132
+[2026-10-02 18:01:04] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 inner=2: F1=0.6962
+[2026-10-02 18:01:04] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w1_s_d2_s1_r9 inner=3: F1=0.7204
+[2026-10-02 18:01:05] CU outer5 | trial 19/20 F1_inner=0.7099 | mejor=0.7099
+[2026-10-02 18:01:05] CU outer5 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:01:23] CU outer5 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 1: F1=0.7051
+[2026-10-02 18:01:23] CU outer5 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:01:40] CU outer5 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 2: F1=0.6669
+[2026-10-02 18:01:40] CU outer5 | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:01:58] CU outer5 cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 3: F1=0.6908
+[2026-10-02 18:01:58] CU outer5 | trial 20/20 F1_inner=0.6876 | mejor=0.7099
+[2026-10-02 18:01:58] CU Outer 5: refit PYSENTIMIENTO, 4 épocas
+[2026-10-02 18:02:28] CU Outer 5 refit: F1_train=0.9760, F1_outer=0.7328
+[2026-10-02 18:02:28] [CU][BETO][Outer 5/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.7099±0.0124 | F1_train=0.9760 | F1_outer=0.7328 | gap=0.2432
+[2026-10-02 18:02:28] FINALIZADO: Nested CV completado (MX, ES, CU) (915/915 contados)
+[2026-10-02 18:02:29] MX | Optimización final
+[2026-10-02 18:02:30] MX final | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:02:52] MX final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 1: F1=0.6381
+[2026-10-02 18:02:52] MX final | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:03:08] MX final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 2: F1=0.6368
+[2026-10-02 18:03:08] MX final | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:03:30] MX final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 3: F1=0.7030
+[2026-10-02 18:03:30] MX final | trial 1/20 F1_inner=0.6593 | mejor=0.6593
+[2026-10-02 18:03:30] MX final | cfg=P_l1_b16_e4_w10_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:03:53] MX final cfg=P_l1_b16_e4_w10_s_d2_s1_r9 Inner 1: F1=0.5931
+[2026-10-02 18:03:53] MX final | cfg=P_l1_b16_e4_w10_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:04:17] MX final cfg=P_l1_b16_e4_w10_s_d2_s1_r9 Inner 2: F1=0.6228
+[2026-10-02 18:04:17] MX final | cfg=P_l1_b16_e4_w10_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:04:37] MX final cfg=P_l1_b16_e4_w10_s_d2_s1_r9 Inner 3: F1=0.6152
+[2026-10-02 18:04:38] MX final | trial 2/20 F1_inner=0.6104 | mejor=0.6593
+[2026-10-02 18:04:38] MX final | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 18:05:08] MX final cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 1: F1=0.6428
+[2026-10-02 18:05:08] MX final | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 18:05:39] MX final cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 2: F1=0.6138
+[2026-10-02 18:05:39] MX final | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 18:05:59] MX final cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 3: F1=0.6878
+[2026-10-02 18:06:00] MX final | trial 3/20 F1_inner=0.6481 | mejor=0.6593
+[2026-10-02 18:06:00] MX final | cfg=P_l2_b16_e4_w10_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 18:06:20] MX final cfg=P_l2_b16_e4_w10_s_d3_s1_r9 Inner 1: F1=0.6364
+[2026-10-02 18:06:20] MX final | cfg=P_l2_b16_e4_w10_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 18:06:41] MX final cfg=P_l2_b16_e4_w10_s_d3_s1_r9 Inner 2: F1=0.6156
+[2026-10-02 18:06:41] MX final | cfg=P_l2_b16_e4_w10_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 18:07:02] MX final cfg=P_l2_b16_e4_w10_s_d3_s1_r9 Inner 3: F1=0.7030
+[2026-10-02 18:07:03] MX final | trial 4/20 F1_inner=0.6517 | mejor=0.6593
+[2026-10-02 18:07:03] MX final | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 18:07:31] MX final cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 1: F1=0.6419
+[2026-10-02 18:07:31] MX final | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 18:08:01] ACTIVO: MX final | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 18:08:05] MX final cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 2: F1=0.6138
+[2026-10-02 18:08:05] MX final | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 18:08:27] MX final cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 3: F1=0.6878
+[2026-10-02 18:08:28] MX final | trial 5/20 F1_inner=0.6478 | mejor=0.6593
+[2026-10-02 18:08:28] REUTILIZADO MX final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 inner=1: F1=0.6381
+[2026-10-02 18:08:28] REUTILIZADO MX final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 inner=2: F1=0.6368
+[2026-10-02 18:08:28] REUTILIZADO MX final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 inner=3: F1=0.7030
+[2026-10-02 18:08:28] MX final | trial 6/20 F1_inner=0.6593 | mejor=0.6593
+[2026-10-02 18:08:28] MX final | cfg=P_l1_b16_e4_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 18:08:51] MX final cfg=P_l1_b16_e4_w1_b_d3_s1_r9 Inner 1: F1=0.6228
+[2026-10-02 18:08:51] MX final | cfg=P_l1_b16_e4_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 18:09:08] MX final cfg=P_l1_b16_e4_w1_b_d3_s1_r9 Inner 2: F1=0.6238
+[2026-10-02 18:09:08] MX final | cfg=P_l1_b16_e4_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 18:09:30] MX final cfg=P_l1_b16_e4_w1_b_d3_s1_r9 Inner 3: F1=0.6822
+[2026-10-02 18:09:30] MX final | trial 7/20 F1_inner=0.6429 | mejor=0.6593
+[2026-10-02 18:09:30] MX final | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:10:00] ACTIVO: MX final | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:10:03] MX final cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.6322
+[2026-10-02 18:10:03] MX final | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:10:20] MX final cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.6217
+[2026-10-02 18:10:20] MX final | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:10:50] ACTIVO: MX final | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:10:52] MX final cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.7000
+[2026-10-02 18:10:52] MX final | trial 8/20 F1_inner=0.6513 | mejor=0.6593
+[2026-10-02 18:10:52] MX final | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 18:11:15] MX final cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 1: F1=0.6360
+[2026-10-02 18:11:15] MX final | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 18:11:32] MX final cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 2: F1=0.6334
+[2026-10-02 18:11:32] MX final | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 18:11:54] MX final cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 3: F1=0.7009
+[2026-10-02 18:11:55] MX final | trial 9/20 F1_inner=0.6568 | mejor=0.6593
+[2026-10-02 18:11:55] MX final | cfg=P_l2_b16_e4_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:12:17] MX final cfg=P_l2_b16_e4_w1_s_d2_s1_r9 Inner 1: F1=0.6348
+[2026-10-02 18:12:17] MX final | cfg=P_l2_b16_e4_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:12:39] MX final cfg=P_l2_b16_e4_w1_s_d2_s1_r9 Inner 2: F1=0.6124
+[2026-10-02 18:12:39] MX final | cfg=P_l2_b16_e4_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:13:02] MX final cfg=P_l2_b16_e4_w1_s_d2_s1_r9 Inner 3: F1=0.6979
+[2026-10-02 18:13:02] MX final | trial 10/20 F1_inner=0.6483 | mejor=0.6593
+[2026-10-02 18:13:02] MX final | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 18:13:25] MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 1: F1=0.6300
+[2026-10-02 18:13:25] MX final | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 18:13:42] MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 2: F1=0.6270
+[2026-10-02 18:13:42] MX final | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 18:14:12] ACTIVO: MX final | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 18:14:14] MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 3: F1=0.7059
+[2026-10-02 18:14:14] MX final | trial 11/20 F1_inner=0.6543 | mejor=0.6593
+[2026-10-02 18:14:14] REUTILIZADO MX final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 inner=1: F1=0.6381
+[2026-10-02 18:14:14] REUTILIZADO MX final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 inner=2: F1=0.6368
+[2026-10-02 18:14:14] REUTILIZADO MX final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 inner=3: F1=0.7030
+[2026-10-02 18:14:14] MX final | trial 12/20 F1_inner=0.6593 | mejor=0.6593
+[2026-10-02 18:14:14] MX final | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:14:36] MX final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 1: F1=0.6392
+[2026-10-02 18:14:36] MX final | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:14:53] MX final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 2: F1=0.6368
+[2026-10-02 18:14:53] MX final | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:15:15] MX final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 3: F1=0.7034
+[2026-10-02 18:15:16] MX final | trial 13/20 F1_inner=0.6598 | mejor=0.6598
+[2026-10-02 18:15:16] REUTILIZADO MX final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=1: F1=0.6392
+[2026-10-02 18:15:16] REUTILIZADO MX final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=2: F1=0.6368
+[2026-10-02 18:15:16] REUTILIZADO MX final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=3: F1=0.7034
+[2026-10-02 18:15:16] MX final | trial 14/20 F1_inner=0.6598 | mejor=0.6598
+[2026-10-02 18:15:16] REUTILIZADO MX final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=1: F1=0.6392
+[2026-10-02 18:15:16] REUTILIZADO MX final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=2: F1=0.6368
+[2026-10-02 18:15:16] REUTILIZADO MX final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=3: F1=0.7034
+[2026-10-02 18:15:17] MX final | trial 15/20 F1_inner=0.6598 | mejor=0.6598
+[2026-10-02 18:15:17] MX final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:15:46] MX final cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 1: F1=0.6319
+[2026-10-02 18:15:46] MX final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:16:04] MX final cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 2: F1=0.6302
+[2026-10-02 18:16:04] MX final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:16:34] ACTIVO: MX final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:16:38] MX final cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 3: F1=0.7013
+[2026-10-02 18:16:39] MX final | trial 16/20 F1_inner=0.6545 | mejor=0.6598
+[2026-10-02 18:16:39] MX final | cfg=P_l1_b16_e4_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:17:01] MX final cfg=P_l1_b16_e4_w10_b_d2_s1_r9 Inner 1: F1=0.6198
+[2026-10-02 18:17:01] MX final | cfg=P_l1_b16_e4_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:17:19] MX final cfg=P_l1_b16_e4_w10_b_d2_s1_r9 Inner 2: F1=0.6254
+[2026-10-02 18:17:19] MX final | cfg=P_l1_b16_e4_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:17:42] MX final cfg=P_l1_b16_e4_w10_b_d2_s1_r9 Inner 3: F1=0.6770
+[2026-10-02 18:17:42] MX final | trial 17/20 F1_inner=0.6407 | mejor=0.6598
+[2026-10-02 18:17:42] MX final | cfg=P_l2_b16_e4_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 18:18:05] MX final cfg=P_l2_b16_e4_w10_b_d3_s1_r9 Inner 1: F1=0.6359
+[2026-10-02 18:18:05] MX final | cfg=P_l2_b16_e4_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 18:18:21] MX final cfg=P_l2_b16_e4_w10_b_d3_s1_r9 Inner 2: F1=0.6368
+[2026-10-02 18:18:21] MX final | cfg=P_l2_b16_e4_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 18:18:44] MX final cfg=P_l2_b16_e4_w10_b_d3_s1_r9 Inner 3: F1=0.7104
+[2026-10-02 18:18:45] MX final | trial 18/20 F1_inner=0.6610 | mejor=0.6610
+[2026-10-02 18:18:45] REUTILIZADO MX final cfg=P_l2_b16_e4_w10_b_d3_s1_r9 inner=1: F1=0.6359
+[2026-10-02 18:18:45] REUTILIZADO MX final cfg=P_l2_b16_e4_w10_b_d3_s1_r9 inner=2: F1=0.6368
+[2026-10-02 18:18:45] REUTILIZADO MX final cfg=P_l2_b16_e4_w10_b_d3_s1_r9 inner=3: F1=0.7104
+[2026-10-02 18:18:45] MX final | trial 19/20 F1_inner=0.6610 | mejor=0.6610
+[2026-10-02 18:18:45] REUTILIZADO MX final cfg=P_l2_b16_e4_w10_b_d3_s1_r9 inner=1: F1=0.6359
+[2026-10-02 18:18:45] REUTILIZADO MX final cfg=P_l2_b16_e4_w10_b_d3_s1_r9 inner=2: F1=0.6368
+[2026-10-02 18:18:45] REUTILIZADO MX final cfg=P_l2_b16_e4_w10_b_d3_s1_r9 inner=3: F1=0.7104
+[2026-10-02 18:18:45] MX final | trial 20/20 F1_inner=0.6610 | mejor=0.6610
+[2026-10-02 18:18:45] ES | Optimización final
+[2026-10-02 18:18:46] ES final | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:19:09] ES final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 1: F1=0.7246
+[2026-10-02 18:19:09] ES final | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:19:32] ES final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 2: F1=0.7329
+[2026-10-02 18:19:32] ES final | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:19:54] ES final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 3: F1=0.7520
+[2026-10-02 18:19:55] ES final | trial 1/20 F1_inner=0.7365 | mejor=0.7365
+[2026-10-02 18:19:55] ES final | cfg=P_l1_b16_e4_w10_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:20:17] ES final cfg=P_l1_b16_e4_w10_s_d2_s1_r9 Inner 1: F1=0.6988
+[2026-10-02 18:20:17] ES final | cfg=P_l1_b16_e4_w10_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:20:39] ES final cfg=P_l1_b16_e4_w10_s_d2_s1_r9 Inner 2: F1=0.6883
+[2026-10-02 18:20:39] ES final | cfg=P_l1_b16_e4_w10_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:21:01] ES final cfg=P_l1_b16_e4_w10_s_d2_s1_r9 Inner 3: F1=0.7245
+[2026-10-02 18:21:02] ES final | trial 2/20 F1_inner=0.7039 | mejor=0.7365
+[2026-10-02 18:21:02] ES final | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 18:21:32] ACTIVO: ES final | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 18:21:34] ES final cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 1: F1=0.7193
+[2026-10-02 18:21:34] ES final | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 18:21:56] ES final cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 2: F1=0.7189
+[2026-10-02 18:21:56] ES final | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 18:22:26] ACTIVO: ES final | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 18:22:30] ES final cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 3: F1=0.7385
+[2026-10-02 18:22:30] ES final | trial 3/20 F1_inner=0.7256 | mejor=0.7365
+[2026-10-02 18:22:30] ES final | cfg=P_l2_b16_e4_w10_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 18:22:53] ES final cfg=P_l2_b16_e4_w10_s_d3_s1_r9 Inner 1: F1=0.7203
+[2026-10-02 18:22:53] ES final | cfg=P_l2_b16_e4_w10_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 18:23:15] ES final cfg=P_l2_b16_e4_w10_s_d3_s1_r9 Inner 2: F1=0.7224
+[2026-10-02 18:23:15] ES final | cfg=P_l2_b16_e4_w10_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 18:23:36] ES final cfg=P_l2_b16_e4_w10_s_d3_s1_r9 Inner 3: F1=0.7361
+[2026-10-02 18:23:37] ES final | trial 4/20 F1_inner=0.7263 | mejor=0.7365
+[2026-10-02 18:23:37] ES final | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 18:24:07] ACTIVO: ES final | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 18:24:09] ES final cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 1: F1=0.7182
+[2026-10-02 18:24:09] ES final | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 18:24:31] ES final cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 2: F1=0.7189
+[2026-10-02 18:24:31] ES final | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 18:25:01] ACTIVO: ES final | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 18:25:04] ES final cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 3: F1=0.7402
+[2026-10-02 18:25:04] ES final | trial 5/20 F1_inner=0.7258 | mejor=0.7365
+[2026-10-02 18:25:04] REUTILIZADO ES final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 inner=1: F1=0.7246
+[2026-10-02 18:25:04] REUTILIZADO ES final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 inner=2: F1=0.7329
+[2026-10-02 18:25:04] REUTILIZADO ES final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 inner=3: F1=0.7520
+[2026-10-02 18:25:04] ES final | trial 6/20 F1_inner=0.7365 | mejor=0.7365
+[2026-10-02 18:25:04] ES final | cfg=P_l1_b16_e4_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 18:25:28] ES final cfg=P_l1_b16_e4_w1_b_d3_s1_r9 Inner 1: F1=0.6827
+[2026-10-02 18:25:28] ES final | cfg=P_l1_b16_e4_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 18:25:50] ES final cfg=P_l1_b16_e4_w1_b_d3_s1_r9 Inner 2: F1=0.6984
+[2026-10-02 18:25:50] ES final | cfg=P_l1_b16_e4_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 18:26:12] ES final cfg=P_l1_b16_e4_w1_b_d3_s1_r9 Inner 3: F1=0.7200
+[2026-10-02 18:26:12] ES final | trial 7/20 F1_inner=0.7004 | mejor=0.7365
+[2026-10-02 18:26:12] ES final | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:26:42] ACTIVO: ES final | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:26:44] ES final cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 1: F1=0.7174
+[2026-10-02 18:26:44] ES final | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:27:14] ACTIVO: ES final | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:27:16] ES final cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 2: F1=0.7223
+[2026-10-02 18:27:16] ES final | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:27:46] ACTIVO: ES final | cfg=P_l1_b16_e6_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:27:47] ES final cfg=P_l1_b16_e6_w1_b_d2_s1_r9 Inner 3: F1=0.7389
+[2026-10-02 18:27:48] ES final | trial 8/20 F1_inner=0.7262 | mejor=0.7365
+[2026-10-02 18:27:48] ES final | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 18:28:10] ES final cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 1: F1=0.7226
+[2026-10-02 18:28:10] ES final | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 18:28:31] ES final cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 2: F1=0.7326
+[2026-10-02 18:28:31] ES final | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 18:28:53] ES final cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 3: F1=0.7434
+[2026-10-02 18:28:53] ES final | trial 9/20 F1_inner=0.7328 | mejor=0.7365
+[2026-10-02 18:28:53] ES final | cfg=P_l2_b16_e4_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:29:14] ES final cfg=P_l2_b16_e4_w1_s_d2_s1_r9 Inner 1: F1=0.7189
+[2026-10-02 18:29:14] ES final | cfg=P_l2_b16_e4_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:29:36] ES final cfg=P_l2_b16_e4_w1_s_d2_s1_r9 Inner 2: F1=0.7258
+[2026-10-02 18:29:36] ES final | cfg=P_l2_b16_e4_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:29:58] ES final cfg=P_l2_b16_e4_w1_s_d2_s1_r9 Inner 3: F1=0.7432
+[2026-10-02 18:29:58] ES final | trial 10/20 F1_inner=0.7293 | mejor=0.7365
+[2026-10-02 18:29:58] ES final | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 18:30:28] ACTIVO: ES final | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 18:30:30] ES final cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 1: F1=0.7257
+[2026-10-02 18:30:30] ES final | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 18:31:00] ACTIVO: ES final | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 18:31:02] ES final cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 2: F1=0.7365
+[2026-10-02 18:31:02] ES final | cfg=P_l2_b16_e6_w1_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 18:31:29] ES final cfg=P_l2_b16_e6_w1_b_d3_s1_r9 Inner 3: F1=0.7449
+[2026-10-02 18:31:29] ES final | trial 11/20 F1_inner=0.7357 | mejor=0.7365
+[2026-10-02 18:31:29] REUTILIZADO ES final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 inner=1: F1=0.7246
+[2026-10-02 18:31:29] REUTILIZADO ES final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 inner=2: F1=0.7329
+[2026-10-02 18:31:29] REUTILIZADO ES final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 inner=3: F1=0.7520
+[2026-10-02 18:31:30] ES final | trial 12/20 F1_inner=0.7365 | mejor=0.7365
+[2026-10-02 18:31:30] ES final | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:31:51] ES final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 1: F1=0.7262
+[2026-10-02 18:31:51] ES final | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:32:13] ES final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 2: F1=0.7343
+[2026-10-02 18:32:13] ES final | cfg=P_l2_b16_e4_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:32:34] ES final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 Inner 3: F1=0.7520
+[2026-10-02 18:32:35] ES final | trial 13/20 F1_inner=0.7375 | mejor=0.7375
+[2026-10-02 18:32:35] REUTILIZADO ES final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=1: F1=0.7262
+[2026-10-02 18:32:35] REUTILIZADO ES final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=2: F1=0.7343
+[2026-10-02 18:32:35] REUTILIZADO ES final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=3: F1=0.7520
+[2026-10-02 18:32:35] ES final | trial 14/20 F1_inner=0.7375 | mejor=0.7375
+[2026-10-02 18:32:35] REUTILIZADO ES final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=1: F1=0.7262
+[2026-10-02 18:32:35] REUTILIZADO ES final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=2: F1=0.7343
+[2026-10-02 18:32:35] REUTILIZADO ES final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=3: F1=0.7520
+[2026-10-02 18:32:35] ES final | trial 15/20 F1_inner=0.7375 | mejor=0.7375
+[2026-10-02 18:32:35] ES final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:33:05] ACTIVO: ES final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:33:07] ES final cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 1: F1=0.7285
+[2026-10-02 18:33:07] ES final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:33:37] ACTIVO: ES final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:33:39] ES final cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 2: F1=0.7296
+[2026-10-02 18:33:39] ES final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:34:09] ACTIVO: ES final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:34:10] ES final cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 3: F1=0.7466
+[2026-10-02 18:34:11] ES final | trial 16/20 F1_inner=0.7349 | mejor=0.7375
+[2026-10-02 18:34:11] ES final | cfg=P_l1_b16_e4_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:34:32] ES final cfg=P_l1_b16_e4_w10_b_d2_s1_r9 Inner 1: F1=0.7003
+[2026-10-02 18:34:32] ES final | cfg=P_l1_b16_e4_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:34:54] ES final cfg=P_l1_b16_e4_w10_b_d2_s1_r9 Inner 2: F1=0.7067
+[2026-10-02 18:34:54] ES final | cfg=P_l1_b16_e4_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:35:15] ES final cfg=P_l1_b16_e4_w10_b_d2_s1_r9 Inner 3: F1=0.7258
+[2026-10-02 18:35:15] ES final | trial 17/20 F1_inner=0.7109 | mejor=0.7375
+[2026-10-02 18:35:16] ES final | cfg=P_l2_b16_e4_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 18:35:37] ES final cfg=P_l2_b16_e4_w10_b_d3_s1_r9 Inner 1: F1=0.7244
+[2026-10-02 18:35:37] ES final | cfg=P_l2_b16_e4_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 18:35:59] ES final cfg=P_l2_b16_e4_w10_b_d3_s1_r9 Inner 2: F1=0.7230
+[2026-10-02 18:35:59] ES final | cfg=P_l2_b16_e4_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 18:36:21] ES final cfg=P_l2_b16_e4_w10_b_d3_s1_r9 Inner 3: F1=0.7492
+[2026-10-02 18:36:21] ES final | trial 18/20 F1_inner=0.7322 | mejor=0.7375
+[2026-10-02 18:36:21] ES final | cfg=P_l2_b16_e4_w10_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:36:42] ES final cfg=P_l2_b16_e4_w10_s_d2_s1_r9 Inner 1: F1=0.7177
+[2026-10-02 18:36:42] ES final | cfg=P_l2_b16_e4_w10_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:37:04] ES final cfg=P_l2_b16_e4_w10_s_d2_s1_r9 Inner 2: F1=0.7258
+[2026-10-02 18:37:04] ES final | cfg=P_l2_b16_e4_w10_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:37:25] ES final cfg=P_l2_b16_e4_w10_s_d2_s1_r9 Inner 3: F1=0.7444
+[2026-10-02 18:37:25] ES final | trial 19/20 F1_inner=0.7293 | mejor=0.7375
+[2026-10-02 18:37:25] REUTILIZADO ES final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=1: F1=0.7262
+[2026-10-02 18:37:25] REUTILIZADO ES final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=2: F1=0.7343
+[2026-10-02 18:37:25] REUTILIZADO ES final cfg=P_l2_b16_e4_w10_b_d2_s1_r9 inner=3: F1=0.7520
+[2026-10-02 18:37:26] ES final | trial 20/20 F1_inner=0.7375 | mejor=0.7375
+[2026-10-02 18:37:26] CU | Optimización final
+[2026-10-02 18:37:26] CU final | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:37:48] CU final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 1: F1=0.6870
+[2026-10-02 18:37:48] CU final | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:38:10] CU final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 2: F1=0.7300
+[2026-10-02 18:38:10] CU final | cfg=P_l2_b16_e4_w1_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:38:32] CU final cfg=P_l2_b16_e4_w1_b_d2_s1_r9 Inner 3: F1=0.6919
+[2026-10-02 18:38:32] CU final | trial 1/20 F1_inner=0.7030 | mejor=0.7030
+[2026-10-02 18:38:32] CU final | cfg=P_l1_b16_e4_w10_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:38:54] CU final cfg=P_l1_b16_e4_w10_s_d2_s1_r9 Inner 1: F1=0.6846
+[2026-10-02 18:38:54] CU final | cfg=P_l1_b16_e4_w10_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:39:16] CU final cfg=P_l1_b16_e4_w10_s_d2_s1_r9 Inner 2: F1=0.7004
+[2026-10-02 18:39:16] CU final | cfg=P_l1_b16_e4_w10_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:39:37] CU final cfg=P_l1_b16_e4_w10_s_d2_s1_r9 Inner 3: F1=0.6353
+[2026-10-02 18:39:38] CU final | trial 2/20 F1_inner=0.6735 | mejor=0.7030
+[2026-10-02 18:39:38] CU final | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 18:40:08] ACTIVO: CU final | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 18:40:09] CU final cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 1: F1=0.6849
+[2026-10-02 18:40:09] CU final | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 18:40:39] ACTIVO: CU final | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 18:40:41] CU final cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 2: F1=0.7407
+[2026-10-02 18:40:41] CU final | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 18:41:11] ACTIVO: CU final | cfg=P_l2_b16_e6_w10_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 18:41:12] CU final cfg=P_l2_b16_e6_w10_s_d1_s1_r9 Inner 3: F1=0.7176
+[2026-10-02 18:41:13] CU final | trial 3/20 F1_inner=0.7144 | mejor=0.7144
+[2026-10-02 18:41:13] CU final | cfg=P_l2_b16_e4_w10_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 18:41:35] CU final cfg=P_l2_b16_e4_w10_s_d3_s1_r9 Inner 1: F1=0.6855
+[2026-10-02 18:41:35] CU final | cfg=P_l2_b16_e4_w10_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 18:41:56] CU final cfg=P_l2_b16_e4_w10_s_d3_s1_r9 Inner 2: F1=0.7242
+[2026-10-02 18:41:56] CU final | cfg=P_l2_b16_e4_w10_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 18:42:18] CU final cfg=P_l2_b16_e4_w10_s_d3_s1_r9 Inner 3: F1=0.6935
+[2026-10-02 18:42:18] CU final | trial 4/20 F1_inner=0.7011 | mejor=0.7144
+[2026-10-02 18:42:18] CU final | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 18:42:48] ACTIVO: CU final | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 18:42:50] CU final cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 1: F1=0.6849
+[2026-10-02 18:42:50] CU final | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 18:43:20] ACTIVO: CU final | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 18:43:22] CU final cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 2: F1=0.7407
+[2026-10-02 18:43:22] CU final | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 18:43:52] ACTIVO: CU final | cfg=P_l2_b16_e6_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 18:43:53] CU final cfg=P_l2_b16_e6_w1_s_d1_s1_r9 Inner 3: F1=0.7200
+[2026-10-02 18:43:54] CU final | trial 5/20 F1_inner=0.7152 | mejor=0.7152
+[2026-10-02 18:43:54] CU final | cfg=P_l1_b16_e6_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 18:44:20] CU final cfg=P_l1_b16_e6_w1_s_d1_s1_r9 Inner 1: F1=0.6976
+[2026-10-02 18:44:20] CU final | cfg=P_l1_b16_e6_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 18:44:46] CU final cfg=P_l1_b16_e6_w1_s_d1_s1_r9 Inner 2: F1=0.7175
+[2026-10-02 18:44:46] CU final | cfg=P_l1_b16_e6_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 18:45:16] ACTIVO: CU final | cfg=P_l1_b16_e6_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 18:45:18] CU final cfg=P_l1_b16_e6_w1_s_d1_s1_r9 Inner 3: F1=0.6909
+[2026-10-02 18:45:18] CU final | trial 6/20 F1_inner=0.7020 | mejor=0.7152
+[2026-10-02 18:45:18] CU final | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 18:45:48] ACTIVO: CU final | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 1/3
+[2026-10-02 18:45:50] CU final cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 1: F1=0.6870
+[2026-10-02 18:45:50] CU final | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 18:46:20] ACTIVO: CU final | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 2/3
+[2026-10-02 18:46:22] CU final cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 2: F1=0.7384
+[2026-10-02 18:46:22] CU final | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 18:46:52] ACTIVO: CU final | cfg=P_l2_b16_e6_w1_s_d3_s1_r9 | Inner 3/3
+[2026-10-02 18:46:53] CU final cfg=P_l2_b16_e6_w1_s_d3_s1_r9 Inner 3: F1=0.7060
+[2026-10-02 18:46:53] CU final | trial 7/20 F1_inner=0.7105 | mejor=0.7152
+[2026-10-02 18:46:53] REUTILIZADO CU final cfg=P_l2_b16_e6_w1_s_d1_s1_r9 inner=1: F1=0.6849
+[2026-10-02 18:46:53] REUTILIZADO CU final cfg=P_l2_b16_e6_w1_s_d1_s1_r9 inner=2: F1=0.7407
+[2026-10-02 18:46:53] REUTILIZADO CU final cfg=P_l2_b16_e6_w1_s_d1_s1_r9 inner=3: F1=0.7200
+[2026-10-02 18:46:54] CU final | trial 8/20 F1_inner=0.7152 | mejor=0.7152
+[2026-10-02 18:46:54] CU final | cfg=P_l1_b16_e6_w10_b_d3_s1_r9 | Inner 1/3
+[2026-10-02 18:47:20] CU final cfg=P_l1_b16_e6_w10_b_d3_s1_r9 Inner 1: F1=0.6709
+[2026-10-02 18:47:20] CU final | cfg=P_l1_b16_e6_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 18:47:50] ACTIVO: CU final | cfg=P_l1_b16_e6_w10_b_d3_s1_r9 | Inner 2/3
+[2026-10-02 18:47:51] CU final cfg=P_l1_b16_e6_w10_b_d3_s1_r9 Inner 2: F1=0.7207
+[2026-10-02 18:47:51] CU final | cfg=P_l1_b16_e6_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 18:48:21] ACTIVO: CU final | cfg=P_l1_b16_e6_w10_b_d3_s1_r9 | Inner 3/3
+[2026-10-02 18:48:23] CU final cfg=P_l1_b16_e6_w10_b_d3_s1_r9 Inner 3: F1=0.7068
+[2026-10-02 18:48:23] CU final | trial 9/20 F1_inner=0.6994 | mejor=0.7152
+[2026-10-02 18:48:23] CU final | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 18:48:45] CU final cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 1: F1=0.6923
+[2026-10-02 18:48:45] CU final | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 18:49:15] ACTIVO: CU final | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 18:49:16] CU final cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 2: F1=0.7431
+[2026-10-02 18:49:16] CU final | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 18:49:46] ACTIVO: CU final | cfg=P_l2_b16_e6_w1_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 18:49:47] CU final cfg=P_l2_b16_e6_w1_b_d1_s1_r9 Inner 3: F1=0.7077
+[2026-10-02 18:49:48] CU final | trial 10/20 F1_inner=0.7144 | mejor=0.7152
+[2026-10-02 18:49:48] CU final | cfg=P_l2_b16_e4_w1_s_d1_s1_r9 | Inner 1/3
+[2026-10-02 18:50:09] CU final cfg=P_l2_b16_e4_w1_s_d1_s1_r9 Inner 1: F1=0.6925
+[2026-10-02 18:50:09] CU final | cfg=P_l2_b16_e4_w1_s_d1_s1_r9 | Inner 2/3
+[2026-10-02 18:50:30] CU final cfg=P_l2_b16_e4_w1_s_d1_s1_r9 Inner 2: F1=0.7212
+[2026-10-02 18:50:30] CU final | cfg=P_l2_b16_e4_w1_s_d1_s1_r9 | Inner 3/3
+[2026-10-02 18:50:52] CU final cfg=P_l2_b16_e4_w1_s_d1_s1_r9 Inner 3: F1=0.6964
+[2026-10-02 18:50:52] CU final | trial 11/20 F1_inner=0.7034 | mejor=0.7152
+[2026-10-02 18:50:52] REUTILIZADO CU final cfg=P_l2_b16_e6_w1_s_d1_s1_r9 inner=1: F1=0.6849
+[2026-10-02 18:50:52] REUTILIZADO CU final cfg=P_l2_b16_e6_w1_s_d1_s1_r9 inner=2: F1=0.7407
+[2026-10-02 18:50:52] REUTILIZADO CU final cfg=P_l2_b16_e6_w1_s_d1_s1_r9 inner=3: F1=0.7200
+[2026-10-02 18:50:52] CU final | trial 12/20 F1_inner=0.7152 | mejor=0.7152
+[2026-10-02 18:50:52] CU final | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:51:22] ACTIVO: CU final | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:51:24] CU final cfg=P_l2_b16_e6_w1_s_d2_s1_r9 Inner 1: F1=0.6873
+[2026-10-02 18:51:24] CU final | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:51:54] ACTIVO: CU final | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:51:55] CU final cfg=P_l2_b16_e6_w1_s_d2_s1_r9 Inner 2: F1=0.7447
+[2026-10-02 18:51:55] CU final | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:52:25] ACTIVO: CU final | cfg=P_l2_b16_e6_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:52:27] CU final cfg=P_l2_b16_e6_w1_s_d2_s1_r9 Inner 3: F1=0.7150
+[2026-10-02 18:52:27] CU final | trial 13/20 F1_inner=0.7157 | mejor=0.7157
+[2026-10-02 18:52:27] REUTILIZADO CU final cfg=P_l2_b16_e6_w1_s_d2_s1_r9 inner=1: F1=0.6873
+[2026-10-02 18:52:27] REUTILIZADO CU final cfg=P_l2_b16_e6_w1_s_d2_s1_r9 inner=2: F1=0.7447
+[2026-10-02 18:52:27] REUTILIZADO CU final cfg=P_l2_b16_e6_w1_s_d2_s1_r9 inner=3: F1=0.7150
+[2026-10-02 18:52:28] CU final | trial 14/20 F1_inner=0.7157 | mejor=0.7157
+[2026-10-02 18:52:28] REUTILIZADO CU final cfg=P_l2_b16_e6_w1_s_d2_s1_r9 inner=1: F1=0.6873
+[2026-10-02 18:52:28] REUTILIZADO CU final cfg=P_l2_b16_e6_w1_s_d2_s1_r9 inner=2: F1=0.7447
+[2026-10-02 18:52:28] REUTILIZADO CU final cfg=P_l2_b16_e6_w1_s_d2_s1_r9 inner=3: F1=0.7150
+[2026-10-02 18:52:28] CU final | trial 15/20 F1_inner=0.7157 | mejor=0.7157
+[2026-10-02 18:52:28] CU final | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:52:55] CU final cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 1: F1=0.6946
+[2026-10-02 18:52:55] CU final | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:53:16] CU final cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 2: F1=0.7065
+[2026-10-02 18:53:16] CU final | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:53:46] ACTIVO: CU final | cfg=P_l1_b16_e6_w1_s_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:53:48] CU final cfg=P_l1_b16_e6_w1_s_d2_s1_r9 Inner 3: F1=0.6860
+[2026-10-02 18:53:48] CU final | trial 16/20 F1_inner=0.6957 | mejor=0.7157
+[2026-10-02 18:53:48] CU final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 1/3
+[2026-10-02 18:54:10] CU final cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 1: F1=0.6932
+[2026-10-02 18:54:10] CU final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:54:40] ACTIVO: CU final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 2/3
+[2026-10-02 18:54:41] CU final cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 2: F1=0.7438
+[2026-10-02 18:54:41] CU final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:55:11] ACTIVO: CU final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9 | Inner 3/3
+[2026-10-02 18:55:13] CU final cfg=P_l2_b16_e6_w10_b_d2_s1_r9 Inner 3: F1=0.7234
+[2026-10-02 18:55:13] CU final | trial 17/20 F1_inner=0.7201 | mejor=0.7201
+[2026-10-02 18:55:13] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=1: F1=0.6932
+[2026-10-02 18:55:13] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=2: F1=0.7438
+[2026-10-02 18:55:13] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=3: F1=0.7234
+[2026-10-02 18:55:13] CU final | trial 18/20 F1_inner=0.7201 | mejor=0.7201
+[2026-10-02 18:55:14] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=1: F1=0.6932
+[2026-10-02 18:55:14] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=2: F1=0.7438
+[2026-10-02 18:55:14] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d2_s1_r9 inner=3: F1=0.7234
+[2026-10-02 18:55:14] CU final | trial 19/20 F1_inner=0.7201 | mejor=0.7201
+[2026-10-02 18:55:14] CU final | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 1/3
+[2026-10-02 18:55:36] CU final cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 1: F1=0.6898
+[2026-10-02 18:55:36] CU final | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 2/3
+[2026-10-02 18:55:58] CU final cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 2: F1=0.7338
+[2026-10-02 18:55:58] CU final | cfg=P_l2_b16_e4_w10_b_d1_s1_r9 | Inner 3/3
+[2026-10-02 18:56:19] CU final cfg=P_l2_b16_e4_w10_b_d1_s1_r9 Inner 3: F1=0.6964
+[2026-10-02 18:56:19] CU final | trial 20/20 F1_inner=0.7067 | mejor=0.7201
+[2026-10-02 18:56:19] FINALIZADO: Optimización final completada (180/180 contados)
