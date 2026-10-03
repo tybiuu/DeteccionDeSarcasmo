@@ -1,0 +1,10 @@
+variante,representacion,filas_en_repeticiones,grupos_repetidos,n_train,n_group_id,max_group_size,grupos_con_labels_mixtos
+mx,ORIGINAL,0,0,2399,2397,3,0
+mx,PYSENTIMIENTO,0,0,2399,2397,3,0
+mx,TOK_PYSENTIMIENTO,3,1,2399,2397,3,0
+es,ORIGINAL,0,0,2397,2306,17,1
+es,PYSENTIMIENTO,131,41,2397,2306,17,1
+es,TOK_PYSENTIMIENTO,127,41,2397,2306,17,1
+cu,ORIGINAL,6,3,2400,2397,2,0
+cu,PYSENTIMIENTO,6,3,2400,2397,2,0
+cu,TOK_PYSENTIMIENTO,6,3,2400,2397,2,0
