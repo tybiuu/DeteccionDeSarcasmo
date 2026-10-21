@@ -2370,3 +2370,57 @@
 [2026-10-02 17:17:29] CU final cfg=P_l1_b16_e6_w10_b_d2_s1_r9 Inner 3: F1=0.7102
 [2026-10-02 17:17:29] CU final | trial 20/20 F1_inner=0.6914 | mejor=0.7165
 [2026-10-02 17:17:29] FINALIZADO: Optimización final completada (180/180 contados)
+[2026-10-21 10:04:43] [MX][DistilBETO][Outer 1/5] resultado recuperado; se omite.
+[2026-10-21 10:04:43] [MX][DistilBETO][Outer 2/5] resultado recuperado; se omite.
+[2026-10-21 10:04:43] [MX][DistilBETO][Outer 3/5] resultado recuperado; se omite.
+[2026-10-21 10:04:43] [MX][DistilBETO][Outer 4/5] resultado recuperado; se omite.
+[2026-10-21 10:04:43] [MX][DistilBETO][Outer 5/5] resultado recuperado; se omite.
+[2026-10-21 10:04:43] [ES][DistilBETO][Outer 1/5] resultado recuperado; se omite.
+[2026-10-21 10:04:43] [ES][DistilBETO][Outer 2/5] resultado recuperado; se omite.
+[2026-10-21 10:04:43] [ES][DistilBETO][Outer 3/5] resultado recuperado; se omite.
+[2026-10-21 10:04:43] [ES][DistilBETO][Outer 4/5] resultado recuperado; se omite.
+[2026-10-21 10:04:43] [ES][DistilBETO][Outer 5/5] resultado recuperado; se omite.
+[2026-10-21 10:04:44] [CU][DistilBETO][Outer 1/5] resultado recuperado; se omite.
+[2026-10-21 10:04:44] [CU][DistilBETO][Outer 2/5] resultado recuperado; se omite.
+[2026-10-21 10:04:44] [CU][DistilBETO][Outer 3/5] resultado recuperado; se omite.
+[2026-10-21 10:04:44] [CU][DistilBETO][Outer 4/5] resultado recuperado; se omite.
+[2026-10-21 10:04:44] [CU][DistilBETO][Outer 5/5] resultado recuperado; se omite.
+[2026-10-21 10:04:44] FINALIZADO: Nested CV completado (MX, ES, CU) (915/915 contados)
+[2026-10-21 10:04:47] MX | Optimización final
+[2026-10-21 10:04:48] Recuperados 20 trials de mx final; faltan 0.
+[2026-10-21 10:04:48] ES | Optimización final
+[2026-10-21 10:04:48] Recuperados 20 trials de es final; faltan 0.
+[2026-10-21 10:04:48] CU | Optimización final
+[2026-10-21 10:04:49] Recuperados 20 trials de cu final; faltan 0.
+[2026-10-21 10:04:49] FINALIZADO: Optimización final completada (180/180 contados)
+[2026-10-21 10:05:30] MX | Test oficial | semilla 42
+[2026-10-21 10:05:58] MX test semilla 42: F1=0.6990
+[2026-10-21 10:05:58] MX | Test oficial | semilla 52
+[2026-10-21 10:06:24] MX test semilla 52: F1=0.7186
+[2026-10-21 10:06:25] MX | Test oficial | semilla 62
+[2026-10-21 10:06:50] MX test semilla 62: F1=0.7022
+[2026-10-21 10:06:51] MX | Test oficial | semilla 72
+[2026-10-21 10:07:16] MX test semilla 72: F1=0.7121
+[2026-10-21 10:07:17] MX | Test oficial | semilla 82
+[2026-10-21 10:07:42] MX test semilla 82: F1=0.7204
+[2026-10-21 10:07:43] ES | Test oficial | semilla 42
+[2026-10-21 10:08:12] ES test semilla 42: F1=0.7221
+[2026-10-21 10:08:12] ES | Test oficial | semilla 52
+[2026-10-21 10:08:42] ES test semilla 52: F1=0.7298
+[2026-10-21 10:08:42] ES | Test oficial | semilla 62
+[2026-10-21 10:09:12] ES test semilla 62: F1=0.7394
+[2026-10-21 10:09:13] ES | Test oficial | semilla 72
+[2026-10-21 10:09:43] ES test semilla 72: F1=0.7446
+[2026-10-21 10:09:43] ES | Test oficial | semilla 82
+[2026-10-21 10:10:13] ES test semilla 82: F1=0.7427
+[2026-10-21 10:10:14] CU | Test oficial | semilla 42
+[2026-10-21 10:10:38] CU test semilla 42: F1=0.6955
+[2026-10-21 10:10:39] CU | Test oficial | semilla 52
+[2026-10-21 10:11:04] CU test semilla 52: F1=0.7121
+[2026-10-21 10:11:04] CU | Test oficial | semilla 62
+[2026-10-21 10:11:29] CU test semilla 62: F1=0.7103
+[2026-10-21 10:11:29] CU | Test oficial | semilla 72
+[2026-10-21 10:11:54] CU test semilla 72: F1=0.7194
+[2026-10-21 10:11:54] CU | Test oficial | semilla 82
+[2026-10-21 10:12:19] CU test semilla 82: F1=0.7344
+[2026-10-21 10:12:19] FINALIZADO: Test oficial completado (5 semillas por variante) (15/15 contados)
