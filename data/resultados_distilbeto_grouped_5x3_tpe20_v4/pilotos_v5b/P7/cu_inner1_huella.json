@@ -1,0 +1,26 @@
+{
+ "cfg": {
+  "batch_size": 16,
+  "classifier_dropout": 0.2,
+  "label_smoothing": 0.1,
+  "learning_rate": 2e-05,
+  "loss_mode": "balanced",
+  "lr_decay": 0.9,
+  "num_train_epochs": 6,
+  "preprocessing": "PYSENTIMIENTO",
+  "weight_decay": 0.1
+ },
+ "evals_por_epoca": 4,
+ "inner": 1,
+ "modelo": "dccuchile/distilbert-base-spanish-uncased",
+ "piloto": {
+  "mixout_p": 0.5,
+  "nombre": "Mixout p=0.5"
+ },
+ "seed": 42,
+ "tr": "649c993dfb32f592075159d5f02015f9",
+ "val": "1b4d5c1a96e930b74bf0aa8bf29cb857",
+ "variante": "cu",
+ "version": "v5b-1",
+ "warmup": 0.0
+}
