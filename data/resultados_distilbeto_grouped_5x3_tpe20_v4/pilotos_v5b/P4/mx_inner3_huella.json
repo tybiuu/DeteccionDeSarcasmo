@@ -1,0 +1,26 @@
+{
+ "cfg": {
+  "batch_size": 16,
+  "classifier_dropout": 0.2,
+  "label_smoothing": 0.1,
+  "learning_rate": 2e-05,
+  "loss_mode": "standard",
+  "lr_decay": 0.9,
+  "num_train_epochs": 6,
+  "preprocessing": "PYSENTIMIENTO",
+  "weight_decay": 0.1
+ },
+ "evals_por_epoca": 4,
+ "inner": 3,
+ "modelo": "dccuchile/distilbert-base-spanish-uncased",
+ "piloto": {
+  "loss_mode": "standard",
+  "nombre": "sin pesos de clase"
+ },
+ "seed": 42,
+ "tr": "0f7d8b3092c7626e222fd83595f10dd0",
+ "val": "f3cb81294d530f0c86d861ceef360ad7",
+ "variante": "mx",
+ "version": "v5b-1",
+ "warmup": 0.0
+}
