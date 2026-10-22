@@ -1,0 +1,26 @@
+{
+ "cfg": {
+  "batch_size": 16,
+  "classifier_dropout": 0.1,
+  "label_smoothing": 0.1,
+  "learning_rate": 2e-05,
+  "loss_mode": "balanced",
+  "lr_decay": 0.9,
+  "num_train_epochs": 6,
+  "preprocessing": "PYSENTIMIENTO",
+  "weight_decay": 0.01
+ },
+ "evals_por_epoca": 4,
+ "inner": 3,
+ "modelo": "pysentimiento/robertuito-base-uncased",
+ "piloto": {
+  "mixout_p": 0.5,
+  "nombre": "Mixout p=0.5"
+ },
+ "seed": 42,
+ "tr": "f7a19aa580a07fc2d064b3f601d90834",
+ "val": "1f89d247343c21c2d2a57f22a72cecac",
+ "variante": "cu",
+ "version": "v5b-1",
+ "warmup": 0.0
+}
