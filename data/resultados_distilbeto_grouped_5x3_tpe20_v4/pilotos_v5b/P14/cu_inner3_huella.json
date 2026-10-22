@@ -1,0 +1,28 @@
+{
+ "cfg": {
+  "batch_size": 16,
+  "classifier_dropout": 0.2,
+  "label_smoothing": 0.1,
+  "learning_rate": 2e-05,
+  "loss_mode": "balanced",
+  "lr_decay": 0.9,
+  "num_train_epochs": 6,
+  "preprocessing": "PYSENTIMIENTO",
+  "weight_decay": 0.1
+ },
+ "evals_por_epoca": 4,
+ "inner": 3,
+ "modelo": "dccuchile/distilbert-base-spanish-uncased",
+ "piloto": {
+  "congelar_capas": 4,
+  "dropout_interno": 0.2,
+  "lr_decay": 0.9,
+  "nombre": "P10 + P12: solo últimas 2/6 capas + LRD 0.9 + dropout interno 0.2"
+ },
+ "seed": 42,
+ "tr": "23ee53ad315e73dc4829ca2b7fa60e7e",
+ "val": "4e4fdeb6a38cbaa2c5d95da67baa2824",
+ "variante": "cu",
+ "version": "v5b-1",
+ "warmup": 0.0
+}
