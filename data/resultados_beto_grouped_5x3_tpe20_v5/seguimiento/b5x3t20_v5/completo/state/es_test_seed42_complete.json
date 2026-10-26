@@ -1,0 +1,15 @@
+{
+  "config_id": "P_l2_b16_e6_w10_b_d2_s1_r9_i1_c25",
+  "seed": 42,
+  "f1_macro": 0.7210817230551448,
+  "accuracy": 0.7416666666666667,
+  "precision_macro": 0.7162011367995258,
+  "recall_macro": 0.7324999999999999,
+  "f1_macro_sin_coincidencias": 0.7140504851885601,
+  "n_coincidencias": 23,
+  "nll": 0.5792427369609521,
+  "ece": 0.09678207406726808,
+  "nll_calibrada": 0.5344496412963137,
+  "ece_calibrada": 0.039329198446576535,
+  "temperatura": 1.535860963041488
+}
