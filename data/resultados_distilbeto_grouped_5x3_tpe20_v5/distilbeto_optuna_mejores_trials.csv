@@ -1,0 +1,16 @@
+variante,outer_fold,number,value,params_batch_size,params_classifier_dropout,params_congelar_frac,params_dropout_interno,params_label_smoothing,params_learning_rate,params_loss_mode,params_lr_decay,params_num_train_epochs,params_preprocessing,params_weight_decay
+cu,1,15,0.6974840878995024,16,0.2,0.0,0.1,0.1,2e-05,balanced,0.9,6,PYSENTIMIENTO,0.01
+cu,2,13,0.7047498184198302,16,0.3,0.0,0.1,0.1,2e-05,balanced,0.9,6,PYSENTIMIENTO,0.01
+cu,3,11,0.7067065604525262,16,0.1,0.0,0.1,0.1,2e-05,balanced,0.9,6,PYSENTIMIENTO,0.1
+cu,4,6,0.7130409447611014,16,0.1,0.0,0.1,0.1,2e-05,balanced,0.9,6,PYSENTIMIENTO,0.01
+cu,5,12,0.7010676359172804,16,0.2,0.25,0.2,0.1,2e-05,balanced,0.9,6,PYSENTIMIENTO,0.01
+es,1,17,0.7304642911097816,16,0.2,0.25,0.1,0.1,2e-05,balanced,0.9,6,PYSENTIMIENTO,0.01
+es,2,15,0.7364642613466513,16,0.2,0.0,0.2,0.1,2e-05,balanced,0.9,6,PYSENTIMIENTO,0.01
+es,3,12,0.7379652348145723,16,0.2,0.0,0.1,0.1,2e-05,balanced,0.9,6,PYSENTIMIENTO,0.01
+es,4,8,0.736571704505604,16,0.1,0.0,0.1,0.1,2e-05,balanced,0.9,6,PYSENTIMIENTO,0.1
+es,5,18,0.7289801244398095,16,0.1,0.0,0.1,0.1,2e-05,balanced,0.9,6,PYSENTIMIENTO,0.01
+mx,1,18,0.6703869308835663,16,0.1,0.0,0.2,0.1,2e-05,balanced,0.9,6,PYSENTIMIENTO,0.1
+mx,2,11,0.6500152650023888,16,0.1,0.0,0.2,0.1,2e-05,balanced,0.9,6,PYSENTIMIENTO,0.1
+mx,3,18,0.6762423404266631,16,0.2,0.0,0.2,0.1,2e-05,balanced,0.9,6,PYSENTIMIENTO,0.01
+mx,4,12,0.6613896600982893,16,0.2,0.0,0.2,0.1,2e-05,balanced,0.9,6,PYSENTIMIENTO,0.01
+mx,5,12,0.6606825939953953,16,0.1,0.0,0.2,0.1,2e-05,balanced,0.9,6,PYSENTIMIENTO,0.1
