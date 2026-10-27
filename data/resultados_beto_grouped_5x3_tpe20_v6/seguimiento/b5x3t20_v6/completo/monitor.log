@@ -1880,3 +1880,49 @@
 [2026-10-27 13:46:29] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.7241
 [2026-10-27 13:46:29] CU final | trial 20/20 F1_inner=0.7204 | mejor=0.7204
 [2026-10-27 13:46:29] FINALIZADO: Optimización final completada (180/180 contados)
+[2026-10-27 14:38:45] MX | Test oficial | semilla 42
+[2026-10-27 14:39:15] ACTIVO: MX | Test oficial | semilla 42
+[2026-10-27 14:39:27] MX test semilla 42: F1=0.7169
+[2026-10-27 14:39:27] MX | Test oficial | semilla 52
+[2026-10-27 14:39:57] ACTIVO: MX | Test oficial | semilla 52
+[2026-10-27 14:40:08] MX test semilla 52: F1=0.7257
+[2026-10-27 14:40:08] MX | Test oficial | semilla 62
+[2026-10-27 14:40:38] ACTIVO: MX | Test oficial | semilla 62
+[2026-10-27 14:40:49] MX test semilla 62: F1=0.6862
+[2026-10-27 14:40:49] MX | Test oficial | semilla 72
+[2026-10-27 14:41:19] ACTIVO: MX | Test oficial | semilla 72
+[2026-10-27 14:41:31] MX test semilla 72: F1=0.7206
+[2026-10-27 14:41:31] MX | Test oficial | semilla 82
+[2026-10-27 14:42:01] ACTIVO: MX | Test oficial | semilla 82
+[2026-10-27 14:42:12] MX test semilla 82: F1=0.7272
+[2026-10-27 14:42:13] ES | Test oficial | semilla 42
+[2026-10-27 14:42:43] ACTIVO: ES | Test oficial | semilla 42
+[2026-10-27 14:43:02] ES test semilla 42: F1=0.7311
+[2026-10-27 14:43:02] ES | Test oficial | semilla 52
+[2026-10-27 14:43:32] ACTIVO: ES | Test oficial | semilla 52
+[2026-10-27 14:43:51] ES test semilla 52: F1=0.7426
+[2026-10-27 14:43:51] ES | Test oficial | semilla 62
+[2026-10-27 14:44:21] ACTIVO: ES | Test oficial | semilla 62
+[2026-10-27 14:44:40] ES test semilla 62: F1=0.7312
+[2026-10-27 14:44:41] ES | Test oficial | semilla 72
+[2026-10-27 14:45:11] ACTIVO: ES | Test oficial | semilla 72
+[2026-10-27 14:45:29] ES test semilla 72: F1=0.7473
+[2026-10-27 14:45:30] ES | Test oficial | semilla 82
+[2026-10-27 14:46:00] ACTIVO: ES | Test oficial | semilla 82
+[2026-10-27 14:46:19] ES test semilla 82: F1=0.7349
+[2026-10-27 14:46:19] CU | Test oficial | semilla 42
+[2026-10-27 14:46:49] ACTIVO: CU | Test oficial | semilla 42
+[2026-10-27 14:47:08] CU test semilla 42: F1=0.7010
+[2026-10-27 14:47:08] CU | Test oficial | semilla 52
+[2026-10-27 14:47:38] ACTIVO: CU | Test oficial | semilla 52
+[2026-10-27 14:47:57] CU test semilla 52: F1=0.7314
+[2026-10-27 14:47:57] CU | Test oficial | semilla 62
+[2026-10-27 14:48:27] ACTIVO: CU | Test oficial | semilla 62
+[2026-10-27 14:48:46] CU test semilla 62: F1=0.7008
+[2026-10-27 14:48:47] CU | Test oficial | semilla 72
+[2026-10-27 14:49:17] ACTIVO: CU | Test oficial | semilla 72
+[2026-10-27 14:49:35] CU test semilla 72: F1=0.7176
+[2026-10-27 14:49:36] CU | Test oficial | semilla 82
+[2026-10-27 14:50:06] ACTIVO: CU | Test oficial | semilla 82
+[2026-10-27 14:50:25] CU test semilla 82: F1=0.7029
+[2026-10-27 14:50:25] FINALIZADO: Test oficial completado (5 semillas por variante) (15/15 contados)
