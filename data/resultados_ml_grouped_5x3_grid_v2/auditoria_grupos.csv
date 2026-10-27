@@ -1,0 +1,4 @@
+variante,n_train,n_grupos,n_grupos_multiples,n_filas_en_grupos_multiples,tamano_grupo_max,n_grupos_etiquetas_contradictorias,criterio
+mx,2399,2393,3,9,5,0,union_texto_normal_stem_lemma_y_original_exacto
+es,2397,2289,45,153,17,1,union_texto_normal_stem_lemma_y_original_exacto
+cu,2400,2389,11,22,2,0,union_texto_normal_stem_lemma_y_original_exacto
