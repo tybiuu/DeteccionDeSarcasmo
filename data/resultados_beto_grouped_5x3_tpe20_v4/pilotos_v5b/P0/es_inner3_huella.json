@@ -1,0 +1,25 @@
+{
+ "cfg": {
+  "batch_size": 16,
+  "classifier_dropout": 0.2,
+  "label_smoothing": 0.1,
+  "learning_rate": 2e-05,
+  "loss_mode": "balanced",
+  "lr_decay": 0.9,
+  "num_train_epochs": 4,
+  "preprocessing": "PYSENTIMIENTO",
+  "weight_decay": 0.1
+ },
+ "evals_por_epoca": 4,
+ "inner": 3,
+ "modelo": "dccuchile/bert-base-spanish-wwm-cased",
+ "piloto": {
+  "nombre": "v4 (referencia)"
+ },
+ "seed": 42,
+ "tr": "8bfbf73de9bab33a8ac27d4a028a1c46",
+ "val": "05d3a692e5639df93275708e7761b930",
+ "variante": "es",
+ "version": "v5b-1",
+ "warmup": 0.0
+}
