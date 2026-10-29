@@ -1,4 +1,9 @@
 variante,modelo_a,modelo_b,jaccard,comunes
+mx,BETO,DistilBETO,0.3333333333333333,"..., emoji, entonces, jaja, jjaja, le, pues, risa, si, ya"
+mx,BETO,RoBERTuito,0.17647058823529413,"emoji, entonces, jjaja, pues, si, tiene"
+mx,BETO,LR,0.0,
+mx,BETO,RF,0.0,
+mx,BETO,XGBoost,0.02564102564102564,si
 mx,DistilBETO,RoBERTuito,0.21212121212121213,"amlo, emoji, entonces, jjaja, pues, si, va"
 mx,DistilBETO,LR,0.02564102564102564,mafia
 mx,DistilBETO,RF,0.05263157894736842,"mafia, mejor"
@@ -9,6 +14,11 @@ mx,RoBERTuito,XGBoost,0.05263157894736842,"amlo, si"
 mx,LR,RF,0.25,"4ta, cara_llorando_de_risa, cuidar, despues, mafia, mal, pueblo, transformacion"
 mx,LR,XGBoost,0.17647058823529413,"4ta, despues, mafia, mal, pueblo, transformacion"
 mx,RF,XGBoost,0.48148148148148145,"4ta, acabar, cara_llorando_de_risar, despues, faltar, mafia, mal, nieto, pueblo, sabio, salir, transformacion, vez"
+es,BETO,DistilBETO,0.3793103448275862,"exhumacion, gracias, has, libro, me, plana, relator, si, tierra, ya, yo"
+es,BETO,RoBERTuito,0.21212121212121213,"libro, panales, pedro, relator, si, tierra, yo"
+es,BETO,LR,0.14285714285714285,"gracias, libro, pedro, relator, si"
+es,BETO,RF,0.0,
+es,BETO,XGBoost,0.05263157894736842,"relator, si"
 es,DistilBETO,RoBERTuito,0.14285714285714285,"libro, relator, si, tierra, yo"
 es,DistilBETO,LR,0.1111111111111111,"gracias, libro, relator, si"
 es,DistilBETO,RF,0.02564102564102564,hoy
@@ -19,6 +29,11 @@ es,RoBERTuito,XGBoost,0.08108108108108109,"relator, si, va"
 es,LR,RF,0.02564102564102564,yoconalbert
 es,LR,XGBoost,0.08108108108108109,"panal, relator, si"
 es,RF,XGBoost,0.05263157894736842,"pedr, salvaj"
+cu,BETO,DistilBETO,0.21212121212121213,"cubana, cubanos, cuc, etecsa, jaja, mejor, va"
+cu,BETO,RoBERTuito,0.14285714285714285,"ahora, estamos, jaja, que, salario"
+cu,BETO,LR,0.02564102564102564,cuc
+cu,BETO,RF,0.02564102564102564,cuc
+cu,BETO,XGBoost,0.02564102564102564,cuc
 cu,DistilBETO,RoBERTuito,0.08108108108108109,"bien, bueno, jaja"
 cu,DistilBETO,LR,0.02564102564102564,cuc
 cu,DistilBETO,RF,0.02564102564102564,cuc
