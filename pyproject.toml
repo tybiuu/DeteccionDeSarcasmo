@@ -30,6 +30,7 @@ dependencies = [
     "accelerate>=1.1.0",
     "pysentimiento>=0.7.3",
     "peft>=0.21.2",
+    "shap>=0.49.1",
 ]
 
 [tool.uv]
