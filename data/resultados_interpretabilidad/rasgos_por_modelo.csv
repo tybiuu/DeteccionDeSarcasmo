@@ -62,79 +62,79 @@ mx,LR,interrogaciones,106,0.0347419906763908
 mx,LR,mayúsculas,65,-0.1454919286937748
 mx,LR,emojis,58,0.2776310333724517
 mx,LR,risas,3,0.5420904433151683
-mx,LR,negaciones,255,-0.2021087860644019
-mx,LR,alargamientos,143,0.1199644313569933
+mx,LR,negaciones,254,-0.2026009783498789
+mx,LR,alargamientos,142,0.120282550881156
 mx,LR,comillas,53,0.3421193083465338
-mx,LR,puntos suspensivos,103,0.2787819901211893
-mx,RF,exclamaciones,99,0.0110167614306386
-mx,RF,interrogaciones,106,0.001369393682219
-mx,RF,mayúsculas,65,-0.0035384729981921
-mx,RF,emojis,58,0.0314458121462955
-mx,RF,risas,3,0.0022860379806803
-mx,RF,negaciones,255,-0.0057581971170511
-mx,RF,alargamientos,143,0.0258921936267561
-mx,RF,comillas,53,0.0119792545723846
-mx,RF,puntos suspensivos,103,0.0089392382194036
-mx,XGBoost,exclamaciones,99,0.2088570892810821
-mx,XGBoost,interrogaciones,106,0.1348860114812851
-mx,XGBoost,mayúsculas,65,-0.1261604726314544
-mx,XGBoost,emojis,58,0.6167014837265015
+mx,LR,puntos suspensivos,102,0.2796187779262232
+mx,RF,exclamaciones,99,0.0121644091841993
+mx,RF,interrogaciones,106,0.0017598715100651
+mx,RF,mayúsculas,65,-0.0034310358682244
+mx,RF,emojis,58,0.0362889317006266
+mx,RF,risas,3,0.0023764108783749
+mx,RF,negaciones,254,-0.0064321749839922
+mx,RF,alargamientos,142,0.0292983765559706
+mx,RF,comillas,53,0.012719186299295
+mx,RF,puntos suspensivos,102,0.0101145547033896
+mx,XGBoost,exclamaciones,99,0.2088570603818604
+mx,XGBoost,interrogaciones,106,0.1348860288293645
+mx,XGBoost,mayúsculas,65,-0.1261604742218668
+mx,XGBoost,emojis,58,0.6167014234795652
 mx,XGBoost,risas,3,0.046889379620552
-mx,XGBoost,negaciones,255,-0.1329627484083175
-mx,XGBoost,alargamientos,143,0.4322720170021057
-mx,XGBoost,comillas,53,0.4143572449684143
-mx,XGBoost,puntos suspensivos,103,0.1335537284612655
-es,LR,exclamaciones,65,0.2200096525690417
-es,LR,interrogaciones,99,0.0683672009871729
-es,LR,mayúsculas,112,-0.186687756381022
+mx,XGBoost,negaciones,254,-0.1330560495596613
+mx,XGBoost,alargamientos,142,0.4311537393172022
+mx,XGBoost,comillas,53,0.4143572637354428
+mx,XGBoost,puntos suspensivos,102,0.1343017353552996
+es,LR,exclamaciones,63,0.2222714313984786
+es,LR,interrogaciones,98,0.0683456560508181
+es,LR,mayúsculas,107,-0.192800731938761
 es,LR,emojis,69,0.1177592398675667
 es,LR,risas,0,
-es,LR,negaciones,213,-0.2701706345877095
+es,LR,negaciones,207,-0.2746319502928029
 es,LR,alargamientos,139,-0.1533171974859292
-es,LR,comillas,99,-0.3517053511808686
+es,LR,comillas,88,-0.3533003098363589
 es,LR,puntos suspensivos,85,0.4493480794459371
-es,RF,exclamaciones,65,-2.359688503575534e+46
-es,RF,interrogaciones,99,2.0891061923207846e+44
-es,RF,mayúsculas,112,-5.53872476871775e+44
-es,RF,emojis,69,1.957839079083484e+46
+es,RF,exclamaciones,63,0.0064120583135401
+es,RF,interrogaciones,98,0.0179544213900946
+es,RF,mayúsculas,107,-0.0176136318110816
+es,RF,emojis,69,0.0078493947593994
 es,RF,risas,0,
-es,RF,negaciones,213,2.397102152837389e+45
-es,RF,alargamientos,139,-1.8341686004583859e+46
-es,RF,comillas,99,-4.5524738897698664e+45
-es,RF,puntos suspensivos,85,4.3366431850040834e+38
-es,XGBoost,exclamaciones,65,0.1615028381347656
-es,XGBoost,interrogaciones,99,0.0878592580556869
-es,XGBoost,mayúsculas,112,-0.1355575174093246
-es,XGBoost,emojis,69,-0.0334044694900512
+es,RF,negaciones,207,-0.0230068921218277
+es,RF,alargamientos,139,0.0219698974691544
+es,RF,comillas,88,-0.0431033283706924
+es,RF,puntos suspensivos,85,0.0099695176069739
+es,XGBoost,exclamaciones,63,0.1571437376773073
+es,XGBoost,interrogaciones,98,0.0874588711196746
+es,XGBoost,mayúsculas,107,-0.1330943180511435
+es,XGBoost,emojis,69,-0.0334044692740924
 es,XGBoost,risas,0,
-es,XGBoost,negaciones,213,-0.1685750931501388
-es,XGBoost,alargamientos,139,0.1357752829790115
-es,XGBoost,comillas,99,-0.5572856068611145
-es,XGBoost,puntos suspensivos,85,0.1110647097229957
+es,XGBoost,negaciones,207,-0.1721904263786683
+es,XGBoost,alargamientos,139,0.1357752951146807
+es,XGBoost,comillas,88,-0.5460839627564631
+es,XGBoost,puntos suspensivos,85,0.111064713448286
 cu,LR,exclamaciones,56,0.2430567567376128
 cu,LR,interrogaciones,196,0.0446917160530895
-cu,LR,mayúsculas,146,0.0388413097532044
+cu,LR,mayúsculas,145,0.0366748982937804
 cu,LR,emojis,0,
 cu,LR,risas,3,0.9789740989881582
-cu,LR,negaciones,314,-0.0941388988348262
+cu,LR,negaciones,313,-0.0940074944866323
 cu,LR,alargamientos,116,0.8103426454984642
 cu,LR,comillas,10,3.0742031384569715
 cu,LR,puntos suspensivos,5,0.901894040419868
-cu,RF,exclamaciones,56,0.0168646313152963
-cu,RF,interrogaciones,196,0.0046349977835702
-cu,RF,mayúsculas,146,0.0107388345165713
+cu,RF,exclamaciones,56,0.0175536084588377
+cu,RF,interrogaciones,196,0.004272845045804
+cu,RF,mayúsculas,145,0.0105624576654836
 cu,RF,emojis,0,
-cu,RF,risas,3,0.0060684749910591
-cu,RF,negaciones,314,-0.0010671348805861
-cu,RF,alargamientos,116,0.0292803166768259
-cu,RF,comillas,10,0.050968148312237
-cu,RF,puntos suspensivos,5,0.0167328322577531
-cu,XGBoost,exclamaciones,56,0.3970880806446075
-cu,XGBoost,interrogaciones,196,0.0194864217191934
-cu,XGBoost,mayúsculas,146,0.3172722458839416
+cu,RF,risas,3,0.0064361615116649
+cu,RF,negaciones,313,-0.0005557891857506
+cu,RF,alargamientos,116,0.029920658225453
+cu,RF,comillas,10,0.0532028316519572
+cu,RF,puntos suspensivos,5,0.0168184694314841
+cu,XGBoost,exclamaciones,56,0.3970880779836859
+cu,XGBoost,interrogaciones,196,0.0194864228595884
+cu,XGBoost,mayúsculas,145,0.319595033081714
 cu,XGBoost,emojis,0,
-cu,XGBoost,risas,3,0.035017441958189
-cu,XGBoost,negaciones,314,-0.0364841967821121
-cu,XGBoost,alargamientos,116,0.7253690958023071
-cu,XGBoost,comillas,10,1.1057240962982178
+cu,XGBoost,risas,3,0.0350174407164255
+cu,XGBoost,negaciones,313,-0.0363287479964831
+cu,XGBoost,alargamientos,116,0.7253690649723185
+cu,XGBoost,comillas,10,1.105724108219147
 cu,XGBoost,puntos suspensivos,5,0.0

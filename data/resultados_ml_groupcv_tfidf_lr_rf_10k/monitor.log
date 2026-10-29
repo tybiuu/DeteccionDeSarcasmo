@@ -4765,3 +4765,1213 @@
 [2026-10-29 15:47:13] [CU][XGBoost] semilla 82
 [2026-10-29 15:47:15] [CU][XGBoost] semilla 82 entrenada
 [2026-10-29 15:47:15] FINALIZADO: Modelos finales con 5 semillas entrenados (solo train) (36/36 contados)
+[2026-10-29 17:59:01] [MX][LR][Outer 1/5] GridSearch | prep=normal
+[2026-10-29 17:59:18] [MX][LR][Outer 1/5] GridSearch | prep=normal | completado
+[2026-10-29 17:59:18] [MX][LR][Outer 1/5] GridSearch | prep=stem
+[2026-10-29 17:59:28] [MX][LR][Outer 1/5] GridSearch | prep=stem | completado
+[2026-10-29 17:59:28] [MX][LR][Outer 1/5] GridSearch | prep=lemma
+[2026-10-29 17:59:34] [MX][LR][Outer 1/5] GridSearch | prep=lemma | completado
+[2026-10-29 17:59:34] [MX][LR][Outer 2/5] GridSearch | prep=normal
+[2026-10-29 17:59:34] [MX][LR][Outer 2/5] GridSearch | prep=normal | completado
+[2026-10-29 17:59:34] [MX][LR][Outer 2/5] GridSearch | prep=stem
+[2026-10-29 17:59:35] [MX][LR][Outer 2/5] GridSearch | prep=stem | completado
+[2026-10-29 17:59:35] [MX][LR][Outer 2/5] GridSearch | prep=lemma
+[2026-10-29 17:59:35] [MX][LR][Outer 2/5] GridSearch | prep=lemma | completado
+[2026-10-29 17:59:35] [MX][LR][Outer 3/5] GridSearch | prep=normal
+[2026-10-29 17:59:35] [MX][LR][Outer 3/5] GridSearch | prep=normal | completado
+[2026-10-29 17:59:35] [MX][LR][Outer 3/5] GridSearch | prep=stem
+[2026-10-29 17:59:35] [MX][LR][Outer 3/5] GridSearch | prep=stem | completado
+[2026-10-29 17:59:35] [MX][LR][Outer 3/5] GridSearch | prep=lemma
+[2026-10-29 17:59:36] [MX][LR][Outer 3/5] GridSearch | prep=lemma | completado
+[2026-10-29 17:59:36] [MX][LR][Outer 4/5] GridSearch | prep=normal
+[2026-10-29 17:59:36] [MX][LR][Outer 4/5] GridSearch | prep=normal | completado
+[2026-10-29 17:59:36] [MX][LR][Outer 4/5] GridSearch | prep=stem
+[2026-10-29 17:59:36] [MX][LR][Outer 4/5] GridSearch | prep=stem | completado
+[2026-10-29 17:59:36] [MX][LR][Outer 4/5] GridSearch | prep=lemma
+[2026-10-29 17:59:36] [MX][LR][Outer 4/5] GridSearch | prep=lemma | completado
+[2026-10-29 17:59:36] [MX][LR][Outer 5/5] GridSearch | prep=normal
+[2026-10-29 17:59:37] [MX][LR][Outer 5/5] GridSearch | prep=normal | completado
+[2026-10-29 17:59:37] [MX][LR][Outer 5/5] GridSearch | prep=stem
+[2026-10-29 17:59:37] [MX][LR][Outer 5/5] GridSearch | prep=stem | completado
+[2026-10-29 17:59:37] [MX][LR][Outer 5/5] GridSearch | prep=lemma
+[2026-10-29 17:59:37] [MX][LR][Outer 5/5] GridSearch | prep=lemma | completado
+[2026-10-29 17:59:38] [MX][RF][Outer 1/5] GridSearch | prep=normal
+[2026-10-29 17:59:44] [MX][RF][Outer 1/5] GridSearch | prep=normal | completado
+[2026-10-29 17:59:44] [MX][RF][Outer 1/5] GridSearch | prep=stem
+[2026-10-29 17:59:49] [MX][RF][Outer 1/5] GridSearch | prep=stem | completado
+[2026-10-29 17:59:49] [MX][RF][Outer 1/5] GridSearch | prep=lemma
+[2026-10-29 17:59:53] [MX][RF][Outer 1/5] GridSearch | prep=lemma | completado
+[2026-10-29 17:59:53] [MX][RF][Outer 2/5] GridSearch | prep=normal
+[2026-10-29 17:59:58] [MX][RF][Outer 2/5] GridSearch | prep=normal | completado
+[2026-10-29 17:59:58] [MX][RF][Outer 2/5] GridSearch | prep=stem
+[2026-10-29 18:00:03] [MX][RF][Outer 2/5] GridSearch | prep=stem | completado
+[2026-10-29 18:00:03] [MX][RF][Outer 2/5] GridSearch | prep=lemma
+[2026-10-29 18:00:08] [MX][RF][Outer 2/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:00:08] [MX][RF][Outer 3/5] GridSearch | prep=normal
+[2026-10-29 18:00:13] [MX][RF][Outer 3/5] GridSearch | prep=normal | completado
+[2026-10-29 18:00:13] [MX][RF][Outer 3/5] GridSearch | prep=stem
+[2026-10-29 18:00:17] [MX][RF][Outer 3/5] GridSearch | prep=stem | completado
+[2026-10-29 18:00:17] [MX][RF][Outer 3/5] GridSearch | prep=lemma
+[2026-10-29 18:00:22] [MX][RF][Outer 3/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:00:22] [MX][RF][Outer 4/5] GridSearch | prep=normal
+[2026-10-29 18:00:27] [MX][RF][Outer 4/5] GridSearch | prep=normal | completado
+[2026-10-29 18:00:27] [MX][RF][Outer 4/5] GridSearch | prep=stem
+[2026-10-29 18:00:31] [MX][RF][Outer 4/5] GridSearch | prep=stem | completado
+[2026-10-29 18:00:31] [MX][RF][Outer 4/5] GridSearch | prep=lemma
+[2026-10-29 18:00:36] [MX][RF][Outer 4/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:00:36] [MX][RF][Outer 5/5] GridSearch | prep=normal
+[2026-10-29 18:00:41] [MX][RF][Outer 5/5] GridSearch | prep=normal | completado
+[2026-10-29 18:00:41] [MX][RF][Outer 5/5] GridSearch | prep=stem
+[2026-10-29 18:00:46] [MX][RF][Outer 5/5] GridSearch | prep=stem | completado
+[2026-10-29 18:00:46] [MX][RF][Outer 5/5] GridSearch | prep=lemma
+[2026-10-29 18:00:51] [MX][RF][Outer 5/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:00:51] [ES][LR][Outer 1/5] GridSearch | prep=normal
+[2026-10-29 18:00:52] [ES][LR][Outer 1/5] GridSearch | prep=normal | completado
+[2026-10-29 18:00:52] [ES][LR][Outer 1/5] GridSearch | prep=stem
+[2026-10-29 18:00:52] [ES][LR][Outer 1/5] GridSearch | prep=stem | completado
+[2026-10-29 18:00:52] [ES][LR][Outer 1/5] GridSearch | prep=lemma
+[2026-10-29 18:00:52] [ES][LR][Outer 1/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:00:52] [ES][LR][Outer 2/5] GridSearch | prep=normal
+[2026-10-29 18:00:52] [ES][LR][Outer 2/5] GridSearch | prep=normal | completado
+[2026-10-29 18:00:52] [ES][LR][Outer 2/5] GridSearch | prep=stem
+[2026-10-29 18:00:53] [ES][LR][Outer 2/5] GridSearch | prep=stem | completado
+[2026-10-29 18:00:53] [ES][LR][Outer 2/5] GridSearch | prep=lemma
+[2026-10-29 18:00:53] [ES][LR][Outer 2/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:00:53] [ES][LR][Outer 3/5] GridSearch | prep=normal
+[2026-10-29 18:00:53] [ES][LR][Outer 3/5] GridSearch | prep=normal | completado
+[2026-10-29 18:00:53] [ES][LR][Outer 3/5] GridSearch | prep=stem
+[2026-10-29 18:00:53] [ES][LR][Outer 3/5] GridSearch | prep=stem | completado
+[2026-10-29 18:00:53] [ES][LR][Outer 3/5] GridSearch | prep=lemma
+[2026-10-29 18:00:54] [ES][LR][Outer 3/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:00:54] [ES][LR][Outer 4/5] GridSearch | prep=normal
+[2026-10-29 18:00:54] [ES][LR][Outer 4/5] GridSearch | prep=normal | completado
+[2026-10-29 18:00:54] [ES][LR][Outer 4/5] GridSearch | prep=stem
+[2026-10-29 18:00:54] [ES][LR][Outer 4/5] GridSearch | prep=stem | completado
+[2026-10-29 18:00:54] [ES][LR][Outer 4/5] GridSearch | prep=lemma
+[2026-10-29 18:00:55] [ES][LR][Outer 4/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:00:55] [ES][LR][Outer 5/5] GridSearch | prep=normal
+[2026-10-29 18:00:55] [ES][LR][Outer 5/5] GridSearch | prep=normal | completado
+[2026-10-29 18:00:55] [ES][LR][Outer 5/5] GridSearch | prep=stem
+[2026-10-29 18:00:55] [ES][LR][Outer 5/5] GridSearch | prep=stem | completado
+[2026-10-29 18:00:55] [ES][LR][Outer 5/5] GridSearch | prep=lemma
+[2026-10-29 18:00:55] [ES][LR][Outer 5/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:00:56] [ES][RF][Outer 1/5] GridSearch | prep=normal
+[2026-10-29 18:01:03] [ES][RF][Outer 1/5] GridSearch | prep=normal | completado
+[2026-10-29 18:01:03] [ES][RF][Outer 1/5] GridSearch | prep=stem
+[2026-10-29 18:01:11] [ES][RF][Outer 1/5] GridSearch | prep=stem | completado
+[2026-10-29 18:01:11] [ES][RF][Outer 1/5] GridSearch | prep=lemma
+[2026-10-29 18:01:17] [ES][RF][Outer 1/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:01:17] [ES][RF][Outer 2/5] GridSearch | prep=normal
+[2026-10-29 18:01:24] [ES][RF][Outer 2/5] GridSearch | prep=normal | completado
+[2026-10-29 18:01:24] [ES][RF][Outer 2/5] GridSearch | prep=stem
+[2026-10-29 18:01:29] [ES][RF][Outer 2/5] GridSearch | prep=stem | completado
+[2026-10-29 18:01:29] [ES][RF][Outer 2/5] GridSearch | prep=lemma
+[2026-10-29 18:01:37] [ES][RF][Outer 2/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:01:37] [ES][RF][Outer 3/5] GridSearch | prep=normal
+[2026-10-29 18:01:42] [ES][RF][Outer 3/5] GridSearch | prep=normal | completado
+[2026-10-29 18:01:42] [ES][RF][Outer 3/5] GridSearch | prep=stem
+[2026-10-29 18:01:49] [ES][RF][Outer 3/5] GridSearch | prep=stem | completado
+[2026-10-29 18:01:49] [ES][RF][Outer 3/5] GridSearch | prep=lemma
+[2026-10-29 18:01:55] [ES][RF][Outer 3/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:01:55] [ES][RF][Outer 4/5] GridSearch | prep=normal
+[2026-10-29 18:02:01] [ES][RF][Outer 4/5] GridSearch | prep=normal | completado
+[2026-10-29 18:02:01] [ES][RF][Outer 4/5] GridSearch | prep=stem
+[2026-10-29 18:02:06] [ES][RF][Outer 4/5] GridSearch | prep=stem | completado
+[2026-10-29 18:02:06] [ES][RF][Outer 4/5] GridSearch | prep=lemma
+[2026-10-29 18:02:12] [ES][RF][Outer 4/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:02:12] [ES][RF][Outer 5/5] GridSearch | prep=normal
+[2026-10-29 18:02:17] [ES][RF][Outer 5/5] GridSearch | prep=normal | completado
+[2026-10-29 18:02:17] [ES][RF][Outer 5/5] GridSearch | prep=stem
+[2026-10-29 18:02:22] [ES][RF][Outer 5/5] GridSearch | prep=stem | completado
+[2026-10-29 18:02:23] [ES][RF][Outer 5/5] GridSearch | prep=lemma
+[2026-10-29 18:02:30] [ES][RF][Outer 5/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:02:30] [CU][LR][Outer 1/5] GridSearch | prep=normal
+[2026-10-29 18:02:30] [CU][LR][Outer 1/5] GridSearch | prep=normal | completado
+[2026-10-29 18:02:30] [CU][LR][Outer 1/5] GridSearch | prep=stem
+[2026-10-29 18:02:31] [CU][LR][Outer 1/5] GridSearch | prep=stem | completado
+[2026-10-29 18:02:31] [CU][LR][Outer 1/5] GridSearch | prep=lemma
+[2026-10-29 18:02:31] [CU][LR][Outer 1/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:02:31] [CU][LR][Outer 2/5] GridSearch | prep=normal
+[2026-10-29 18:02:31] [CU][LR][Outer 2/5] GridSearch | prep=normal | completado
+[2026-10-29 18:02:31] [CU][LR][Outer 2/5] GridSearch | prep=stem
+[2026-10-29 18:02:32] [CU][LR][Outer 2/5] GridSearch | prep=stem | completado
+[2026-10-29 18:02:32] [CU][LR][Outer 2/5] GridSearch | prep=lemma
+[2026-10-29 18:02:32] [CU][LR][Outer 2/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:02:32] [CU][LR][Outer 3/5] GridSearch | prep=normal
+[2026-10-29 18:02:32] [CU][LR][Outer 3/5] GridSearch | prep=normal | completado
+[2026-10-29 18:02:32] [CU][LR][Outer 3/5] GridSearch | prep=stem
+[2026-10-29 18:02:32] [CU][LR][Outer 3/5] GridSearch | prep=stem | completado
+[2026-10-29 18:02:32] [CU][LR][Outer 3/5] GridSearch | prep=lemma
+[2026-10-29 18:02:33] [CU][LR][Outer 3/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:02:33] [CU][LR][Outer 4/5] GridSearch | prep=normal
+[2026-10-29 18:02:33] [CU][LR][Outer 4/5] GridSearch | prep=normal | completado
+[2026-10-29 18:02:33] [CU][LR][Outer 4/5] GridSearch | prep=stem
+[2026-10-29 18:02:33] [CU][LR][Outer 4/5] GridSearch | prep=stem | completado
+[2026-10-29 18:02:33] [CU][LR][Outer 4/5] GridSearch | prep=lemma
+[2026-10-29 18:02:33] [CU][LR][Outer 4/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:02:34] [CU][LR][Outer 5/5] GridSearch | prep=normal
+[2026-10-29 18:02:34] [CU][LR][Outer 5/5] GridSearch | prep=normal | completado
+[2026-10-29 18:02:34] [CU][LR][Outer 5/5] GridSearch | prep=stem
+[2026-10-29 18:02:34] [CU][LR][Outer 5/5] GridSearch | prep=stem | completado
+[2026-10-29 18:02:34] [CU][LR][Outer 5/5] GridSearch | prep=lemma
+[2026-10-29 18:02:34] [CU][LR][Outer 5/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:02:35] [CU][RF][Outer 1/5] GridSearch | prep=normal
+[2026-10-29 18:02:40] [CU][RF][Outer 1/5] GridSearch | prep=normal | completado
+[2026-10-29 18:02:40] [CU][RF][Outer 1/5] GridSearch | prep=stem
+[2026-10-29 18:02:45] [CU][RF][Outer 1/5] GridSearch | prep=stem | completado
+[2026-10-29 18:02:45] [CU][RF][Outer 1/5] GridSearch | prep=lemma
+[2026-10-29 18:02:50] [CU][RF][Outer 1/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:02:50] [CU][RF][Outer 2/5] GridSearch | prep=normal
+[2026-10-29 18:02:55] [CU][RF][Outer 2/5] GridSearch | prep=normal | completado
+[2026-10-29 18:02:55] [CU][RF][Outer 2/5] GridSearch | prep=stem
+[2026-10-29 18:03:00] [CU][RF][Outer 2/5] GridSearch | prep=stem | completado
+[2026-10-29 18:03:00] [CU][RF][Outer 2/5] GridSearch | prep=lemma
+[2026-10-29 18:03:05] [CU][RF][Outer 2/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:03:05] [CU][RF][Outer 3/5] GridSearch | prep=normal
+[2026-10-29 18:03:09] [CU][RF][Outer 3/5] GridSearch | prep=normal | completado
+[2026-10-29 18:03:09] [CU][RF][Outer 3/5] GridSearch | prep=stem
+[2026-10-29 18:03:14] [CU][RF][Outer 3/5] GridSearch | prep=stem | completado
+[2026-10-29 18:03:14] [CU][RF][Outer 3/5] GridSearch | prep=lemma
+[2026-10-29 18:03:19] [CU][RF][Outer 3/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:03:19] [CU][RF][Outer 4/5] GridSearch | prep=normal
+[2026-10-29 18:03:24] [CU][RF][Outer 4/5] GridSearch | prep=normal | completado
+[2026-10-29 18:03:24] [CU][RF][Outer 4/5] GridSearch | prep=stem
+[2026-10-29 18:03:29] [CU][RF][Outer 4/5] GridSearch | prep=stem | completado
+[2026-10-29 18:03:29] [CU][RF][Outer 4/5] GridSearch | prep=lemma
+[2026-10-29 18:03:34] [CU][RF][Outer 4/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:03:34] [CU][RF][Outer 5/5] GridSearch | prep=normal
+[2026-10-29 18:03:39] [CU][RF][Outer 5/5] GridSearch | prep=normal | completado
+[2026-10-29 18:03:39] [CU][RF][Outer 5/5] GridSearch | prep=stem
+[2026-10-29 18:03:44] [CU][RF][Outer 5/5] GridSearch | prep=stem | completado
+[2026-10-29 18:03:44] [CU][RF][Outer 5/5] GridSearch | prep=lemma
+[2026-10-29 18:03:49] [CU][RF][Outer 5/5] GridSearch | prep=lemma | completado
+[2026-10-29 18:03:49] FINALIZADO: Nested CV de LR y RF completada (90/90 contados)
+[2026-10-29 18:03:51] [MX][XGBoost][Outer 1/5] Optuna TPE
+[2026-10-29 18:03:52] [MX][XGBoost][Outer 1/5] | trial 6/50 | F1=0.5452 | mejor=0.5452
+[2026-10-29 18:03:54] [MX][XGBoost][Outer 1/5] | trial 6/50 | F1=0.5644 | mejor=0.5644
+[2026-10-29 18:03:55] [MX][XGBoost][Outer 1/5] | trial 6/50 | F1=0.5740 | mejor=0.5740
+[2026-10-29 18:03:56] [MX][XGBoost][Outer 1/5] | trial 6/50 | F1=0.5154 | mejor=0.5740
+[2026-10-29 18:03:57] [MX][XGBoost][Outer 1/5] | trial 6/50 | F1=0.5188 | mejor=0.5740
+[2026-10-29 18:03:59] [MX][XGBoost][Outer 1/5] | trial 6/50 | F1=0.5622 | mejor=0.5740
+[2026-10-29 18:04:01] [MX][XGBoost][Outer 1/5] | trial 7/50 | F1=0.5667 | mejor=0.5740
+[2026-10-29 18:04:02] [MX][XGBoost][Outer 1/5] | trial 8/50 | F1=0.6063 | mejor=0.6063
+[2026-10-29 18:04:03] [MX][XGBoost][Outer 1/5] | trial 9/50 | F1=0.5478 | mejor=0.6063
+[2026-10-29 18:04:05] [MX][XGBoost][Outer 1/5] | trial 10/50 | F1=0.5572 | mejor=0.6063
+[2026-10-29 18:04:06] [MX][XGBoost][Outer 1/5] | trial 11/50 | F1=0.5682 | mejor=0.6063
+[2026-10-29 18:04:07] [MX][XGBoost][Outer 1/5] | trial 12/50 | F1=0.6046 | mejor=0.6063
+[2026-10-29 18:04:08] [MX][XGBoost][Outer 1/5] | trial 13/50 | F1=0.5918 | mejor=0.6063
+[2026-10-29 18:04:09] [MX][XGBoost][Outer 1/5] | trial 14/50 | F1=0.5647 | mejor=0.6063
+[2026-10-29 18:04:11] [MX][XGBoost][Outer 1/5] | trial 15/50 | F1=0.5896 | mejor=0.6063
+[2026-10-29 18:04:12] [MX][XGBoost][Outer 1/5] | trial 16/50 | F1=0.5814 | mejor=0.6063
+[2026-10-29 18:04:13] [MX][XGBoost][Outer 1/5] | trial 17/50 | F1=0.6029 | mejor=0.6063
+[2026-10-29 18:04:14] [MX][XGBoost][Outer 1/5] | trial 18/50 | F1=0.5855 | mejor=0.6063
+[2026-10-29 18:04:15] [MX][XGBoost][Outer 1/5] | trial 19/50 | F1=0.5881 | mejor=0.6063
+[2026-10-29 18:04:17] [MX][XGBoost][Outer 1/5] | trial 20/50 | F1=0.5971 | mejor=0.6063
+[2026-10-29 18:04:18] [MX][XGBoost][Outer 1/5] | trial 21/50 | F1=0.6035 | mejor=0.6063
+[2026-10-29 18:04:18] [MX][XGBoost][Outer 1/5] | trial 22/50 | F1=0.6100 | mejor=0.6100
+[2026-10-29 18:04:20] [MX][XGBoost][Outer 1/5] | trial 23/50 | F1=0.5913 | mejor=0.6100
+[2026-10-29 18:04:21] [MX][XGBoost][Outer 1/5] | trial 24/50 | F1=0.5886 | mejor=0.6100
+[2026-10-29 18:04:22] [MX][XGBoost][Outer 1/5] | trial 25/50 | F1=0.5792 | mejor=0.6100
+[2026-10-29 18:04:24] [MX][XGBoost][Outer 1/5] | trial 26/50 | F1=0.6114 | mejor=0.6114
+[2026-10-29 18:04:24] [MX][XGBoost][Outer 1/5] | trial 27/50 | F1=0.5801 | mejor=0.6114
+[2026-10-29 18:04:26] [MX][XGBoost][Outer 1/5] | trial 28/50 | F1=0.5915 | mejor=0.6114
+[2026-10-29 18:04:26] [MX][XGBoost][Outer 1/5] | trial 29/50 | F1=0.6155 | mejor=0.6155
+[2026-10-29 18:04:28] [MX][XGBoost][Outer 1/5] | trial 30/50 | F1=0.6063 | mejor=0.6155
+[2026-10-29 18:04:28] [MX][XGBoost][Outer 1/5] | trial 31/50 | F1=0.6145 | mejor=0.6155
+[2026-10-29 18:04:29] [MX][XGBoost][Outer 1/5] | trial 32/50 | F1=0.6029 | mejor=0.6155
+[2026-10-29 18:04:30] [MX][XGBoost][Outer 1/5] | trial 33/50 | F1=0.5957 | mejor=0.6155
+[2026-10-29 18:04:31] [MX][XGBoost][Outer 1/5] | trial 34/50 | F1=0.6027 | mejor=0.6155
+[2026-10-29 18:04:32] [MX][XGBoost][Outer 1/5] | trial 35/50 | F1=0.5894 | mejor=0.6155
+[2026-10-29 18:04:32] [MX][XGBoost][Outer 1/5] | trial 36/50 | F1=0.5963 | mejor=0.6155
+[2026-10-29 18:04:33] [MX][XGBoost][Outer 1/5] | trial 37/50 | F1=0.5941 | mejor=0.6155
+[2026-10-29 18:04:34] [MX][XGBoost][Outer 1/5] | trial 38/50 | F1=0.6023 | mejor=0.6155
+[2026-10-29 18:04:35] [MX][XGBoost][Outer 1/5] | trial 39/50 | F1=0.5966 | mejor=0.6155
+[2026-10-29 18:04:35] [MX][XGBoost][Outer 1/5] | trial 40/50 | F1=0.6046 | mejor=0.6155
+[2026-10-29 18:04:36] [MX][XGBoost][Outer 1/5] | trial 41/50 | F1=0.5938 | mejor=0.6155
+[2026-10-29 18:04:38] [MX][XGBoost][Outer 1/5] | trial 42/50 | F1=0.5799 | mejor=0.6155
+[2026-10-29 18:04:39] [MX][XGBoost][Outer 1/5] | trial 43/50 | F1=0.6027 | mejor=0.6155
+[2026-10-29 18:04:40] [MX][XGBoost][Outer 1/5] | trial 44/50 | F1=0.6029 | mejor=0.6155
+[2026-10-29 18:04:41] [MX][XGBoost][Outer 1/5] | trial 45/50 | F1=0.6042 | mejor=0.6155
+[2026-10-29 18:04:42] [MX][XGBoost][Outer 1/5] | trial 46/50 | F1=0.6075 | mejor=0.6155
+[2026-10-29 18:04:43] [MX][XGBoost][Outer 1/5] | trial 47/50 | F1=0.5954 | mejor=0.6155
+[2026-10-29 18:04:44] [MX][XGBoost][Outer 1/5] | trial 48/50 | F1=0.5868 | mejor=0.6155
+[2026-10-29 18:04:45] [MX][XGBoost][Outer 1/5] | trial 49/50 | F1=0.5927 | mejor=0.6155
+[2026-10-29 18:04:46] [MX][XGBoost][Outer 1/5] | trial 50/50 | F1=0.5942 | mejor=0.6155
+[2026-10-29 18:04:47] [MX][XGBoost][Outer 2/5] Optuna TPE
+[2026-10-29 18:04:48] [MX][XGBoost][Outer 2/5] | trial 6/50 | F1=0.5572 | mejor=0.5572
+[2026-10-29 18:04:51] [MX][XGBoost][Outer 2/5] | trial 6/50 | F1=0.5539 | mejor=0.5572
+[2026-10-29 18:04:52] [MX][XGBoost][Outer 2/5] | trial 6/50 | F1=0.5536 | mejor=0.5572
+[2026-10-29 18:04:53] [MX][XGBoost][Outer 2/5] | trial 6/50 | F1=0.5134 | mejor=0.5572
+[2026-10-29 18:04:54] [MX][XGBoost][Outer 2/5] | trial 6/50 | F1=0.5013 | mejor=0.5572
+[2026-10-29 18:04:56] [MX][XGBoost][Outer 2/5] | trial 6/50 | F1=0.5749 | mejor=0.5749
+[2026-10-29 18:04:57] [MX][XGBoost][Outer 2/5] | trial 7/50 | F1=0.5800 | mejor=0.5800
+[2026-10-29 18:04:58] [MX][XGBoost][Outer 2/5] | trial 8/50 | F1=0.5921 | mejor=0.5921
+[2026-10-29 18:04:58] [MX][XGBoost][Outer 2/5] | trial 9/50 | F1=0.5351 | mejor=0.5921
+[2026-10-29 18:04:59] [MX][XGBoost][Outer 2/5] | trial 10/50 | F1=0.5484 | mejor=0.5921
+[2026-10-29 18:05:00] [MX][XGBoost][Outer 2/5] | trial 11/50 | F1=0.5887 | mejor=0.5921
+[2026-10-29 18:05:01] [MX][XGBoost][Outer 2/5] | trial 12/50 | F1=0.5874 | mejor=0.5921
+[2026-10-29 18:05:02] [MX][XGBoost][Outer 2/5] | trial 13/50 | F1=0.5806 | mejor=0.5921
+[2026-10-29 18:05:04] [MX][XGBoost][Outer 2/5] | trial 14/50 | F1=0.5795 | mejor=0.5921
+[2026-10-29 18:05:04] [MX][XGBoost][Outer 2/5] | trial 15/50 | F1=0.5906 | mejor=0.5921
+[2026-10-29 18:05:05] [MX][XGBoost][Outer 2/5] | trial 16/50 | F1=0.5758 | mejor=0.5921
+[2026-10-29 18:05:06] [MX][XGBoost][Outer 2/5] | trial 17/50 | F1=0.5873 | mejor=0.5921
+[2026-10-29 18:05:07] [MX][XGBoost][Outer 2/5] | trial 18/50 | F1=0.5914 | mejor=0.5921
+[2026-10-29 18:05:08] [MX][XGBoost][Outer 2/5] | trial 19/50 | F1=0.5887 | mejor=0.5921
+[2026-10-29 18:05:08] [MX][XGBoost][Outer 2/5] | trial 20/50 | F1=0.5832 | mejor=0.5921
+[2026-10-29 18:05:09] [MX][XGBoost][Outer 2/5] | trial 21/50 | F1=0.5895 | mejor=0.5921
+[2026-10-29 18:05:10] [MX][XGBoost][Outer 2/5] | trial 22/50 | F1=0.5734 | mejor=0.5921
+[2026-10-29 18:05:11] [MX][XGBoost][Outer 2/5] | trial 23/50 | F1=0.5765 | mejor=0.5921
+[2026-10-29 18:05:11] [MX][XGBoost][Outer 2/5] | trial 24/50 | F1=0.5756 | mejor=0.5921
+[2026-10-29 18:05:12] [MX][XGBoost][Outer 2/5] | trial 25/50 | F1=0.5936 | mejor=0.5936
+[2026-10-29 18:05:13] [MX][XGBoost][Outer 2/5] | trial 26/50 | F1=0.5872 | mejor=0.5936
+[2026-10-29 18:05:14] [MX][XGBoost][Outer 2/5] | trial 27/50 | F1=0.5877 | mejor=0.5936
+[2026-10-29 18:05:14] [MX][XGBoost][Outer 2/5] | trial 28/50 | F1=0.5790 | mejor=0.5936
+[2026-10-29 18:05:15] [MX][XGBoost][Outer 2/5] | trial 29/50 | F1=0.5836 | mejor=0.5936
+[2026-10-29 18:05:16] [MX][XGBoost][Outer 2/5] | trial 30/50 | F1=0.5787 | mejor=0.5936
+[2026-10-29 18:05:17] [MX][XGBoost][Outer 2/5] | trial 31/50 | F1=0.5897 | mejor=0.5936
+[2026-10-29 18:05:18] [MX][XGBoost][Outer 2/5] | trial 32/50 | F1=0.5745 | mejor=0.5936
+[2026-10-29 18:05:18] [MX][XGBoost][Outer 2/5] | trial 33/50 | F1=0.5895 | mejor=0.5936
+[2026-10-29 18:05:19] [MX][XGBoost][Outer 2/5] | trial 34/50 | F1=0.5756 | mejor=0.5936
+[2026-10-29 18:05:20] [MX][XGBoost][Outer 2/5] | trial 35/50 | F1=0.5914 | mejor=0.5936
+[2026-10-29 18:05:21] [MX][XGBoost][Outer 2/5] | trial 36/50 | F1=0.5913 | mejor=0.5936
+[2026-10-29 18:05:22] [MX][XGBoost][Outer 2/5] | trial 37/50 | F1=0.5838 | mejor=0.5936
+[2026-10-29 18:05:23] [MX][XGBoost][Outer 2/5] | trial 38/50 | F1=0.5918 | mejor=0.5936
+[2026-10-29 18:05:23] [MX][XGBoost][Outer 2/5] | trial 39/50 | F1=0.5750 | mejor=0.5936
+[2026-10-29 18:05:24] [MX][XGBoost][Outer 2/5] | trial 40/50 | F1=0.5879 | mejor=0.5936
+[2026-10-29 18:05:25] [MX][XGBoost][Outer 2/5] | trial 41/50 | F1=0.5909 | mejor=0.5936
+[2026-10-29 18:05:26] [MX][XGBoost][Outer 2/5] | trial 42/50 | F1=0.5906 | mejor=0.5936
+[2026-10-29 18:05:26] [MX][XGBoost][Outer 2/5] | trial 43/50 | F1=0.5876 | mejor=0.5936
+[2026-10-29 18:05:27] [MX][XGBoost][Outer 2/5] | trial 44/50 | F1=0.5899 | mejor=0.5936
+[2026-10-29 18:05:28] [MX][XGBoost][Outer 2/5] | trial 45/50 | F1=0.5924 | mejor=0.5936
+[2026-10-29 18:05:29] [MX][XGBoost][Outer 2/5] | trial 46/50 | F1=0.5917 | mejor=0.5936
+[2026-10-29 18:05:30] [MX][XGBoost][Outer 2/5] | trial 47/50 | F1=0.5970 | mejor=0.5970
+[2026-10-29 18:05:31] [MX][XGBoost][Outer 2/5] | trial 48/50 | F1=0.5772 | mejor=0.5970
+[2026-10-29 18:05:32] [MX][XGBoost][Outer 2/5] | trial 49/50 | F1=0.5926 | mejor=0.5970
+[2026-10-29 18:05:33] [MX][XGBoost][Outer 2/5] | trial 50/50 | F1=0.5952 | mejor=0.5970
+[2026-10-29 18:05:33] [MX][XGBoost][Outer 3/5] Optuna TPE
+[2026-10-29 18:05:36] [MX][XGBoost][Outer 3/5] | trial 6/50 | F1=0.5918 | mejor=0.5918
+[2026-10-29 18:05:38] [MX][XGBoost][Outer 3/5] | trial 6/50 | F1=0.5838 | mejor=0.5918
+[2026-10-29 18:05:38] [MX][XGBoost][Outer 3/5] | trial 6/50 | F1=0.5319 | mejor=0.5918
+[2026-10-29 18:05:40] [MX][XGBoost][Outer 3/5] | trial 6/50 | F1=0.5661 | mejor=0.5918
+[2026-10-29 18:05:41] [MX][XGBoost][Outer 3/5] | trial 6/50 | F1=0.5394 | mejor=0.5918
+[2026-10-29 18:05:42] [MX][XGBoost][Outer 3/5] | trial 6/50 | F1=0.5186 | mejor=0.5918
+[2026-10-29 18:05:44] [MX][XGBoost][Outer 3/5] | trial 7/50 | F1=0.5757 | mejor=0.5918
+[2026-10-29 18:05:45] [MX][XGBoost][Outer 3/5] | trial 8/50 | F1=0.5168 | mejor=0.5918
+[2026-10-29 18:05:46] [MX][XGBoost][Outer 3/5] | trial 9/50 | F1=0.5351 | mejor=0.5918
+[2026-10-29 18:05:48] [MX][XGBoost][Outer 3/5] | trial 10/50 | F1=0.6156 | mejor=0.6156
+[2026-10-29 18:05:48] [MX][XGBoost][Outer 3/5] | trial 11/50 | F1=0.5596 | mejor=0.6156
+[2026-10-29 18:05:50] [MX][XGBoost][Outer 3/5] | trial 12/50 | F1=0.6120 | mejor=0.6156
+[2026-10-29 18:05:52] [MX][XGBoost][Outer 3/5] | trial 13/50 | F1=0.6030 | mejor=0.6156
+[2026-10-29 18:05:53] [MX][XGBoost][Outer 3/5] | trial 14/50 | F1=0.6091 | mejor=0.6156
+[2026-10-29 18:05:55] [MX][XGBoost][Outer 3/5] | trial 15/50 | F1=0.6155 | mejor=0.6156
+[2026-10-29 18:05:56] [MX][XGBoost][Outer 3/5] | trial 16/50 | F1=0.6198 | mejor=0.6198
+[2026-10-29 18:05:58] [MX][XGBoost][Outer 3/5] | trial 17/50 | F1=0.6149 | mejor=0.6198
+[2026-10-29 18:06:00] [MX][XGBoost][Outer 3/5] | trial 18/50 | F1=0.5926 | mejor=0.6198
+[2026-10-29 18:06:01] [MX][XGBoost][Outer 3/5] | trial 19/50 | F1=0.6191 | mejor=0.6198
+[2026-10-29 18:06:02] [MX][XGBoost][Outer 3/5] | trial 20/50 | F1=0.6024 | mejor=0.6198
+[2026-10-29 18:06:04] [MX][XGBoost][Outer 3/5] | trial 21/50 | F1=0.6167 | mejor=0.6198
+[2026-10-29 18:06:05] [MX][XGBoost][Outer 3/5] | trial 22/50 | F1=0.6091 | mejor=0.6198
+[2026-10-29 18:06:06] [MX][XGBoost][Outer 3/5] | trial 23/50 | F1=0.5930 | mejor=0.6198
+[2026-10-29 18:06:08] [MX][XGBoost][Outer 3/5] | trial 24/50 | F1=0.6097 | mejor=0.6198
+[2026-10-29 18:06:09] [MX][XGBoost][Outer 3/5] | trial 25/50 | F1=0.5887 | mejor=0.6198
+[2026-10-29 18:06:10] [MX][XGBoost][Outer 3/5] | trial 26/50 | F1=0.5946 | mejor=0.6198
+[2026-10-29 18:06:12] [MX][XGBoost][Outer 3/5] | trial 27/50 | F1=0.5982 | mejor=0.6198
+[2026-10-29 18:06:13] [MX][XGBoost][Outer 3/5] | trial 28/50 | F1=0.5905 | mejor=0.6198
+[2026-10-29 18:06:14] [MX][XGBoost][Outer 3/5] | trial 29/50 | F1=0.6139 | mejor=0.6198
+[2026-10-29 18:06:16] [MX][XGBoost][Outer 3/5] | trial 30/50 | F1=0.6174 | mejor=0.6198
+[2026-10-29 18:06:17] [MX][XGBoost][Outer 3/5] | trial 31/50 | F1=0.6111 | mejor=0.6198
+[2026-10-29 18:06:18] [MX][XGBoost][Outer 3/5] | trial 32/50 | F1=0.6023 | mejor=0.6198
+[2026-10-29 18:06:20] [MX][XGBoost][Outer 3/5] | trial 33/50 | F1=0.6138 | mejor=0.6198
+[2026-10-29 18:06:21] [MX][XGBoost][Outer 3/5] | trial 34/50 | F1=0.6206 | mejor=0.6206
+[2026-10-29 18:06:23] [MX][XGBoost][Outer 3/5] | trial 35/50 | F1=0.6211 | mejor=0.6211
+[2026-10-29 18:06:24] [MX][XGBoost][Outer 3/5] | trial 36/50 | F1=0.6200 | mejor=0.6211
+[2026-10-29 18:06:26] [MX][XGBoost][Outer 3/5] | trial 37/50 | F1=0.5975 | mejor=0.6211
+[2026-10-29 18:06:27] [MX][XGBoost][Outer 3/5] | trial 38/50 | F1=0.6172 | mejor=0.6211
+[2026-10-29 18:06:29] [MX][XGBoost][Outer 3/5] | trial 39/50 | F1=0.6104 | mejor=0.6211
+[2026-10-29 18:06:30] [MX][XGBoost][Outer 3/5] | trial 40/50 | F1=0.6004 | mejor=0.6211
+[2026-10-29 18:06:32] [MX][XGBoost][Outer 3/5] | trial 41/50 | F1=0.6082 | mejor=0.6211
+[2026-10-29 18:06:33] [MX][XGBoost][Outer 3/5] | trial 42/50 | F1=0.6133 | mejor=0.6211
+[2026-10-29 18:06:35] [MX][XGBoost][Outer 3/5] | trial 43/50 | F1=0.6271 | mejor=0.6271
+[2026-10-29 18:06:36] [MX][XGBoost][Outer 3/5] | trial 44/50 | F1=0.6094 | mejor=0.6271
+[2026-10-29 18:06:38] [MX][XGBoost][Outer 3/5] | trial 45/50 | F1=0.6096 | mejor=0.6271
+[2026-10-29 18:06:40] [MX][XGBoost][Outer 3/5] | trial 46/50 | F1=0.6076 | mejor=0.6271
+[2026-10-29 18:06:41] [MX][XGBoost][Outer 3/5] | trial 47/50 | F1=0.6171 | mejor=0.6271
+[2026-10-29 18:06:43] [MX][XGBoost][Outer 3/5] | trial 48/50 | F1=0.6098 | mejor=0.6271
+[2026-10-29 18:06:44] [MX][XGBoost][Outer 3/5] | trial 49/50 | F1=0.6074 | mejor=0.6271
+[2026-10-29 18:06:46] [MX][XGBoost][Outer 3/5] | trial 50/50 | F1=0.6153 | mejor=0.6271
+[2026-10-29 18:06:46] [MX][XGBoost][Outer 4/5] Optuna TPE
+[2026-10-29 18:06:49] [MX][XGBoost][Outer 4/5] | trial 6/50 | F1=0.5689 | mejor=0.5689
+[2026-10-29 18:06:50] [MX][XGBoost][Outer 4/5] | trial 6/50 | F1=0.5724 | mejor=0.5724
+[2026-10-29 18:06:51] [MX][XGBoost][Outer 4/5] | trial 6/50 | F1=0.5724 | mejor=0.5724
+[2026-10-29 18:06:52] [MX][XGBoost][Outer 4/5] | trial 6/50 | F1=0.4825 | mejor=0.5724
+[2026-10-29 18:06:52] [MX][XGBoost][Outer 4/5] | trial 6/50 | F1=0.5656 | mejor=0.5724
+[2026-10-29 18:06:54] [MX][XGBoost][Outer 4/5] | trial 6/50 | F1=0.5586 | mejor=0.5724
+[2026-10-29 18:06:55] [MX][XGBoost][Outer 4/5] | trial 7/50 | F1=0.5730 | mejor=0.5730
+[2026-10-29 18:06:55] [MX][XGBoost][Outer 4/5] | trial 8/50 | F1=0.5646 | mejor=0.5730
+[2026-10-29 18:06:57] [MX][XGBoost][Outer 4/5] | trial 9/50 | F1=0.5379 | mejor=0.5730
+[2026-10-29 18:06:59] [MX][XGBoost][Outer 4/5] | trial 10/50 | F1=0.5668 | mejor=0.5730
+[2026-10-29 18:07:00] [MX][XGBoost][Outer 4/5] | trial 11/50 | F1=0.5781 | mejor=0.5781
+[2026-10-29 18:07:01] [MX][XGBoost][Outer 4/5] | trial 12/50 | F1=0.5441 | mejor=0.5781
+[2026-10-29 18:07:01] [MX][XGBoost][Outer 4/5] | trial 13/50 | F1=0.5502 | mejor=0.5781
+[2026-10-29 18:07:02] [MX][XGBoost][Outer 4/5] | trial 14/50 | F1=0.5778 | mejor=0.5781
+[2026-10-29 18:07:03] [MX][XGBoost][Outer 4/5] | trial 15/50 | F1=0.5824 | mejor=0.5824
+[2026-10-29 18:07:04] [MX][XGBoost][Outer 4/5] | trial 16/50 | F1=0.5844 | mejor=0.5844
+[2026-10-29 18:07:05] [MX][XGBoost][Outer 4/5] | trial 17/50 | F1=0.5819 | mejor=0.5844
+[2026-10-29 18:07:06] [MX][XGBoost][Outer 4/5] | trial 18/50 | F1=0.5868 | mejor=0.5868
+[2026-10-29 18:07:07] [MX][XGBoost][Outer 4/5] | trial 19/50 | F1=0.5780 | mejor=0.5868
+[2026-10-29 18:07:08] [MX][XGBoost][Outer 4/5] | trial 20/50 | F1=0.5826 | mejor=0.5868
+[2026-10-29 18:07:09] [MX][XGBoost][Outer 4/5] | trial 21/50 | F1=0.5779 | mejor=0.5868
+[2026-10-29 18:07:10] [MX][XGBoost][Outer 4/5] | trial 22/50 | F1=0.5801 | mejor=0.5868
+[2026-10-29 18:07:11] [MX][XGBoost][Outer 4/5] | trial 23/50 | F1=0.5853 | mejor=0.5868
+[2026-10-29 18:07:12] [MX][XGBoost][Outer 4/5] | trial 24/50 | F1=0.5842 | mejor=0.5868
+[2026-10-29 18:07:13] [MX][XGBoost][Outer 4/5] | trial 25/50 | F1=0.5840 | mejor=0.5868
+[2026-10-29 18:07:14] [MX][XGBoost][Outer 4/5] | trial 26/50 | F1=0.5771 | mejor=0.5868
+[2026-10-29 18:07:15] [MX][XGBoost][Outer 4/5] | trial 27/50 | F1=0.5823 | mejor=0.5868
+[2026-10-29 18:07:17] [MX][XGBoost][Outer 4/5] | trial 28/50 | F1=0.5874 | mejor=0.5874
+[2026-10-29 18:07:18] [MX][XGBoost][Outer 4/5] | trial 29/50 | F1=0.6010 | mejor=0.6010
+[2026-10-29 18:07:19] [MX][XGBoost][Outer 4/5] | trial 30/50 | F1=0.5834 | mejor=0.6010
+[2026-10-29 18:07:20] [MX][XGBoost][Outer 4/5] | trial 31/50 | F1=0.5825 | mejor=0.6010
+[2026-10-29 18:07:21] [MX][XGBoost][Outer 4/5] | trial 32/50 | F1=0.5804 | mejor=0.6010
+[2026-10-29 18:07:22] [MX][XGBoost][Outer 4/5] | trial 33/50 | F1=0.5955 | mejor=0.6010
+[2026-10-29 18:07:23] [MX][XGBoost][Outer 4/5] | trial 34/50 | F1=0.5866 | mejor=0.6010
+[2026-10-29 18:07:24] [MX][XGBoost][Outer 4/5] | trial 35/50 | F1=0.5744 | mejor=0.6010
+[2026-10-29 18:07:25] [MX][XGBoost][Outer 4/5] | trial 36/50 | F1=0.5898 | mejor=0.6010
+[2026-10-29 18:07:26] [MX][XGBoost][Outer 4/5] | trial 37/50 | F1=0.5881 | mejor=0.6010
+[2026-10-29 18:07:27] [MX][XGBoost][Outer 4/5] | trial 38/50 | F1=0.5770 | mejor=0.6010
+[2026-10-29 18:07:28] [MX][XGBoost][Outer 4/5] | trial 39/50 | F1=0.5727 | mejor=0.6010
+[2026-10-29 18:07:29] [MX][XGBoost][Outer 4/5] | trial 40/50 | F1=0.5895 | mejor=0.6010
+[2026-10-29 18:07:31] [MX][XGBoost][Outer 4/5] | trial 41/50 | F1=0.5908 | mejor=0.6010
+[2026-10-29 18:07:32] [MX][XGBoost][Outer 4/5] | trial 42/50 | F1=0.5862 | mejor=0.6010
+[2026-10-29 18:07:33] [MX][XGBoost][Outer 4/5] | trial 43/50 | F1=0.5774 | mejor=0.6010
+[2026-10-29 18:07:34] [MX][XGBoost][Outer 4/5] | trial 44/50 | F1=0.5780 | mejor=0.6010
+[2026-10-29 18:07:35] [MX][XGBoost][Outer 4/5] | trial 45/50 | F1=0.5820 | mejor=0.6010
+[2026-10-29 18:07:36] [MX][XGBoost][Outer 4/5] | trial 46/50 | F1=0.5900 | mejor=0.6010
+[2026-10-29 18:07:37] [MX][XGBoost][Outer 4/5] | trial 47/50 | F1=0.5885 | mejor=0.6010
+[2026-10-29 18:07:38] [MX][XGBoost][Outer 4/5] | trial 48/50 | F1=0.5864 | mejor=0.6010
+[2026-10-29 18:07:39] [MX][XGBoost][Outer 4/5] | trial 49/50 | F1=0.5906 | mejor=0.6010
+[2026-10-29 18:07:40] [MX][XGBoost][Outer 4/5] | trial 50/50 | F1=0.5901 | mejor=0.6010
+[2026-10-29 18:07:41] [MX][XGBoost][Outer 5/5] Optuna TPE
+[2026-10-29 18:07:42] [MX][XGBoost][Outer 5/5] | trial 6/50 | F1=0.5791 | mejor=0.5791
+[2026-10-29 18:07:43] [MX][XGBoost][Outer 5/5] | trial 6/50 | F1=0.5734 | mejor=0.5791
+[2026-10-29 18:07:44] [MX][XGBoost][Outer 5/5] | trial 6/50 | F1=0.5466 | mejor=0.5791
+[2026-10-29 18:07:46] [MX][XGBoost][Outer 5/5] | trial 6/50 | F1=0.5939 | mejor=0.5939
+[2026-10-29 18:07:47] [MX][XGBoost][Outer 5/5] | trial 6/50 | F1=0.5921 | mejor=0.5939
+[2026-10-29 18:07:49] [MX][XGBoost][Outer 5/5] | trial 6/50 | F1=0.5779 | mejor=0.5939
+[2026-10-29 18:07:52] [MX][XGBoost][Outer 5/5] | trial 7/50 | F1=0.5951 | mejor=0.5951
+[2026-10-29 18:07:53] [MX][XGBoost][Outer 5/5] | trial 8/50 | F1=0.5924 | mejor=0.5951
+[2026-10-29 18:07:54] [MX][XGBoost][Outer 5/5] | trial 9/50 | F1=0.5628 | mejor=0.5951
+[2026-10-29 18:07:56] [MX][XGBoost][Outer 5/5] | trial 10/50 | F1=0.4944 | mejor=0.5951
+[2026-10-29 18:07:58] [MX][XGBoost][Outer 5/5] | trial 11/50 | F1=0.5465 | mejor=0.5951
+[2026-10-29 18:08:00] [MX][XGBoost][Outer 5/5] | trial 12/50 | F1=0.5935 | mejor=0.5951
+[2026-10-29 18:08:02] [MX][XGBoost][Outer 5/5] | trial 13/50 | F1=0.5724 | mejor=0.5951
+[2026-10-29 18:08:05] [MX][XGBoost][Outer 5/5] | trial 14/50 | F1=0.6019 | mejor=0.6019
+[2026-10-29 18:08:06] [MX][XGBoost][Outer 5/5] | trial 15/50 | F1=0.5844 | mejor=0.6019
+[2026-10-29 18:08:09] [MX][XGBoost][Outer 5/5] | trial 16/50 | F1=0.6028 | mejor=0.6028
+[2026-10-29 18:08:11] [MX][XGBoost][Outer 5/5] | trial 17/50 | F1=0.5927 | mejor=0.6028
+[2026-10-29 18:08:13] [MX][XGBoost][Outer 5/5] | trial 18/50 | F1=0.6034 | mejor=0.6034
+[2026-10-29 18:08:15] [MX][XGBoost][Outer 5/5] | trial 19/50 | F1=0.5775 | mejor=0.6034
+[2026-10-29 18:08:17] [MX][XGBoost][Outer 5/5] | trial 20/50 | F1=0.6011 | mejor=0.6034
+[2026-10-29 18:08:19] [MX][XGBoost][Outer 5/5] | trial 21/50 | F1=0.6068 | mejor=0.6068
+[2026-10-29 18:08:20] [MX][XGBoost][Outer 5/5] | trial 22/50 | F1=0.6016 | mejor=0.6068
+[2026-10-29 18:08:22] [MX][XGBoost][Outer 5/5] | trial 23/50 | F1=0.5983 | mejor=0.6068
+[2026-10-29 18:08:25] [MX][XGBoost][Outer 5/5] | trial 24/50 | F1=0.5688 | mejor=0.6068
+[2026-10-29 18:08:27] [MX][XGBoost][Outer 5/5] | trial 25/50 | F1=0.5992 | mejor=0.6068
+[2026-10-29 18:08:29] [MX][XGBoost][Outer 5/5] | trial 26/50 | F1=0.6041 | mejor=0.6068
+[2026-10-29 18:08:31] [MX][XGBoost][Outer 5/5] | trial 27/50 | F1=0.6034 | mejor=0.6068
+[2026-10-29 18:08:34] [MX][XGBoost][Outer 5/5] | trial 28/50 | F1=0.5894 | mejor=0.6068
+[2026-10-29 18:08:35] [MX][XGBoost][Outer 5/5] | trial 29/50 | F1=0.5969 | mejor=0.6068
+[2026-10-29 18:08:38] [MX][XGBoost][Outer 5/5] | trial 30/50 | F1=0.5995 | mejor=0.6068
+[2026-10-29 18:08:40] [MX][XGBoost][Outer 5/5] | trial 31/50 | F1=0.6012 | mejor=0.6068
+[2026-10-29 18:08:42] [MX][XGBoost][Outer 5/5] | trial 32/50 | F1=0.6015 | mejor=0.6068
+[2026-10-29 18:08:44] [MX][XGBoost][Outer 5/5] | trial 33/50 | F1=0.5963 | mejor=0.6068
+[2026-10-29 18:08:46] [MX][XGBoost][Outer 5/5] | trial 34/50 | F1=0.5970 | mejor=0.6068
+[2026-10-29 18:08:48] [MX][XGBoost][Outer 5/5] | trial 35/50 | F1=0.6041 | mejor=0.6068
+[2026-10-29 18:08:51] [MX][XGBoost][Outer 5/5] | trial 36/50 | F1=0.5969 | mejor=0.6068
+[2026-10-29 18:08:53] [MX][XGBoost][Outer 5/5] | trial 37/50 | F1=0.5977 | mejor=0.6068
+[2026-10-29 18:08:56] [MX][XGBoost][Outer 5/5] | trial 38/50 | F1=0.5947 | mejor=0.6068
+[2026-10-29 18:08:58] [MX][XGBoost][Outer 5/5] | trial 39/50 | F1=0.6001 | mejor=0.6068
+[2026-10-29 18:08:59] [MX][XGBoost][Outer 5/5] | trial 40/50 | F1=0.5944 | mejor=0.6068
+[2026-10-29 18:09:02] [MX][XGBoost][Outer 5/5] | trial 41/50 | F1=0.5670 | mejor=0.6068
+[2026-10-29 18:09:04] [MX][XGBoost][Outer 5/5] | trial 42/50 | F1=0.6036 | mejor=0.6068
+[2026-10-29 18:09:06] [MX][XGBoost][Outer 5/5] | trial 43/50 | F1=0.5992 | mejor=0.6068
+[2026-10-29 18:09:08] [MX][XGBoost][Outer 5/5] | trial 44/50 | F1=0.5862 | mejor=0.6068
+[2026-10-29 18:09:10] [MX][XGBoost][Outer 5/5] | trial 45/50 | F1=0.6004 | mejor=0.6068
+[2026-10-29 18:09:12] [MX][XGBoost][Outer 5/5] | trial 46/50 | F1=0.6016 | mejor=0.6068
+[2026-10-29 18:09:15] [MX][XGBoost][Outer 5/5] | trial 47/50 | F1=0.5950 | mejor=0.6068
+[2026-10-29 18:09:17] [MX][XGBoost][Outer 5/5] | trial 48/50 | F1=0.6029 | mejor=0.6068
+[2026-10-29 18:09:18] [MX][XGBoost][Outer 5/5] | trial 49/50 | F1=0.6018 | mejor=0.6068
+[2026-10-29 18:09:21] [MX][XGBoost][Outer 5/5] | trial 50/50 | F1=0.5999 | mejor=0.6068
+[2026-10-29 18:09:22] [ES][XGBoost][Outer 1/5] Optuna TPE
+[2026-10-29 18:09:23] [ES][XGBoost][Outer 1/5] | trial 6/50 | F1=0.6767 | mejor=0.6767
+[2026-10-29 18:09:26] [ES][XGBoost][Outer 1/5] | trial 6/50 | F1=0.6733 | mejor=0.6767
+[2026-10-29 18:09:27] [ES][XGBoost][Outer 1/5] | trial 6/50 | F1=0.6751 | mejor=0.6767
+[2026-10-29 18:09:28] [ES][XGBoost][Outer 1/5] | trial 6/50 | F1=0.6587 | mejor=0.6767
+[2026-10-29 18:09:29] [ES][XGBoost][Outer 1/5] | trial 6/50 | F1=0.6540 | mejor=0.6767
+[2026-10-29 18:09:32] [ES][XGBoost][Outer 1/5] | trial 6/50 | F1=0.6750 | mejor=0.6767
+[2026-10-29 18:09:33] [ES][XGBoost][Outer 1/5] | trial 7/50 | F1=0.6677 | mejor=0.6767
+[2026-10-29 18:09:34] [ES][XGBoost][Outer 1/5] | trial 8/50 | F1=0.6646 | mejor=0.6767
+[2026-10-29 18:09:35] [ES][XGBoost][Outer 1/5] | trial 9/50 | F1=0.6625 | mejor=0.6767
+[2026-10-29 18:09:37] [ES][XGBoost][Outer 1/5] | trial 10/50 | F1=0.6663 | mejor=0.6767
+[2026-10-29 18:09:38] [ES][XGBoost][Outer 1/5] | trial 11/50 | F1=0.6322 | mejor=0.6767
+[2026-10-29 18:09:39] [ES][XGBoost][Outer 1/5] | trial 12/50 | F1=0.6679 | mejor=0.6767
+[2026-10-29 18:09:41] [ES][XGBoost][Outer 1/5] | trial 13/50 | F1=0.6761 | mejor=0.6767
+[2026-10-29 18:09:41] [ES][XGBoost][Outer 1/5] | trial 14/50 | F1=0.6784 | mejor=0.6784
+[2026-10-29 18:09:42] [ES][XGBoost][Outer 1/5] | trial 15/50 | F1=0.6743 | mejor=0.6784
+[2026-10-29 18:09:43] [ES][XGBoost][Outer 1/5] | trial 16/50 | F1=0.6617 | mejor=0.6784
+[2026-10-29 18:09:44] [ES][XGBoost][Outer 1/5] | trial 17/50 | F1=0.6868 | mejor=0.6868
+[2026-10-29 18:09:45] [ES][XGBoost][Outer 1/5] | trial 18/50 | F1=0.6816 | mejor=0.6868
+[2026-10-29 18:09:46] [ES][XGBoost][Outer 1/5] | trial 19/50 | F1=0.6900 | mejor=0.6900
+[2026-10-29 18:09:46] [ES][XGBoost][Outer 1/5] | trial 20/50 | F1=0.6711 | mejor=0.6900
+[2026-10-29 18:09:47] [ES][XGBoost][Outer 1/5] | trial 21/50 | F1=0.6936 | mejor=0.6936
+[2026-10-29 18:09:48] [ES][XGBoost][Outer 1/5] | trial 22/50 | F1=0.6591 | mejor=0.6936
+[2026-10-29 18:09:49] [ES][XGBoost][Outer 1/5] | trial 23/50 | F1=0.6819 | mejor=0.6936
+[2026-10-29 18:09:50] [ES][XGBoost][Outer 1/5] | trial 24/50 | F1=0.6889 | mejor=0.6936
+[2026-10-29 18:09:51] [ES][XGBoost][Outer 1/5] | trial 25/50 | F1=0.6718 | mejor=0.6936
+[2026-10-29 18:09:52] [ES][XGBoost][Outer 1/5] | trial 26/50 | F1=0.6806 | mejor=0.6936
+[2026-10-29 18:09:53] [ES][XGBoost][Outer 1/5] | trial 27/50 | F1=0.6490 | mejor=0.6936
+[2026-10-29 18:09:54] [ES][XGBoost][Outer 1/5] | trial 28/50 | F1=0.6833 | mejor=0.6936
+[2026-10-29 18:09:54] [ES][XGBoost][Outer 1/5] | trial 29/50 | F1=0.6908 | mejor=0.6936
+[2026-10-29 18:09:55] [ES][XGBoost][Outer 1/5] | trial 30/50 | F1=0.6859 | mejor=0.6936
+[2026-10-29 18:09:55] [ES][XGBoost][Outer 1/5] | trial 31/50 | F1=0.6836 | mejor=0.6936
+[2026-10-29 18:09:56] [ES][XGBoost][Outer 1/5] | trial 32/50 | F1=0.6856 | mejor=0.6936
+[2026-10-29 18:09:57] [ES][XGBoost][Outer 1/5] | trial 33/50 | F1=0.6757 | mejor=0.6936
+[2026-10-29 18:09:57] [ES][XGBoost][Outer 1/5] | trial 34/50 | F1=0.6722 | mejor=0.6936
+[2026-10-29 18:09:58] [ES][XGBoost][Outer 1/5] | trial 35/50 | F1=0.6819 | mejor=0.6936
+[2026-10-29 18:09:59] [ES][XGBoost][Outer 1/5] | trial 36/50 | F1=0.6869 | mejor=0.6936
+[2026-10-29 18:10:00] [ES][XGBoost][Outer 1/5] | trial 37/50 | F1=0.6912 | mejor=0.6936
+[2026-10-29 18:10:01] [ES][XGBoost][Outer 1/5] | trial 38/50 | F1=0.6863 | mejor=0.6936
+[2026-10-29 18:10:01] [ES][XGBoost][Outer 1/5] | trial 39/50 | F1=0.6858 | mejor=0.6936
+[2026-10-29 18:10:02] [ES][XGBoost][Outer 1/5] | trial 40/50 | F1=0.6807 | mejor=0.6936
+[2026-10-29 18:10:02] [ES][XGBoost][Outer 1/5] | trial 41/50 | F1=0.6932 | mejor=0.6936
+[2026-10-29 18:10:03] [ES][XGBoost][Outer 1/5] | trial 42/50 | F1=0.6847 | mejor=0.6936
+[2026-10-29 18:10:04] [ES][XGBoost][Outer 1/5] | trial 43/50 | F1=0.6901 | mejor=0.6936
+[2026-10-29 18:10:05] [ES][XGBoost][Outer 1/5] | trial 44/50 | F1=0.6951 | mejor=0.6951
+[2026-10-29 18:10:05] [ES][XGBoost][Outer 1/5] | trial 45/50 | F1=0.6940 | mejor=0.6951
+[2026-10-29 18:10:06] [ES][XGBoost][Outer 1/5] | trial 46/50 | F1=0.6908 | mejor=0.6951
+[2026-10-29 18:10:07] [ES][XGBoost][Outer 1/5] | trial 47/50 | F1=0.6938 | mejor=0.6951
+[2026-10-29 18:10:07] [ES][XGBoost][Outer 1/5] | trial 48/50 | F1=0.6889 | mejor=0.6951
+[2026-10-29 18:10:08] [ES][XGBoost][Outer 1/5] | trial 49/50 | F1=0.6814 | mejor=0.6951
+[2026-10-29 18:10:09] [ES][XGBoost][Outer 1/5] | trial 50/50 | F1=0.6807 | mejor=0.6951
+[2026-10-29 18:10:09] [ES][XGBoost][Outer 2/5] Optuna TPE
+[2026-10-29 18:10:11] [ES][XGBoost][Outer 2/5] | trial 6/50 | F1=0.6626 | mejor=0.6626
+[2026-10-29 18:10:14] [ES][XGBoost][Outer 2/5] | trial 6/50 | F1=0.6639 | mejor=0.6639
+[2026-10-29 18:10:15] [ES][XGBoost][Outer 2/5] | trial 6/50 | F1=0.6672 | mejor=0.6672
+[2026-10-29 18:10:17] [ES][XGBoost][Outer 2/5] | trial 6/50 | F1=0.6427 | mejor=0.6672
+[2026-10-29 18:10:17] [ES][XGBoost][Outer 2/5] | trial 6/50 | F1=0.6142 | mejor=0.6672
+[2026-10-29 18:10:20] [ES][XGBoost][Outer 2/5] | trial 6/50 | F1=0.6660 | mejor=0.6672
+[2026-10-29 18:10:21] [ES][XGBoost][Outer 2/5] | trial 7/50 | F1=0.6624 | mejor=0.6672
+[2026-10-29 18:10:22] [ES][XGBoost][Outer 2/5] | trial 8/50 | F1=0.6668 | mejor=0.6672
+[2026-10-29 18:10:22] [ES][XGBoost][Outer 2/5] | trial 9/50 | F1=0.6559 | mejor=0.6672
+[2026-10-29 18:10:23] [ES][XGBoost][Outer 2/5] | trial 10/50 | F1=0.6535 | mejor=0.6672
+[2026-10-29 18:10:24] [ES][XGBoost][Outer 2/5] | trial 11/50 | F1=0.6707 | mejor=0.6707
+[2026-10-29 18:10:25] [ES][XGBoost][Outer 2/5] | trial 12/50 | F1=0.6573 | mejor=0.6707
+[2026-10-29 18:10:26] [ES][XGBoost][Outer 2/5] | trial 13/50 | F1=0.6729 | mejor=0.6729
+[2026-10-29 18:10:26] [ES][XGBoost][Outer 2/5] | trial 14/50 | F1=0.6699 | mejor=0.6729
+[2026-10-29 18:10:27] [ES][XGBoost][Outer 2/5] | trial 15/50 | F1=0.6740 | mejor=0.6740
+[2026-10-29 18:10:28] [ES][XGBoost][Outer 2/5] | trial 16/50 | F1=0.6649 | mejor=0.6740
+[2026-10-29 18:10:29] [ES][XGBoost][Outer 2/5] | trial 17/50 | F1=0.6718 | mejor=0.6740
+[2026-10-29 18:10:29] [ES][XGBoost][Outer 2/5] | trial 18/50 | F1=0.6749 | mejor=0.6749
+[2026-10-29 18:10:30] [ES][XGBoost][Outer 2/5] | trial 19/50 | F1=0.6607 | mejor=0.6749
+[2026-10-29 18:10:31] [ES][XGBoost][Outer 2/5] | trial 20/50 | F1=0.6718 | mejor=0.6749
+[2026-10-29 18:10:32] [ES][XGBoost][Outer 2/5] | trial 21/50 | F1=0.6692 | mejor=0.6749
+[2026-10-29 18:10:32] [ES][XGBoost][Outer 2/5] | trial 22/50 | F1=0.6688 | mejor=0.6749
+[2026-10-29 18:10:33] [ES][XGBoost][Outer 2/5] | trial 23/50 | F1=0.6719 | mejor=0.6749
+[2026-10-29 18:10:34] [ES][XGBoost][Outer 2/5] | trial 24/50 | F1=0.6750 | mejor=0.6750
+[2026-10-29 18:10:35] [ES][XGBoost][Outer 2/5] | trial 25/50 | F1=0.6697 | mejor=0.6750
+[2026-10-29 18:10:35] [ES][XGBoost][Outer 2/5] | trial 26/50 | F1=0.6719 | mejor=0.6750
+[2026-10-29 18:10:36] [ES][XGBoost][Outer 2/5] | trial 27/50 | F1=0.6749 | mejor=0.6750
+[2026-10-29 18:10:36] [ES][XGBoost][Outer 2/5] | trial 28/50 | F1=0.6798 | mejor=0.6798
+[2026-10-29 18:10:37] [ES][XGBoost][Outer 2/5] | trial 29/50 | F1=0.6812 | mejor=0.6812
+[2026-10-29 18:10:37] [ES][XGBoost][Outer 2/5] | trial 30/50 | F1=0.6736 | mejor=0.6812
+[2026-10-29 18:10:38] [ES][XGBoost][Outer 2/5] | trial 31/50 | F1=0.6639 | mejor=0.6812
+[2026-10-29 18:10:38] [ES][XGBoost][Outer 2/5] | trial 32/50 | F1=0.6689 | mejor=0.6812
+[2026-10-29 18:10:39] [ES][XGBoost][Outer 2/5] | trial 33/50 | F1=0.6775 | mejor=0.6812
+[2026-10-29 18:10:40] [ES][XGBoost][Outer 2/5] | trial 34/50 | F1=0.6669 | mejor=0.6812
+[2026-10-29 18:10:40] [ES][XGBoost][Outer 2/5] | trial 35/50 | F1=0.6758 | mejor=0.6812
+[2026-10-29 18:10:41] [ES][XGBoost][Outer 2/5] | trial 36/50 | F1=0.6710 | mejor=0.6812
+[2026-10-29 18:10:41] [ES][XGBoost][Outer 2/5] | trial 37/50 | F1=0.6778 | mejor=0.6812
+[2026-10-29 18:10:41] [ES][XGBoost][Outer 2/5] | trial 38/50 | F1=0.6743 | mejor=0.6812
+[2026-10-29 18:10:42] [ES][XGBoost][Outer 2/5] | trial 39/50 | F1=0.6672 | mejor=0.6812
+[2026-10-29 18:10:43] [ES][XGBoost][Outer 2/5] | trial 40/50 | F1=0.6752 | mejor=0.6812
+[2026-10-29 18:10:43] [ES][XGBoost][Outer 2/5] | trial 41/50 | F1=0.6726 | mejor=0.6812
+[2026-10-29 18:10:44] [ES][XGBoost][Outer 2/5] | trial 42/50 | F1=0.6752 | mejor=0.6812
+[2026-10-29 18:10:44] [ES][XGBoost][Outer 2/5] | trial 43/50 | F1=0.6729 | mejor=0.6812
+[2026-10-29 18:10:45] [ES][XGBoost][Outer 2/5] | trial 44/50 | F1=0.6737 | mejor=0.6812
+[2026-10-29 18:10:45] [ES][XGBoost][Outer 2/5] | trial 45/50 | F1=0.6823 | mejor=0.6823
+[2026-10-29 18:10:46] [ES][XGBoost][Outer 2/5] | trial 46/50 | F1=0.6765 | mejor=0.6823
+[2026-10-29 18:10:46] [ES][XGBoost][Outer 2/5] | trial 47/50 | F1=0.6775 | mejor=0.6823
+[2026-10-29 18:10:46] [ES][XGBoost][Outer 2/5] | trial 48/50 | F1=0.6827 | mejor=0.6827
+[2026-10-29 18:10:47] [ES][XGBoost][Outer 2/5] | trial 49/50 | F1=0.6737 | mejor=0.6827
+[2026-10-29 18:10:47] [ES][XGBoost][Outer 2/5] | trial 50/50 | F1=0.6774 | mejor=0.6827
+[2026-10-29 18:10:48] [ES][XGBoost][Outer 3/5] Optuna TPE
+[2026-10-29 18:10:50] [ES][XGBoost][Outer 3/5] | trial 6/50 | F1=0.6729 | mejor=0.6729
+[2026-10-29 18:10:52] [ES][XGBoost][Outer 3/5] | trial 6/50 | F1=0.6581 | mejor=0.6729
+[2026-10-29 18:10:53] [ES][XGBoost][Outer 3/5] | trial 6/50 | F1=0.6499 | mejor=0.6729
+[2026-10-29 18:10:55] [ES][XGBoost][Outer 3/5] | trial 6/50 | F1=0.6620 | mejor=0.6729
+[2026-10-29 18:10:56] [ES][XGBoost][Outer 3/5] | trial 6/50 | F1=0.6557 | mejor=0.6729
+[2026-10-29 18:10:57] [ES][XGBoost][Outer 3/5] | trial 6/50 | F1=0.6497 | mejor=0.6729
+[2026-10-29 18:10:59] [ES][XGBoost][Outer 3/5] | trial 7/50 | F1=0.6546 | mejor=0.6729
+[2026-10-29 18:11:00] [ES][XGBoost][Outer 3/5] | trial 8/50 | F1=0.6372 | mejor=0.6729
+[2026-10-29 18:11:02] [ES][XGBoost][Outer 3/5] | trial 9/50 | F1=0.6664 | mejor=0.6729
+[2026-10-29 18:11:03] [ES][XGBoost][Outer 3/5] | trial 10/50 | F1=0.6823 | mejor=0.6823
+[2026-10-29 18:11:04] [ES][XGBoost][Outer 3/5] | trial 11/50 | F1=0.6727 | mejor=0.6823
+[2026-10-29 18:11:06] [ES][XGBoost][Outer 3/5] | trial 12/50 | F1=0.6699 | mejor=0.6823
+[2026-10-29 18:11:07] [ES][XGBoost][Outer 3/5] | trial 13/50 | F1=0.6868 | mejor=0.6868
+[2026-10-29 18:11:09] [ES][XGBoost][Outer 3/5] | trial 14/50 | F1=0.6832 | mejor=0.6868
+[2026-10-29 18:11:10] [ES][XGBoost][Outer 3/5] | trial 15/50 | F1=0.6818 | mejor=0.6868
+[2026-10-29 18:11:12] [ES][XGBoost][Outer 3/5] | trial 16/50 | F1=0.6762 | mejor=0.6868
+[2026-10-29 18:11:13] [ES][XGBoost][Outer 3/5] | trial 17/50 | F1=0.6771 | mejor=0.6868
+[2026-10-29 18:11:15] [ES][XGBoost][Outer 3/5] | trial 18/50 | F1=0.6848 | mejor=0.6868
+[2026-10-29 18:11:16] [ES][XGBoost][Outer 3/5] | trial 19/50 | F1=0.6790 | mejor=0.6868
+[2026-10-29 18:11:17] [ES][XGBoost][Outer 3/5] | trial 20/50 | F1=0.6833 | mejor=0.6868
+[2026-10-29 18:11:18] [ES][XGBoost][Outer 3/5] | trial 21/50 | F1=0.6824 | mejor=0.6868
+[2026-10-29 18:11:20] [ES][XGBoost][Outer 3/5] | trial 22/50 | F1=0.6757 | mejor=0.6868
+[2026-10-29 18:11:21] [ES][XGBoost][Outer 3/5] | trial 23/50 | F1=0.6870 | mejor=0.6870
+[2026-10-29 18:11:22] [ES][XGBoost][Outer 3/5] | trial 24/50 | F1=0.6752 | mejor=0.6870
+[2026-10-29 18:11:23] [ES][XGBoost][Outer 3/5] | trial 25/50 | F1=0.6754 | mejor=0.6870
+[2026-10-29 18:11:24] [ES][XGBoost][Outer 3/5] | trial 26/50 | F1=0.6884 | mejor=0.6884
+[2026-10-29 18:11:25] [ES][XGBoost][Outer 3/5] | trial 27/50 | F1=0.6939 | mejor=0.6939
+[2026-10-29 18:11:26] [ES][XGBoost][Outer 3/5] | trial 28/50 | F1=0.6875 | mejor=0.6939
+[2026-10-29 18:11:27] [ES][XGBoost][Outer 3/5] | trial 29/50 | F1=0.6766 | mejor=0.6939
+[2026-10-29 18:11:28] [ES][XGBoost][Outer 3/5] | trial 30/50 | F1=0.6916 | mejor=0.6939
+[2026-10-29 18:11:30] [ES][XGBoost][Outer 3/5] | trial 31/50 | F1=0.6911 | mejor=0.6939
+[2026-10-29 18:11:31] [ES][XGBoost][Outer 3/5] | trial 32/50 | F1=0.6707 | mejor=0.6939
+[2026-10-29 18:11:32] [ES][XGBoost][Outer 3/5] | trial 33/50 | F1=0.6873 | mejor=0.6939
+[2026-10-29 18:11:33] [ES][XGBoost][Outer 3/5] | trial 34/50 | F1=0.6857 | mejor=0.6939
+[2026-10-29 18:11:34] [ES][XGBoost][Outer 3/5] | trial 35/50 | F1=0.6917 | mejor=0.6939
+[2026-10-29 18:11:35] [ES][XGBoost][Outer 3/5] | trial 36/50 | F1=0.6504 | mejor=0.6939
+[2026-10-29 18:11:36] [ES][XGBoost][Outer 3/5] | trial 37/50 | F1=0.6935 | mejor=0.6939
+[2026-10-29 18:11:37] [ES][XGBoost][Outer 3/5] | trial 38/50 | F1=0.6795 | mejor=0.6939
+[2026-10-29 18:11:39] [ES][XGBoost][Outer 3/5] | trial 39/50 | F1=0.6925 | mejor=0.6939
+[2026-10-29 18:11:40] [ES][XGBoost][Outer 3/5] | trial 40/50 | F1=0.6868 | mejor=0.6939
+[2026-10-29 18:11:41] [ES][XGBoost][Outer 3/5] | trial 41/50 | F1=0.6793 | mejor=0.6939
+[2026-10-29 18:11:42] [ES][XGBoost][Outer 3/5] | trial 42/50 | F1=0.6866 | mejor=0.6939
+[2026-10-29 18:11:43] [ES][XGBoost][Outer 3/5] | trial 43/50 | F1=0.6926 | mejor=0.6939
+[2026-10-29 18:11:44] [ES][XGBoost][Outer 3/5] | trial 44/50 | F1=0.6847 | mejor=0.6939
+[2026-10-29 18:11:45] [ES][XGBoost][Outer 3/5] | trial 45/50 | F1=0.6893 | mejor=0.6939
+[2026-10-29 18:11:47] [ES][XGBoost][Outer 3/5] | trial 46/50 | F1=0.6867 | mejor=0.6939
+[2026-10-29 18:11:48] [ES][XGBoost][Outer 3/5] | trial 47/50 | F1=0.6852 | mejor=0.6939
+[2026-10-29 18:11:49] [ES][XGBoost][Outer 3/5] | trial 48/50 | F1=0.6703 | mejor=0.6939
+[2026-10-29 18:11:51] [ES][XGBoost][Outer 3/5] | trial 49/50 | F1=0.6866 | mejor=0.6939
+[2026-10-29 18:11:52] [ES][XGBoost][Outer 3/5] | trial 50/50 | F1=0.6743 | mejor=0.6939
+[2026-10-29 18:11:52] [ES][XGBoost][Outer 4/5] Optuna TPE
+[2026-10-29 18:11:54] [ES][XGBoost][Outer 4/5] | trial 6/50 | F1=0.6699 | mejor=0.6699
+[2026-10-29 18:11:56] [ES][XGBoost][Outer 4/5] | trial 6/50 | F1=0.6576 | mejor=0.6699
+[2026-10-29 18:11:57] [ES][XGBoost][Outer 4/5] | trial 6/50 | F1=0.6695 | mejor=0.6699
+[2026-10-29 18:11:58] [ES][XGBoost][Outer 4/5] | trial 6/50 | F1=0.6225 | mejor=0.6699
+[2026-10-29 18:11:59] [ES][XGBoost][Outer 4/5] | trial 6/50 | F1=0.6697 | mejor=0.6699
+[2026-10-29 18:12:00] [ES][XGBoost][Outer 4/5] | trial 6/50 | F1=0.6549 | mejor=0.6699
+[2026-10-29 18:12:01] [ES][XGBoost][Outer 4/5] | trial 7/50 | F1=0.6600 | mejor=0.6699
+[2026-10-29 18:12:02] [ES][XGBoost][Outer 4/5] | trial 8/50 | F1=0.6686 | mejor=0.6699
+[2026-10-29 18:12:04] [ES][XGBoost][Outer 4/5] | trial 9/50 | F1=0.6468 | mejor=0.6699
+[2026-10-29 18:12:06] [ES][XGBoost][Outer 4/5] | trial 10/50 | F1=0.6649 | mejor=0.6699
+[2026-10-29 18:12:08] [ES][XGBoost][Outer 4/5] | trial 11/50 | F1=0.6707 | mejor=0.6707
+[2026-10-29 18:12:12] [ES][XGBoost][Outer 4/5] | trial 12/50 | F1=0.6644 | mejor=0.6707
+[2026-10-29 18:12:14] [ES][XGBoost][Outer 4/5] | trial 13/50 | F1=0.6683 | mejor=0.6707
+[2026-10-29 18:12:16] [ES][XGBoost][Outer 4/5] | trial 14/50 | F1=0.6753 | mejor=0.6753
+[2026-10-29 18:12:17] [ES][XGBoost][Outer 4/5] | trial 15/50 | F1=0.6581 | mejor=0.6753
+[2026-10-29 18:12:19] [ES][XGBoost][Outer 4/5] | trial 16/50 | F1=0.6623 | mejor=0.6753
+[2026-10-29 18:12:21] [ES][XGBoost][Outer 4/5] | trial 17/50 | F1=0.6617 | mejor=0.6753
+[2026-10-29 18:12:23] [ES][XGBoost][Outer 4/5] | trial 18/50 | F1=0.6615 | mejor=0.6753
+[2026-10-29 18:12:24] [ES][XGBoost][Outer 4/5] | trial 19/50 | F1=0.6699 | mejor=0.6753
+[2026-10-29 18:12:25] [ES][XGBoost][Outer 4/5] | trial 20/50 | F1=0.6761 | mejor=0.6761
+[2026-10-29 18:12:27] [ES][XGBoost][Outer 4/5] | trial 21/50 | F1=0.6760 | mejor=0.6761
+[2026-10-29 18:12:28] [ES][XGBoost][Outer 4/5] | trial 22/50 | F1=0.6642 | mejor=0.6761
+[2026-10-29 18:12:30] [ES][XGBoost][Outer 4/5] | trial 23/50 | F1=0.6784 | mejor=0.6784
+[2026-10-29 18:12:31] [ES][XGBoost][Outer 4/5] | trial 24/50 | F1=0.6806 | mejor=0.6806
+[2026-10-29 18:12:32] [ES][XGBoost][Outer 4/5] | trial 25/50 | F1=0.6754 | mejor=0.6806
+[2026-10-29 18:12:34] [ES][XGBoost][Outer 4/5] | trial 26/50 | F1=0.6786 | mejor=0.6806
+[2026-10-29 18:12:35] [ES][XGBoost][Outer 4/5] | trial 27/50 | F1=0.6605 | mejor=0.6806
+[2026-10-29 18:12:36] [ES][XGBoost][Outer 4/5] | trial 28/50 | F1=0.6763 | mejor=0.6806
+[2026-10-29 18:12:38] [ES][XGBoost][Outer 4/5] | trial 29/50 | F1=0.6745 | mejor=0.6806
+[2026-10-29 18:12:39] [ES][XGBoost][Outer 4/5] | trial 30/50 | F1=0.6692 | mejor=0.6806
+[2026-10-29 18:12:40] [ES][XGBoost][Outer 4/5] | trial 31/50 | F1=0.6737 | mejor=0.6806
+[2026-10-29 18:12:42] [ES][XGBoost][Outer 4/5] | trial 32/50 | F1=0.6731 | mejor=0.6806
+[2026-10-29 18:12:43] [ES][XGBoost][Outer 4/5] | trial 33/50 | F1=0.6789 | mejor=0.6806
+[2026-10-29 18:12:44] [ES][XGBoost][Outer 4/5] | trial 34/50 | F1=0.6702 | mejor=0.6806
+[2026-10-29 18:12:45] [ES][XGBoost][Outer 4/5] | trial 35/50 | F1=0.6778 | mejor=0.6806
+[2026-10-29 18:12:46] [ES][XGBoost][Outer 4/5] | trial 36/50 | F1=0.6716 | mejor=0.6806
+[2026-10-29 18:12:48] [ES][XGBoost][Outer 4/5] | trial 37/50 | F1=0.6760 | mejor=0.6806
+[2026-10-29 18:12:49] [ES][XGBoost][Outer 4/5] | trial 38/50 | F1=0.6794 | mejor=0.6806
+[2026-10-29 18:12:50] [ES][XGBoost][Outer 4/5] | trial 39/50 | F1=0.6822 | mejor=0.6822
+[2026-10-29 18:12:51] [ES][XGBoost][Outer 4/5] | trial 40/50 | F1=0.6748 | mejor=0.6822
+[2026-10-29 18:12:53] [ES][XGBoost][Outer 4/5] | trial 41/50 | F1=0.6819 | mejor=0.6822
+[2026-10-29 18:12:54] [ES][XGBoost][Outer 4/5] | trial 42/50 | F1=0.6819 | mejor=0.6822
+[2026-10-29 18:12:55] [ES][XGBoost][Outer 4/5] | trial 43/50 | F1=0.6816 | mejor=0.6822
+[2026-10-29 18:12:56] [ES][XGBoost][Outer 4/5] | trial 44/50 | F1=0.6773 | mejor=0.6822
+[2026-10-29 18:12:58] [ES][XGBoost][Outer 4/5] | trial 45/50 | F1=0.6871 | mejor=0.6871
+[2026-10-29 18:12:59] [ES][XGBoost][Outer 4/5] | trial 46/50 | F1=0.6711 | mejor=0.6871
+[2026-10-29 18:13:00] [ES][XGBoost][Outer 4/5] | trial 47/50 | F1=0.6848 | mejor=0.6871
+[2026-10-29 18:13:02] [ES][XGBoost][Outer 4/5] | trial 48/50 | F1=0.6766 | mejor=0.6871
+[2026-10-29 18:13:03] [ES][XGBoost][Outer 4/5] | trial 49/50 | F1=0.6816 | mejor=0.6871
+[2026-10-29 18:13:04] [ES][XGBoost][Outer 4/5] | trial 50/50 | F1=0.6786 | mejor=0.6871
+[2026-10-29 18:13:05] [ES][XGBoost][Outer 5/5] Optuna TPE
+[2026-10-29 18:13:06] [ES][XGBoost][Outer 5/5] | trial 6/50 | F1=0.6841 | mejor=0.6841
+[2026-10-29 18:13:07] [ES][XGBoost][Outer 5/5] | trial 6/50 | F1=0.6670 | mejor=0.6841
+[2026-10-29 18:13:08] [ES][XGBoost][Outer 5/5] | trial 6/50 | F1=0.6653 | mejor=0.6841
+[2026-10-29 18:13:11] [ES][XGBoost][Outer 5/5] | trial 6/50 | F1=0.6746 | mejor=0.6841
+[2026-10-29 18:13:12] [ES][XGBoost][Outer 5/5] | trial 6/50 | F1=0.6793 | mejor=0.6841
+[2026-10-29 18:13:15] [ES][XGBoost][Outer 5/5] | trial 6/50 | F1=0.6667 | mejor=0.6841
+[2026-10-29 18:13:17] [ES][XGBoost][Outer 5/5] | trial 7/50 | F1=0.6721 | mejor=0.6841
+[2026-10-29 18:13:18] [ES][XGBoost][Outer 5/5] | trial 8/50 | F1=0.6828 | mejor=0.6841
+[2026-10-29 18:13:20] [ES][XGBoost][Outer 5/5] | trial 9/50 | F1=0.6636 | mejor=0.6841
+[2026-10-29 18:13:21] [ES][XGBoost][Outer 5/5] | trial 10/50 | F1=0.6306 | mejor=0.6841
+[2026-10-29 18:13:22] [ES][XGBoost][Outer 5/5] | trial 11/50 | F1=0.6791 | mejor=0.6841
+[2026-10-29 18:13:23] [ES][XGBoost][Outer 5/5] | trial 12/50 | F1=0.6927 | mejor=0.6927
+[2026-10-29 18:13:24] [ES][XGBoost][Outer 5/5] | trial 13/50 | F1=0.6764 | mejor=0.6927
+[2026-10-29 18:13:25] [ES][XGBoost][Outer 5/5] | trial 14/50 | F1=0.6755 | mejor=0.6927
+[2026-10-29 18:13:26] [ES][XGBoost][Outer 5/5] | trial 15/50 | F1=0.6863 | mejor=0.6927
+[2026-10-29 18:13:28] [ES][XGBoost][Outer 5/5] | trial 16/50 | F1=0.6805 | mejor=0.6927
+[2026-10-29 18:13:29] [ES][XGBoost][Outer 5/5] | trial 17/50 | F1=0.6787 | mejor=0.6927
+[2026-10-29 18:13:30] [ES][XGBoost][Outer 5/5] | trial 18/50 | F1=0.6865 | mejor=0.6927
+[2026-10-29 18:13:32] [ES][XGBoost][Outer 5/5] | trial 19/50 | F1=0.6804 | mejor=0.6927
+[2026-10-29 18:13:32] [ES][XGBoost][Outer 5/5] | trial 20/50 | F1=0.6872 | mejor=0.6927
+[2026-10-29 18:13:34] [ES][XGBoost][Outer 5/5] | trial 21/50 | F1=0.6835 | mejor=0.6927
+[2026-10-29 18:13:35] [ES][XGBoost][Outer 5/5] | trial 22/50 | F1=0.6880 | mejor=0.6927
+[2026-10-29 18:13:36] [ES][XGBoost][Outer 5/5] | trial 23/50 | F1=0.6829 | mejor=0.6927
+[2026-10-29 18:13:37] [ES][XGBoost][Outer 5/5] | trial 24/50 | F1=0.6843 | mejor=0.6927
+[2026-10-29 18:13:38] [ES][XGBoost][Outer 5/5] | trial 25/50 | F1=0.6912 | mejor=0.6927
+[2026-10-29 18:13:39] [ES][XGBoost][Outer 5/5] | trial 26/50 | F1=0.6798 | mejor=0.6927
+[2026-10-29 18:13:41] [ES][XGBoost][Outer 5/5] | trial 27/50 | F1=0.6818 | mejor=0.6927
+[2026-10-29 18:13:42] [ES][XGBoost][Outer 5/5] | trial 28/50 | F1=0.6875 | mejor=0.6927
+[2026-10-29 18:13:43] [ES][XGBoost][Outer 5/5] | trial 29/50 | F1=0.6894 | mejor=0.6927
+[2026-10-29 18:13:44] [ES][XGBoost][Outer 5/5] | trial 30/50 | F1=0.6785 | mejor=0.6927
+[2026-10-29 18:13:46] [ES][XGBoost][Outer 5/5] | trial 31/50 | F1=0.6690 | mejor=0.6927
+[2026-10-29 18:13:47] [ES][XGBoost][Outer 5/5] | trial 32/50 | F1=0.6845 | mejor=0.6927
+[2026-10-29 18:13:48] [ES][XGBoost][Outer 5/5] | trial 33/50 | F1=0.6866 | mejor=0.6927
+[2026-10-29 18:13:49] [ES][XGBoost][Outer 5/5] | trial 34/50 | F1=0.6861 | mejor=0.6927
+[2026-10-29 18:13:50] [ES][XGBoost][Outer 5/5] | trial 35/50 | F1=0.6807 | mejor=0.6927
+[2026-10-29 18:13:52] [ES][XGBoost][Outer 5/5] | trial 36/50 | F1=0.6804 | mejor=0.6927
+[2026-10-29 18:13:53] [ES][XGBoost][Outer 5/5] | trial 37/50 | F1=0.6800 | mejor=0.6927
+[2026-10-29 18:13:54] [ES][XGBoost][Outer 5/5] | trial 38/50 | F1=0.6899 | mejor=0.6927
+[2026-10-29 18:13:55] [ES][XGBoost][Outer 5/5] | trial 39/50 | F1=0.6761 | mejor=0.6927
+[2026-10-29 18:13:56] [ES][XGBoost][Outer 5/5] | trial 40/50 | F1=0.6802 | mejor=0.6927
+[2026-10-29 18:13:58] [ES][XGBoost][Outer 5/5] | trial 41/50 | F1=0.6719 | mejor=0.6927
+[2026-10-29 18:13:59] [ES][XGBoost][Outer 5/5] | trial 42/50 | F1=0.6961 | mejor=0.6961
+[2026-10-29 18:14:00] [ES][XGBoost][Outer 5/5] | trial 43/50 | F1=0.6752 | mejor=0.6961
+[2026-10-29 18:14:01] [ES][XGBoost][Outer 5/5] | trial 44/50 | F1=0.6846 | mejor=0.6961
+[2026-10-29 18:14:02] [ES][XGBoost][Outer 5/5] | trial 45/50 | F1=0.6818 | mejor=0.6961
+[2026-10-29 18:14:04] [ES][XGBoost][Outer 5/5] | trial 46/50 | F1=0.6837 | mejor=0.6961
+[2026-10-29 18:14:05] [ES][XGBoost][Outer 5/5] | trial 47/50 | F1=0.6893 | mejor=0.6961
+[2026-10-29 18:14:06] [ES][XGBoost][Outer 5/5] | trial 48/50 | F1=0.6819 | mejor=0.6961
+[2026-10-29 18:14:07] [ES][XGBoost][Outer 5/5] | trial 49/50 | F1=0.6782 | mejor=0.6961
+[2026-10-29 18:14:08] [ES][XGBoost][Outer 5/5] | trial 50/50 | F1=0.6842 | mejor=0.6961
+[2026-10-29 18:14:09] [CU][XGBoost][Outer 1/5] Optuna TPE
+[2026-10-29 18:14:10] [CU][XGBoost][Outer 1/5] | trial 6/50 | F1=0.6194 | mejor=0.6194
+[2026-10-29 18:14:13] [CU][XGBoost][Outer 1/5] | trial 6/50 | F1=0.6399 | mejor=0.6399
+[2026-10-29 18:14:14] [CU][XGBoost][Outer 1/5] | trial 6/50 | F1=0.6147 | mejor=0.6399
+[2026-10-29 18:14:15] [CU][XGBoost][Outer 1/5] | trial 6/50 | F1=0.5966 | mejor=0.6399
+[2026-10-29 18:14:16] [CU][XGBoost][Outer 1/5] | trial 6/50 | F1=0.5914 | mejor=0.6399
+[2026-10-29 18:14:19] [CU][XGBoost][Outer 1/5] | trial 6/50 | F1=0.6307 | mejor=0.6399
+[2026-10-29 18:14:20] [CU][XGBoost][Outer 1/5] | trial 7/50 | F1=0.6242 | mejor=0.6399
+[2026-10-29 18:14:22] [CU][XGBoost][Outer 1/5] | trial 8/50 | F1=0.5994 | mejor=0.6399
+[2026-10-29 18:14:23] [CU][XGBoost][Outer 1/5] | trial 9/50 | F1=0.6142 | mejor=0.6399
+[2026-10-29 18:14:25] [CU][XGBoost][Outer 1/5] | trial 10/50 | F1=0.6011 | mejor=0.6399
+[2026-10-29 18:14:28] [CU][XGBoost][Outer 1/5] | trial 11/50 | F1=0.6141 | mejor=0.6399
+[2026-10-29 18:14:29] [CU][XGBoost][Outer 1/5] | trial 12/50 | F1=0.6147 | mejor=0.6399
+[2026-10-29 18:14:30] [CU][XGBoost][Outer 1/5] | trial 13/50 | F1=0.6225 | mejor=0.6399
+[2026-10-29 18:14:32] [CU][XGBoost][Outer 1/5] | trial 14/50 | F1=0.6230 | mejor=0.6399
+[2026-10-29 18:14:34] [CU][XGBoost][Outer 1/5] | trial 15/50 | F1=0.6179 | mejor=0.6399
+[2026-10-29 18:14:36] [CU][XGBoost][Outer 1/5] | trial 16/50 | F1=0.6238 | mejor=0.6399
+[2026-10-29 18:14:38] [CU][XGBoost][Outer 1/5] | trial 17/50 | F1=0.6176 | mejor=0.6399
+[2026-10-29 18:14:40] [CU][XGBoost][Outer 1/5] | trial 18/50 | F1=0.6274 | mejor=0.6399
+[2026-10-29 18:14:42] [CU][XGBoost][Outer 1/5] | trial 19/50 | F1=0.6202 | mejor=0.6399
+[2026-10-29 18:14:43] [CU][XGBoost][Outer 1/5] | trial 20/50 | F1=0.6088 | mejor=0.6399
+[2026-10-29 18:14:46] [CU][XGBoost][Outer 1/5] | trial 21/50 | F1=0.6355 | mejor=0.6399
+[2026-10-29 18:14:48] [CU][XGBoost][Outer 1/5] | trial 22/50 | F1=0.6272 | mejor=0.6399
+[2026-10-29 18:14:50] [CU][XGBoost][Outer 1/5] | trial 23/50 | F1=0.6216 | mejor=0.6399
+[2026-10-29 18:14:52] [CU][XGBoost][Outer 1/5] | trial 24/50 | F1=0.6422 | mejor=0.6422
+[2026-10-29 18:14:55] [CU][XGBoost][Outer 1/5] | trial 25/50 | F1=0.6286 | mejor=0.6422
+[2026-10-29 18:14:57] [CU][XGBoost][Outer 1/5] | trial 26/50 | F1=0.6406 | mejor=0.6422
+[2026-10-29 18:15:00] [CU][XGBoost][Outer 1/5] | trial 27/50 | F1=0.6313 | mejor=0.6422
+[2026-10-29 18:15:03] [CU][XGBoost][Outer 1/5] | trial 28/50 | F1=0.6382 | mejor=0.6422
+[2026-10-29 18:15:05] [CU][XGBoost][Outer 1/5] | trial 29/50 | F1=0.6364 | mejor=0.6422
+[2026-10-29 18:15:09] [CU][XGBoost][Outer 1/5] | trial 30/50 | F1=0.6530 | mejor=0.6530
+[2026-10-29 18:15:11] [CU][XGBoost][Outer 1/5] | trial 31/50 | F1=0.6385 | mejor=0.6530
+[2026-10-29 18:15:14] [CU][XGBoost][Outer 1/5] | trial 32/50 | F1=0.6423 | mejor=0.6530
+[2026-10-29 18:15:16] [CU][XGBoost][Outer 1/5] | trial 33/50 | F1=0.6279 | mejor=0.6530
+[2026-10-29 18:15:18] [CU][XGBoost][Outer 1/5] | trial 34/50 | F1=0.6310 | mejor=0.6530
+[2026-10-29 18:15:20] [CU][XGBoost][Outer 1/5] | trial 35/50 | F1=0.6267 | mejor=0.6530
+[2026-10-29 18:15:23] [CU][XGBoost][Outer 1/5] | trial 36/50 | F1=0.6448 | mejor=0.6530
+[2026-10-29 18:15:26] [CU][XGBoost][Outer 1/5] | trial 37/50 | F1=0.6249 | mejor=0.6530
+[2026-10-29 18:15:30] [CU][XGBoost][Outer 1/5] | trial 38/50 | F1=0.6447 | mejor=0.6530
+[2026-10-29 18:15:32] [CU][XGBoost][Outer 1/5] | trial 39/50 | F1=0.6262 | mejor=0.6530
+[2026-10-29 18:15:36] [CU][XGBoost][Outer 1/5] | trial 40/50 | F1=0.6473 | mejor=0.6530
+[2026-10-29 18:15:40] [CU][XGBoost][Outer 1/5] | trial 41/50 | F1=0.6398 | mejor=0.6530
+[2026-10-29 18:15:44] [CU][XGBoost][Outer 1/5] | trial 42/50 | F1=0.6469 | mejor=0.6530
+[2026-10-29 18:15:48] [CU][XGBoost][Outer 1/5] | trial 43/50 | F1=0.6415 | mejor=0.6530
+[2026-10-29 18:15:52] [CU][XGBoost][Outer 1/5] | trial 44/50 | F1=0.6504 | mejor=0.6530
+[2026-10-29 18:15:55] [CU][XGBoost][Outer 1/5] | trial 45/50 | F1=0.6411 | mejor=0.6530
+[2026-10-29 18:15:59] [CU][XGBoost][Outer 1/5] | trial 46/50 | F1=0.6516 | mejor=0.6530
+[2026-10-29 18:16:03] [CU][XGBoost][Outer 1/5] | trial 47/50 | F1=0.6292 | mejor=0.6530
+[2026-10-29 18:16:07] [CU][XGBoost][Outer 1/5] | trial 48/50 | F1=0.6397 | mejor=0.6530
+[2026-10-29 18:16:10] [CU][XGBoost][Outer 1/5] | trial 49/50 | F1=0.6299 | mejor=0.6530
+[2026-10-29 18:16:14] [CU][XGBoost][Outer 1/5] | trial 50/50 | F1=0.6459 | mejor=0.6530
+[2026-10-29 18:16:15] [CU][XGBoost][Outer 2/5] Optuna TPE
+[2026-10-29 18:16:17] [CU][XGBoost][Outer 2/5] | trial 6/50 | F1=0.6331 | mejor=0.6331
+[2026-10-29 18:16:20] [CU][XGBoost][Outer 2/5] | trial 6/50 | F1=0.6222 | mejor=0.6331
+[2026-10-29 18:16:21] [CU][XGBoost][Outer 2/5] | trial 6/50 | F1=0.6236 | mejor=0.6331
+[2026-10-29 18:16:22] [CU][XGBoost][Outer 2/5] | trial 6/50 | F1=0.6066 | mejor=0.6331
+[2026-10-29 18:16:23] [CU][XGBoost][Outer 2/5] | trial 6/50 | F1=0.6142 | mejor=0.6331
+[2026-10-29 18:16:25] [CU][XGBoost][Outer 2/5] | trial 6/50 | F1=0.6454 | mejor=0.6454
+[2026-10-29 18:16:27] [CU][XGBoost][Outer 2/5] | trial 7/50 | F1=0.6156 | mejor=0.6454
+[2026-10-29 18:16:28] [CU][XGBoost][Outer 2/5] | trial 8/50 | F1=0.6292 | mejor=0.6454
+[2026-10-29 18:16:28] [CU][XGBoost][Outer 2/5] | trial 9/50 | F1=0.5991 | mejor=0.6454
+[2026-10-29 18:16:29] [CU][XGBoost][Outer 2/5] | trial 10/50 | F1=0.6169 | mejor=0.6454
+[2026-10-29 18:16:31] [CU][XGBoost][Outer 2/5] | trial 11/50 | F1=0.6396 | mejor=0.6454
+[2026-10-29 18:16:33] [CU][XGBoost][Outer 2/5] | trial 12/50 | F1=0.6369 | mejor=0.6454
+[2026-10-29 18:16:35] [CU][XGBoost][Outer 2/5] | trial 13/50 | F1=0.6457 | mejor=0.6457
+[2026-10-29 18:16:37] [CU][XGBoost][Outer 2/5] | trial 14/50 | F1=0.6307 | mejor=0.6457
+[2026-10-29 18:16:38] [CU][XGBoost][Outer 2/5] | trial 15/50 | F1=0.6359 | mejor=0.6457
+[2026-10-29 18:16:40] [CU][XGBoost][Outer 2/5] | trial 16/50 | F1=0.6440 | mejor=0.6457
+[2026-10-29 18:16:42] [CU][XGBoost][Outer 2/5] | trial 17/50 | F1=0.6431 | mejor=0.6457
+[2026-10-29 18:16:44] [CU][XGBoost][Outer 2/5] | trial 18/50 | F1=0.6235 | mejor=0.6457
+[2026-10-29 18:16:46] [CU][XGBoost][Outer 2/5] | trial 19/50 | F1=0.6391 | mejor=0.6457
+[2026-10-29 18:16:48] [CU][XGBoost][Outer 2/5] | trial 20/50 | F1=0.6417 | mejor=0.6457
+[2026-10-29 18:16:49] [CU][XGBoost][Outer 2/5] | trial 21/50 | F1=0.6356 | mejor=0.6457
+[2026-10-29 18:16:51] [CU][XGBoost][Outer 2/5] | trial 22/50 | F1=0.6433 | mejor=0.6457
+[2026-10-29 18:16:53] [CU][XGBoost][Outer 2/5] | trial 23/50 | F1=0.6428 | mejor=0.6457
+[2026-10-29 18:16:54] [CU][XGBoost][Outer 2/5] | trial 24/50 | F1=0.6274 | mejor=0.6457
+[2026-10-29 18:16:57] [CU][XGBoost][Outer 2/5] | trial 25/50 | F1=0.6562 | mejor=0.6562
+[2026-10-29 18:16:59] [CU][XGBoost][Outer 2/5] | trial 26/50 | F1=0.6525 | mejor=0.6562
+[2026-10-29 18:17:01] [CU][XGBoost][Outer 2/5] | trial 27/50 | F1=0.6442 | mejor=0.6562
+[2026-10-29 18:17:03] [CU][XGBoost][Outer 2/5] | trial 28/50 | F1=0.6541 | mejor=0.6562
+[2026-10-29 18:17:06] [CU][XGBoost][Outer 2/5] | trial 29/50 | F1=0.6505 | mejor=0.6562
+[2026-10-29 18:17:09] [CU][XGBoost][Outer 2/5] | trial 30/50 | F1=0.6564 | mejor=0.6564
+[2026-10-29 18:17:10] [CU][XGBoost][Outer 2/5] | trial 31/50 | F1=0.6498 | mejor=0.6564
+[2026-10-29 18:17:13] [CU][XGBoost][Outer 2/5] | trial 32/50 | F1=0.6408 | mejor=0.6564
+[2026-10-29 18:17:16] [CU][XGBoost][Outer 2/5] | trial 33/50 | F1=0.6416 | mejor=0.6564
+[2026-10-29 18:17:18] [CU][XGBoost][Outer 2/5] | trial 34/50 | F1=0.6550 | mejor=0.6564
+[2026-10-29 18:17:21] [CU][XGBoost][Outer 2/5] | trial 35/50 | F1=0.6591 | mejor=0.6591
+[2026-10-29 18:17:22] [CU][XGBoost][Outer 2/5] | trial 36/50 | F1=0.6357 | mejor=0.6591
+[2026-10-29 18:17:25] [CU][XGBoost][Outer 2/5] | trial 37/50 | F1=0.6547 | mejor=0.6591
+[2026-10-29 18:17:27] [CU][XGBoost][Outer 2/5] | trial 38/50 | F1=0.6455 | mejor=0.6591
+[2026-10-29 18:17:30] [CU][XGBoost][Outer 2/5] | trial 39/50 | F1=0.6549 | mejor=0.6591
+[2026-10-29 18:17:32] [CU][XGBoost][Outer 2/5] | trial 40/50 | F1=0.6592 | mejor=0.6592
+[2026-10-29 18:17:34] [CU][XGBoost][Outer 2/5] | trial 41/50 | F1=0.6475 | mejor=0.6592
+[2026-10-29 18:17:36] [CU][XGBoost][Outer 2/5] | trial 42/50 | F1=0.6549 | mejor=0.6592
+[2026-10-29 18:17:39] [CU][XGBoost][Outer 2/5] | trial 43/50 | F1=0.6524 | mejor=0.6592
+[2026-10-29 18:17:41] [CU][XGBoost][Outer 2/5] | trial 44/50 | F1=0.6594 | mejor=0.6594
+[2026-10-29 18:17:43] [CU][XGBoost][Outer 2/5] | trial 45/50 | F1=0.6571 | mejor=0.6594
+[2026-10-29 18:17:45] [CU][XGBoost][Outer 2/5] | trial 46/50 | F1=0.6550 | mejor=0.6594
+[2026-10-29 18:17:48] [CU][XGBoost][Outer 2/5] | trial 47/50 | F1=0.6576 | mejor=0.6594
+[2026-10-29 18:17:50] [CU][XGBoost][Outer 2/5] | trial 48/50 | F1=0.6565 | mejor=0.6594
+[2026-10-29 18:17:52] [CU][XGBoost][Outer 2/5] | trial 49/50 | F1=0.6587 | mejor=0.6594
+[2026-10-29 18:17:54] [CU][XGBoost][Outer 2/5] | trial 50/50 | F1=0.6629 | mejor=0.6629
+[2026-10-29 18:17:55] [CU][XGBoost][Outer 3/5] Optuna TPE
+[2026-10-29 18:17:58] [CU][XGBoost][Outer 3/5] | trial 6/50 | F1=0.6437 | mejor=0.6437
+[2026-10-29 18:18:00] [CU][XGBoost][Outer 3/5] | trial 6/50 | F1=0.6250 | mejor=0.6437
+[2026-10-29 18:18:01] [CU][XGBoost][Outer 3/5] | trial 6/50 | F1=0.6125 | mejor=0.6437
+[2026-10-29 18:18:03] [CU][XGBoost][Outer 3/5] | trial 6/50 | F1=0.6003 | mejor=0.6437
+[2026-10-29 18:18:04] [CU][XGBoost][Outer 3/5] | trial 6/50 | F1=0.5919 | mejor=0.6437
+[2026-10-29 18:18:05] [CU][XGBoost][Outer 3/5] | trial 6/50 | F1=0.5921 | mejor=0.6437
+[2026-10-29 18:18:07] [CU][XGBoost][Outer 3/5] | trial 7/50 | F1=0.6189 | mejor=0.6437
+[2026-10-29 18:18:08] [CU][XGBoost][Outer 3/5] | trial 8/50 | F1=0.6265 | mejor=0.6437
+[2026-10-29 18:18:10] [CU][XGBoost][Outer 3/5] | trial 9/50 | F1=0.5975 | mejor=0.6437
+[2026-10-29 18:18:12] [CU][XGBoost][Outer 3/5] | trial 10/50 | F1=0.6564 | mejor=0.6564
+[2026-10-29 18:18:13] [CU][XGBoost][Outer 3/5] | trial 11/50 | F1=0.6015 | mejor=0.6564
+[2026-10-29 18:18:15] [CU][XGBoost][Outer 3/5] | trial 12/50 | F1=0.6503 | mejor=0.6564
+[2026-10-29 18:18:17] [CU][XGBoost][Outer 3/5] | trial 13/50 | F1=0.6291 | mejor=0.6564
+[2026-10-29 18:18:19] [CU][XGBoost][Outer 3/5] | trial 14/50 | F1=0.6295 | mejor=0.6564
+[2026-10-29 18:18:20] [CU][XGBoost][Outer 3/5] | trial 15/50 | F1=0.6641 | mejor=0.6641
+[2026-10-29 18:18:22] [CU][XGBoost][Outer 3/5] | trial 16/50 | F1=0.6543 | mejor=0.6641
+[2026-10-29 18:18:23] [CU][XGBoost][Outer 3/5] | trial 17/50 | F1=0.6325 | mejor=0.6641
+[2026-10-29 18:18:25] [CU][XGBoost][Outer 3/5] | trial 18/50 | F1=0.6326 | mejor=0.6641
+[2026-10-29 18:18:26] [CU][XGBoost][Outer 3/5] | trial 19/50 | F1=0.6647 | mejor=0.6647
+[2026-10-29 18:18:28] [CU][XGBoost][Outer 3/5] | trial 20/50 | F1=0.6542 | mejor=0.6647
+[2026-10-29 18:18:29] [CU][XGBoost][Outer 3/5] | trial 21/50 | F1=0.6490 | mejor=0.6647
+[2026-10-29 18:18:31] [CU][XGBoost][Outer 3/5] | trial 22/50 | F1=0.6327 | mejor=0.6647
+[2026-10-29 18:18:32] [CU][XGBoost][Outer 3/5] | trial 23/50 | F1=0.6568 | mejor=0.6647
+[2026-10-29 18:18:34] [CU][XGBoost][Outer 3/5] | trial 24/50 | F1=0.6576 | mejor=0.6647
+[2026-10-29 18:18:36] [CU][XGBoost][Outer 3/5] | trial 25/50 | F1=0.6470 | mejor=0.6647
+[2026-10-29 18:18:38] [CU][XGBoost][Outer 3/5] | trial 26/50 | F1=0.6473 | mejor=0.6647
+[2026-10-29 18:18:40] [CU][XGBoost][Outer 3/5] | trial 27/50 | F1=0.6527 | mejor=0.6647
+[2026-10-29 18:18:41] [CU][XGBoost][Outer 3/5] | trial 28/50 | F1=0.6437 | mejor=0.6647
+[2026-10-29 18:18:42] [CU][XGBoost][Outer 3/5] | trial 29/50 | F1=0.6521 | mejor=0.6647
+[2026-10-29 18:18:44] [CU][XGBoost][Outer 3/5] | trial 30/50 | F1=0.6391 | mejor=0.6647
+[2026-10-29 18:18:49] [CU][XGBoost][Outer 3/5] | trial 31/50 | F1=0.6522 | mejor=0.6647
+[2026-10-29 18:18:50] [CU][XGBoost][Outer 3/5] | trial 32/50 | F1=0.6513 | mejor=0.6647
+[2026-10-29 18:18:51] [CU][XGBoost][Outer 3/5] | trial 33/50 | F1=0.6621 | mejor=0.6647
+[2026-10-29 18:18:53] [CU][XGBoost][Outer 3/5] | trial 34/50 | F1=0.6647 | mejor=0.6647
+[2026-10-29 18:18:55] [CU][XGBoost][Outer 3/5] | trial 35/50 | F1=0.6624 | mejor=0.6647
+[2026-10-29 18:18:57] [CU][XGBoost][Outer 3/5] | trial 36/50 | F1=0.6481 | mejor=0.6647
+[2026-10-29 18:18:58] [CU][XGBoost][Outer 3/5] | trial 37/50 | F1=0.6654 | mejor=0.6654
+[2026-10-29 18:19:00] [CU][XGBoost][Outer 3/5] | trial 38/50 | F1=0.6651 | mejor=0.6654
+[2026-10-29 18:19:01] [CU][XGBoost][Outer 3/5] | trial 39/50 | F1=0.6543 | mejor=0.6654
+[2026-10-29 18:19:03] [CU][XGBoost][Outer 3/5] | trial 40/50 | F1=0.6459 | mejor=0.6654
+[2026-10-29 18:19:04] [CU][XGBoost][Outer 3/5] | trial 41/50 | F1=0.6599 | mejor=0.6654
+[2026-10-29 18:19:06] [CU][XGBoost][Outer 3/5] | trial 42/50 | F1=0.6352 | mejor=0.6654
+[2026-10-29 18:19:07] [CU][XGBoost][Outer 3/5] | trial 43/50 | F1=0.6611 | mejor=0.6654
+[2026-10-29 18:19:09] [CU][XGBoost][Outer 3/5] | trial 44/50 | F1=0.6541 | mejor=0.6654
+[2026-10-29 18:19:11] [CU][XGBoost][Outer 3/5] | trial 45/50 | F1=0.6633 | mejor=0.6654
+[2026-10-29 18:19:12] [CU][XGBoost][Outer 3/5] | trial 46/50 | F1=0.6593 | mejor=0.6654
+[2026-10-29 18:19:14] [CU][XGBoost][Outer 3/5] | trial 47/50 | F1=0.6653 | mejor=0.6654
+[2026-10-29 18:19:16] [CU][XGBoost][Outer 3/5] | trial 48/50 | F1=0.6645 | mejor=0.6654
+[2026-10-29 18:19:17] [CU][XGBoost][Outer 3/5] | trial 49/50 | F1=0.6411 | mejor=0.6654
+[2026-10-29 18:19:19] [CU][XGBoost][Outer 3/5] | trial 50/50 | F1=0.6459 | mejor=0.6654
+[2026-10-29 18:19:20] [CU][XGBoost][Outer 4/5] Optuna TPE
+[2026-10-29 18:19:22] [CU][XGBoost][Outer 4/5] | trial 6/50 | F1=0.6235 | mejor=0.6235
+[2026-10-29 18:19:24] [CU][XGBoost][Outer 4/5] | trial 6/50 | F1=0.6160 | mejor=0.6235
+[2026-10-29 18:19:25] [CU][XGBoost][Outer 4/5] | trial 6/50 | F1=0.6278 | mejor=0.6278
+[2026-10-29 18:19:26] [CU][XGBoost][Outer 4/5] | trial 6/50 | F1=0.6003 | mejor=0.6278
+[2026-10-29 18:19:27] [CU][XGBoost][Outer 4/5] | trial 6/50 | F1=0.6186 | mejor=0.6278
+[2026-10-29 18:19:28] [CU][XGBoost][Outer 4/5] | trial 6/50 | F1=0.6419 | mejor=0.6419
+[2026-10-29 18:19:29] [CU][XGBoost][Outer 4/5] | trial 7/50 | F1=0.6355 | mejor=0.6419
+[2026-10-29 18:19:30] [CU][XGBoost][Outer 4/5] | trial 8/50 | F1=0.6338 | mejor=0.6419
+[2026-10-29 18:19:32] [CU][XGBoost][Outer 4/5] | trial 9/50 | F1=0.5992 | mejor=0.6419
+[2026-10-29 18:19:34] [CU][XGBoost][Outer 4/5] | trial 10/50 | F1=0.6296 | mejor=0.6419
+[2026-10-29 18:19:35] [CU][XGBoost][Outer 4/5] | trial 11/50 | F1=0.6268 | mejor=0.6419
+[2026-10-29 18:19:37] [CU][XGBoost][Outer 4/5] | trial 12/50 | F1=0.6440 | mejor=0.6440
+[2026-10-29 18:19:39] [CU][XGBoost][Outer 4/5] | trial 13/50 | F1=0.6427 | mejor=0.6440
+[2026-10-29 18:19:42] [CU][XGBoost][Outer 4/5] | trial 14/50 | F1=0.6248 | mejor=0.6440
+[2026-10-29 18:19:43] [CU][XGBoost][Outer 4/5] | trial 15/50 | F1=0.6264 | mejor=0.6440
+[2026-10-29 18:19:45] [CU][XGBoost][Outer 4/5] | trial 16/50 | F1=0.6066 | mejor=0.6440
+[2026-10-29 18:19:47] [CU][XGBoost][Outer 4/5] | trial 17/50 | F1=0.6291 | mejor=0.6440
+[2026-10-29 18:19:51] [CU][XGBoost][Outer 4/5] | trial 18/50 | F1=0.6372 | mejor=0.6440
+[2026-10-29 18:19:54] [CU][XGBoost][Outer 4/5] | trial 19/50 | F1=0.6279 | mejor=0.6440
+[2026-10-29 18:19:57] [CU][XGBoost][Outer 4/5] | trial 20/50 | F1=0.6397 | mejor=0.6440
+[2026-10-29 18:19:59] [CU][XGBoost][Outer 4/5] | trial 21/50 | F1=0.6313 | mejor=0.6440
+[2026-10-29 18:20:02] [CU][XGBoost][Outer 4/5] | trial 22/50 | F1=0.6426 | mejor=0.6440
+[2026-10-29 18:20:05] [CU][XGBoost][Outer 4/5] | trial 23/50 | F1=0.6309 | mejor=0.6440
+[2026-10-29 18:20:06] [CU][XGBoost][Outer 4/5] | trial 24/50 | F1=0.6379 | mejor=0.6440
+[2026-10-29 18:20:09] [CU][XGBoost][Outer 4/5] | trial 25/50 | F1=0.6296 | mejor=0.6440
+[2026-10-29 18:20:13] [CU][XGBoost][Outer 4/5] | trial 26/50 | F1=0.6411 | mejor=0.6440
+[2026-10-29 18:20:16] [CU][XGBoost][Outer 4/5] | trial 27/50 | F1=0.6374 | mejor=0.6440
+[2026-10-29 18:20:19] [CU][XGBoost][Outer 4/5] | trial 28/50 | F1=0.6426 | mejor=0.6440
+[2026-10-29 18:20:22] [CU][XGBoost][Outer 4/5] | trial 29/50 | F1=0.6432 | mejor=0.6440
+[2026-10-29 18:20:24] [CU][XGBoost][Outer 4/5] | trial 30/50 | F1=0.6351 | mejor=0.6440
+[2026-10-29 18:20:27] [CU][XGBoost][Outer 4/5] | trial 31/50 | F1=0.6246 | mejor=0.6440
+[2026-10-29 18:20:30] [CU][XGBoost][Outer 4/5] | trial 32/50 | F1=0.6345 | mejor=0.6440
+[2026-10-29 18:20:32] [CU][XGBoost][Outer 4/5] | trial 33/50 | F1=0.6401 | mejor=0.6440
+[2026-10-29 18:20:35] [CU][XGBoost][Outer 4/5] | trial 34/50 | F1=0.6240 | mejor=0.6440
+[2026-10-29 18:20:37] [CU][XGBoost][Outer 4/5] | trial 35/50 | F1=0.6399 | mejor=0.6440
+[2026-10-29 18:20:40] [CU][XGBoost][Outer 4/5] | trial 36/50 | F1=0.6436 | mejor=0.6440
+[2026-10-29 18:20:44] [CU][XGBoost][Outer 4/5] | trial 37/50 | F1=0.6414 | mejor=0.6440
+[2026-10-29 18:20:46] [CU][XGBoost][Outer 4/5] | trial 38/50 | F1=0.6392 | mejor=0.6440
+[2026-10-29 18:20:49] [CU][XGBoost][Outer 4/5] | trial 39/50 | F1=0.6391 | mejor=0.6440
+[2026-10-29 18:20:53] [CU][XGBoost][Outer 4/5] | trial 40/50 | F1=0.6430 | mejor=0.6440
+[2026-10-29 18:20:56] [CU][XGBoost][Outer 4/5] | trial 41/50 | F1=0.6347 | mejor=0.6440
+[2026-10-29 18:20:59] [CU][XGBoost][Outer 4/5] | trial 42/50 | F1=0.6391 | mejor=0.6440
+[2026-10-29 18:21:03] [CU][XGBoost][Outer 4/5] | trial 43/50 | F1=0.6307 | mejor=0.6440
+[2026-10-29 18:21:06] [CU][XGBoost][Outer 4/5] | trial 44/50 | F1=0.6465 | mejor=0.6465
+[2026-10-29 18:21:08] [CU][XGBoost][Outer 4/5] | trial 45/50 | F1=0.6369 | mejor=0.6465
+[2026-10-29 18:21:12] [CU][XGBoost][Outer 4/5] | trial 46/50 | F1=0.6335 | mejor=0.6465
+[2026-10-29 18:21:15] [CU][XGBoost][Outer 4/5] | trial 47/50 | F1=0.6416 | mejor=0.6465
+[2026-10-29 18:21:17] [CU][XGBoost][Outer 4/5] | trial 48/50 | F1=0.6392 | mejor=0.6465
+[2026-10-29 18:21:20] [CU][XGBoost][Outer 4/5] | trial 49/50 | F1=0.6391 | mejor=0.6465
+[2026-10-29 18:21:23] [CU][XGBoost][Outer 4/5] | trial 50/50 | F1=0.6315 | mejor=0.6465
+[2026-10-29 18:21:25] [CU][XGBoost][Outer 5/5] Optuna TPE
+[2026-10-29 18:21:26] [CU][XGBoost][Outer 5/5] | trial 6/50 | F1=0.6149 | mejor=0.6149
+[2026-10-29 18:21:27] [CU][XGBoost][Outer 5/5] | trial 6/50 | F1=0.6149 | mejor=0.6149
+[2026-10-29 18:21:28] [CU][XGBoost][Outer 5/5] | trial 6/50 | F1=0.6059 | mejor=0.6149
+[2026-10-29 18:21:31] [CU][XGBoost][Outer 5/5] | trial 6/50 | F1=0.6361 | mejor=0.6361
+[2026-10-29 18:21:32] [CU][XGBoost][Outer 5/5] | trial 6/50 | F1=0.6238 | mejor=0.6361
+[2026-10-29 18:21:34] [CU][XGBoost][Outer 5/5] | trial 6/50 | F1=0.6298 | mejor=0.6361
+[2026-10-29 18:21:37] [CU][XGBoost][Outer 5/5] | trial 7/50 | F1=0.6299 | mejor=0.6361
+[2026-10-29 18:21:38] [CU][XGBoost][Outer 5/5] | trial 8/50 | F1=0.6456 | mejor=0.6456
+[2026-10-29 18:21:40] [CU][XGBoost][Outer 5/5] | trial 9/50 | F1=0.6128 | mejor=0.6456
+[2026-10-29 18:21:42] [CU][XGBoost][Outer 5/5] | trial 10/50 | F1=0.6082 | mejor=0.6456
+[2026-10-29 18:21:43] [CU][XGBoost][Outer 5/5] | trial 11/50 | F1=0.6167 | mejor=0.6456
+[2026-10-29 18:21:44] [CU][XGBoost][Outer 5/5] | trial 12/50 | F1=0.6340 | mejor=0.6456
+[2026-10-29 18:21:46] [CU][XGBoost][Outer 5/5] | trial 13/50 | F1=0.5966 | mejor=0.6456
+[2026-10-29 18:21:47] [CU][XGBoost][Outer 5/5] | trial 14/50 | F1=0.6242 | mejor=0.6456
+[2026-10-29 18:21:49] [CU][XGBoost][Outer 5/5] | trial 15/50 | F1=0.6270 | mejor=0.6456
+[2026-10-29 18:21:50] [CU][XGBoost][Outer 5/5] | trial 16/50 | F1=0.6269 | mejor=0.6456
+[2026-10-29 18:21:52] [CU][XGBoost][Outer 5/5] | trial 17/50 | F1=0.6382 | mejor=0.6456
+[2026-10-29 18:21:53] [CU][XGBoost][Outer 5/5] | trial 18/50 | F1=0.6193 | mejor=0.6456
+[2026-10-29 18:21:55] [CU][XGBoost][Outer 5/5] | trial 19/50 | F1=0.6291 | mejor=0.6456
+[2026-10-29 18:21:57] [CU][XGBoost][Outer 5/5] | trial 20/50 | F1=0.6226 | mejor=0.6456
+[2026-10-29 18:21:58] [CU][XGBoost][Outer 5/5] | trial 21/50 | F1=0.6267 | mejor=0.6456
+[2026-10-29 18:22:01] [CU][XGBoost][Outer 5/5] | trial 22/50 | F1=0.6301 | mejor=0.6456
+[2026-10-29 18:22:03] [CU][XGBoost][Outer 5/5] | trial 23/50 | F1=0.6270 | mejor=0.6456
+[2026-10-29 18:22:05] [CU][XGBoost][Outer 5/5] | trial 24/50 | F1=0.6334 | mejor=0.6456
+[2026-10-29 18:22:08] [CU][XGBoost][Outer 5/5] | trial 25/50 | F1=0.6336 | mejor=0.6456
+[2026-10-29 18:22:10] [CU][XGBoost][Outer 5/5] | trial 26/50 | F1=0.6377 | mejor=0.6456
+[2026-10-29 18:22:11] [CU][XGBoost][Outer 5/5] | trial 27/50 | F1=0.6295 | mejor=0.6456
+[2026-10-29 18:22:13] [CU][XGBoost][Outer 5/5] | trial 28/50 | F1=0.6297 | mejor=0.6456
+[2026-10-29 18:22:14] [CU][XGBoost][Outer 5/5] | trial 29/50 | F1=0.6380 | mejor=0.6456
+[2026-10-29 18:22:16] [CU][XGBoost][Outer 5/5] | trial 30/50 | F1=0.6216 | mejor=0.6456
+[2026-10-29 18:22:17] [CU][XGBoost][Outer 5/5] | trial 31/50 | F1=0.6186 | mejor=0.6456
+[2026-10-29 18:22:18] [CU][XGBoost][Outer 5/5] | trial 32/50 | F1=0.6436 | mejor=0.6456
+[2026-10-29 18:22:20] [CU][XGBoost][Outer 5/5] | trial 33/50 | F1=0.6276 | mejor=0.6456
+[2026-10-29 18:22:21] [CU][XGBoost][Outer 5/5] | trial 34/50 | F1=0.6304 | mejor=0.6456
+[2026-10-29 18:22:22] [CU][XGBoost][Outer 5/5] | trial 35/50 | F1=0.6342 | mejor=0.6456
+[2026-10-29 18:22:24] [CU][XGBoost][Outer 5/5] | trial 36/50 | F1=0.6357 | mejor=0.6456
+[2026-10-29 18:22:25] [CU][XGBoost][Outer 5/5] | trial 37/50 | F1=0.6282 | mejor=0.6456
+[2026-10-29 18:22:26] [CU][XGBoost][Outer 5/5] | trial 38/50 | F1=0.6312 | mejor=0.6456
+[2026-10-29 18:22:28] [CU][XGBoost][Outer 5/5] | trial 39/50 | F1=0.6371 | mejor=0.6456
+[2026-10-29 18:22:29] [CU][XGBoost][Outer 5/5] | trial 40/50 | F1=0.6227 | mejor=0.6456
+[2026-10-29 18:22:31] [CU][XGBoost][Outer 5/5] | trial 41/50 | F1=0.6318 | mejor=0.6456
+[2026-10-29 18:22:32] [CU][XGBoost][Outer 5/5] | trial 42/50 | F1=0.6276 | mejor=0.6456
+[2026-10-29 18:22:33] [CU][XGBoost][Outer 5/5] | trial 43/50 | F1=0.6367 | mejor=0.6456
+[2026-10-29 18:22:34] [CU][XGBoost][Outer 5/5] | trial 44/50 | F1=0.6344 | mejor=0.6456
+[2026-10-29 18:22:36] [CU][XGBoost][Outer 5/5] | trial 45/50 | F1=0.6364 | mejor=0.6456
+[2026-10-29 18:22:37] [CU][XGBoost][Outer 5/5] | trial 46/50 | F1=0.6316 | mejor=0.6456
+[2026-10-29 18:22:39] [CU][XGBoost][Outer 5/5] | trial 47/50 | F1=0.6268 | mejor=0.6456
+[2026-10-29 18:22:40] [CU][XGBoost][Outer 5/5] | trial 48/50 | F1=0.6394 | mejor=0.6456
+[2026-10-29 18:22:42] [CU][XGBoost][Outer 5/5] | trial 49/50 | F1=0.6368 | mejor=0.6456
+[2026-10-29 18:22:43] [CU][XGBoost][Outer 5/5] | trial 50/50 | F1=0.6296 | mejor=0.6456
+[2026-10-29 18:22:44] FINALIZADO: Nested CV de XGBoost completada (750/750 contados)
+[2026-10-29 18:22:47] [MX][LR][Final] GridSearch | prep=normal
+[2026-10-29 18:23:04] [MX][LR][Final] GridSearch | prep=normal | completado
+[2026-10-29 18:23:04] [MX][LR][Final] GridSearch | prep=stem
+[2026-10-29 18:23:14] [MX][LR][Final] GridSearch | prep=stem | completado
+[2026-10-29 18:23:14] [MX][LR][Final] GridSearch | prep=lemma
+[2026-10-29 18:23:20] [MX][LR][Final] GridSearch | prep=lemma | completado
+[2026-10-29 18:23:20] [MX][RF][Final] GridSearch | prep=normal
+[2026-10-29 18:23:27] [MX][RF][Final] GridSearch | prep=normal | completado
+[2026-10-29 18:23:27] [MX][RF][Final] GridSearch | prep=stem
+[2026-10-29 18:23:32] [MX][RF][Final] GridSearch | prep=stem | completado
+[2026-10-29 18:23:32] [MX][RF][Final] GridSearch | prep=lemma
+[2026-10-29 18:23:39] [MX][RF][Final] GridSearch | prep=lemma | completado
+[2026-10-29 18:23:39] [ES][LR][Final] GridSearch | prep=normal
+[2026-10-29 18:23:39] [ES][LR][Final] GridSearch | prep=normal | completado
+[2026-10-29 18:23:39] [ES][LR][Final] GridSearch | prep=stem
+[2026-10-29 18:23:40] [ES][LR][Final] GridSearch | prep=stem | completado
+[2026-10-29 18:23:40] [ES][LR][Final] GridSearch | prep=lemma
+[2026-10-29 18:23:40] [ES][LR][Final] GridSearch | prep=lemma | completado
+[2026-10-29 18:23:40] [ES][RF][Final] GridSearch | prep=normal
+[2026-10-29 18:23:48] [ES][RF][Final] GridSearch | prep=normal | completado
+[2026-10-29 18:23:48] [ES][RF][Final] GridSearch | prep=stem
+[2026-10-29 18:23:57] [ES][RF][Final] GridSearch | prep=stem | completado
+[2026-10-29 18:23:57] [ES][RF][Final] GridSearch | prep=lemma
+[2026-10-29 18:24:06] [ES][RF][Final] GridSearch | prep=lemma | completado
+[2026-10-29 18:24:06] [CU][LR][Final] GridSearch | prep=normal
+[2026-10-29 18:24:07] [CU][LR][Final] GridSearch | prep=normal | completado
+[2026-10-29 18:24:07] [CU][LR][Final] GridSearch | prep=stem
+[2026-10-29 18:24:07] [CU][LR][Final] GridSearch | prep=stem | completado
+[2026-10-29 18:24:07] [CU][LR][Final] GridSearch | prep=lemma
+[2026-10-29 18:24:07] [CU][LR][Final] GridSearch | prep=lemma | completado
+[2026-10-29 18:24:07] [CU][RF][Final] GridSearch | prep=normal
+[2026-10-29 18:24:14] [CU][RF][Final] GridSearch | prep=normal | completado
+[2026-10-29 18:24:14] [CU][RF][Final] GridSearch | prep=stem
+[2026-10-29 18:24:19] [CU][RF][Final] GridSearch | prep=stem | completado
+[2026-10-29 18:24:19] [CU][RF][Final] GridSearch | prep=lemma
+[2026-10-29 18:24:25] [CU][RF][Final] GridSearch | prep=lemma | completado
+[2026-10-29 18:24:25] [MX][XGBoost][Final] Optuna TPE
+[2026-10-29 18:24:26] [MX][XGBoost][Final] | trial 6/50 | F1=0.5689 | mejor=0.5689
+[2026-10-29 18:24:28] [MX][XGBoost][Final] | trial 6/50 | F1=0.5879 | mejor=0.5879
+[2026-10-29 18:24:29] [MX][XGBoost][Final] | trial 6/50 | F1=0.5590 | mejor=0.5879
+[2026-10-29 18:24:32] [MX][XGBoost][Final] | trial 6/50 | F1=0.5910 | mejor=0.5910
+[2026-10-29 18:24:32] [MX][XGBoost][Final] | trial 6/50 | F1=0.5566 | mejor=0.5910
+[2026-10-29 18:24:37] [MX][XGBoost][Final] | trial 6/50 | F1=0.5682 | mejor=0.5910
+[2026-10-29 18:24:38] [MX][XGBoost][Final] | trial 7/50 | F1=0.6024 | mejor=0.6024
+[2026-10-29 18:24:39] [MX][XGBoost][Final] | trial 8/50 | F1=0.5988 | mejor=0.6024
+[2026-10-29 18:24:42] [MX][XGBoost][Final] | trial 9/50 | F1=0.5708 | mejor=0.6024
+[2026-10-29 18:24:42] [MX][XGBoost][Final] | trial 10/50 | F1=0.6013 | mejor=0.6024
+[2026-10-29 18:24:43] [MX][XGBoost][Final] | trial 11/50 | F1=0.5833 | mejor=0.6024
+[2026-10-29 18:24:45] [MX][XGBoost][Final] | trial 12/50 | F1=0.5547 | mejor=0.6024
+[2026-10-29 18:24:46] [MX][XGBoost][Final] | trial 13/50 | F1=0.5793 | mejor=0.6024
+[2026-10-29 18:24:47] [MX][XGBoost][Final] | trial 14/50 | F1=0.5327 | mejor=0.6024
+[2026-10-29 18:24:48] [MX][XGBoost][Final] | trial 15/50 | F1=0.6024 | mejor=0.6024
+[2026-10-29 18:24:48] [MX][XGBoost][Final] | trial 16/50 | F1=0.5973 | mejor=0.6024
+[2026-10-29 18:24:50] [MX][XGBoost][Final] | trial 17/50 | F1=0.5920 | mejor=0.6024
+[2026-10-29 18:24:51] [MX][XGBoost][Final] | trial 18/50 | F1=0.6002 | mejor=0.6024
+[2026-10-29 18:24:53] [MX][XGBoost][Final] | trial 19/50 | F1=0.5881 | mejor=0.6024
+[2026-10-29 18:24:54] [MX][XGBoost][Final] | trial 20/50 | F1=0.6139 | mejor=0.6139
+[2026-10-29 18:24:55] [MX][XGBoost][Final] | trial 21/50 | F1=0.5880 | mejor=0.6139
+[2026-10-29 18:24:56] [MX][XGBoost][Final] | trial 22/50 | F1=0.6127 | mejor=0.6139
+[2026-10-29 18:24:58] [MX][XGBoost][Final] | trial 23/50 | F1=0.6050 | mejor=0.6139
+[2026-10-29 18:24:59] [MX][XGBoost][Final] | trial 24/50 | F1=0.6085 | mejor=0.6139
+[2026-10-29 18:25:00] [MX][XGBoost][Final] | trial 25/50 | F1=0.5953 | mejor=0.6139
+[2026-10-29 18:25:02] [MX][XGBoost][Final] | trial 26/50 | F1=0.6098 | mejor=0.6139
+[2026-10-29 18:25:03] [MX][XGBoost][Final] | trial 27/50 | F1=0.6069 | mejor=0.6139
+[2026-10-29 18:25:04] [MX][XGBoost][Final] | trial 28/50 | F1=0.5976 | mejor=0.6139
+[2026-10-29 18:25:06] [MX][XGBoost][Final] | trial 29/50 | F1=0.6069 | mejor=0.6139
+[2026-10-29 18:25:07] [MX][XGBoost][Final] | trial 30/50 | F1=0.6029 | mejor=0.6139
+[2026-10-29 18:25:08] [MX][XGBoost][Final] | trial 31/50 | F1=0.5993 | mejor=0.6139
+[2026-10-29 18:25:09] [MX][XGBoost][Final] | trial 32/50 | F1=0.6156 | mejor=0.6156
+[2026-10-29 18:25:11] [MX][XGBoost][Final] | trial 33/50 | F1=0.6020 | mejor=0.6156
+[2026-10-29 18:25:12] [MX][XGBoost][Final] | trial 34/50 | F1=0.6066 | mejor=0.6156
+[2026-10-29 18:25:14] [MX][XGBoost][Final] | trial 35/50 | F1=0.6096 | mejor=0.6156
+[2026-10-29 18:25:15] [MX][XGBoost][Final] | trial 36/50 | F1=0.6035 | mejor=0.6156
+[2026-10-29 18:25:16] [MX][XGBoost][Final] | trial 37/50 | F1=0.6024 | mejor=0.6156
+[2026-10-29 18:25:17] [MX][XGBoost][Final] | trial 38/50 | F1=0.6171 | mejor=0.6171
+[2026-10-29 18:25:18] [MX][XGBoost][Final] | trial 39/50 | F1=0.6135 | mejor=0.6171
+[2026-10-29 18:25:20] [MX][XGBoost][Final] | trial 40/50 | F1=0.6004 | mejor=0.6171
+[2026-10-29 18:25:21] [MX][XGBoost][Final] | trial 41/50 | F1=0.6126 | mejor=0.6171
+[2026-10-29 18:25:22] [MX][XGBoost][Final] | trial 42/50 | F1=0.6063 | mejor=0.6171
+[2026-10-29 18:25:23] [MX][XGBoost][Final] | trial 43/50 | F1=0.6116 | mejor=0.6171
+[2026-10-29 18:25:24] [MX][XGBoost][Final] | trial 44/50 | F1=0.6029 | mejor=0.6171
+[2026-10-29 18:25:25] [MX][XGBoost][Final] | trial 45/50 | F1=0.6068 | mejor=0.6171
+[2026-10-29 18:25:27] [MX][XGBoost][Final] | trial 46/50 | F1=0.6089 | mejor=0.6171
+[2026-10-29 18:25:28] [MX][XGBoost][Final] | trial 47/50 | F1=0.6009 | mejor=0.6171
+[2026-10-29 18:25:29] [MX][XGBoost][Final] | trial 48/50 | F1=0.6210 | mejor=0.6210
+[2026-10-29 18:25:30] [MX][XGBoost][Final] | trial 49/50 | F1=0.6163 | mejor=0.6210
+[2026-10-29 18:25:32] [MX][XGBoost][Final] | trial 50/50 | F1=0.6021 | mejor=0.6210
+[2026-10-29 18:25:32] [ES][XGBoost][Final] Optuna TPE
+[2026-10-29 18:25:34] [ES][XGBoost][Final] | trial 6/50 | F1=0.6675 | mejor=0.6675
+[2026-10-29 18:25:35] [ES][XGBoost][Final] | trial 6/50 | F1=0.6731 | mejor=0.6731
+[2026-10-29 18:25:36] [ES][XGBoost][Final] | trial 6/50 | F1=0.6646 | mejor=0.6731
+[2026-10-29 18:25:40] [ES][XGBoost][Final] | trial 6/50 | F1=0.6816 | mejor=0.6816
+[2026-10-29 18:25:40] [ES][XGBoost][Final] | trial 6/50 | F1=0.6567 | mejor=0.6816
+[2026-10-29 18:25:46] [ES][XGBoost][Final] | trial 6/50 | F1=0.6502 | mejor=0.6816
+[2026-10-29 18:25:47] [ES][XGBoost][Final] | trial 7/50 | F1=0.6822 | mejor=0.6822
+[2026-10-29 18:25:48] [ES][XGBoost][Final] | trial 8/50 | F1=0.6889 | mejor=0.6889
+[2026-10-29 18:25:51] [ES][XGBoost][Final] | trial 9/50 | F1=0.6649 | mejor=0.6889
+[2026-10-29 18:25:52] [ES][XGBoost][Final] | trial 10/50 | F1=0.6794 | mejor=0.6889
+[2026-10-29 18:25:53] [ES][XGBoost][Final] | trial 11/50 | F1=0.6732 | mejor=0.6889
+[2026-10-29 18:25:55] [ES][XGBoost][Final] | trial 12/50 | F1=0.6774 | mejor=0.6889
+[2026-10-29 18:25:56] [ES][XGBoost][Final] | trial 13/50 | F1=0.6756 | mejor=0.6889
+[2026-10-29 18:25:57] [ES][XGBoost][Final] | trial 14/50 | F1=0.6802 | mejor=0.6889
+[2026-10-29 18:25:58] [ES][XGBoost][Final] | trial 15/50 | F1=0.6798 | mejor=0.6889
+[2026-10-29 18:25:59] [ES][XGBoost][Final] | trial 16/50 | F1=0.6943 | mejor=0.6943
+[2026-10-29 18:26:00] [ES][XGBoost][Final] | trial 17/50 | F1=0.6812 | mejor=0.6943
+[2026-10-29 18:26:05] [ES][XGBoost][Final] | trial 18/50 | F1=0.6875 | mejor=0.6943
+[2026-10-29 18:26:07] [ES][XGBoost][Final] | trial 19/50 | F1=0.6760 | mejor=0.6943
+[2026-10-29 18:26:08] [ES][XGBoost][Final] | trial 20/50 | F1=0.6935 | mejor=0.6943
+[2026-10-29 18:26:09] [ES][XGBoost][Final] | trial 21/50 | F1=0.6922 | mejor=0.6943
+[2026-10-29 18:26:10] [ES][XGBoost][Final] | trial 22/50 | F1=0.6926 | mejor=0.6943
+[2026-10-29 18:26:12] [ES][XGBoost][Final] | trial 23/50 | F1=0.6877 | mejor=0.6943
+[2026-10-29 18:26:13] [ES][XGBoost][Final] | trial 24/50 | F1=0.6967 | mejor=0.6967
+[2026-10-29 18:26:14] [ES][XGBoost][Final] | trial 25/50 | F1=0.6884 | mejor=0.6967
+[2026-10-29 18:26:16] [ES][XGBoost][Final] | trial 26/50 | F1=0.6943 | mejor=0.6967
+[2026-10-29 18:26:17] [ES][XGBoost][Final] | trial 27/50 | F1=0.6990 | mejor=0.6990
+[2026-10-29 18:26:18] [ES][XGBoost][Final] | trial 28/50 | F1=0.6902 | mejor=0.6990
+[2026-10-29 18:26:20] [ES][XGBoost][Final] | trial 29/50 | F1=0.6884 | mejor=0.6990
+[2026-10-29 18:26:21] [ES][XGBoost][Final] | trial 30/50 | F1=0.6924 | mejor=0.6990
+[2026-10-29 18:26:22] [ES][XGBoost][Final] | trial 31/50 | F1=0.6869 | mejor=0.6990
+[2026-10-29 18:26:23] [ES][XGBoost][Final] | trial 32/50 | F1=0.6957 | mejor=0.6990
+[2026-10-29 18:26:25] [ES][XGBoost][Final] | trial 33/50 | F1=0.6981 | mejor=0.6990
+[2026-10-29 18:26:26] [ES][XGBoost][Final] | trial 34/50 | F1=0.6949 | mejor=0.6990
+[2026-10-29 18:26:28] [ES][XGBoost][Final] | trial 35/50 | F1=0.6951 | mejor=0.6990
+[2026-10-29 18:26:29] [ES][XGBoost][Final] | trial 36/50 | F1=0.6918 | mejor=0.6990
+[2026-10-29 18:26:31] [ES][XGBoost][Final] | trial 37/50 | F1=0.6993 | mejor=0.6993
+[2026-10-29 18:26:32] [ES][XGBoost][Final] | trial 38/50 | F1=0.6897 | mejor=0.6993
+[2026-10-29 18:26:34] [ES][XGBoost][Final] | trial 39/50 | F1=0.6932 | mejor=0.6993
+[2026-10-29 18:26:35] [ES][XGBoost][Final] | trial 40/50 | F1=0.6926 | mejor=0.6993
+[2026-10-29 18:26:36] [ES][XGBoost][Final] | trial 41/50 | F1=0.6943 | mejor=0.6993
+[2026-10-29 18:26:38] [ES][XGBoost][Final] | trial 42/50 | F1=0.6944 | mejor=0.6993
+[2026-10-29 18:26:39] [ES][XGBoost][Final] | trial 43/50 | F1=0.6990 | mejor=0.6993
+[2026-10-29 18:26:40] [ES][XGBoost][Final] | trial 44/50 | F1=0.6844 | mejor=0.6993
+[2026-10-29 18:26:42] [ES][XGBoost][Final] | trial 45/50 | F1=0.6914 | mejor=0.6993
+[2026-10-29 18:26:43] [ES][XGBoost][Final] | trial 46/50 | F1=0.6937 | mejor=0.6993
+[2026-10-29 18:26:44] [ES][XGBoost][Final] | trial 47/50 | F1=0.6970 | mejor=0.6993
+[2026-10-29 18:26:46] [ES][XGBoost][Final] | trial 48/50 | F1=0.6999 | mejor=0.6999
+[2026-10-29 18:26:47] [ES][XGBoost][Final] | trial 49/50 | F1=0.7018 | mejor=0.7018
+[2026-10-29 18:26:49] [ES][XGBoost][Final] | trial 50/50 | F1=0.6980 | mejor=0.7018
+[2026-10-29 18:26:49] [CU][XGBoost][Final] Optuna TPE
+[2026-10-29 18:26:51] [CU][XGBoost][Final] | trial 6/50 | F1=0.6227 | mejor=0.6227
+[2026-10-29 18:26:52] [CU][XGBoost][Final] | trial 6/50 | F1=0.6387 | mejor=0.6387
+[2026-10-29 18:26:53] [CU][XGBoost][Final] | trial 6/50 | F1=0.6036 | mejor=0.6387
+[2026-10-29 18:26:57] [CU][XGBoost][Final] | trial 6/50 | F1=0.6457 | mejor=0.6457
+[2026-10-29 18:26:58] [CU][XGBoost][Final] | trial 6/50 | F1=0.6074 | mejor=0.6457
+[2026-10-29 18:27:03] [CU][XGBoost][Final] | trial 6/50 | F1=0.5919 | mejor=0.6457
+[2026-10-29 18:27:05] [CU][XGBoost][Final] | trial 7/50 | F1=0.6330 | mejor=0.6457
+[2026-10-29 18:27:06] [CU][XGBoost][Final] | trial 8/50 | F1=0.6402 | mejor=0.6457
+[2026-10-29 18:27:09] [CU][XGBoost][Final] | trial 9/50 | F1=0.6355 | mejor=0.6457
+[2026-10-29 18:27:09] [CU][XGBoost][Final] | trial 10/50 | F1=0.6276 | mejor=0.6457
+[2026-10-29 18:27:14] [CU][XGBoost][Final] | trial 11/50 | F1=0.6113 | mejor=0.6457
+[2026-10-29 18:27:16] [CU][XGBoost][Final] | trial 12/50 | F1=0.6378 | mejor=0.6457
+[2026-10-29 18:27:17] [CU][XGBoost][Final] | trial 13/50 | F1=0.6399 | mejor=0.6457
+[2026-10-29 18:27:19] [CU][XGBoost][Final] | trial 14/50 | F1=0.6312 | mejor=0.6457
+[2026-10-29 18:27:21] [CU][XGBoost][Final] | trial 15/50 | F1=0.6484 | mejor=0.6484
+[2026-10-29 18:27:24] [CU][XGBoost][Final] | trial 16/50 | F1=0.6299 | mejor=0.6484
+[2026-10-29 18:27:28] [CU][XGBoost][Final] | trial 17/50 | F1=0.6300 | mejor=0.6484
+[2026-10-29 18:27:32] [CU][XGBoost][Final] | trial 18/50 | F1=0.6378 | mejor=0.6484
+[2026-10-29 18:27:36] [CU][XGBoost][Final] | trial 19/50 | F1=0.6120 | mejor=0.6484
+[2026-10-29 18:27:39] [CU][XGBoost][Final] | trial 20/50 | F1=0.6413 | mejor=0.6484
+[2026-10-29 18:27:43] [CU][XGBoost][Final] | trial 21/50 | F1=0.6325 | mejor=0.6484
+[2026-10-29 18:27:47] [CU][XGBoost][Final] | trial 22/50 | F1=0.6406 | mejor=0.6484
+[2026-10-29 18:27:50] [CU][XGBoost][Final] | trial 23/50 | F1=0.6345 | mejor=0.6484
+[2026-10-29 18:27:52] [CU][XGBoost][Final] | trial 24/50 | F1=0.6370 | mejor=0.6484
+[2026-10-29 18:27:56] [CU][XGBoost][Final] | trial 25/50 | F1=0.6395 | mejor=0.6484
+[2026-10-29 18:27:59] [CU][XGBoost][Final] | trial 26/50 | F1=0.6308 | mejor=0.6484
+[2026-10-29 18:28:01] [CU][XGBoost][Final] | trial 27/50 | F1=0.6348 | mejor=0.6484
+[2026-10-29 18:28:05] [CU][XGBoost][Final] | trial 28/50 | F1=0.6280 | mejor=0.6484
+[2026-10-29 18:28:08] [CU][XGBoost][Final] | trial 29/50 | F1=0.6321 | mejor=0.6484
+[2026-10-29 18:28:11] [CU][XGBoost][Final] | trial 30/50 | F1=0.6351 | mejor=0.6484
+[2026-10-29 18:28:15] [CU][XGBoost][Final] | trial 31/50 | F1=0.6330 | mejor=0.6484
+[2026-10-29 18:28:19] [CU][XGBoost][Final] | trial 32/50 | F1=0.6376 | mejor=0.6484
+[2026-10-29 18:28:22] [CU][XGBoost][Final] | trial 33/50 | F1=0.6467 | mejor=0.6484
+[2026-10-29 18:28:24] [CU][XGBoost][Final] | trial 34/50 | F1=0.6434 | mejor=0.6484
+[2026-10-29 18:28:27] [CU][XGBoost][Final] | trial 35/50 | F1=0.6523 | mejor=0.6523
+[2026-10-29 18:28:31] [CU][XGBoost][Final] | trial 36/50 | F1=0.6520 | mejor=0.6523
+[2026-10-29 18:28:34] [CU][XGBoost][Final] | trial 37/50 | F1=0.6308 | mejor=0.6523
+[2026-10-29 18:28:37] [CU][XGBoost][Final] | trial 38/50 | F1=0.6526 | mejor=0.6526
+[2026-10-29 18:28:40] [CU][XGBoost][Final] | trial 39/50 | F1=0.6487 | mejor=0.6526
+[2026-10-29 18:28:43] [CU][XGBoost][Final] | trial 40/50 | F1=0.6353 | mejor=0.6526
+[2026-10-29 18:28:46] [CU][XGBoost][Final] | trial 41/50 | F1=0.6543 | mejor=0.6543
+[2026-10-29 18:28:49] [CU][XGBoost][Final] | trial 42/50 | F1=0.6501 | mejor=0.6543
+[2026-10-29 18:28:52] [CU][XGBoost][Final] | trial 43/50 | F1=0.6407 | mejor=0.6543
+[2026-10-29 18:28:55] [CU][XGBoost][Final] | trial 44/50 | F1=0.6517 | mejor=0.6543
+[2026-10-29 18:28:59] [CU][XGBoost][Final] | trial 45/50 | F1=0.6577 | mejor=0.6577
+[2026-10-29 18:29:02] [CU][XGBoost][Final] | trial 46/50 | F1=0.6570 | mejor=0.6577
+[2026-10-29 18:29:06] [CU][XGBoost][Final] | trial 47/50 | F1=0.6530 | mejor=0.6577
+[2026-10-29 18:29:10] [CU][XGBoost][Final] | trial 48/50 | F1=0.6586 | mejor=0.6586
+[2026-10-29 18:29:14] [CU][XGBoost][Final] | trial 49/50 | F1=0.6570 | mejor=0.6586
+[2026-10-29 18:29:18] [CU][XGBoost][Final] | trial 50/50 | F1=0.6556 | mejor=0.6586
+[2026-10-29 18:29:18] FINALIZADO: Búsqueda final completada (LR, RF y XGBoost) (168/168 contados)
+[2026-10-29 18:29:24] [MX][LR] semilla 52
+[2026-10-29 18:29:24] [MX][LR] semilla 52 entrenada
+[2026-10-29 18:29:24] [MX][LR] semilla 62
+[2026-10-29 18:29:25] [MX][LR] semilla 62 entrenada
+[2026-10-29 18:29:25] [MX][LR] semilla 72
+[2026-10-29 18:29:25] [MX][LR] semilla 72 entrenada
+[2026-10-29 18:29:25] [MX][LR] semilla 82
+[2026-10-29 18:29:25] [MX][LR] semilla 82 entrenada
+[2026-10-29 18:29:25] [MX][RF] semilla 52
+[2026-10-29 18:29:26] [MX][RF] semilla 52 entrenada
+[2026-10-29 18:29:26] [MX][RF] semilla 62
+[2026-10-29 18:29:26] [MX][RF] semilla 62 entrenada
+[2026-10-29 18:29:26] [MX][RF] semilla 72
+[2026-10-29 18:29:27] [MX][RF] semilla 72 entrenada
+[2026-10-29 18:29:27] [MX][RF] semilla 82
+[2026-10-29 18:29:28] [MX][RF] semilla 82 entrenada
+[2026-10-29 18:29:28] [MX][XGBoost] semilla 52
+[2026-10-29 18:29:28] [MX][XGBoost] semilla 52 entrenada
+[2026-10-29 18:29:28] [MX][XGBoost] semilla 62
+[2026-10-29 18:29:29] [MX][XGBoost] semilla 62 entrenada
+[2026-10-29 18:29:29] [MX][XGBoost] semilla 72
+[2026-10-29 18:29:30] [MX][XGBoost] semilla 72 entrenada
+[2026-10-29 18:29:30] [MX][XGBoost] semilla 82
+[2026-10-29 18:29:31] [MX][XGBoost] semilla 82 entrenada
+[2026-10-29 18:29:31] [ES][LR] semilla 52
+[2026-10-29 18:29:31] [ES][LR] semilla 52 entrenada
+[2026-10-29 18:29:31] [ES][LR] semilla 62
+[2026-10-29 18:29:31] [ES][LR] semilla 62 entrenada
+[2026-10-29 18:29:31] [ES][LR] semilla 72
+[2026-10-29 18:29:32] [ES][LR] semilla 72 entrenada
+[2026-10-29 18:29:32] [ES][LR] semilla 82
+[2026-10-29 18:29:32] [ES][LR] semilla 82 entrenada
+[2026-10-29 18:29:32] [ES][RF] semilla 52
+[2026-10-29 18:29:33] [ES][RF] semilla 52 entrenada
+[2026-10-29 18:29:33] [ES][RF] semilla 62
+[2026-10-29 18:29:33] [ES][RF] semilla 62 entrenada
+[2026-10-29 18:29:33] [ES][RF] semilla 72
+[2026-10-29 18:29:34] [ES][RF] semilla 72 entrenada
+[2026-10-29 18:29:34] [ES][RF] semilla 82
+[2026-10-29 18:29:35] [ES][RF] semilla 82 entrenada
+[2026-10-29 18:29:35] [ES][XGBoost] semilla 52
+[2026-10-29 18:29:36] [ES][XGBoost] semilla 52 entrenada
+[2026-10-29 18:29:36] [ES][XGBoost] semilla 62
+[2026-10-29 18:29:36] [ES][XGBoost] semilla 62 entrenada
+[2026-10-29 18:29:36] [ES][XGBoost] semilla 72
+[2026-10-29 18:29:37] [ES][XGBoost] semilla 72 entrenada
+[2026-10-29 18:29:37] [ES][XGBoost] semilla 82
+[2026-10-29 18:29:38] [ES][XGBoost] semilla 82 entrenada
+[2026-10-29 18:29:38] [CU][LR] semilla 52
+[2026-10-29 18:29:38] [CU][LR] semilla 52 entrenada
+[2026-10-29 18:29:38] [CU][LR] semilla 62
+[2026-10-29 18:29:39] [CU][LR] semilla 62 entrenada
+[2026-10-29 18:29:39] [CU][LR] semilla 72
+[2026-10-29 18:29:39] [CU][LR] semilla 72 entrenada
+[2026-10-29 18:29:39] [CU][LR] semilla 82
+[2026-10-29 18:29:39] [CU][LR] semilla 82 entrenada
+[2026-10-29 18:29:39] [CU][RF] semilla 52
+[2026-10-29 18:29:40] [CU][RF] semilla 52 entrenada
+[2026-10-29 18:29:40] [CU][RF] semilla 62
+[2026-10-29 18:29:40] [CU][RF] semilla 62 entrenada
+[2026-10-29 18:29:40] [CU][RF] semilla 72
+[2026-10-29 18:29:41] [CU][RF] semilla 72 entrenada
+[2026-10-29 18:29:41] [CU][RF] semilla 82
+[2026-10-29 18:29:41] [CU][RF] semilla 82 entrenada
+[2026-10-29 18:29:41] [CU][XGBoost] semilla 52
+[2026-10-29 18:29:43] [CU][XGBoost] semilla 52 entrenada
+[2026-10-29 18:29:43] [CU][XGBoost] semilla 62
+[2026-10-29 18:29:45] [CU][XGBoost] semilla 62 entrenada
+[2026-10-29 18:29:45] [CU][XGBoost] semilla 72
+[2026-10-29 18:29:47] [CU][XGBoost] semilla 72 entrenada
+[2026-10-29 18:29:47] [CU][XGBoost] semilla 82
+[2026-10-29 18:29:49] [CU][XGBoost] semilla 82 entrenada
+[2026-10-29 18:29:49] FINALIZADO: Modelos finales con 5 semillas entrenados (solo train) (36/36 contados)
