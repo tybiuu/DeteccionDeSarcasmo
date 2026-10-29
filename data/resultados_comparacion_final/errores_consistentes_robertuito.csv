@@ -1,0 +1,319 @@
+variante,ID,tipo_error,LR_tambien_falla,coincide_train,mensaje_original,RF_tambien_falla
+mx,0191f2511079cc0fdc3c9303dbdb9194,FP (falsa ironía),False,False,Sip te traje un llavero! Jajajaja,
+mx,056ee68e69221aa259a549a445708876,FP (falsa ironía),False,False,seguramente andabas ahi woowwwww @mando_rdz,
+mx,05c5722f4820333e4020ed11c6dd001f,FP (falsa ironía),False,False,"La tierra es plana. Todos los que mandan en el mundo, realmente son lagartos. Y la cerveza sin alcohol NO sabe culera!",
+mx,06db9ae082c91c4580433f1b96eecc7e,FP (falsa ironía),True,False,Mejor que con Peña y su compadre huachocolero igual que su jefe de guarros que era el de seguridad de Pemex 😂😂😂,
+mx,0afd6e9a853712f41c3853528fc6ac3b,FN (irónico no detectado),True,False,"@IlhuiM que se vayan a legislar a Venezuela, le harían muy bien al país jaja",
+mx,0d564896e27054867ccfef2cba3106d2,FP (falsa ironía),False,False,"De los creadores de la teoría de la Tierra Plana, llega...",
+mx,1075e61d6c70c508d3e15409246f7cd3,FP (falsa ironía),True,False,Pobres chilangos.... Pero ustedes votaron por ellos..... Aguantensen,
+mx,117e2564e8f70610a92cbcf5d667c587,FN (irónico no detectado),True,False,"Totalmente de acuerdo. Al extranjero solo tienen que ir funcionarios a compras sin licitación y fuera de NOM. Y también Noroñas a Nueva York y a Caracas, que es casi lo mismo",
+mx,11ba3657921d8a755be01bcaf931e072,FP (falsa ironía),True,False,"Exacto @Rayka_911 ... el día del famoso “Haiga sido, como Haiga sido ...”",
+mx,195fb20d3612fc673769390f6f097d85,FP (falsa ironía),False,False,"Este debe ser uno de los hashtags más estúpidos que he visto en toda mi vida... ¿Que sigue?, ¿Pedir que declaren que la tierra es plana?😐 #QuitaElHorarioDeVeranoAMLO",
+mx,1c007d4db762abe7c3b694c059a8d49d,FP (falsa ironía),False,False,Puro comentario estúpido  de gente estúpida! Claro pudiera haber alguna excepción  !!,
+mx,1d64539644ce4d94574e4dc50042ef18,FP (falsa ironía),False,False,Elena es anti transgenicos y la otra señora Álvarez Buylla la corrió del Conacyt 😠 #Ciencia,
+mx,23629439f0662f5da56d60bd7620cb59,FP (falsa ironía),False,False,¿Eso significa que el desabasto será como el no circula permanente?,
+mx,2535e101c910f7da5ad71db7e3758ce0,FP (falsa ironía),True,False,"AMLO ceee en que todos los porros son preparados, aunque para lograr una título universitario les lleve 12 o 14 años, qie eso es parte de la ciencia, jajaj que paso conacyt, donde estan tus científicos",
+mx,2706c1bda8f66136b97f1eb41c81eb39,FN (irónico no detectado),True,False,"Con todo respeto señor presidente, le solicito atentamente que haga una auditoría al @ColegioNal_mx  cuyos miembros se rayan y donde la mafia de Octavio Paz se ha instalado.",
+mx,2876a3764b85530fe73bd83e8c4ce649,FP (falsa ironía),True,False,"Si caray que triste que ahora este ocurriendo lo que antes no ocurría, nos equivocamos...",
+mx,29155e5eb41fa0955ffb1b3bf78fba60,FP (falsa ironía),False,False,"No lo vaya a decir un mexicano que lo tachan de traicionero, envidioso y racista",
+mx,2d72cbd89583b21810d87ff181f08466,FN (irónico no detectado),True,False,@QuantumFracture El problema con la física es que si le agregas la palabra “cuántica” podrías considerar aceptable que la tierra es “plana-esférica” y todos contentos. 😬,
+mx,2da4feb9e33b29fd61bcbc5cec633298,FP (falsa ironía),False,False,Estos si no son del pan son del prian.,
+mx,2edff9b926f32f0a5995463686ad3902,FP (falsa ironía),False,False,Mis compañeros de mi nuevo trabajo están discutiendo si la tierra es plana. #Ashuda #JuevesCasual,
+mx,3011bb5bf69680b4af45d2443f348aa3,FN (irónico no detectado),False,False,"Si Carmen. Ya nos dimos cuenta que la cultura, el deporte, la salud, la economía no le importan. Que se siente apoyar a un personaje así. Coméntalo sería bueno.",
+mx,30d2d01ea1787a4040ba6bdde252d32c,FP (falsa ironía),False,False,Ese wey no explica ni madres salio de escuela rural del pobre diablo,
+mx,35ef5d7576f12eadba0c2a89cfcce5ca,FP (falsa ironía),False,False,Cómo dije ya comenzaron a ladrar!!!,
+mx,368340cd946a9d7eb5435a764d817091,FN (irónico no detectado),False,False,"Uuuuuu le dicen sus verdades , han de ser malvados de ultraderecha que “odian” a los indígenas",
+mx,370db8caa22f918689ce4a9d8ce42164,FP (falsa ironía),True,False,"La incapacidad también es corrupción dice la Senadora Xóchitl Gálvez con evidente alusión al titular del ejecutivo federal, ósea al cabecita de algodón!!! 😂😂😂",
+mx,372bed76e0be2eaef020436ab9bc52a4,FP (falsa ironía),False,False,Ladra perro ya no hay chayote ni hueso..ladra y ladra,
+mx,38c24eb304ab438f9f9d461c17c12b61,FP (falsa ironía),False,False,Que pendeja pregunta...pues para reforzar y asegurar que no se vuelba a repetir el desabasto. Muchos se van con la finta de la pregunta sin razonar. Pendejo 😍,
+mx,39df9e0c182cf85e66242db1c1e280ef,FN (irónico no detectado),True,False,¿Que es un pendejo?,
+mx,432e1d105fae80c3682b55e66c070df7,FP (falsa ironía),True,False,"Invítelo a su programa teacher, a lo mejor le da una sorpresa. Lo dudo pero nada pierde. ¿Recuerda al MIJIS?, muchos criticaron la candidatura y resultó ser un ""garbanzo de a libra"". Aguas con los prejuicios. Saludos!",
+mx,473758b2a956d78d272b6d937db27775,FP (falsa ironía),False,False,O sacarle el cobre a las bobinas de los motores eléctricos.,
+mx,4ab5a8403e0de49386fc1e19b0119114,FP (falsa ironía),True,False,Quien estará pagando esta campaña chavoruca? 🤔,
+mx,4b8307a65d97e560dba184e3d4bac483,FP (falsa ironía),True,False,con aprobación de más del 80% de los mexicanos #AMLO necesita contrapeso?... ..cómo les gusta exhibirse PENDEJOS 😂,
+mx,4e4a823f9139bb6991454efae5cd8d61,FP (falsa ironía),True,False,Buen detalle Joaquin..... somos cuarones....!!!!,
+mx,528b773b4c4b5ecdd8d66e5c391fa194,FN (irónico no detectado),True,False,@dparamooficial yo creo que tu pregunta no tiene razón de ser. Todo mundo sabe que las pipas se van a utilizar para transportar miles de litros de atole para dárselos con el dedo a los #chairos!!!,
+mx,53a112843bd677babbce457284d8c98a,FN (irónico no detectado),False,False,"Con resentidos etnocéntricos de miras lejanas a su ombligo, estamos fritos #TransformacionDe4ta #UnidosPorMexico #AsiNoLopez",
+mx,577be52eb6492ad53b562ed55f4e044e,FP (falsa ironía),True,False,Por eso lo felicita 😂,
+mx,579f80126b7f9af5dd80ac6add47fe7c,FN (irónico no detectado),True,False,"Uy, qué pena; pero soy una neofascista mezquina y fifi, y claro que le voy a dar retuit las veces que sea necesario. Le voy a ayudar a dañar su imagen",
+mx,5f16003a7f457da9b51751e763522ddf,FN (irónico no detectado),True,False,Y pobre prensa mexicana ay cada muerto de hambre y arrastrado y extorsionador  verdad Joaquín?,
+mx,5f7a3f7aa71b2918e1314675251c945b,FN (irónico no detectado),True,False,"Haz algo bueno Claudia, no te ves.",
+mx,6076f28396228abcae4ef7560d3fd68b,FN (irónico no detectado),True,False,"Tus abuelos sí, y tú ama y tú apa también, reciben su pensión, y si tienes hermanos primos o sobrinos en prepa o universidad, también.",
+mx,61722e41ba1e35ace7c5047bcc0f12bc,FP (falsa ironía),True,False,"Ahí una muestra de los riesgos del populismo de la 4t Cómo explicar ahora quién sí y quién no, pertenece al ""Pueblo Sabio"". Y si son primero los pobres, ¿cuales pobres serán primero y cuales después?  y ¿Que tan pobres hay que ser para ir primero?",
+mx,629c3c9ced90215bd7fd84c0befd4128,FN (irónico no detectado),True,False,El mexicano tolerante abierto a la crítica como siempre.,
+mx,6a5b0751a6be57cc112323cd93e0786c,FP (falsa ironía),True,False,Carmen ..........  Alfonso    UN FUERTE ABRAZO!!!,
+mx,6b4d445b3088a24eca1aa93852ff7bf3,FP (falsa ironía),True,False,"Pues si a las 6 am ya esta reunido con su gabinete, es de esperarse que duerma temprano, a parte que este Presidente SI trabaja!!",
+mx,6b9bf8eaaac69e47a1e8c5b3a62292bb,FN (irónico no detectado),False,False,"Si claro, con todo lo que han logrado en evitar tanta pérdida por robo de combustibles, esto ya se ha reflejado en el precio (sarcasmo)",
+mx,7521609b0ab88921c8a6d16d4e33d4ad,FP (falsa ironía),False,False,"Léase, el desabasto va a dudar más días...",
+mx,7848dd4a3d97f9e1ec61b927789ebf18,FP (falsa ironía),True,False,Jajaja lo copio de un WhatsApp que rola en Jalisco.... pero que bueno!!!,
+mx,799ca7d202650d2f64e084c6d5dcd0d1,FN (irónico no detectado),True,False,"Lo que en realidad sucede... es que a la señora, nadie la secuestraría. No hay quien se atreva!!!",
+mx,7aa16157bb2024355499708610423a3b,FN (irónico no detectado),True,False,"Golpe a la libertad.... en lugar de resolver , más atole con el dedo , da mucha pena y rabia",
+mx,81bad86939236783842c3ada521bc5ca,FP (falsa ironía),False,False,Hoy desayuno en una farmacia,
+mx,84932449be9219ea0d60fb9c9db1876b,FN (irónico no detectado),True,False,Lo que más me gusto de la película fue el Galaxy.,
+mx,86e387eb3b8dc51976c613bc813fd9cb,FN (irónico no detectado),False,False,"Es un órgano regulador, que regula la energía. Fuck yeah!",
+mx,87388c7bda8a31ca7619d28304261539,FP (falsa ironía),True,False,Cada vez más loco...,
+mx,910b1a08a43e051796edf541480ea2ae,FP (falsa ironía),False,True,No lo puede evitar teacher.  Nacio perversa de la misma forma que una rana nace rana y un escorpion nace escorpion...,
+mx,91e89657eadf5bd8523ac3bd4ae0ef6d,FP (falsa ironía),False,False,Cualquiera que se arrastre puede aplicar.,
+mx,930bad121b8f5e3fb525b76bf22aba14,FN (irónico no detectado),False,False,de verdad todavía hay gente que cree que la tierra es redonda y no plana?? jajajaj pobres tontos,
+mx,974ad6de468905912760b018b3c4af85,FN (irónico no detectado),True,False,Decepcionante nota!! Ya te subiste al tabique?,
+mx,9e77841ab0977a597dcced6760c8c783,FN (irónico no detectado),True,False,Su imagen esta dañada desde que nació con esa cara .,
+mx,a0e601606288f29fe7863b7234e5cb31,FN (irónico no detectado),True,False,Osea.... Aquí importa más la imagen de una empleada de gobierno que la integridad de una ciudadana. Excelente!,
+mx,a3c7639c0352eee48249f3da5a716eb3,FN (irónico no detectado),False,False,Tambien van a anular la boda religiosa? De todas maneras es falsa,
+mx,a92d2538d5837b325f39d1ae72752294,FP (falsa ironía),False,False,Gracia le hara a #PonchoRomo la aversion de plantas geneticamente modificadas les tiene la directora de @Conacyt_MX ...,
+mx,adb99735f6e2386cb95502e97ef9ce65,FP (falsa ironía),False,False,Pues por eso! Que no se pasen,
+mx,ae64423d7bb95a248f7f96ba5d2b97ba,FP (falsa ironía),False,False,Se los dije que era un churro de churrubusco..,
+mx,b1855bafb79935d6ae49a98102e35f5e,FN (irónico no detectado),False,False,"Q esperaban donde personajes con preparatoria y secundaria dirigirán el destino de instituciones educativas, de investigación o incluso del deporte, amiguismo, compadrazgo y pago de antigüos favores, lo digo y sostengo: son puercos del mismo chiquero, revolcándose en lodo.",
+mx,b27268b433196c01f68398f2d7bb8d80,FP (falsa ironía),False,False,Él solo recibe instrucciones 🐈👈,
+mx,b29d21bc0540f21ee9d3c25b33d9dc12,FN (irónico no detectado),False,False,"iUna Genia!...dijo que no era obligatorio, o sea que los que respeten esta genial sugerencia estarán en total desventaja con los que no la sigan...",
+mx,b7440c2a8eb873f01e3ba4e7718e2ef3,FN (irónico no detectado),True,False,"Hay señora, no cabe duda que su estupidez es como el universo, no tiene fin y se expande!!! Pensar que antes la seguia y hasta foto com usted me tomé, la buscaré y borraré, ya bastantes pendejadas hice en mi vida....",
+mx,b75a0e9f0135f7fdb432b7bf0b12f4a9,FP (falsa ironía),False,False,Ya se sabía que eso iba a durar #ValgameDios #PosOye,
+mx,bcfd2a7e9af91f04ab8cd99e385a6ef8,FP (falsa ironía),True,False,"Jajajajaja. Esta de atar este tipo. Jajajajjajajajajajajajajaja. Ayyy lopitos, que te hizo México que lo odias tanto? @lopezobrador_",
+mx,c31e6fb471951261b37e167120c4b034,FN (irónico no detectado),False,False,Que falta de tacto y de entendimiento del deber del gobierno!,
+mx,c7d529922dbcfbbd4a7395bfdf1475b8,FN (irónico no detectado),True,False,"Esos panistas odian a su partido, están haciendo lo inimaginable para perder el registro. Ojalá lo logren.",
+mx,c8c87df9f946f79b4d826d3d96907748,FN (irónico no detectado),False,False,"“Mafias” en todo, y para combatirlas tienen que poner a puros ineptos. Tomen responsabilidad y dejen de culpar a otros.",
+mx,cc8fa892dac7f0c33472e620b411cd1e,FP (falsa ironía),False,False,QUE NO REGRESE A LA TV!!! NO SÉ QUIÉN CHINGADOS QUIERA VER A ESTA PUTA!,
+mx,d37ffbaf4f317785d30f687e22f6788f,FP (falsa ironía),False,False,"@Claudiashein  Debería viajar sola en metro, y así se dará cuanta que no es una campaña en su contra. 😒",
+mx,d4f3ee2d6db2cdf486d2729d78da93db,FP (falsa ironía),True,False,Ya sabes chiquito! Me acuerdo de ti!!! Jajajaja,
+mx,d87a4c20be7496a64548ec84ca8f0777,FP (falsa ironía),True,False,Ya van los SEAL's en camino,
+mx,dcb18e6322b95743c7c441028ab98f34,FP (falsa ironía),False,False,Que pinche Genio es @Claudiashein o sea que la solución de su Mesías @lopezobrador_ va para largo. Si no saben gobernar #RenunciaAMLO,
+mx,defe55ed8b6b08e55becf39b3d56d630,FP (falsa ironía),True,False,Vaya que SI lo es!!!,
+mx,e3077daa900abb92a1532a23cc0229d7,FP (falsa ironía),False,False,O sea que cualquier indejo puede acercarsele y  embarrarle miados a este imprudente presidente y su seguridad vale un comino???,
+mx,e80ef0498c5d6f634d12b23f38f1506e,FN (irónico no detectado),True,False,"No manches Carmen! ¡Que interesantes y agudas investigaciones y reportajes haces últimamente. Que bajo has caído, y pensar que yo era tu fan! CHAYOTERA DEL RÉGIMEN, VENDIDA, HIPÓCRITA!",
+mx,e893ede4cf5da512f81c06df71e23bf4,FP (falsa ironía),False,False,Y mínimo si acabó la carrera?,
+mx,e8d5b4a4ea3ee1cedda8d981865558a6,FP (falsa ironía),False,False,"Esto decía Amlo antes. ¡Como también dijo que cómo hacerla en la tierra de Zapata!!  Hoy, la Sria Olga le quiere enmendar la plana: que no sabía de la oposición a la misma...",
+mx,f0ae544a3dd2555ea70fce643c2cc225,FP (falsa ironía),True,False,También va a querer que paguen impuestos por cuidar a los nietos?,
+mx,f323565e2464945bc94f4a2aeaf07f51,FN (irónico no detectado),True,False,RT @sofiabiologista: ¿Se acuerdan en que año las personas pensaban que la tierra era plana?...... 2019.,
+mx,f4a6fd67d8f37b093c96d7ee65ccf898,FN (irónico no detectado),True,False,"Y luego dicen que todo lo que les falla es por culpa de la mafia del poder cuando la verdad es que colocan a gente tan incompetente dentro del gobierno, así es dentro de @PartidoMorenaMx y con todo el dedazo de @lopezobrador_  gracias #chairos por ayudar a quebrar a México...",
+mx,f503fae9e9cc7e9fffb2cc471ff8c96c,FP (falsa ironía),False,False,"Cómo q tiene una hermana malandra! Esa no me la sabía, a ver cuenta, cuenta.",
+mx,f63e0cafa62127c07958efcda8983510,FP (falsa ironía),True,False,Jajaja patadas de ahogado.,
+mx,fbf932c5c4c2e7720950bbeb4e6f6709,FP (falsa ironía),False,False,"Hay que preguntarle a la señora de las ligas qué chambas se avienta el Brayan, igual y parece papayito tierno, esos que sólo los tocas y se le sale la leche.....",
+es,007342bd6eed6cca55d2587db4504a7a,FP (falsa ironía),True,False,"@alonsokas1 Por cierto, además de tierraplanistas somos antievolucionistas",
+es,02ad4fffc5c678c90a966caae3775dcd,FP (falsa ironía),True,False,"@Q_E_D___ @contrapolitic Ese manual de resistencia de Pedro Sánchez, será un manual de su resistencia en el poder por el cual el pueblo NO LE VOTÓ. No será de la misma calidad que tu libro que de seguro tendrá buenos argumentos en cuanto pueda compro el libro. QUIEN ESTÁ DETRÁS ÁNIMO 👍",
+es,08f324b997cdd4bff339e9ff103e773b,FP (falsa ironía),False,False,"Ahora que se ha puesto de moda este apellido, Bastarreche. Veamos de quien es nieto el juez en cuestión que ha paralizado la exhumación de Franco: 
+
+LA MASACRE DE LA CARRETERA MÁLAGA - ALMERÍA
+El Almirante Bastarreche,1º por la izquierda,
+junto a altos cargos del ejército nazi. https://t.co/2vDU84Ex7Z",
+es,0a15e6ceba36522639e60e68d099056c,FP (falsa ironía),True,False,Cogieron al clásico estereotipo vasco 😂😂😂 #VenACenar289,
+es,0c53c36c0e7677eff50fb6dda716bebd,FN (irónico no detectado),False,False,@RadioCarmena Lávese la boca para hablar de @Pablo_Iglesias_ . Este tipo ha cambiado pañales durante 3 meses. Está preparado para llevar un país. https://t.co/HXab2zu91F,
+es,0d974a80bcafd9261b9fe14d97b30329,FP (falsa ironía),False,False,¡FRANCO VUELVE A GANAR A LOS ROJOS HASTA DESPUÉS DE MUERTO! LA JUSTICIA SUSPENDE LA EXHUMACIÓN DEL CAUDILLO https://t.co/k7GnAP3UiA,
+es,102714b68d381ab7621d572d13a98c6f,FN (irónico no detectado),True,False,"Grezzi el concejal visionario del ayuntamiento de Valencia. 
+Manda 🥚🥚 !!! https://t.co/w8d7wgHUXI",
+es,123ebcdac0ba1e41468ccff0227396fd,FN (irónico no detectado),True,False,"Joan Tardá, lider independentista, con:
+- Otegi: Secuestró y torturó a Luis Abaitúa.
+- Sastre: Adosó una bomba lapa en el pecho a José María Bultó y lo reventó ante su familia.
+Pero el fascista eres tú... https://t.co/pOZ7k8rCH4",
+es,1877d2f9317aad0a8dbfb9df133f9834,FP (falsa ironía),False,False,@policiaMostoles @AytoMostoles Pero @ManuelaCarmena nos planta los #semaforosA5 para estar #18horasdeatasco en todo el día #contaminacionalpoder #bravocampamento,
+es,1995f18b860e10fc2b2bef142825d5ef,FN (irónico no detectado),False,False,#YoConAlbert es lo que dice @_MaluOficial_  en estos momentos 😉,
+es,1af229767ec072883b55e1210cd10516,FN (irónico no detectado),False,False,#YoConAlbert para hacer más ricos a los ricos y profundizar en la miseria y precariedad laboral de los trabajadores. Ni muerto le voto💪✊,
+es,1ce197ac06780747448116aab2f733ea,FN (irónico no detectado),True,False,Jajajajajajay... Unos tierraplanistas se gastan 20.000$ para probar que la Tierra es plana... y al final demuestran que es esférica. https://t.co/XoObyXQRpf vía @la_mentira,
+es,1e6ecc342462484e68ab74698a1e8a92,FN (irónico no detectado),True,False,"#YoConAlbert porque está contra la corrupción. Bueno, menos con la candidata de CYL, q huele a corrupta q tira patrás. Y menos Villacís, q hizo trampas para evadir impuestos. Y menos 2 de los 3 Aytos donde gobierna C's, también corruptos. 
+Estoy con él porque le gusta Kant.",
+es,20af8f4e2e4d3072a07471bcc1964312,FP (falsa ironía),True,False,@FuncPrisione @sanchezcastejon Quién escribió el libro en realidad?,
+es,21b39450702b39195f3be40cdac9396a,FN (irónico no detectado),True,False,"@JoseAlfredEscob @NConcostrina Señor, en una actuación completamente extraordinaria, se han presentado, por parte de adeptos a la F. Francisco Franco, 12 demandas pidiendo la paralización de la exhumación. TODAS han sido desestimadas, salvo una, lo que indica q este juez tal vez haya incurrido en PREVARICACIÓN",
+es,227b1381dabcc6e48f582c71d815ad72,FP (falsa ironía),False,False,"Decid lo que queráis, pero si no llega el vasco nos morimos del ajjjjjco  #VenACenar289 https://t.co/xs4VDKPZab",
+es,26015094b685e8d0bc0716fe8e93cea8,FN (irónico no detectado),True,False,Joan Tardà i Coma.,
+es,28fbf8d61b6458f63b71b0eba8e3f76a,FN (irónico no detectado),False,False,"Después de los casos de corrupción y vergüenza del @ppcv, ¿que hemos hecho los Valencianos? para aguantar el catalanismo de @compromis, el mamporrerismo del @SocialistesVal y el urbanismo de AliExpress del enajenado Grezzi. El que entre tiene trabajo para deshacer tales desacatos",
+es,2ab7266f144d78e49bf618dc533bc9f4,FP (falsa ironía),True,False,Cantabria😍😍😍😍😍😍#VenACenar289,
+es,30c8eabe1ac2d0e31524ff1831907d7d,FN (irónico no detectado),False,False,"@EquoBerdeak @rosa_mr_ ¿Que hechos han sido probados?
+Que lamentable, @Pablo_Iglesias_ es verdad que te va a venir bien eso de cambiar pañales, ven aquí que cada vez que hablan la cagan.",
+es,3695dddb92484e36a0f58561eb4b9f87,FN (irónico no detectado),False,False,"#VenACenar289
+¡¡Trata de arrancarlo, trata de arrancarlo!!",
+es,38beca82afadbb9bb00ac1cd169c7c15,FN (irónico no detectado),False,False,#YoConAlbert Pla. #EspanyaDeMerda,
+es,39433d375b6f14c27771dd48e34b2bba,FP (falsa ironía),False,False,"@ahorapodemos @Pablo_Iglesias_ Joder, según el patrón Santiago Abascal sería mejor presidente pq tiene 4hijos y ha cambiado más pañales no?",
+es,3ff472b36c235e45ed885973fd61b083,FP (falsa ironía),True,False,El libro de @sanchezcastejon lo ha escrito @vini11Oficial,
+es,42853d624ab36251862df0a68a708d11,FP (falsa ironía),True,False,"#VenACenar289 hoy va de gorras y xapelas, para cenar 🤦🏻‍♂️",
+es,43259564642c18e8fae89d01a585f7b2,FN (irónico no detectado),False,False,"@gabrielrufian ¿Ya te cambió los pañales @Pablo_Iglesias_ ? mira ver que si no, pasas mala noche! y encima lo haces presiente... 🙄🙄",
+es,45a1f31130f363f6779d68c278a5e6ef,FN (irónico no detectado),False,False,"@ArusityslaSexta  @Pablo_Iglesias_ qué dicen en el programa de Arús que hablas mucho de que has limpiado pañales de tus hijos, incluso se cachondean del hecho, debe ser de que el ha limpiado más bien pocos y se lo echan en cara , no se. ......., todo muy neutral.",
+es,4a394bcf156e3b34b59552dbc67fa8b1,FP (falsa ironía),True,False,@mezvan Hola Tierraplanistas 😂😂,
+es,4d355744571f4edce03c7892636d6359,FN (irónico no detectado),True,False,"@geojuanillo @madridgarcia5 @AtascoMadrid @blancocarmona @wiflyvirr Eres un cachondo, di la verdad, no se ponen en salida para no joderos vosotros mismos, los madrileños"". Mejor ponerlo en entrada y joder a la gentuza de fuera verdad? Como no somos ""madrileños""..",
+es,50d86ca4fb25de7d4ef49d968c884bf8,FN (irónico no detectado),False,False,"@skander957 @alex_riveiro Otro que cree que la tierra es plana, el viaje a la luna fue fake, el atententado de las torres gemelas fue un engaño, matrix nos rodea...",
+es,50e32755ba48df21efb7219a2b478f0f,FP (falsa ironía),True,False,"@ManuelaCarmena Gracias, hoy he tardado 1:30 minutos en ir a trabajar en autobús gracias a tus #semaforosA5 recorrido que antes se hacía en la mitad de tiempo. @isabanes",
+es,53397ef192548cdba4aaf863a77e61ef,FP (falsa ironía),True,False,@ahorapodemos @Pablo_Iglesias_ Prefiero cambiar los pañales a mi hija.,
+es,534d21971e48569182e7277ea634d359,FN (irónico no detectado),False,False,"@manu190775 Hasta hace 500 años se creía que la tierra era plana, igual dentro de 500 años se aceptará que los bancos son una estafa.",
+es,55506d46d8b785c7a44a256cdf12fd2e,FP (falsa ironía),True,False,"@iguardans Lo del relator no me parece trascendente. Por lo menos, ha servido para que se identifiquen los hiperventilados!",
+es,55d826053183727490b55302c3d4ec3e,FN (irónico no detectado),True,False,"@MADRID Si, es muy sostenible con los semáforos de la A-5, ¡Estamos atascados en coche y transporte público! NO a #semaforosA5 https://t.co/Hpuq29nTYm",
+es,563533aa43a78e58bd5f1c2e776e02d1,FN (irónico no detectado),False,False,Entre lo de defender que la tierra es plana y poner un pasaje bíblico como argumento de peso estoy empezando a creer que este chaval ha aparecido en el siglo XXI por un viaje espacio-temporal https://t.co/AnXHOvaG2q,
+es,5cb2ad9b70554d71f5bfd3a5164e4b43,FP (falsa ironía),True,False,"Cuando de ha caído el experto del patinete 
+#venacenar289 https://t.co/IaaqMAUErF",
+es,6c1193410c6d1c4d696597ee9969aa03,FP (falsa ironía),True,False,"César, el peluquero de cejas prominentes, es más seco que un bocadillo de polvorones. #VenACenar289",
+es,6d341b1fa6e7ea26af6870b973a1e6ee,FN (irónico no detectado),False,False,@europapress Viva Valencia!! Viva grezzi!!! Esto es lo que han votado. Acordarse el 28A.,
+es,70b5917bcb802678649360d929ca4b0d,FN (irónico no detectado),True,False,"@IdiazAyuso Podemos y PSOE Hablan de calidad del aire, reducen la velocidad, limitan la circulación pero luego generan atascos de 45 minutos. ¿Saben la contaminación que generan? Perjuicio para los MADRILEÑOS lo mires como lo mires. #SemáforosA5 https://t.co/RjS41ccsE9",
+es,765e17908c932a51ef53ed38668245c4,FN (irónico no detectado),False,False,"Claro que sí guapi,  porque la contaminación y la explotación de recuersos naturales no tiene nada que ver,  además de que claramente la Tierra es plana. Es que de verdad,  pecadores, dejad de pecaar ehh😂😂 https://t.co/RHRIuJ5Oz5",
+es,7aee9eaac91672ca95ff0eea3af93395,FP (falsa ironía),True,False,"Buenassss a tod@sss!! Llevo un pelin tarde pero llego!!
+La cosa de va de ortigas k en Asturias tenemos pa regalar #venacenar289",
+es,7e32e89834111b947c250e881e3bfc83,FN (irónico no detectado),True,False,Las estadísticas de Grezzi más falsas que el CIS del PSOE. https://t.co/nYeARZS2TP,
+es,85142d6c72e4836e2634c6aeeccbf7c1,FN (irónico no detectado),False,False,#VenACenar289 no he entendido en qué trabaja este hombre.,
+es,8522934340144a6250efe4d2d5f3b0fb,FN (irónico no detectado),True,False,"@MADRID por favor, podéis explicar a mi jefe el por qué de llegar tan tarde a trabajar?? El tampoco entiende para que coño habéis puesto #semaforosA5 #A5VíaUrbana",
+es,8867236acca3ffea0e9274136540aa0c,FN (irónico no detectado),True,False,#VenACenar289 yo no me explico de donde sacan a esta gente...,
+es,8a4d1b99d3e29dce7b0871a5997a4df0,FP (falsa ironía),True,False,"@Frank_Lapidus79 No te quepa duda estimado follower, este compi es un crack y como el mismo dijo tiene tiempo de sobra para tocar las pelotas a la APS, así que para relator también 😂",
+es,8a8382ae67969548b9e000581123c6e8,FN (irónico no detectado),True,False,@lasprovincias Grezzi quiere que dejemos el coche en casa e impulsar medios de transporte alternativos lo que genera más demanda pero surgen plataformas como UBER y las prohíbe,
+es,8f9cfd5f9a3cbaaa9d068568572fa3a1,FP (falsa ironía),True,False,"La que está montando el visionario Grezzi en Valencia. 😱😱😱.
+Ya le queda poco, y habrá que pedirle responsabilidades !!!",
+es,8fb3979384e3063414e8fde9863ecccb,FP (falsa ironía),True,False,"#VenACenar289
+- nunca había probado machote https://t.co/W5HhFo2Cjf",
+es,95145e42de1fc1ed3ef6b4aaea1f5d8b,FP (falsa ironía),True,False,"@Pablo_Iglesias_, he cambiado los pañales de mis tres hijos y soy parado de larga duración. No aspiro a ser presidente del gobierno, pero sí a un trabajo digno.",
+es,97006f4c392344a17d94949f93a00bf7,FN (irónico no detectado),False,False,"#YoConAlbert porque me gustan los trepas que trabajando cuatro años para un banco tienen para comprarse una mansión en la urba más cara de España. En 10 años de vida, C's no ha conseguido nada, salvo pactar con corruptos aquí y allá.",
+es,9dd78480fd9a30678f5f2f09dc2efafb,FN (irónico no detectado),False,False,"@Robustiano55 @Pablo_Iglesias_ y ese mindungui de Garzón, nos han descubierto q los hombres también pueden cambiar pañales, lo q yo hacía hace 37 años no era eso....",
+es,a1168d86763e1de2c3c8282ff4a40954,FN (irónico no detectado),False,False,"Mucho cachondeo y demás... pero habrá alguno que se tomará en serio este cachondeo y luego tenemos los presidentes que tenemos...
+
+Por este tipo de gente el champú lleva instrucciones. https://t.co/Er7iZ3vjOK",
+es,a13ba13b47fbe43dd6b395599766bc1b,FN (irónico no detectado),True,False,"Joan tardá haciendo mitin de cara a la galería queriendo hacer cosas que un testigo no hace, le llaman la atención y quedará de víctima para el independentismo...como hacer de un juicio un mitin político y como decir que ellos no sabían nada de nada...todo paso por ciencia infusa",
+es,a3af14abb5b0298c5fdd3ca7408a6fe8,FN (irónico no detectado),True,False,"#VenACenar289
+El machote. https://t.co/7CCxARyi1W",
+es,a3eeb8e35fe4861376e18728795dbade,FP (falsa ironía),False,False,"Joan Tardá va a dar su discurso, si o si.",
+es,a5a184651d50cb6bf4e010c46644f8b7,FN (irónico no detectado),True,False,Joan Tardá no puede declarar en Catalán. Guardiola de morritos. https://t.co/JPLmO96dX4,
+es,a5c4f1076070cef5dfedf4cd85bfb811,FP (falsa ironía),True,False,@ValenciaEscucha A mí me gustaría más saber que amigo de Grezzi está haciendo todas estas obras.,
+es,a841a149f4b077299ef045f9758bbfb8,FP (falsa ironía),True,False,Pedro Sánchez saca libro el 19 de febrero: 'Manual de resistencia' https://t.co/G9pFJzTc9Y,
+es,ab3a4231311536f6d743ffec25926c5d,FN (irónico no detectado),False,False,"@Pablo_Iglesias_ @pnique Blablabla bancos, blablabla rescate, blablabla ricos, blablabla pobres, blablabla...lo único que ha cambiado de tu demagógico discurso es que ahora cambias pañales.",
+es,ac5295a178364462ec2c2b47b3a06259,FN (irónico no detectado),False,False,"Que dice @sanchezcastejon que Manual de Resistencia"" es un libro para todos y todas con el objetivo de que aprendamos a sobrevivir a este Gobierno y al okupa de Presidente que tenemos en @desdelamoncloa. #EleccionesYa. https://t.co/GGqGlDjTaC""",
+es,ad66b19d95e50ff75a82c4a599c04d73,FN (irónico no detectado),True,False,¿Quién lo iba a decir? ¡¡¡Los semáforos de una autovía de entrada a Madrid desde una de sus zonas más pobladas generan atascos!!!! ¡¡¡Que sorpresa!!! #semaforosA5 https://t.co/hQEmy3CVmb,
+es,af55d753ccf2808908e121aa7d483b42,FP (falsa ironía),True,False,"Joan Tarda, que grande 👏👏👏👏👏",
+es,b15cc1f8689da22ab990eeb14745949d,FP (falsa ironía),True,False,"@Jasafella @Pablo_Iglesias_ Cambié cientos de pañales a mis cinco hijos, les di biberones, los llevé al Colegio, hice la comida miles de veces y asistí al parto de 4 de mis cinco hijos en casa. Y muchas cosas más,",
+es,b2a18a908a7d75b9c7bf6475dfa50937,FP (falsa ironía),True,False,¿Pero en qué quedamos es peluquero o tiene un bar? #VenACenar289,
+es,b3d632bbc4cd8c63ef1cf08560f89c83,FN (irónico no detectado),False,False,"@Pablo_Iglesias_ ...dijo el Marqués de Galapagar con casoplón de más de 1M de € y con vigilancia 24h pagada por aquellos que no llegan a fin de mes. 
+Anda y vete al contenido de esos pañales que dices que has cambiado",
+es,b51db39d1b60a1c41ab4d36631cd46db,FP (falsa ironía),False,False,"Dios el final de La tierra es plana"" es jodidamente bueno me parto los cojones.""",
+es,b822d1906def4442b9a3e8484294f4e6,FP (falsa ironía),True,False,#VenACenar289 a bernabé ponerle unas gulas del norte y a tomar por culo,
+es,b98bcb3e0353319bd69a046e66e60b2a,FN (irónico no detectado),True,False,"Carlos Herrera ayer en COPE decía que un juez paralizaba la exhumación de Franco. Hoy, con la paralización de la caza en Castilla y León, habla de auto prevaricador de una juez"".",
+es,b9ca37f6c0d4f357191cc53adde99783,FN (irónico no detectado),True,False,"Resultado de la modélica"" transacción española un juez franquista decide sobre la exhumación de Franco. Chorpecha!!!!""",
+es,c170b4531f90a03f7163ba692628beff,FP (falsa ironía),True,False,"Cuando desaparece un barco en el horizonte porque supuestamente ahí curva la tierra y al situarse en la otra cara del planeta no lo podemos observar, únicamente hace falta una cámara con buen zoom para volverlo a ver. Disfrutad de la TIERRA PLANA",
+es,cca0ecd949157200bc39be3dd868219a,FN (irónico no detectado),True,False,"“Hablan del relator, pero Rajoy pidió la mediación de los obispos”
+https://t.co/5GKrvWZgMI #AR08F #CrisisRelaTorraAR https://t.co/z7ymO8Ftu9",
+es,cf361243027306c79b25033da2f62c84,FN (irónico no detectado),True,False,"@ValenCicleta @ValenciaEscucha Drama si,los niveles de contaminación más alto en la historia de Valencia gracias a los atascos producidos por el inteligente de Grezzi",
+es,d14ec259e47d5e2a87335f43d65104c6,FN (irónico no detectado),True,False,"@carlosavilaGM @sergio_gfp @madridgarcia5 @CorredorEcoSur @campamento_si @Gacetinmadrid @abc_madrid @el_pais_madrid @InformativosTM @Madridenlaonda Conozco muy bien la zona y las velocidades, precisamente llevo casi 20 años trabajando por esa zona y por eso va tan 'desahogada' la M40, y con los #semaforosA5 irá mejor...",
+es,d16b8b3663e73e48926988a4cfb77f6c,FP (falsa ironía),True,False,"@MrLiras Tierra plana, Netflix",
+es,d196df333fceb609781dfafbfbbfef15,FP (falsa ironía),True,False,"@CrazyJediTCK @ajrf_S252 @maria_13_04 Una duda... Los autobuses tienen derecho a saltarse los #semaforosA5 ? Caso práctico: vives en Arroyomolinos y trabajas en la Gran Vía. Hasta ahora, dejabas el coche en Lago para coger el metro (dónde encontrabas sitio casi seguro).",
+es,d564d2499d4a41f5e9f4051798e65ff6,FN (irónico no detectado),True,False,"Joan Tarda ha entrado a declarar sin que nadie le pite, le insulte, le escupa....y los medios de comunicación informando sin ningún mongue les impida hacer su trabajo.
+Estos madrileños son unos incivilizados.",
+es,db8f1148daa7f38e8a95a2e782b59a08,FP (falsa ironía),False,False,Joan Tardá ha ido a hacerle la campaña electoral a Vox. Y la jugada les ha salido perfecta.,
+es,e555273f136f17855ba0efeaad2e214b,FP (falsa ironía),False,False,"El “Chepas” ha cambiado cuatro pañales y automáticamente se otorga el derecho y la sabiduría para ser el presidente del gobierno.
+Poco nos pasa.
+@ahorapodemos
+@Pablo_Iglesias_",
+es,e89d359956bddc09635a28b46120ff63,FN (irónico no detectado),True,False,"@carlitosopina @RodrigoDdeV13 Además esos coches parados no contaminan... Todo el mundo lo sabe, y los que están en la carretera de Boadilla tampoco. #semaforosA5",
+es,ea6f5ca974f2550497bab6b8c010d217,FN (irónico no detectado),True,False,"#VenACenar289 Me parece demasiado"" nivel para ciertos paladares...""",
+es,eaec14d062c4277753251892190da534,FN (irónico no detectado),True,False,"@ValenCicleta @ciudadciclista Toooooooooooooooooda la calzada urbana es tan mía, como suya. Demasiada carrilbicina forte, de los laboratorios Grezzi, han afectado a tu patrimonio ciudadano. Yo, le demandaba, por ladrón.",
+es,eb7e61eac6728a87dee84e5cf69ab2d2,FP (falsa ironía),True,False,"Cocinar con agua de mar, vamos con la chorrada del mes... #VenACenar289 https://t.co/n8cCrnGO7V",
+es,f1cbb64529fb33b38768f75e14de7456,FN (irónico no detectado),True,False,"Ya lo he sufrido hoy, como se nota q @ManuelaCarmena no coge la A5 y menos aún el autobús público, gracias Manuela por jorobarme aún más el ir al trabajo a #madrid. NO a los #semaforosA5. @IdiazAyuso @AlmeidaPP_ #mostoles https://t.co/Q3w5dBQOPd",
+es,f2ff9e4269aef379b71c95aab1d84906,FN (irónico no detectado),True,False,"@Sigil0sa_ @Pablo_Iglesias_ Cuando todo lo que haces, pretendes hacer, o has hecho no deja de ser simplemente una caca, tal y cómo le ocurre al Sr Iglesias, lo de cambiar pañales y limpieza de culos, no deja de ser un plus, claramente.",
+es,f833827ea36044d15b4878bea6be7a27,FN (irónico no detectado),False,False,@jafombuena @GinerAlcalde @CsValencia_C @valenciacf @Fginer @joanribo No le des ideas a Grezzi!!!🤦‍♂️🤦‍♂️🤦‍♂️,
+es,fcfe8936d9d9a3e3a43faca887fa2362,FN (irónico no detectado),True,False,#VenACenar289 al vasco no sé si odiarlo  ya o esperarme al postre. https://t.co/IaduDH7JzR,
+es,fe4bfcc4b06e3ad567f7d76a2cf62ebd,FP (falsa ironía),True,False,@pikola24 @vivival5 @MADRID Pues ahora en lugar de tener el atasco solo por la mañana lo vas a tener las 18 hora de jornadas laborales. No querías caldo? Pues @ManuelaCarmena te da #semaforosa5 #contaminacionalmaximo,
+es,fea7cf900843088ae903e4edd0210327,FN (irónico no detectado),False,False,@jemayfe @CristinaSegui_ @Pablo_Iglesias_ Pero Pablo. ¿Que has cambiado? habla con propiedad. Pañales - pañalos o pañalas. Más que nada para enterarme.,
+es,ff275a1c87a34cf9dd5a957e9c64ff1a,FP (falsa ironía),False,False,Por qué hay un documental de la tierra es plana en netflix?,
+es,ffd197f7ab7498cf6d719d655db1262a,FP (falsa ironía),True,False,"@JosPastr Ojalá se cumpla Sr. Sánchez y su libro sea un buen augurio. @sanchezcastejon""",
+cu,0227292b56529bc53ad280382a92d387,FN (irónico no detectado),,False,"?Por lo visto,los partidarios de Industriales son fiel reflejo de ese equipo: arrogantes y prepotentes,sin cultura deportiva.nosotros ,los guajiros reconocemos a los adversarios que no son ni prepotentes ni arrogantes.",True
+cu,032e6f0a510e06cfb1101336a4f4f764,FP (falsa ironía),,False,Qué falta de respeto utilizar frases irónicas para criticar al Cro. René por su decisión de utilizar sus 15 CUC del almuerzo para sufragar su instalación a internet. Eso demuestra la mente estrecha que tienen muchos comentaristas. René: oídos sordos!!!,True
+cu,04069559f1541e564c310e509f14b002,FN (irónico no detectado),,False,"la pregunta es los que crearon tuvieron la genial idea, pero olvidaron el salario promedio de la sociedad donde lo van a ofrecer? o sencillamente no es ese el tema? cual es el tema recaudar divisas? y quien piensa en los trabajadores, quien defiende sus intereses?",True
+cu,04957803c50e9ce54be607af9b687bbe,FP (falsa ironía),,False,"Por favor, yo solo tengo una pregunta a los panelistas.
+¿La corporación CIMEX es auditada por la ??????????? ??????? ?? ?? ??????????",True
+cu,0bd066e15b99ab151e30c2e2e6492ab1,FP (falsa ironía),,False,"Ladyrene, está muy bonito tu tatuaje.",False
+cu,0e1dfea462664314494fc72c42a71792,FP (falsa ironía),,False,"Yaima, Yaima, basta.",False
+cu,14a37f1013fdca5637bd125dcc15d954,FN (irónico no detectado),,False,"?Siendo un buen equipo,Industriales es rechazado por excepto los capitalinos,por su bien ganada historia de arrogancia y prepotencia, siendo ademas aupados por los periodistas deportivos y coloco esa palabra entre comillas,porque un Periodista debe ser imparcial en sus juicios.",True
+cu,1b2e4e4b91bbf2e533b69e797b210204,FN (irónico no detectado),,False,"Cubano: quién dice que se le ha puesto nauta hogar a casi todas las viviendas de las capitales provinciales? Por favor deme el link de dónde leyó esa información para ver si me pusieron tambien, al menos en estadísticas.",True
+cu,23206a0b46472ed210a6ba90953bb9d8,FN (irónico no detectado),,False,"El periodista de este artículo es una farcelonista frustrado. Sin comentarios, periodistas imparciales como estos no deberíamos admitirlos en la prensa nacional.",True
+cu,2908f0ba2a7844e88b24dd4c8910dea5,FN (irónico no detectado),,False,y ??? cuando estara al alcance de todos como en todo el mundo.,False
+cu,2a8c403cc48cb4bea124fc2c53c92826,FN (irónico no detectado),,False,"Este deberia ser el verdadero articulo, es lo que en realidad esta pasando:La prensa mundial, a los pies de Cristiano: Finaliza la era Messi",True
+cu,2c36728564b610be474ace3740607c55,FP (falsa ironía),,False,y el pasaje de bauta la lisa y viceversa como queda,False
+cu,35cfa300c4651dbda6b7d6f3b01502e2,FP (falsa ironía),,False,"?Como salio ETECSA en la prueba, pues ponchao, con 2 de puntuación",True
+cu,36666db0f854cc2370e3c1fcd4323f98,FN (irónico no detectado),,False,El tiburón se baña pero salpica,True
+cu,3863ca8aee0472a876c72b58aa0dc0e0,FN (irónico no detectado),,False,"Otra interrogante, por qué nadie fuera de Cuba ha denunciado que los cubanos violamos abiertamente los derechos de los productores de esas programaciones?? O será que el paquete ha venido a ser el primer embajador en el restablecimiento de las relaciones??",True
+cu,39af288233225ccd75c46a6683144dd7,FN (irónico no detectado),,False,"no lo creooooo o bueno si que cambiara nuestro ADN será diferente porque NO TENDREMOS EL GEN DEL DESARROLLO, DE LA EVOLUCION si seguimos asiCARECEREMOS DE ESA INFORMACION GENETICA o siempre tendremos los genes defectuosos porque todo aqui es incompleto",False
+cu,3af5614ad0edc6723cac63fb6b177046,FN (irónico no detectado),,False,Felicidades director muy buena tarifa así se hace.,True
+cu,3de62d46a017855155f3f45708d53d12,FN (irónico no detectado),,False,desde la apertura de la Internet Publica en cuba hemos estado atentos a los movimientos de Nuestra querida empresa de Comunicaciones ETECSA con sus planes supuestamente novedosos pero siempre nos damos cuenta que en dicha empresa no existe el término ´´PRECIOS MODICOS´´,True
+cu,3ecb9adf2d3f227384a74aac11d64cc3,FP (falsa ironía),,False,"yo tuve un novio q estaba conectado a esa red, jejejejeje, yo veia eso como algo magico, a mi me encataba, jugaban wow, dota, nunca vi q se anduviera enn algo raro, y el me hacia los cuentos de gente q andaba en algo y enseguida lo sacaban",False
+cu,428bc1581c5e056d89c8c4c15f564b42,FN (irónico no detectado),,False,"?No se puede porque ese carro cuesta 15 000 USD en Rusia y al llegar a la Aduana de aqui te van a cobrar 1 500 000 millones , mas o menos . Quien en la Galaxia paga esa cantidad por un carrito .???",False
+cu,46bffd621507ef94a31e423aaa8268fa,FN (irónico no detectado),,False,"Si eres de la Habana sí, y si no pregúntale a la CNB, a quien tambi;en le hace falta una buena sacudida de la mata.",True
+cu,52ebc34fa7948cd5f9bb769c1b3bb35c,FN (irónico no detectado),,False,"Casi es mayor el experimentado cuerpo tecnico que la preseleccion de jugadores, si no ganan es porque",True
+cu,53cf46e66866271e12bbb5563a03b4b0,FN (irónico no detectado),,False,Ahora El Mariel es Cuba y lo demas areas Verdes,True
+cu,53dcf2ce973868118426a63411ec87d3,FP (falsa ironía),,False,k pajarita dios Messi en sus 4 balores de oro lo recibe con calma porke el sabe ke no tiene ke esforsarce tanto jejejeje.. tal parece que se revento en el campo para alcanzar un solo balon de oro jajajaja,True
+cu,59bfc6fbdd2b5f2afcb63fad251f113c,FN (irónico no detectado),,False,"?muy buena la noticia, pero el sitio esta caido   que raro!   tarde o temprano desaparecera como lo hacen varios foros todos los años, la inestabilidad en este tipo de sitios en Cuba es algo normal.",False
+cu,59c41b228fb3d4117e8a471dc4858982,FN (irónico no detectado),,False,"Cuando estudié en la Universidad me enseñaron que la información es la posibilidad de despejar incertidumbre y no me parece que este sea el caso. Esperemos llegar ahí algún día, a lo mejor dentro de los próximos 50 años.",True
+cu,5b5bf2aa867421b71ccdc41e10410e4c,FP (falsa ironía),,False,?Ni me dejarón hacer la prueba jjjj y eso q tengo H+ q desastre,True
+cu,5bb659ca50904b7aac766b0f25e7af9f,FP (falsa ironía),,False,"Jose, se ve bien que tú no tienes hijos todavía. ¿Aceptarías el soborno para contribuir a su crianza?",False
+cu,5d23bf5a2898912f36635df4bb63bc3b,FN (irónico no detectado),,False,gracias nuevamente por pensar en los intereses del pueblo..siempre que dictan una ley con el que menos se ponen de acuerdo..,True
+cu,5e7756db9b837f922864055cd07d1d08,FN (irónico no detectado),,False,"Una simple sugerencia para ETECSA: Dentro de algunos días volver a repetir esta prueba; pero esta vez de 8 PM a 8 AM y así tal vez se compruebe si los problemas de sms, llamadas y otros son consecuencia de la conexión de
+todos los usuarios al mismo tiempo.",True
+cu,6311f31ca1b7db4813d648263dacdf05,FP (falsa ironía),,False,"?Dr Oscar, usted debe tener mucho dinero cuando para usted ¨los planes estan aceptables¨ porque el 99% de los ciudadanos de este pais los vemos ¨inalcansables, imposibles, horribles, ect.",False
+cu,660fd227891392b0a540d2d78b068d05,FN (irónico no detectado),,False,"""bonito comentario""
+tiene mucha razón la tecnología te hace cambiar los estilos de vida y marca pautas de comportamiento, solo q en Cuba aun no se ha podido acceder a ella.",True
+cu,6c170d603c946a5b35a64d24ffd1c684,FP (falsa ironía),,False,"DHL dió en el punto, ahora que no hay aceite resulta que la grasa de puerco es mejor, por dios.",True
+cu,6fa2e1d5cea89efa57070117facface6,FP (falsa ironía),,False,"Cada vez que veo una de estas noticias es como si me faltaran el respeto, a mí y a todos los cubanos que a pié andamos !!!",True
+cu,71477bc0934e8f297f167015bb0a382c,FN (irónico no detectado),,False,"¿Hubo un error de impresión ? .. ¿Por qué los encargados de revisar el examen impreso no se dieron cuenta de que había algo mal enfocado ? Tiempo había para hacer una errata, si no existían los recursos o el tiempo para volver a imprimir.",True
+cu,75896d129c18b2e2e7d78733121a491f,FP (falsa ironía),,False,Y no es k ToDus era gratis????????? Parece k ya nadie se acuerda de eso!!!,True
+cu,7649998278b44b0687fdd8b81aded2fb,FN (irónico no detectado),,False,"No me convence la explicacion que dieron en el Granma acerca de por que usamos esa dichosa norma China que ni los chinos utilizan,no se podran importar Televisores ,vamos a tener que usar lo que TRD nos venda con el letreritosolo para Cuba,alguien del foro podria aclararme el temita.",True
+cu,7c330df37488890aeb5d8c49eae2aca1,FP (falsa ironía),,False,"Alguien que le consiga unos espejuelos bifocales al forista que firma Criollo por favor, para que pueda ver cómo el bate que tenía en sus manos Demis Valdés le pega en el rostro a Lunar casi de punta.
+Salu2.",True
+cu,7f85eede46ad2730a27eef7d24c7ea3f,FP (falsa ironía),,False,"Bueno la cajita vale dos meses de salario y aqui se ven tres canales en la transmision digital, ¿valdrá la pena tanto sacrificio para ver Cubavision, Cubavision internacional y Tele Rebelde solamente???",True
+cu,80c6a8394f52ff4311158388db1728e6,FN (irónico no detectado),,False,¡Hermosísimo! Felicitaciones y agradecimiento a todos los que lograron esta bella obra de arte. Que lastima que mis padres no pueden llevarme,True
+cu,869966c38473885bb2d56e12547ed0ab,FN (irónico no detectado),,False,"Muy claro el mensaje, da una explicación muy detallada. ETECSA nunca nos defrauda.",True
+cu,8832d1be32cb58b5a9c498a1cc9d9974,FP (falsa ironía),,False,"pero que.. no puede ser .
+SEVERA??????? ESO ES INTENTO DE HOMICIDIO CONTRA FREDDY y AGRESIÓN SERIA A LUNAR!!!!! pero de donde salió ese inadaptado social, ese anarquista???, que te den Valdés!!! si te queda verguenza entrégate a la policía y no vuelvas jugar baseball, que tampoco eras gran cosa eh",True
+cu,8834ebbc891beef9a0b0c0ca4ac05d0a,FN (irónico no detectado),,False,"En Holguín no existen problemas, claro mientras no trates de conectate....",False
+cu,889fd81754f3d3bdd66ed642e65f0b75,FP (falsa ironía),,False,"jajajajaja Raim compadre la Cristal es mejor que la Tinima ademas la Zona especial de desarrollo Mariel esta en la Habana,pa Camaguey pa atras ni para coger impulso saludos",True
+cu,8d970d1175c789d6d9b6fd254be26ed2,FN (irónico no detectado),,False,Hasta que se roben las cámaras o se rompan misteriosamente mientras el omnibus está sin prestar servicio.,True
+cu,8f10b72bfcdafa9f5311b962bfe23217,FN (irónico no detectado),,False,"Estimados lectores, les convoco a montarse en una A83 desde la habana, ahi tendran una experiencia unica en la vida, solo comparable con montañas rusas, disfrutara un trato de excelencia por los choferes, un música agradable, un viaje de lujo.",True
+cu,8f3b06fd16689cd39be44b7c63609320,FP (falsa ironía),,False,Que envíen camiones de manzanas haber cuántos el del carro negro compra,True
+cu,8ff692bf284caa49908c9b59284bada5,FN (irónico no detectado),,False,"?Socio, dejen la fantasia y regresen a la realidad, q vamos a un torneo serio.",False
+cu,92383a8400cd1b73262dd799aa752c6b,FP (falsa ironía),,False,"baja el porciento, Ernesto? me atrevo a decir que crónicas iguales o mejores las pueden hacer aqui unos cuantos ya, sólo que no es para que todos los meses se está pensando en un hotel 5 estrellas.   Parientes y FE tenemos casi todos?",False
+cu,942fd67f8ca6623ce7ac1a104abe9f1b,FN (irónico no detectado),,False,"seguramente usted es un cubano con FE y posiblemente no tienes familia que alimentar, por eso ves los precios buenos, saluda a tu vecino el pobre que no tiene zapatos buenos que ponerse, no andes como los caballos de los coches de Bayamo con orejeras que solo pueden ver lo que tienen de frente.",True
+cu,94ef9777617d1f5ac316f5b139c2f256,FN (irónico no detectado),,False,"hermanosinceramenteprimero deberian preocuparse por los precios y hacer mas ¨economico¨ el acceso
+a la red de redes y que esté al alcance de todos y despues que pongan la 20G si quieren..esto es un atraco
+a mano armada al bolsillo del cubano de a pie",True
+cu,95e43ae09945b0eb6970b14567c51b03,FP (falsa ironía),,False,"Jajajaj ta bueno eso, no tenia ni idea de que la radio había caído en eso. Siempre me asombro como los programas en la radio que oye mi abuela mantenían un alto grado de participación. No imaginaba que a veces los mismos locutores hacían voces como si fuera el publico jejejeje",True
+cu,96142c69503bebe742ef7fd61befee54,FN (irónico no detectado),,False,?Muy buena labor del ministerio del transporte para solventar la transportación de La Capital de todos los Cubanos Y me pregunto  ¿Las demás provincias; pa cuando?,False
+cu,97c6558cf65c50dfbed5bae3d9cf5933,FN (irónico no detectado),,False,?Por favor entiendan que etecsa no pone esos precios eso es una política de precios general en Cuba . Si no entren a cualquier tienda la ganancia es de 400? el interruptor de apagar los datos móviles se me va romper de tanto enciende y apaga. Seguimos como siempre en combate.,True
+cu,991335904d2a501b2321808f304632be,FP (falsa ironía),,False,"Arnaldo y su Talismán es música, letra, contenido, disfrute plenoel chupi chupi es pérdida de tiempo",False
+cu,9a95b2dc61f5a657f2794e2d4995e22d,FP (falsa ironía),,False,"Javi creo que valió la pena la espera, jejej :P, FINALLY!!!!! y lo mejor es (aparte de su correcto enfoque) la aceptación entre los lectores.
+Slds",True
+cu,9a9d37ec7aa32a79b65d496a16714464,FN (irónico no detectado),,False,"?eso es como los muñequitos,quien le pone el cascavel al gato o diria mejor quien lo puede pagar",True
+cu,9bb4966c762bc94430fbf82e64266dfd,FN (irónico no detectado),,False,"bla bla bla.
+que curioso,solo 58 personas se interesan por compratir su experienciadigo por la cantidad de comentarios",True
+cu,9cb8ed67384f7f28d985e2f5b398d48d,FN (irónico no detectado),,False,"BLA BLA BLA, ESO ES LO QUE DA LA MISERIA",True
+cu,a06760e3b9f870c6e76c1733b174a346,FN (irónico no detectado),,False,Jesus Felicidades por tu IGNORANCIA y ESTRECHEZ DE MENTE!,False
+cu,a1bb074939ec521aa82df0095ed0b9a3,FN (irónico no detectado),,False,?1 hora y media en la mañana Querida ETECSA para que en el minipuntode Guiteras HE llegara la promocion. Si se sabia desde ayer por que no se lo pudieron en máquina a las vendedoras que estaban pasando pena. ?,True
+cu,a2c1592301999eeb70ce97bad842dd25,FN (irónico no detectado),,False,"Tengo una duda. Por casualidad en la parte este de la ciudad no viven personas que se benefician o se perjudican de los BOTEROS? Hablo específicamente Alamar, Guanabo. ¿Por qué no anunciaron esa zona? ¿Alguien sabe?",False
+cu,a5ecb263d052151e92feb11f134d3b42,FP (falsa ironía),,False,"KINAH
+si vamos a hablar de SUPOSICIONES, velaríamos a Freddy después de HABER MATADO A SANTOYA.
+Qué me dices ahora???????",True
+cu,af9cd6165209b1d8d38927c912002a2a,FN (irónico no detectado),,False,"Ayer mismo en la mesa redonda el ministro del MINTUR relaciono un conjunto de (""verdades"") que en ningun lugar, ni nadie lo va a cuestionar, pero lo mismo lo observamos con el ministro de la Agricultura, de Educación Superior, MINCIN, MICONS, etc. Bravo por muestros MINISTROS.",False
+cu,afbbef787950dd6cd3d65e8333fc5aa3,FN (irónico no detectado),,False,Hay que hablar con el comisionado nacional de boxeo para incorporar a demis al equipo de retadores,False
+cu,bb912637ef7807c859524fccab0f0c4d,FN (irónico no detectado),,False,"profe, con su respeto, que conformista usted es, no te has fijado en la lista de los preparadores? y despues
+preguntan porque el beisbol de base no mejora, claro no hay presupuesto jjjjj lo malgastan",True
+cu,c00ef9cde54827fa437243d130982e2b,FN (irónico no detectado),,False,Que nos expliquen donde se le aplico al problema el dichoso Enfoque ..,True
+cu,c6b8f5e0fa55a25c0a363897f3066631,FP (falsa ironía),,False,"?Matancero, Entonces estamos condenados ser pobres para siempre?   Un país lleno de pobres no prospera nunca!!! A donde vamos a parar? Hasta cuando seremos pobres?",True
+cu,c83c7461b084fc18a8cdcdf6fcb39e66,FP (falsa ironía),,False,"?Jajajaja. como la vecina de enfrente, hermosa, pero no es para mí.",True
+cu,ca23bb0d42af61905c4b1b9d3dd822ae,FN (irónico no detectado),,False,"Castigaron a Pablo Civil por haber asaltado el podio en los ultimos 2 años, subcampeon y campeon de la serie
+nacional. ¿No habia para él un lugar en el cuerpo técnico? Por eso estamos como estamos, ..",False
+cu,cb4d81e578275089e072360239584da5,FP (falsa ironía),,False,"?Adolfo Luis Rodriguez Rodrigyez .UD ha dicho en una forma llana, sencilla y entendible la mayor y única verdad que nadie quiere decir:   CALIDAD DE VIDA. Conocemos eso?   Gracias",False
+cu,cbcdb07111188c91ce0f88682ff1fab8,FN (irónico no detectado),,False,"El paquete de la semana es lo ""peor"" que se inventado, ahí está todo desde Entretenimiento hasta noticias, inclusive aplicaciones de PC. Cosa que nacionalmente la TVC ha trabajado para satisfacer a la Población. ",False
+cu,cc8feffc37add2fc2d6c3ad37e47226c,FN (irónico no detectado),,False,"Felicidades Remigio, eres parte de la amplia y aplastante minoria! Solo lee el blog del articulo que se publico ayer, mas de 1 millon y medio participaron y veras las opiniones de tu pueblo",True
+cu,cf5e41810533b9af521b6c93665eeb90,FP (falsa ironía),,False,"El estudio no habla de aceite de soya, que casualidad menciona girasol canola y olivaaa jajjjaja, lo que aseguro que un arroz congri con manteca de puerco es exquisito.",True
+cu,d133e599452b171b71bd6623105a9fff,FN (irónico no detectado),,False,"Muy claraaaa todas las explicaciones, Me puede decir alguien cual es el Bono que se Extiende??",True
+cu,d62155a413ee58fe4de1e100bfc7c51f,FN (irónico no detectado),,False,?Para que mas tramos si con los que hay restando los carros CCAP (cogidos por los choferes para asuntos propios) no dan a basto.,False
+cu,d6b7edcede0f4768c0707ffbf05d709e,FP (falsa ironía),,False,"?Errado con H de horror, si dejan que los cubanos accedan les va a entrar buen dinero por ese servicio, con lo cual van a poder desplegar mas infraestructura y asi sucesivamente  lo unico mejor para generer ingresos, más que una empresa de telecomunicaciones, es ella misma bien atendida!",False
+cu,d861991a1e59131b820e858350684ef9,FP (falsa ironía),,False,Pioneer: ¿Será Usted uno de esos que tambien a comprado manzanas?,True
+cu,dab8b625f23f962a32188c255b774ba7,FP (falsa ironía),,False,"Scorpion: veo que te has enamorado de Lisset y nunca las has visto, el susto que te vas a llevar cuand la veas jajajaja",True
+cu,dbb27466da94d00fad3c7f2a7da3b29d,FP (falsa ironía),,False,"Alabáo! ya verán dispararse los precios de la manteca de cerdo, jajaja!, No escampa.",True
+cu,e2cd3a848afedd3832be73bace658666,FN (irónico no detectado),,False,?Estamos avanzando poco a poco el avance tecnológico en cuba va en alza paso de tortuga pero no nos podemos quejar ya tenemos el internet desde nuestros dispositivos móviles y bastante rápida que esta a pesar de lo q se esperaba.,True
+cu,e4106024be9474666f7019c618495763,FN (irónico no detectado),,False,"mire señor alfredo no se si es un directivo de ETECSA (estamos tratando de establecer comunicaciones sin apuro) ni me interesa, pero le puedo garantizar que ese BONO no es tan gratis como usted dice. saludos",True
+cu,e548fd2bbb79fa653c0a295d7969a086,FN (irónico no detectado),,False,"Es por gusto, quién de nosotros demanda a una empresa estatal, socialista con valores revolucionarios. Perdón por mi opinión pero si fuera privada ya hubieran respuestas concisas.",True
+cu,e719cdc74a5955c749cfa227e0bea62a,FN (irónico no detectado),,False,"Esto siempre pasa en Santa Clara.
+YA la ciudad ha crecido en coches de caballomas caballos que personas. Pero si ves alguna guagua del estado arreguindate de la brocha que me llevo a escalera.",True
+cu,e73ad6350fa8ca4beaf883bdcac6bc82,FN (irónico no detectado),,False,"?Al fiiinnn me abrió Pero un detallito.. Para Cuba EN INGLEEEES??? y si tiene donde cambiar idioma, me lo dicen por favor :)",False
+cu,e7f8ec7fb039cd18276dca3735b128a9,FN (irónico no detectado),,False,Buena decisión ojalá se mantenga hasta los juegos de tokio,True
+cu,e81fa31ec9dbf91e5caabbb84ea082c7,FN (irónico no detectado),,False,"Nuestra Empresa de Telecomunicaciones se impone y sus bondades deben ser aprovechadas en beneficio, calidad, tiempo de nuestros objetivos y funciones, en el servicio que se brinda, con prioridad la población",True
+cu,ed8685e29dbd701e0e1599567091f22d,FN (irónico no detectado),,False,"mano, pertenezco a snet, lo unico ke te puedo decir es que averigues en tu zona kien tiene una subred
+cercana para ke tires un cable hacia alla, la otra opcion ke tienes es comprar un equipo inalambrico (variante baratica) para conectarte ",True
+cu,eea5c47163bf01415373688d368c679f,FN (irónico no detectado),,False,"?Mi opinión es que la tarifa del la comunicaciones sms, internet llamadas, está acorde con los salarios del cubano medio, sigan asi, mis felicitaciones, pronto seremos una nacion informatizada. ",True
+cu,f2f1c2a92ef5455ac050bae50847380a,FN (irónico no detectado),,False,"Claro, y todo el mundo está agredido como Cubaen EEUU, hay 70 millones de personas sin Internet. En China, más de la mitad de la población. Acceso a Internet tienen en la tierra solo el 60 % de los habitantes del planeta. Todo el mundo tiene internet ? No jodas.
+",True
+cu,f48f0cfefcd71e5c46cb838d0ffcb492,FN (irónico no detectado),,False,Y ahora es que usted se entera que la honestidad pasó de moda?,True
+cu,f499441067f30e0b8cdc0b006bfdca28,FN (irónico no detectado),,False,"Con independencia a que esta vez VM32 evitó males mayores, esta actitud de su alumno es consecuencia de las ensenanzas que ha impartido.",True
+cu,f8427a9949081313ea9a4c33bcfeb196,FN (irónico no detectado),,False,SEÑORES SI LOS QUE TIENEN ACCESO A ESTE SITIO QUE DEJAN SUS COMENTARIOS APENAS PUEDEN VER LOS VIDEOS..de que estamos hablando.que internet ni que internet????.,True
+cu,f96629b0e90dd4eef51948f80ee7cf4c,FN (irónico no detectado),,False,Lo de el valdes no tiene comentarios es tremendo justiciero por sus manos merece esa sanción y muchas más.,True
+cu,f96d90e7e09422017bc238cda47124b3,FP (falsa ironía),,False,"Periodista, ¿tu crees que ese magnate fue de casualidad a la tienda y vió que estaban vendiendo manzanas y compró 15000 para su consumo?",True
+cu,fa8e1bf1f8b8e95d9531652c487491a1,FP (falsa ironía),,False,Como que al fin va subiendo nuestra red gegegemuchas gracias colega por el articulo el cual esta muy pero muy bueno. hojala algun dia el estado nos de un poco mas de liberta sobre este tema ya que vivimos en la insectidumbre de que dia pueden llegar y descomisarnos todo.,False
+cu,fba7fd4ad67956b2d719524f64ab9436,FN (irónico no detectado),,False,"?Estoy muy de acuerdo, los que tienes problemas del corazón, que vayan comprando el captopril y clordiazepóxido para cuando salgan los precios. Por eso yo espero que hagan más pruebas porque cuando salga el servicio para mi va a ser como si en Cuba no existiera el internet por datos.",True
+cu,fc5eb2a0dac8aa598709d809033ae3f9,FN (irónico no detectado),,False,Ya lo dijeron los celebres filósofos Timón y Pumba .. el ciclo sin fin ..,True

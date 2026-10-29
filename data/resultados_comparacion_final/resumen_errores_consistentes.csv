@@ -1,0 +1,4 @@
+variante,errores_consistentes,FN,FP,ml_comparado,tambien_falla_ml,pct_compartidos
+mx,88,33,55,LR,44,0.5
+es,92,52,40,LR,59,0.6413043478260869
+cu,98,64,34,RF,72,0.7346938775510204
