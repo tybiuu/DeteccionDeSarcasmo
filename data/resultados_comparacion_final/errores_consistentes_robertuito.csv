@@ -52,7 +52,6 @@ mx,81bad86939236783842c3ada521bc5ca,FP (falsa ironía),False,False,Hoy desayuno 
 mx,84932449be9219ea0d60fb9c9db1876b,FN (irónico no detectado),True,False,Lo que más me gusto de la película fue el Galaxy.,
 mx,86e387eb3b8dc51976c613bc813fd9cb,FN (irónico no detectado),False,False,"Es un órgano regulador, que regula la energía. Fuck yeah!",
 mx,87388c7bda8a31ca7619d28304261539,FP (falsa ironía),True,False,Cada vez más loco...,
-mx,910b1a08a43e051796edf541480ea2ae,FP (falsa ironía),False,True,No lo puede evitar teacher.  Nacio perversa de la misma forma que una rana nace rana y un escorpion nace escorpion...,
 mx,91e89657eadf5bd8523ac3bd4ae0ef6d,FP (falsa ironía),False,False,Cualquiera que se arrastre puede aplicar.,
 mx,930bad121b8f5e3fb525b76bf22aba14,FN (irónico no detectado),False,False,de verdad todavía hay gente que cree que la tierra es redonda y no plana?? jajajaj pobres tontos,
 mx,974ad6de468905912760b018b3c4af85,FN (irónico no detectado),True,False,Decepcionante nota!! Ya te subiste al tabique?,
@@ -218,50 +217,50 @@ cu,2a8c403cc48cb4bea124fc2c53c92826,FN (irónico no detectado),,False,"Este debe
 cu,2c36728564b610be474ace3740607c55,FP (falsa ironía),,False,y el pasaje de bauta la lisa y viceversa como queda,False
 cu,35cfa300c4651dbda6b7d6f3b01502e2,FP (falsa ironía),,False,"?Como salio ETECSA en la prueba, pues ponchao, con 2 de puntuación",True
 cu,36666db0f854cc2370e3c1fcd4323f98,FN (irónico no detectado),,False,El tiburón se baña pero salpica,True
-cu,3863ca8aee0472a876c72b58aa0dc0e0,FN (irónico no detectado),,False,"Otra interrogante, por qué nadie fuera de Cuba ha denunciado que los cubanos violamos abiertamente los derechos de los productores de esas programaciones?? O será que el paquete ha venido a ser el primer embajador en el restablecimiento de las relaciones??",True
+cu,3863ca8aee0472a876c72b58aa0dc0e0,FN (irónico no detectado),,False,"Otra interrogante, por qué nadie fuera de Cuba ha denunciado que los cubanos violamos abiertamente los derechos de los productores de esas programaciones?? O será que el paquete ha venido a ser el primer embajador en el restablecimiento de las relaciones??",False
 cu,39af288233225ccd75c46a6683144dd7,FN (irónico no detectado),,False,"no lo creooooo o bueno si que cambiara nuestro ADN será diferente porque NO TENDREMOS EL GEN DEL DESARROLLO, DE LA EVOLUCION si seguimos asiCARECEREMOS DE ESA INFORMACION GENETICA o siempre tendremos los genes defectuosos porque todo aqui es incompleto",False
 cu,3af5614ad0edc6723cac63fb6b177046,FN (irónico no detectado),,False,Felicidades director muy buena tarifa así se hace.,True
 cu,3de62d46a017855155f3f45708d53d12,FN (irónico no detectado),,False,desde la apertura de la Internet Publica en cuba hemos estado atentos a los movimientos de Nuestra querida empresa de Comunicaciones ETECSA con sus planes supuestamente novedosos pero siempre nos damos cuenta que en dicha empresa no existe el término ´´PRECIOS MODICOS´´,True
 cu,3ecb9adf2d3f227384a74aac11d64cc3,FP (falsa ironía),,False,"yo tuve un novio q estaba conectado a esa red, jejejejeje, yo veia eso como algo magico, a mi me encataba, jugaban wow, dota, nunca vi q se anduviera enn algo raro, y el me hacia los cuentos de gente q andaba en algo y enseguida lo sacaban",False
 cu,428bc1581c5e056d89c8c4c15f564b42,FN (irónico no detectado),,False,"?No se puede porque ese carro cuesta 15 000 USD en Rusia y al llegar a la Aduana de aqui te van a cobrar 1 500 000 millones , mas o menos . Quien en la Galaxia paga esa cantidad por un carrito .???",False
-cu,46bffd621507ef94a31e423aaa8268fa,FN (irónico no detectado),,False,"Si eres de la Habana sí, y si no pregúntale a la CNB, a quien tambi;en le hace falta una buena sacudida de la mata.",True
+cu,46bffd621507ef94a31e423aaa8268fa,FN (irónico no detectado),,False,"Si eres de la Habana sí, y si no pregúntale a la CNB, a quien tambi;en le hace falta una buena sacudida de la mata.",False
 cu,52ebc34fa7948cd5f9bb769c1b3bb35c,FN (irónico no detectado),,False,"Casi es mayor el experimentado cuerpo tecnico que la preseleccion de jugadores, si no ganan es porque",True
 cu,53cf46e66866271e12bbb5563a03b4b0,FN (irónico no detectado),,False,Ahora El Mariel es Cuba y lo demas areas Verdes,True
-cu,53dcf2ce973868118426a63411ec87d3,FP (falsa ironía),,False,k pajarita dios Messi en sus 4 balores de oro lo recibe con calma porke el sabe ke no tiene ke esforsarce tanto jejejeje.. tal parece que se revento en el campo para alcanzar un solo balon de oro jajajaja,True
+cu,53dcf2ce973868118426a63411ec87d3,FP (falsa ironía),,False,k pajarita dios Messi en sus 4 balores de oro lo recibe con calma porke el sabe ke no tiene ke esforsarce tanto jejejeje.. tal parece que se revento en el campo para alcanzar un solo balon de oro jajajaja,False
 cu,59bfc6fbdd2b5f2afcb63fad251f113c,FN (irónico no detectado),,False,"?muy buena la noticia, pero el sitio esta caido   que raro!   tarde o temprano desaparecera como lo hacen varios foros todos los años, la inestabilidad en este tipo de sitios en Cuba es algo normal.",False
-cu,59c41b228fb3d4117e8a471dc4858982,FN (irónico no detectado),,False,"Cuando estudié en la Universidad me enseñaron que la información es la posibilidad de despejar incertidumbre y no me parece que este sea el caso. Esperemos llegar ahí algún día, a lo mejor dentro de los próximos 50 años.",True
+cu,59c41b228fb3d4117e8a471dc4858982,FN (irónico no detectado),,False,"Cuando estudié en la Universidad me enseñaron que la información es la posibilidad de despejar incertidumbre y no me parece que este sea el caso. Esperemos llegar ahí algún día, a lo mejor dentro de los próximos 50 años.",False
 cu,5b5bf2aa867421b71ccdc41e10410e4c,FP (falsa ironía),,False,?Ni me dejarón hacer la prueba jjjj y eso q tengo H+ q desastre,True
 cu,5bb659ca50904b7aac766b0f25e7af9f,FP (falsa ironía),,False,"Jose, se ve bien que tú no tienes hijos todavía. ¿Aceptarías el soborno para contribuir a su crianza?",False
 cu,5d23bf5a2898912f36635df4bb63bc3b,FN (irónico no detectado),,False,gracias nuevamente por pensar en los intereses del pueblo..siempre que dictan una ley con el que menos se ponen de acuerdo..,True
 cu,5e7756db9b837f922864055cd07d1d08,FN (irónico no detectado),,False,"Una simple sugerencia para ETECSA: Dentro de algunos días volver a repetir esta prueba; pero esta vez de 8 PM a 8 AM y así tal vez se compruebe si los problemas de sms, llamadas y otros son consecuencia de la conexión de
-todos los usuarios al mismo tiempo.",True
+todos los usuarios al mismo tiempo.",False
 cu,6311f31ca1b7db4813d648263dacdf05,FP (falsa ironía),,False,"?Dr Oscar, usted debe tener mucho dinero cuando para usted ¨los planes estan aceptables¨ porque el 99% de los ciudadanos de este pais los vemos ¨inalcansables, imposibles, horribles, ect.",False
 cu,660fd227891392b0a540d2d78b068d05,FN (irónico no detectado),,False,"""bonito comentario""
-tiene mucha razón la tecnología te hace cambiar los estilos de vida y marca pautas de comportamiento, solo q en Cuba aun no se ha podido acceder a ella.",True
+tiene mucha razón la tecnología te hace cambiar los estilos de vida y marca pautas de comportamiento, solo q en Cuba aun no se ha podido acceder a ella.",False
 cu,6c170d603c946a5b35a64d24ffd1c684,FP (falsa ironía),,False,"DHL dió en el punto, ahora que no hay aceite resulta que la grasa de puerco es mejor, por dios.",True
 cu,6fa2e1d5cea89efa57070117facface6,FP (falsa ironía),,False,"Cada vez que veo una de estas noticias es como si me faltaran el respeto, a mí y a todos los cubanos que a pié andamos !!!",True
-cu,71477bc0934e8f297f167015bb0a382c,FN (irónico no detectado),,False,"¿Hubo un error de impresión ? .. ¿Por qué los encargados de revisar el examen impreso no se dieron cuenta de que había algo mal enfocado ? Tiempo había para hacer una errata, si no existían los recursos o el tiempo para volver a imprimir.",True
+cu,71477bc0934e8f297f167015bb0a382c,FN (irónico no detectado),,False,"¿Hubo un error de impresión ? .. ¿Por qué los encargados de revisar el examen impreso no se dieron cuenta de que había algo mal enfocado ? Tiempo había para hacer una errata, si no existían los recursos o el tiempo para volver a imprimir.",False
 cu,75896d129c18b2e2e7d78733121a491f,FP (falsa ironía),,False,Y no es k ToDus era gratis????????? Parece k ya nadie se acuerda de eso!!!,True
 cu,7649998278b44b0687fdd8b81aded2fb,FN (irónico no detectado),,False,"No me convence la explicacion que dieron en el Granma acerca de por que usamos esa dichosa norma China que ni los chinos utilizan,no se podran importar Televisores ,vamos a tener que usar lo que TRD nos venda con el letreritosolo para Cuba,alguien del foro podria aclararme el temita.",True
 cu,7c330df37488890aeb5d8c49eae2aca1,FP (falsa ironía),,False,"Alguien que le consiga unos espejuelos bifocales al forista que firma Criollo por favor, para que pueda ver cómo el bate que tenía en sus manos Demis Valdés le pega en el rostro a Lunar casi de punta.
-Salu2.",True
+Salu2.",False
 cu,7f85eede46ad2730a27eef7d24c7ea3f,FP (falsa ironía),,False,"Bueno la cajita vale dos meses de salario y aqui se ven tres canales en la transmision digital, ¿valdrá la pena tanto sacrificio para ver Cubavision, Cubavision internacional y Tele Rebelde solamente???",True
 cu,80c6a8394f52ff4311158388db1728e6,FN (irónico no detectado),,False,¡Hermosísimo! Felicitaciones y agradecimiento a todos los que lograron esta bella obra de arte. Que lastima que mis padres no pueden llevarme,True
 cu,869966c38473885bb2d56e12547ed0ab,FN (irónico no detectado),,False,"Muy claro el mensaje, da una explicación muy detallada. ETECSA nunca nos defrauda.",True
 cu,8832d1be32cb58b5a9c498a1cc9d9974,FP (falsa ironía),,False,"pero que.. no puede ser .
 SEVERA??????? ESO ES INTENTO DE HOMICIDIO CONTRA FREDDY y AGRESIÓN SERIA A LUNAR!!!!! pero de donde salió ese inadaptado social, ese anarquista???, que te den Valdés!!! si te queda verguenza entrégate a la policía y no vuelvas jugar baseball, que tampoco eras gran cosa eh",True
 cu,8834ebbc891beef9a0b0c0ca4ac05d0a,FN (irónico no detectado),,False,"En Holguín no existen problemas, claro mientras no trates de conectate....",False
-cu,889fd81754f3d3bdd66ed642e65f0b75,FP (falsa ironía),,False,"jajajajaja Raim compadre la Cristal es mejor que la Tinima ademas la Zona especial de desarrollo Mariel esta en la Habana,pa Camaguey pa atras ni para coger impulso saludos",True
+cu,889fd81754f3d3bdd66ed642e65f0b75,FP (falsa ironía),,False,"jajajajaja Raim compadre la Cristal es mejor que la Tinima ademas la Zona especial de desarrollo Mariel esta en la Habana,pa Camaguey pa atras ni para coger impulso saludos",False
 cu,8d970d1175c789d6d9b6fd254be26ed2,FN (irónico no detectado),,False,Hasta que se roben las cámaras o se rompan misteriosamente mientras el omnibus está sin prestar servicio.,True
 cu,8f10b72bfcdafa9f5311b962bfe23217,FN (irónico no detectado),,False,"Estimados lectores, les convoco a montarse en una A83 desde la habana, ahi tendran una experiencia unica en la vida, solo comparable con montañas rusas, disfrutara un trato de excelencia por los choferes, un música agradable, un viaje de lujo.",True
-cu,8f3b06fd16689cd39be44b7c63609320,FP (falsa ironía),,False,Que envíen camiones de manzanas haber cuántos el del carro negro compra,True
+cu,8f3b06fd16689cd39be44b7c63609320,FP (falsa ironía),,False,Que envíen camiones de manzanas haber cuántos el del carro negro compra,False
 cu,8ff692bf284caa49908c9b59284bada5,FN (irónico no detectado),,False,"?Socio, dejen la fantasia y regresen a la realidad, q vamos a un torneo serio.",False
 cu,92383a8400cd1b73262dd799aa752c6b,FP (falsa ironía),,False,"baja el porciento, Ernesto? me atrevo a decir que crónicas iguales o mejores las pueden hacer aqui unos cuantos ya, sólo que no es para que todos los meses se está pensando en un hotel 5 estrellas.   Parientes y FE tenemos casi todos?",False
 cu,942fd67f8ca6623ce7ac1a104abe9f1b,FN (irónico no detectado),,False,"seguramente usted es un cubano con FE y posiblemente no tienes familia que alimentar, por eso ves los precios buenos, saluda a tu vecino el pobre que no tiene zapatos buenos que ponerse, no andes como los caballos de los coches de Bayamo con orejeras que solo pueden ver lo que tienen de frente.",True
 cu,94ef9777617d1f5ac316f5b139c2f256,FN (irónico no detectado),,False,"hermanosinceramenteprimero deberian preocuparse por los precios y hacer mas ¨economico¨ el acceso
 a la red de redes y que esté al alcance de todos y despues que pongan la 20G si quieren..esto es un atraco
 a mano armada al bolsillo del cubano de a pie",True
-cu,95e43ae09945b0eb6970b14567c51b03,FP (falsa ironía),,False,"Jajajaj ta bueno eso, no tenia ni idea de que la radio había caído en eso. Siempre me asombro como los programas en la radio que oye mi abuela mantenían un alto grado de participación. No imaginaba que a veces los mismos locutores hacían voces como si fuera el publico jejejeje",True
+cu,95e43ae09945b0eb6970b14567c51b03,FP (falsa ironía),,False,"Jajajaj ta bueno eso, no tenia ni idea de que la radio había caído en eso. Siempre me asombro como los programas en la radio que oye mi abuela mantenían un alto grado de participación. No imaginaba que a veces los mismos locutores hacían voces como si fuera el publico jejejeje",False
 cu,96142c69503bebe742ef7fd61befee54,FN (irónico no detectado),,False,?Muy buena labor del ministerio del transporte para solventar la transportación de La Capital de todos los Cubanos Y me pregunto  ¿Las demás provincias; pa cuando?,False
 cu,97c6558cf65c50dfbed5bae3d9cf5933,FN (irónico no detectado),,False,?Por favor entiendan que etecsa no pone esos precios eso es una política de precios general en Cuba . Si no entren a cualquier tienda la ganancia es de 400? el interruptor de apagar los datos móviles se me va romper de tanto enciende y apaga. Seguimos como siempre en combate.,True
 cu,991335904d2a501b2321808f304632be,FP (falsa ironía),,False,"Arnaldo y su Talismán es música, letra, contenido, disfrute plenoel chupi chupi es pérdida de tiempo",False
@@ -270,7 +269,7 @@ Slds",True
 cu,9a9d37ec7aa32a79b65d496a16714464,FN (irónico no detectado),,False,"?eso es como los muñequitos,quien le pone el cascavel al gato o diria mejor quien lo puede pagar",True
 cu,9bb4966c762bc94430fbf82e64266dfd,FN (irónico no detectado),,False,"bla bla bla.
 que curioso,solo 58 personas se interesan por compratir su experienciadigo por la cantidad de comentarios",True
-cu,9cb8ed67384f7f28d985e2f5b398d48d,FN (irónico no detectado),,False,"BLA BLA BLA, ESO ES LO QUE DA LA MISERIA",True
+cu,9cb8ed67384f7f28d985e2f5b398d48d,FN (irónico no detectado),,False,"BLA BLA BLA, ESO ES LO QUE DA LA MISERIA",False
 cu,a06760e3b9f870c6e76c1733b174a346,FN (irónico no detectado),,False,Jesus Felicidades por tu IGNORANCIA y ESTRECHEZ DE MENTE!,False
 cu,a1bb074939ec521aa82df0095ed0b9a3,FN (irónico no detectado),,False,?1 hora y media en la mañana Querida ETECSA para que en el minipuntode Guiteras HE llegara la promocion. Si se sabia desde ayer por que no se lo pudieron en máquina a las vendedoras que estaban pasando pena. ?,True
 cu,a2c1592301999eeb70ce97bad842dd25,FN (irónico no detectado),,False,"Tengo una duda. Por casualidad en la parte este de la ciudad no viven personas que se benefician o se perjudican de los BOTEROS? Hablo específicamente Alamar, Guanabo. ¿Por qué no anunciaron esa zona? ¿Alguien sabe?",False
@@ -311,9 +310,9 @@ cu,f2f1c2a92ef5455ac050bae50847380a,FN (irónico no detectado),,False,"Claro, y 
 ",True
 cu,f48f0cfefcd71e5c46cb838d0ffcb492,FN (irónico no detectado),,False,Y ahora es que usted se entera que la honestidad pasó de moda?,True
 cu,f499441067f30e0b8cdc0b006bfdca28,FN (irónico no detectado),,False,"Con independencia a que esta vez VM32 evitó males mayores, esta actitud de su alumno es consecuencia de las ensenanzas que ha impartido.",True
-cu,f8427a9949081313ea9a4c33bcfeb196,FN (irónico no detectado),,False,SEÑORES SI LOS QUE TIENEN ACCESO A ESTE SITIO QUE DEJAN SUS COMENTARIOS APENAS PUEDEN VER LOS VIDEOS..de que estamos hablando.que internet ni que internet????.,True
+cu,f8427a9949081313ea9a4c33bcfeb196,FN (irónico no detectado),,False,SEÑORES SI LOS QUE TIENEN ACCESO A ESTE SITIO QUE DEJAN SUS COMENTARIOS APENAS PUEDEN VER LOS VIDEOS..de que estamos hablando.que internet ni que internet????.,False
 cu,f96629b0e90dd4eef51948f80ee7cf4c,FN (irónico no detectado),,False,Lo de el valdes no tiene comentarios es tremendo justiciero por sus manos merece esa sanción y muchas más.,True
-cu,f96d90e7e09422017bc238cda47124b3,FP (falsa ironía),,False,"Periodista, ¿tu crees que ese magnate fue de casualidad a la tienda y vió que estaban vendiendo manzanas y compró 15000 para su consumo?",True
+cu,f96d90e7e09422017bc238cda47124b3,FP (falsa ironía),,False,"Periodista, ¿tu crees que ese magnate fue de casualidad a la tienda y vió que estaban vendiendo manzanas y compró 15000 para su consumo?",False
 cu,fa8e1bf1f8b8e95d9531652c487491a1,FP (falsa ironía),,False,Como que al fin va subiendo nuestra red gegegemuchas gracias colega por el articulo el cual esta muy pero muy bueno. hojala algun dia el estado nos de un poco mas de liberta sobre este tema ya que vivimos en la insectidumbre de que dia pueden llegar y descomisarnos todo.,False
 cu,fba7fd4ad67956b2d719524f64ab9436,FN (irónico no detectado),,False,"?Estoy muy de acuerdo, los que tienes problemas del corazón, que vayan comprando el captopril y clordiazepóxido para cuando salgan los precios. Por eso yo espero que hagan más pruebas porque cuando salga el servicio para mi va a ser como si en Cuba no existiera el internet por datos.",True
 cu,fc5eb2a0dac8aa598709d809033ae3f9,FN (irónico no detectado),,False,Ya lo dijeron los celebres filósofos Timón y Pumba .. el ciclo sin fin ..,True

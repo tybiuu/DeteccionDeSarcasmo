@@ -1,0 +1,101 @@
+variante,modelo,rasgo,n_textos,shap_medio
+cu,BETO,risas,23,0.06143643107563141
+es,BETO,risas,30,0.004998436517250079
+mx,BETO,risas,18,0.041763625032329596
+es,BETO,emojis,33,0.04583400907643639
+mx,BETO,emojis,22,0.05379329522251816
+es,BETO,menciones,101,-0.022175905523794216
+mx,BETO,menciones,20,-0.1564514385438645
+es,BETO,hashtags,71,-0.0470017887646064
+mx,BETO,hashtags,11,-0.05300364111014031
+cu,BETO,exclamaciones,3,0.15045237181087331
+es,BETO,exclamaciones,3,-0.043453551273830604
+mx,BETO,exclamaciones,4,0.11060043831821531
+cu,BETO,interrogaciones,8,0.04077094717228561
+es,BETO,interrogaciones,3,-0.012170334657033266
+mx,BETO,interrogaciones,3,0.014418745102981667
+es,BETO,comillas,2,-0.00011337950127199986
+cu,BETO,negaciones,91,-0.03604659328588882
+es,BETO,negaciones,57,-0.02225269499584585
+mx,BETO,negaciones,63,-0.006520289287148241
+mx,LR,exclamaciones,99,0.1644886438219341
+mx,LR,interrogaciones,106,0.0347419906763908
+mx,LR,mayúsculas,65,-0.1454919286937748
+mx,LR,emojis,58,0.2776310333724517
+mx,LR,risas,3,0.5420904433151683
+mx,LR,negaciones,255,-0.2021087860644019
+mx,LR,alargamientos,143,0.1199644313569933
+mx,LR,comillas,53,0.3421193083465338
+mx,LR,puntos suspensivos,103,0.2787819901211893
+mx,RF,exclamaciones,99,0.0110167614306386
+mx,RF,interrogaciones,106,0.001369393682219
+mx,RF,mayúsculas,65,-0.0035384729981921
+mx,RF,emojis,58,0.0314458121462955
+mx,RF,risas,3,0.0022860379806803
+mx,RF,negaciones,255,-0.0057581971170511
+mx,RF,alargamientos,143,0.0258921936267561
+mx,RF,comillas,53,0.0119792545723846
+mx,RF,puntos suspensivos,103,0.0089392382194036
+mx,XGBoost,exclamaciones,99,0.2088570892810821
+mx,XGBoost,interrogaciones,106,0.1348860114812851
+mx,XGBoost,mayúsculas,65,-0.1261604726314544
+mx,XGBoost,emojis,58,0.6167014837265015
+mx,XGBoost,risas,3,0.046889379620552
+mx,XGBoost,negaciones,255,-0.1329627484083175
+mx,XGBoost,alargamientos,143,0.4322720170021057
+mx,XGBoost,comillas,53,0.4143572449684143
+mx,XGBoost,puntos suspensivos,103,0.1335537284612655
+es,LR,exclamaciones,65,0.2200096525690417
+es,LR,interrogaciones,99,0.0683672009871729
+es,LR,mayúsculas,112,-0.186687756381022
+es,LR,emojis,69,0.1177592398675667
+es,LR,risas,0,
+es,LR,negaciones,213,-0.2701706345877095
+es,LR,alargamientos,139,-0.1533171974859292
+es,LR,comillas,99,-0.3517053511808686
+es,LR,puntos suspensivos,85,0.4493480794459371
+es,RF,exclamaciones,65,-2.359688503575534e+46
+es,RF,interrogaciones,99,2.0891061923207846e+44
+es,RF,mayúsculas,112,-5.53872476871775e+44
+es,RF,emojis,69,1.957839079083484e+46
+es,RF,risas,0,
+es,RF,negaciones,213,2.397102152837389e+45
+es,RF,alargamientos,139,-1.8341686004583859e+46
+es,RF,comillas,99,-4.5524738897698664e+45
+es,RF,puntos suspensivos,85,4.3366431850040834e+38
+es,XGBoost,exclamaciones,65,0.1615028381347656
+es,XGBoost,interrogaciones,99,0.0878592580556869
+es,XGBoost,mayúsculas,112,-0.1355575174093246
+es,XGBoost,emojis,69,-0.0334044694900512
+es,XGBoost,risas,0,
+es,XGBoost,negaciones,213,-0.1685750931501388
+es,XGBoost,alargamientos,139,0.1357752829790115
+es,XGBoost,comillas,99,-0.5572856068611145
+es,XGBoost,puntos suspensivos,85,0.1110647097229957
+cu,LR,exclamaciones,56,0.2430567567376128
+cu,LR,interrogaciones,196,0.0446917160530895
+cu,LR,mayúsculas,146,0.0388413097532044
+cu,LR,emojis,0,
+cu,LR,risas,3,0.9789740989881582
+cu,LR,negaciones,314,-0.0941388988348262
+cu,LR,alargamientos,116,0.8103426454984642
+cu,LR,comillas,10,3.0742031384569715
+cu,LR,puntos suspensivos,5,0.901894040419868
+cu,RF,exclamaciones,56,0.0168646313152963
+cu,RF,interrogaciones,196,0.0046349977835702
+cu,RF,mayúsculas,146,0.0107388345165713
+cu,RF,emojis,0,
+cu,RF,risas,3,0.0060684749910591
+cu,RF,negaciones,314,-0.0010671348805861
+cu,RF,alargamientos,116,0.0292803166768259
+cu,RF,comillas,10,0.050968148312237
+cu,RF,puntos suspensivos,5,0.0167328322577531
+cu,XGBoost,exclamaciones,56,0.3970880806446075
+cu,XGBoost,interrogaciones,196,0.0194864217191934
+cu,XGBoost,mayúsculas,146,0.3172722458839416
+cu,XGBoost,emojis,0,
+cu,XGBoost,risas,3,0.035017441958189
+cu,XGBoost,negaciones,314,-0.0364841967821121
+cu,XGBoost,alargamientos,116,0.7253690958023071
+cu,XGBoost,comillas,10,1.1057240962982178
+cu,XGBoost,puntos suspensivos,5,0.0
