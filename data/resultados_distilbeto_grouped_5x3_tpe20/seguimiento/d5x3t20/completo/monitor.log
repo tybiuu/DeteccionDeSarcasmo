@@ -1,0 +1,1907 @@
+[2026-10-28 18:02:18] MX | Outer 1/5
+[2026-10-28 18:02:20] MX outer1 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:02:37] MX outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6322
+[2026-10-28 18:02:37] MX outer1 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:02:53] MX outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.6811
+[2026-10-28 18:02:53] MX outer1 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:03:10] MX outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6556
+[2026-10-28 18:03:10] MX outer1 | trial 1/20 F1_inner=0.6563 | mejor=0.6563
+[2026-10-28 18:03:10] MX outer1 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:03:26] MX outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6322
+[2026-10-28 18:03:26] MX outer1 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:03:42] MX outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.6795
+[2026-10-28 18:03:42] MX outer1 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:03:59] MX outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6563
+[2026-10-28 18:03:59] MX outer1 | trial 2/20 F1_inner=0.6560 | mejor=0.6563
+[2026-10-28 18:03:59] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6322
+[2026-10-28 18:03:59] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6811
+[2026-10-28 18:03:59] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6556
+[2026-10-28 18:04:00] MX outer1 | trial 3/20 F1_inner=0.6563 | mejor=0.6563
+[2026-10-28 18:04:00] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6322
+[2026-10-28 18:04:00] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6811
+[2026-10-28 18:04:00] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6556
+[2026-10-28 18:04:00] MX outer1 | trial 4/20 F1_inner=0.6563 | mejor=0.6563
+[2026-10-28 18:04:00] MX outer1 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:04:17] MX outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6332
+[2026-10-28 18:04:17] MX outer1 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:04:33] MX outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.6789
+[2026-10-28 18:04:33] MX outer1 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:04:50] MX outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6587
+[2026-10-28 18:04:50] MX outer1 | trial 5/20 F1_inner=0.6569 | mejor=0.6569
+[2026-10-28 18:04:50] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6332
+[2026-10-28 18:04:50] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6789
+[2026-10-28 18:04:50] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6587
+[2026-10-28 18:04:50] MX outer1 | trial 6/20 F1_inner=0.6569 | mejor=0.6569
+[2026-10-28 18:04:50] MX outer1 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:05:07] MX outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6304
+[2026-10-28 18:05:07] MX outer1 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:05:24] MX outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.6817
+[2026-10-28 18:05:24] MX outer1 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:05:40] MX outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6567
+[2026-10-28 18:05:40] MX outer1 | trial 7/20 F1_inner=0.6563 | mejor=0.6569
+[2026-10-28 18:05:41] MX outer1 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:05:58] MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6331
+[2026-10-28 18:05:58] MX outer1 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:06:15] MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.6812
+[2026-10-28 18:06:15] MX outer1 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:06:31] MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6570
+[2026-10-28 18:06:31] MX outer1 | trial 8/20 F1_inner=0.6571 | mejor=0.6571
+[2026-10-28 18:06:32] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6331
+[2026-10-28 18:06:32] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6812
+[2026-10-28 18:06:32] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6570
+[2026-10-28 18:06:32] MX outer1 | trial 9/20 F1_inner=0.6571 | mejor=0.6571
+[2026-10-28 18:06:32] MX outer1 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:06:48] MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6303
+[2026-10-28 18:06:48] MX outer1 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:07:05] MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.6831
+[2026-10-28 18:07:05] MX outer1 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:07:21] MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6570
+[2026-10-28 18:07:22] MX outer1 | trial 10/20 F1_inner=0.6568 | mejor=0.6571
+[2026-10-28 18:07:22] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6331
+[2026-10-28 18:07:22] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6812
+[2026-10-28 18:07:22] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6570
+[2026-10-28 18:07:22] MX outer1 | trial 11/20 F1_inner=0.6571 | mejor=0.6571
+[2026-10-28 18:07:22] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6331
+[2026-10-28 18:07:22] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6812
+[2026-10-28 18:07:22] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6570
+[2026-10-28 18:07:22] MX outer1 | trial 12/20 F1_inner=0.6571 | mejor=0.6571
+[2026-10-28 18:07:22] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6331
+[2026-10-28 18:07:22] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6812
+[2026-10-28 18:07:22] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6570
+[2026-10-28 18:07:23] MX outer1 | trial 13/20 F1_inner=0.6571 | mejor=0.6571
+[2026-10-28 18:07:23] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6331
+[2026-10-28 18:07:23] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6812
+[2026-10-28 18:07:23] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6570
+[2026-10-28 18:07:23] MX outer1 | trial 14/20 F1_inner=0.6571 | mejor=0.6571
+[2026-10-28 18:07:23] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6331
+[2026-10-28 18:07:23] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6812
+[2026-10-28 18:07:23] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6570
+[2026-10-28 18:07:23] MX outer1 | trial 15/20 F1_inner=0.6571 | mejor=0.6571
+[2026-10-28 18:07:23] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6303
+[2026-10-28 18:07:24] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6831
+[2026-10-28 18:07:24] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6570
+[2026-10-28 18:07:24] MX outer1 | trial 16/20 F1_inner=0.6568 | mejor=0.6571
+[2026-10-28 18:07:24] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6331
+[2026-10-28 18:07:24] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6812
+[2026-10-28 18:07:24] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6570
+[2026-10-28 18:07:24] MX outer1 | trial 17/20 F1_inner=0.6571 | mejor=0.6571
+[2026-10-28 18:07:24] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6331
+[2026-10-28 18:07:24] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6812
+[2026-10-28 18:07:24] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6570
+[2026-10-28 18:07:24] MX outer1 | trial 18/20 F1_inner=0.6571 | mejor=0.6571
+[2026-10-28 18:07:25] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6331
+[2026-10-28 18:07:25] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6812
+[2026-10-28 18:07:25] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6570
+[2026-10-28 18:07:25] MX outer1 | trial 19/20 F1_inner=0.6571 | mejor=0.6571
+[2026-10-28 18:07:25] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6303
+[2026-10-28 18:07:25] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6831
+[2026-10-28 18:07:25] REUTILIZADO MX outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6570
+[2026-10-28 18:07:25] MX outer1 | trial 20/20 F1_inner=0.6568 | mejor=0.6571
+[2026-10-28 18:07:25] MX Outer 1: refit PYSENTIMIENTO, 5 épocas
+[2026-10-28 18:07:48] MX Outer 1 refit: F1_train=0.7887, F1_outer=0.6508
+[2026-10-28 18:07:48] [MX][DistilBETO][Outer 1/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.6571±0.0240 | F1_train=0.7887 | F1_outer=0.6508 | gap=0.1379
+[2026-10-28 18:07:48] MX | Outer 2/5
+[2026-10-28 18:07:49] MX outer2 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:08:06] MX outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6816
+[2026-10-28 18:08:06] MX outer2 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:08:22] MX outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.6390
+[2026-10-28 18:08:22] MX outer2 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:08:39] MX outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6420
+[2026-10-28 18:08:39] MX outer2 | trial 1/20 F1_inner=0.6542 | mejor=0.6542
+[2026-10-28 18:08:39] MX outer2 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:08:55] MX outer2 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6750
+[2026-10-28 18:08:55] MX outer2 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:09:12] MX outer2 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.6345
+[2026-10-28 18:09:12] MX outer2 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:09:21] MX outer2 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6073
+[2026-10-28 18:09:21] MX outer2 | trial 2/20 F1_inner=0.6390 | mejor=0.6542
+[2026-10-28 18:09:21] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6816
+[2026-10-28 18:09:21] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6390
+[2026-10-28 18:09:21] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6420
+[2026-10-28 18:09:22] MX outer2 | trial 3/20 F1_inner=0.6542 | mejor=0.6542
+[2026-10-28 18:09:22] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6816
+[2026-10-28 18:09:22] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6390
+[2026-10-28 18:09:22] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6420
+[2026-10-28 18:09:22] MX outer2 | trial 4/20 F1_inner=0.6542 | mejor=0.6542
+[2026-10-28 18:09:22] MX outer2 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:09:38] MX outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6764
+[2026-10-28 18:09:38] MX outer2 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:09:55] MX outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.6371
+[2026-10-28 18:09:55] MX outer2 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:10:12] MX outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6445
+[2026-10-28 18:10:12] MX outer2 | trial 5/20 F1_inner=0.6527 | mejor=0.6542
+[2026-10-28 18:10:12] MX outer2 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:10:29] MX outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6802
+[2026-10-28 18:10:29] MX outer2 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:10:46] MX outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.6362
+[2026-10-28 18:10:46] MX outer2 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:11:02] MX outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6450
+[2026-10-28 18:11:02] MX outer2 | trial 6/20 F1_inner=0.6538 | mejor=0.6542
+[2026-10-28 18:11:02] MX outer2 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:11:19] MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6797
+[2026-10-28 18:11:19] MX outer2 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:11:36] MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.6390
+[2026-10-28 18:11:36] MX outer2 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:11:52] MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6458
+[2026-10-28 18:11:53] MX outer2 | trial 7/20 F1_inner=0.6549 | mejor=0.6549
+[2026-10-28 18:11:53] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6797
+[2026-10-28 18:11:53] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6390
+[2026-10-28 18:11:53] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6458
+[2026-10-28 18:11:53] MX outer2 | trial 8/20 F1_inner=0.6549 | mejor=0.6549
+[2026-10-28 18:11:53] MX outer2 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:12:10] MX outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6760
+[2026-10-28 18:12:10] MX outer2 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:12:26] MX outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.6365
+[2026-10-28 18:12:26] MX outer2 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:12:42] MX outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6447
+[2026-10-28 18:12:43] MX outer2 | trial 9/20 F1_inner=0.6524 | mejor=0.6549
+[2026-10-28 18:12:43] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6797
+[2026-10-28 18:12:43] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6390
+[2026-10-28 18:12:43] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6458
+[2026-10-28 18:12:43] MX outer2 | trial 10/20 F1_inner=0.6549 | mejor=0.6549
+[2026-10-28 18:12:43] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6797
+[2026-10-28 18:12:43] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6390
+[2026-10-28 18:12:43] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6458
+[2026-10-28 18:12:43] MX outer2 | trial 11/20 F1_inner=0.6549 | mejor=0.6549
+[2026-10-28 18:12:44] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6797
+[2026-10-28 18:12:44] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6390
+[2026-10-28 18:12:44] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6458
+[2026-10-28 18:12:44] MX outer2 | trial 12/20 F1_inner=0.6549 | mejor=0.6549
+[2026-10-28 18:12:44] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6797
+[2026-10-28 18:12:44] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6390
+[2026-10-28 18:12:44] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6458
+[2026-10-28 18:12:44] MX outer2 | trial 13/20 F1_inner=0.6549 | mejor=0.6549
+[2026-10-28 18:12:44] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6797
+[2026-10-28 18:12:44] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6390
+[2026-10-28 18:12:44] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6458
+[2026-10-28 18:12:45] MX outer2 | trial 14/20 F1_inner=0.6549 | mejor=0.6549
+[2026-10-28 18:12:45] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6760
+[2026-10-28 18:12:45] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6365
+[2026-10-28 18:12:45] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6447
+[2026-10-28 18:12:45] MX outer2 | trial 15/20 F1_inner=0.6524 | mejor=0.6549
+[2026-10-28 18:12:45] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6764
+[2026-10-28 18:12:45] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6371
+[2026-10-28 18:12:45] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6445
+[2026-10-28 18:12:45] MX outer2 | trial 16/20 F1_inner=0.6527 | mejor=0.6549
+[2026-10-28 18:12:45] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6802
+[2026-10-28 18:12:45] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6362
+[2026-10-28 18:12:45] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6450
+[2026-10-28 18:12:46] MX outer2 | trial 17/20 F1_inner=0.6538 | mejor=0.6549
+[2026-10-28 18:12:46] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6797
+[2026-10-28 18:12:46] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6390
+[2026-10-28 18:12:46] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6458
+[2026-10-28 18:12:46] MX outer2 | trial 18/20 F1_inner=0.6549 | mejor=0.6549
+[2026-10-28 18:12:46] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6797
+[2026-10-28 18:12:46] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6390
+[2026-10-28 18:12:46] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6458
+[2026-10-28 18:12:46] MX outer2 | trial 19/20 F1_inner=0.6549 | mejor=0.6549
+[2026-10-28 18:12:47] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6797
+[2026-10-28 18:12:47] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6390
+[2026-10-28 18:12:47] REUTILIZADO MX outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6458
+[2026-10-28 18:12:47] MX outer2 | trial 20/20 F1_inner=0.6549 | mejor=0.6549
+[2026-10-28 18:12:47] MX Outer 2: refit PYSENTIMIENTO, 5 épocas
+[2026-10-28 18:13:11] MX Outer 2 refit: F1_train=0.7830, F1_outer=0.6884
+[2026-10-28 18:13:11] [MX][DistilBETO][Outer 2/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.6549±0.0218 | F1_train=0.7830 | F1_outer=0.6884 | gap=0.0947
+[2026-10-28 18:13:11] MX | Outer 3/5
+[2026-10-28 18:13:12] MX outer3 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:13:28] MX outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6514
+[2026-10-28 18:13:28] MX outer3 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:13:45] MX outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.6665
+[2026-10-28 18:13:45] MX outer3 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:13:59] MX outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6525
+[2026-10-28 18:13:59] MX outer3 | trial 1/20 F1_inner=0.6568 | mejor=0.6568
+[2026-10-28 18:13:59] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6514
+[2026-10-28 18:13:59] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6665
+[2026-10-28 18:13:59] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6525
+[2026-10-28 18:13:59] MX outer3 | trial 2/20 F1_inner=0.6568 | mejor=0.6568
+[2026-10-28 18:13:59] MX outer3 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:14:16] MX outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6653
+[2026-10-28 18:14:16] MX outer3 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:14:32] MX outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.6633
+[2026-10-28 18:14:32] MX outer3 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:14:44] MX outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6433
+[2026-10-28 18:14:44] MX outer3 | trial 3/20 F1_inner=0.6573 | mejor=0.6573
+[2026-10-28 18:14:44] MX outer3 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:15:01] MX outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6639
+[2026-10-28 18:15:01] MX outer3 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:15:13] MX outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.6626
+[2026-10-28 18:15:13] MX outer3 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:15:22] MX outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6454
+[2026-10-28 18:15:22] MX outer3 | trial 4/20 F1_inner=0.6573 | mejor=0.6573
+[2026-10-28 18:15:22] MX outer3 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:15:39] MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6610
+[2026-10-28 18:15:39] MX outer3 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:15:55] MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.6616
+[2026-10-28 18:15:55] MX outer3 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:16:12] MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6522
+[2026-10-28 18:16:12] MX outer3 | trial 5/20 F1_inner=0.6583 | mejor=0.6583
+[2026-10-28 18:16:12] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6610
+[2026-10-28 18:16:12] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6616
+[2026-10-28 18:16:12] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6522
+[2026-10-28 18:16:13] MX outer3 | trial 6/20 F1_inner=0.6583 | mejor=0.6583
+[2026-10-28 18:16:13] MX outer3 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:16:30] MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6606
+[2026-10-28 18:16:30] MX outer3 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:16:47] MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.6658
+[2026-10-28 18:16:47] MX outer3 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:16:58] MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6471
+[2026-10-28 18:16:59] MX outer3 | trial 7/20 F1_inner=0.6578 | mejor=0.6583
+[2026-10-28 18:16:59] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6610
+[2026-10-28 18:16:59] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6616
+[2026-10-28 18:16:59] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6522
+[2026-10-28 18:16:59] MX outer3 | trial 8/20 F1_inner=0.6583 | mejor=0.6583
+[2026-10-28 18:16:59] MX outer3 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:17:16] MX outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6525
+[2026-10-28 18:17:16] MX outer3 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:17:32] MX outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.6665
+[2026-10-28 18:17:32] MX outer3 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:17:46] MX outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6507
+[2026-10-28 18:17:46] MX outer3 | trial 9/20 F1_inner=0.6566 | mejor=0.6583
+[2026-10-28 18:17:46] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6610
+[2026-10-28 18:17:46] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6616
+[2026-10-28 18:17:46] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6522
+[2026-10-28 18:17:46] MX outer3 | trial 10/20 F1_inner=0.6583 | mejor=0.6583
+[2026-10-28 18:17:47] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6606
+[2026-10-28 18:17:47] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6658
+[2026-10-28 18:17:47] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6471
+[2026-10-28 18:17:47] MX outer3 | trial 11/20 F1_inner=0.6578 | mejor=0.6583
+[2026-10-28 18:17:47] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6610
+[2026-10-28 18:17:47] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6616
+[2026-10-28 18:17:47] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6522
+[2026-10-28 18:17:47] MX outer3 | trial 12/20 F1_inner=0.6583 | mejor=0.6583
+[2026-10-28 18:17:47] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6610
+[2026-10-28 18:17:47] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6616
+[2026-10-28 18:17:47] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6522
+[2026-10-28 18:17:48] MX outer3 | trial 13/20 F1_inner=0.6583 | mejor=0.6583
+[2026-10-28 18:17:48] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6610
+[2026-10-28 18:17:48] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6616
+[2026-10-28 18:17:48] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6522
+[2026-10-28 18:17:48] MX outer3 | trial 14/20 F1_inner=0.6583 | mejor=0.6583
+[2026-10-28 18:17:48] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6653
+[2026-10-28 18:17:48] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6633
+[2026-10-28 18:17:48] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6433
+[2026-10-28 18:17:48] MX outer3 | trial 15/20 F1_inner=0.6573 | mejor=0.6583
+[2026-10-28 18:17:48] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6610
+[2026-10-28 18:17:48] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6616
+[2026-10-28 18:17:49] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6522
+[2026-10-28 18:17:49] MX outer3 | trial 16/20 F1_inner=0.6583 | mejor=0.6583
+[2026-10-28 18:17:49] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6610
+[2026-10-28 18:17:49] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6616
+[2026-10-28 18:17:49] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6522
+[2026-10-28 18:17:49] MX outer3 | trial 17/20 F1_inner=0.6583 | mejor=0.6583
+[2026-10-28 18:17:49] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6610
+[2026-10-28 18:17:49] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6616
+[2026-10-28 18:17:49] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6522
+[2026-10-28 18:17:49] MX outer3 | trial 18/20 F1_inner=0.6583 | mejor=0.6583
+[2026-10-28 18:17:50] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6606
+[2026-10-28 18:17:50] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6658
+[2026-10-28 18:17:50] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6471
+[2026-10-28 18:17:50] MX outer3 | trial 19/20 F1_inner=0.6578 | mejor=0.6583
+[2026-10-28 18:17:50] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6653
+[2026-10-28 18:17:50] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6633
+[2026-10-28 18:17:50] REUTILIZADO MX outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6433
+[2026-10-28 18:17:50] MX outer3 | trial 20/20 F1_inner=0.6573 | mejor=0.6583
+[2026-10-28 18:17:50] MX Outer 3: refit PYSENTIMIENTO, 5 épocas
+[2026-10-28 18:18:13] MX Outer 3 refit: F1_train=0.7997, F1_outer=0.6301
+[2026-10-28 18:18:13] [MX][DistilBETO][Outer 3/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.6583±0.0052 | F1_train=0.7997 | F1_outer=0.6301 | gap=0.1696
+[2026-10-28 18:18:13] MX | Outer 4/5
+[2026-10-28 18:18:14] MX outer4 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:18:31] MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6359
+[2026-10-28 18:18:31] MX outer4 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:18:47] MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.6680
+[2026-10-28 18:18:47] MX outer4 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:19:03] MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6596
+[2026-10-28 18:19:04] MX outer4 | trial 1/20 F1_inner=0.6545 | mejor=0.6545
+[2026-10-28 18:19:04] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6359
+[2026-10-28 18:19:04] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6680
+[2026-10-28 18:19:04] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6596
+[2026-10-28 18:19:04] MX outer4 | trial 2/20 F1_inner=0.6545 | mejor=0.6545
+[2026-10-28 18:19:04] MX outer4 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:19:23] MX outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6363
+[2026-10-28 18:19:23] MX outer4 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:19:40] MX outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.6615
+[2026-10-28 18:19:40] MX outer4 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:19:57] MX outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6610
+[2026-10-28 18:19:57] MX outer4 | trial 3/20 F1_inner=0.6529 | mejor=0.6545
+[2026-10-28 18:19:57] MX outer4 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:20:14] MX outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6312
+[2026-10-28 18:20:14] MX outer4 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:20:31] MX outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.6641
+[2026-10-28 18:20:31] MX outer4 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:20:48] MX outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6587
+[2026-10-28 18:20:48] MX outer4 | trial 4/20 F1_inner=0.6514 | mejor=0.6545
+[2026-10-28 18:20:48] MX outer4 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:21:05] MX outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6354
+[2026-10-28 18:21:05] MX outer4 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:21:21] MX outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.6685
+[2026-10-28 18:21:21] MX outer4 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:21:38] MX outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6577
+[2026-10-28 18:21:38] MX outer4 | trial 5/20 F1_inner=0.6539 | mejor=0.6545
+[2026-10-28 18:21:38] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6359
+[2026-10-28 18:21:38] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6680
+[2026-10-28 18:21:38] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6596
+[2026-10-28 18:21:38] MX outer4 | trial 6/20 F1_inner=0.6545 | mejor=0.6545
+[2026-10-28 18:21:38] MX outer4 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:21:55] MX outer4 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6373
+[2026-10-28 18:21:55] MX outer4 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:22:11] MX outer4 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.6613
+[2026-10-28 18:22:11] MX outer4 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:22:29] MX outer4 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6573
+[2026-10-28 18:22:29] MX outer4 | trial 7/20 F1_inner=0.6520 | mejor=0.6545
+[2026-10-28 18:22:29] MX outer4 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:22:46] MX outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6335
+[2026-10-28 18:22:46] MX outer4 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:23:02] MX outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.6627
+[2026-10-28 18:23:02] MX outer4 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:23:18] MX outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6629
+[2026-10-28 18:23:19] MX outer4 | trial 8/20 F1_inner=0.6530 | mejor=0.6545
+[2026-10-28 18:23:19] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6359
+[2026-10-28 18:23:19] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6680
+[2026-10-28 18:23:19] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6596
+[2026-10-28 18:23:19] MX outer4 | trial 9/20 F1_inner=0.6545 | mejor=0.6545
+[2026-10-28 18:23:19] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6354
+[2026-10-28 18:23:19] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6685
+[2026-10-28 18:23:19] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6577
+[2026-10-28 18:23:19] MX outer4 | trial 10/20 F1_inner=0.6539 | mejor=0.6545
+[2026-10-28 18:23:19] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6312
+[2026-10-28 18:23:19] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6641
+[2026-10-28 18:23:19] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6587
+[2026-10-28 18:23:20] MX outer4 | trial 11/20 F1_inner=0.6514 | mejor=0.6545
+[2026-10-28 18:23:20] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6359
+[2026-10-28 18:23:20] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6680
+[2026-10-28 18:23:20] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6596
+[2026-10-28 18:23:20] MX outer4 | trial 12/20 F1_inner=0.6545 | mejor=0.6545
+[2026-10-28 18:23:20] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6359
+[2026-10-28 18:23:20] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6680
+[2026-10-28 18:23:20] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6596
+[2026-10-28 18:23:20] MX outer4 | trial 13/20 F1_inner=0.6545 | mejor=0.6545
+[2026-10-28 18:23:21] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6359
+[2026-10-28 18:23:21] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6680
+[2026-10-28 18:23:21] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6596
+[2026-10-28 18:23:21] MX outer4 | trial 14/20 F1_inner=0.6545 | mejor=0.6545
+[2026-10-28 18:23:21] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6363
+[2026-10-28 18:23:21] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6615
+[2026-10-28 18:23:21] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6610
+[2026-10-28 18:23:21] MX outer4 | trial 15/20 F1_inner=0.6529 | mejor=0.6545
+[2026-10-28 18:23:21] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6359
+[2026-10-28 18:23:21] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6680
+[2026-10-28 18:23:21] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6596
+[2026-10-28 18:23:22] MX outer4 | trial 16/20 F1_inner=0.6545 | mejor=0.6545
+[2026-10-28 18:23:22] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6359
+[2026-10-28 18:23:22] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6680
+[2026-10-28 18:23:22] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6596
+[2026-10-28 18:23:22] MX outer4 | trial 17/20 F1_inner=0.6545 | mejor=0.6545
+[2026-10-28 18:23:22] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6359
+[2026-10-28 18:23:22] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6680
+[2026-10-28 18:23:22] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6596
+[2026-10-28 18:23:22] MX outer4 | trial 18/20 F1_inner=0.6545 | mejor=0.6545
+[2026-10-28 18:23:22] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6354
+[2026-10-28 18:23:22] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6685
+[2026-10-28 18:23:22] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6577
+[2026-10-28 18:23:23] MX outer4 | trial 19/20 F1_inner=0.6539 | mejor=0.6545
+[2026-10-28 18:23:23] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6363
+[2026-10-28 18:23:23] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6615
+[2026-10-28 18:23:23] REUTILIZADO MX outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6610
+[2026-10-28 18:23:23] MX outer4 | trial 20/20 F1_inner=0.6529 | mejor=0.6545
+[2026-10-28 18:23:23] MX Outer 4: refit PYSENTIMIENTO, 5 épocas
+[2026-10-28 18:23:47] MX Outer 4 refit: F1_train=0.7942, F1_outer=0.6637
+[2026-10-28 18:23:47] [MX][DistilBETO][Outer 4/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.6545±0.0166 | F1_train=0.7942 | F1_outer=0.6637 | gap=0.1305
+[2026-10-28 18:23:47] MX | Outer 5/5
+[2026-10-28 18:23:47] MX outer5 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:24:04] MX outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6707
+[2026-10-28 18:24:04] MX outer5 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:24:18] MX outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.6547
+[2026-10-28 18:24:18] MX outer5 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:24:27] MX outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6302
+[2026-10-28 18:24:27] MX outer5 | trial 1/20 F1_inner=0.6519 | mejor=0.6519
+[2026-10-28 18:24:27] MX outer5 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:24:44] MX outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6712
+[2026-10-28 18:24:44] MX outer5 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:24:58] MX outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.6542
+[2026-10-28 18:24:58] MX outer5 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:25:10] MX outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6297
+[2026-10-28 18:25:10] MX outer5 | trial 2/20 F1_inner=0.6517 | mejor=0.6519
+[2026-10-28 18:25:10] MX outer5 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:25:27] MX outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6660
+[2026-10-28 18:25:27] MX outer5 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:25:41] MX outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.6561
+[2026-10-28 18:25:41] MX outer5 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:25:53] MX outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6327
+[2026-10-28 18:25:53] MX outer5 | trial 3/20 F1_inner=0.6516 | mejor=0.6519
+[2026-10-28 18:25:53] MX outer5 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:26:10] MX outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6707
+[2026-10-28 18:26:10] MX outer5 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:26:25] MX outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.6566
+[2026-10-28 18:26:25] MX outer5 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:26:34] MX outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6335
+[2026-10-28 18:26:34] MX outer5 | trial 4/20 F1_inner=0.6536 | mejor=0.6536
+[2026-10-28 18:26:34] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6660
+[2026-10-28 18:26:34] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6561
+[2026-10-28 18:26:34] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6327
+[2026-10-28 18:26:34] MX outer5 | trial 5/20 F1_inner=0.6516 | mejor=0.6536
+[2026-10-28 18:26:34] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6707
+[2026-10-28 18:26:34] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6566
+[2026-10-28 18:26:34] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6335
+[2026-10-28 18:26:35] MX outer5 | trial 6/20 F1_inner=0.6536 | mejor=0.6536
+[2026-10-28 18:26:35] MX outer5 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:26:51] MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6745
+[2026-10-28 18:26:51] MX outer5 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:27:05] MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.6575
+[2026-10-28 18:27:05] MX outer5 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:27:17] MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6334
+[2026-10-28 18:27:17] MX outer5 | trial 7/20 F1_inner=0.6552 | mejor=0.6552
+[2026-10-28 18:27:17] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6745
+[2026-10-28 18:27:17] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6575
+[2026-10-28 18:27:17] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6334
+[2026-10-28 18:27:18] MX outer5 | trial 8/20 F1_inner=0.6552 | mejor=0.6552
+[2026-10-28 18:27:18] MX outer5 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:27:34] MX outer5 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6679
+[2026-10-28 18:27:34] MX outer5 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:27:48] MX outer5 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.6603
+[2026-10-28 18:27:48] MX outer5 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:28:00] MX outer5 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6289
+[2026-10-28 18:28:00] MX outer5 | trial 9/20 F1_inner=0.6524 | mejor=0.6552
+[2026-10-28 18:28:00] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6745
+[2026-10-28 18:28:00] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6575
+[2026-10-28 18:28:00] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6334
+[2026-10-28 18:28:01] MX outer5 | trial 10/20 F1_inner=0.6552 | mejor=0.6552
+[2026-10-28 18:28:01] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6745
+[2026-10-28 18:28:01] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6575
+[2026-10-28 18:28:01] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6334
+[2026-10-28 18:28:01] MX outer5 | trial 11/20 F1_inner=0.6552 | mejor=0.6552
+[2026-10-28 18:28:01] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6745
+[2026-10-28 18:28:01] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6575
+[2026-10-28 18:28:01] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6334
+[2026-10-28 18:28:02] MX outer5 | trial 12/20 F1_inner=0.6552 | mejor=0.6552
+[2026-10-28 18:28:02] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6745
+[2026-10-28 18:28:02] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6575
+[2026-10-28 18:28:02] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6334
+[2026-10-28 18:28:02] MX outer5 | trial 13/20 F1_inner=0.6552 | mejor=0.6552
+[2026-10-28 18:28:02] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6745
+[2026-10-28 18:28:02] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6575
+[2026-10-28 18:28:02] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6334
+[2026-10-28 18:28:02] MX outer5 | trial 14/20 F1_inner=0.6552 | mejor=0.6552
+[2026-10-28 18:28:02] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6679
+[2026-10-28 18:28:02] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6603
+[2026-10-28 18:28:02] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6289
+[2026-10-28 18:28:03] MX outer5 | trial 15/20 F1_inner=0.6524 | mejor=0.6552
+[2026-10-28 18:28:03] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6712
+[2026-10-28 18:28:03] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6542
+[2026-10-28 18:28:03] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6297
+[2026-10-28 18:28:03] MX outer5 | trial 16/20 F1_inner=0.6517 | mejor=0.6552
+[2026-10-28 18:28:03] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6707
+[2026-10-28 18:28:03] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6547
+[2026-10-28 18:28:03] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6302
+[2026-10-28 18:28:03] MX outer5 | trial 17/20 F1_inner=0.6519 | mejor=0.6552
+[2026-10-28 18:28:03] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6745
+[2026-10-28 18:28:03] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6575
+[2026-10-28 18:28:03] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6334
+[2026-10-28 18:28:04] MX outer5 | trial 18/20 F1_inner=0.6552 | mejor=0.6552
+[2026-10-28 18:28:04] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6745
+[2026-10-28 18:28:04] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6575
+[2026-10-28 18:28:04] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6334
+[2026-10-28 18:28:04] MX outer5 | trial 19/20 F1_inner=0.6552 | mejor=0.6552
+[2026-10-28 18:28:04] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6745
+[2026-10-28 18:28:04] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6575
+[2026-10-28 18:28:04] REUTILIZADO MX outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6334
+[2026-10-28 18:28:04] MX outer5 | trial 20/20 F1_inner=0.6552 | mejor=0.6552
+[2026-10-28 18:28:05] MX Outer 5: refit PYSENTIMIENTO, 3 épocas
+[2026-10-28 18:28:20] MX Outer 5 refit: F1_train=0.7307, F1_outer=0.6247
+[2026-10-28 18:28:20] [MX][DistilBETO][Outer 5/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.6552±0.0206 | F1_train=0.7307 | F1_outer=0.6247 | gap=0.1060
+[2026-10-28 18:28:21] ES | Outer 1/5
+[2026-10-28 18:28:21] ES outer1 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:28:37] ES outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.7177
+[2026-10-28 18:28:37] ES outer1 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:28:54] ES outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7088
+[2026-10-28 18:28:54] ES outer1 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:29:10] ES outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.7109
+[2026-10-28 18:29:11] ES outer1 | trial 1/20 F1_inner=0.7125 | mejor=0.7125
+[2026-10-28 18:29:11] ES outer1 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:29:27] ES outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.7177
+[2026-10-28 18:29:27] ES outer1 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:29:44] ES outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7102
+[2026-10-28 18:29:44] ES outer1 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:30:00] ES outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.7109
+[2026-10-28 18:30:01] ES outer1 | trial 2/20 F1_inner=0.7129 | mejor=0.7129
+[2026-10-28 18:30:01] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.7177
+[2026-10-28 18:30:01] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7088
+[2026-10-28 18:30:01] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.7109
+[2026-10-28 18:30:01] ES outer1 | trial 3/20 F1_inner=0.7125 | mejor=0.7129
+[2026-10-28 18:30:01] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.7177
+[2026-10-28 18:30:01] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7088
+[2026-10-28 18:30:01] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.7109
+[2026-10-28 18:30:01] ES outer1 | trial 4/20 F1_inner=0.7125 | mejor=0.7129
+[2026-10-28 18:30:02] ES outer1 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:30:18] ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.7201
+[2026-10-28 18:30:18] ES outer1 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:30:35] ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7165
+[2026-10-28 18:30:35] ES outer1 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:30:51] ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.7204
+[2026-10-28 18:30:51] ES outer1 | trial 5/20 F1_inner=0.7190 | mejor=0.7190
+[2026-10-28 18:30:52] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7201
+[2026-10-28 18:30:52] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7165
+[2026-10-28 18:30:52] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7204
+[2026-10-28 18:30:52] ES outer1 | trial 6/20 F1_inner=0.7190 | mejor=0.7190
+[2026-10-28 18:30:52] ES outer1 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:31:08] ES outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.7172
+[2026-10-28 18:31:08] ES outer1 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:31:25] ES outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7165
+[2026-10-28 18:31:25] ES outer1 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:31:36] ES outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6868
+[2026-10-28 18:31:37] ES outer1 | trial 7/20 F1_inner=0.7068 | mejor=0.7190
+[2026-10-28 18:31:37] ES outer1 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:31:53] ES outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.7187
+[2026-10-28 18:31:53] ES outer1 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:32:09] ES outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7113
+[2026-10-28 18:32:09] ES outer1 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:32:25] ES outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.7171
+[2026-10-28 18:32:26] ES outer1 | trial 8/20 F1_inner=0.7157 | mejor=0.7190
+[2026-10-28 18:32:26] ES outer1 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:32:42] ES outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.7187
+[2026-10-28 18:32:42] ES outer1 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:32:59] ES outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7133
+[2026-10-28 18:32:59] ES outer1 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:33:16] ES outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.7157
+[2026-10-28 18:33:16] ES outer1 | trial 9/20 F1_inner=0.7159 | mejor=0.7190
+[2026-10-28 18:33:16] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7201
+[2026-10-28 18:33:16] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7165
+[2026-10-28 18:33:16] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7204
+[2026-10-28 18:33:16] ES outer1 | trial 10/20 F1_inner=0.7190 | mejor=0.7190
+[2026-10-28 18:33:17] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7201
+[2026-10-28 18:33:17] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7165
+[2026-10-28 18:33:17] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7204
+[2026-10-28 18:33:17] ES outer1 | trial 11/20 F1_inner=0.7190 | mejor=0.7190
+[2026-10-28 18:33:17] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7201
+[2026-10-28 18:33:17] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7165
+[2026-10-28 18:33:17] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7204
+[2026-10-28 18:33:17] ES outer1 | trial 12/20 F1_inner=0.7190 | mejor=0.7190
+[2026-10-28 18:33:17] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7201
+[2026-10-28 18:33:17] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7165
+[2026-10-28 18:33:17] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7204
+[2026-10-28 18:33:18] ES outer1 | trial 13/20 F1_inner=0.7190 | mejor=0.7190
+[2026-10-28 18:33:18] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7201
+[2026-10-28 18:33:18] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7165
+[2026-10-28 18:33:18] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7204
+[2026-10-28 18:33:18] ES outer1 | trial 14/20 F1_inner=0.7190 | mejor=0.7190
+[2026-10-28 18:33:18] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7172
+[2026-10-28 18:33:18] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7165
+[2026-10-28 18:33:18] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6868
+[2026-10-28 18:33:18] ES outer1 | trial 15/20 F1_inner=0.7068 | mejor=0.7190
+[2026-10-28 18:33:18] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7187
+[2026-10-28 18:33:18] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7113
+[2026-10-28 18:33:18] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7171
+[2026-10-28 18:33:19] ES outer1 | trial 16/20 F1_inner=0.7157 | mejor=0.7190
+[2026-10-28 18:33:19] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7201
+[2026-10-28 18:33:19] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7165
+[2026-10-28 18:33:19] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7204
+[2026-10-28 18:33:19] ES outer1 | trial 17/20 F1_inner=0.7190 | mejor=0.7190
+[2026-10-28 18:33:19] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7201
+[2026-10-28 18:33:19] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7165
+[2026-10-28 18:33:19] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7204
+[2026-10-28 18:33:19] ES outer1 | trial 18/20 F1_inner=0.7190 | mejor=0.7190
+[2026-10-28 18:33:20] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7201
+[2026-10-28 18:33:20] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7165
+[2026-10-28 18:33:20] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7204
+[2026-10-28 18:33:20] ES outer1 | trial 19/20 F1_inner=0.7190 | mejor=0.7190
+[2026-10-28 18:33:20] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7172
+[2026-10-28 18:33:20] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7165
+[2026-10-28 18:33:20] REUTILIZADO ES outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6868
+[2026-10-28 18:33:20] ES outer1 | trial 20/20 F1_inner=0.7068 | mejor=0.7190
+[2026-10-28 18:33:20] ES Outer 1: refit PYSENTIMIENTO, 5 épocas
+[2026-10-28 18:33:44] ES Outer 1 refit: F1_train=0.8342, F1_outer=0.7434
+[2026-10-28 18:33:44] [ES][DistilBETO][Outer 1/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.7190±0.0022 | F1_train=0.8342 | F1_outer=0.7434 | gap=0.0909
+[2026-10-28 18:33:44] ES | Outer 2/5
+[2026-10-28 18:33:45] ES outer2 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:34:01] ES outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.7073
+[2026-10-28 18:34:01] ES outer2 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:34:18] ES outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7495
+[2026-10-28 18:34:18] ES outer2 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:34:34] ES outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.7114
+[2026-10-28 18:34:35] ES outer2 | trial 1/20 F1_inner=0.7227 | mejor=0.7227
+[2026-10-28 18:34:35] ES outer2 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:34:51] ES outer2 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.7097
+[2026-10-28 18:34:51] ES outer2 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:35:08] ES outer2 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7412
+[2026-10-28 18:35:08] ES outer2 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:35:25] ES outer2 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.7176
+[2026-10-28 18:35:25] ES outer2 | trial 2/20 F1_inner=0.7228 | mejor=0.7228
+[2026-10-28 18:35:25] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7073
+[2026-10-28 18:35:25] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7495
+[2026-10-28 18:35:25] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7114
+[2026-10-28 18:35:25] ES outer2 | trial 3/20 F1_inner=0.7227 | mejor=0.7228
+[2026-10-28 18:35:26] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7073
+[2026-10-28 18:35:26] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7495
+[2026-10-28 18:35:26] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7114
+[2026-10-28 18:35:26] ES outer2 | trial 4/20 F1_inner=0.7227 | mejor=0.7228
+[2026-10-28 18:35:26] ES outer2 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:35:42] ES outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.7125
+[2026-10-28 18:35:42] ES outer2 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:36:00] ES outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7422
+[2026-10-28 18:36:00] ES outer2 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:36:17] ES outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.7118
+[2026-10-28 18:36:17] ES outer2 | trial 5/20 F1_inner=0.7222 | mejor=0.7228
+[2026-10-28 18:36:17] ES outer2 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:36:34] ES outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.7078
+[2026-10-28 18:36:34] ES outer2 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:36:51] ES outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7397
+[2026-10-28 18:36:51] ES outer2 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:37:07] ES outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.7176
+[2026-10-28 18:37:07] ES outer2 | trial 6/20 F1_inner=0.7217 | mejor=0.7228
+[2026-10-28 18:37:08] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.7097
+[2026-10-28 18:37:08] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7412
+[2026-10-28 18:37:08] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.7176
+[2026-10-28 18:37:08] ES outer2 | trial 7/20 F1_inner=0.7228 | mejor=0.7228
+[2026-10-28 18:37:08] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.7097
+[2026-10-28 18:37:08] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7412
+[2026-10-28 18:37:08] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.7176
+[2026-10-28 18:37:08] ES outer2 | trial 8/20 F1_inner=0.7228 | mejor=0.7228
+[2026-10-28 18:37:08] ES outer2 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:37:25] ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.7159
+[2026-10-28 18:37:25] ES outer2 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:37:41] ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7441
+[2026-10-28 18:37:41] ES outer2 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:37:58] ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.7133
+[2026-10-28 18:37:58] ES outer2 | trial 9/20 F1_inner=0.7244 | mejor=0.7244
+[2026-10-28 18:37:59] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7159
+[2026-10-28 18:37:59] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7441
+[2026-10-28 18:37:59] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7133
+[2026-10-28 18:37:59] ES outer2 | trial 10/20 F1_inner=0.7244 | mejor=0.7244
+[2026-10-28 18:37:59] ES outer2 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:38:16] ES outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.7087
+[2026-10-28 18:38:16] ES outer2 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:38:32] ES outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7499
+[2026-10-28 18:38:32] ES outer2 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:38:48] ES outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.7114
+[2026-10-28 18:38:49] ES outer2 | trial 11/20 F1_inner=0.7233 | mejor=0.7244
+[2026-10-28 18:38:49] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7159
+[2026-10-28 18:38:49] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7441
+[2026-10-28 18:38:49] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7133
+[2026-10-28 18:38:49] ES outer2 | trial 12/20 F1_inner=0.7244 | mejor=0.7244
+[2026-10-28 18:38:49] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7159
+[2026-10-28 18:38:49] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7441
+[2026-10-28 18:38:49] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7133
+[2026-10-28 18:38:49] ES outer2 | trial 13/20 F1_inner=0.7244 | mejor=0.7244
+[2026-10-28 18:38:49] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7159
+[2026-10-28 18:38:49] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7441
+[2026-10-28 18:38:49] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7133
+[2026-10-28 18:38:50] ES outer2 | trial 14/20 F1_inner=0.7244 | mejor=0.7244
+[2026-10-28 18:38:50] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7159
+[2026-10-28 18:38:50] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7441
+[2026-10-28 18:38:50] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7133
+[2026-10-28 18:38:50] ES outer2 | trial 15/20 F1_inner=0.7244 | mejor=0.7244
+[2026-10-28 18:38:50] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7159
+[2026-10-28 18:38:50] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7441
+[2026-10-28 18:38:50] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7133
+[2026-10-28 18:38:50] ES outer2 | trial 16/20 F1_inner=0.7244 | mejor=0.7244
+[2026-10-28 18:38:51] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7087
+[2026-10-28 18:38:51] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7499
+[2026-10-28 18:38:51] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7114
+[2026-10-28 18:38:51] ES outer2 | trial 17/20 F1_inner=0.7233 | mejor=0.7244
+[2026-10-28 18:38:51] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.7078
+[2026-10-28 18:38:51] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7397
+[2026-10-28 18:38:51] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.7176
+[2026-10-28 18:38:51] ES outer2 | trial 18/20 F1_inner=0.7217 | mejor=0.7244
+[2026-10-28 18:38:51] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7125
+[2026-10-28 18:38:51] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7422
+[2026-10-28 18:38:51] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7118
+[2026-10-28 18:38:52] ES outer2 | trial 19/20 F1_inner=0.7222 | mejor=0.7244
+[2026-10-28 18:38:52] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7159
+[2026-10-28 18:38:52] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7441
+[2026-10-28 18:38:52] REUTILIZADO ES outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7133
+[2026-10-28 18:38:52] ES outer2 | trial 20/20 F1_inner=0.7244 | mejor=0.7244
+[2026-10-28 18:38:52] ES Outer 2: refit PYSENTIMIENTO, 6 épocas
+[2026-10-28 18:39:20] ES Outer 2 refit: F1_train=0.8373, F1_outer=0.7171
+[2026-10-28 18:39:20] [ES][DistilBETO][Outer 2/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.7244±0.0171 | F1_train=0.8373 | F1_outer=0.7171 | gap=0.1203
+[2026-10-28 18:39:20] ES | Outer 3/5
+[2026-10-28 18:39:20] ES outer3 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:39:37] ES outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.7090
+[2026-10-28 18:39:37] ES outer3 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:39:54] ES outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7174
+[2026-10-28 18:39:54] ES outer3 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:40:11] ES outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.7516
+[2026-10-28 18:40:11] ES outer3 | trial 1/20 F1_inner=0.7260 | mejor=0.7260
+[2026-10-28 18:40:11] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.7090
+[2026-10-28 18:40:11] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7174
+[2026-10-28 18:40:11] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.7516
+[2026-10-28 18:40:12] ES outer3 | trial 2/20 F1_inner=0.7260 | mejor=0.7260
+[2026-10-28 18:40:12] ES outer3 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:40:28] ES outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.7150
+[2026-10-28 18:40:28] ES outer3 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:40:44] ES outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7189
+[2026-10-28 18:40:44] ES outer3 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:41:01] ES outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.7439
+[2026-10-28 18:41:01] ES outer3 | trial 3/20 F1_inner=0.7259 | mejor=0.7260
+[2026-10-28 18:41:01] ES outer3 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:41:18] ES outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.7116
+[2026-10-28 18:41:18] ES outer3 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:41:34] ES outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7185
+[2026-10-28 18:41:34] ES outer3 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:41:51] ES outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.7454
+[2026-10-28 18:41:51] ES outer3 | trial 4/20 F1_inner=0.7251 | mejor=0.7260
+[2026-10-28 18:41:51] ES outer3 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:42:08] ES outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.7110
+[2026-10-28 18:42:08] ES outer3 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:42:24] ES outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7207
+[2026-10-28 18:42:24] ES outer3 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:42:41] ES outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.7504
+[2026-10-28 18:42:41] ES outer3 | trial 5/20 F1_inner=0.7273 | mejor=0.7273
+[2026-10-28 18:42:41] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7110
+[2026-10-28 18:42:41] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7207
+[2026-10-28 18:42:41] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7504
+[2026-10-28 18:42:41] ES outer3 | trial 6/20 F1_inner=0.7273 | mejor=0.7273
+[2026-10-28 18:42:41] ES outer3 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:42:58] ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.7095
+[2026-10-28 18:42:58] ES outer3 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:43:14] ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7240
+[2026-10-28 18:43:14] ES outer3 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:43:31] ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.7504
+[2026-10-28 18:43:31] ES outer3 | trial 7/20 F1_inner=0.7280 | mejor=0.7280
+[2026-10-28 18:43:31] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7095
+[2026-10-28 18:43:31] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7240
+[2026-10-28 18:43:31] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7504
+[2026-10-28 18:43:32] ES outer3 | trial 8/20 F1_inner=0.7280 | mejor=0.7280
+[2026-10-28 18:43:32] ES outer3 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:43:48] ES outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.7070
+[2026-10-28 18:43:48] ES outer3 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:44:05] ES outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7154
+[2026-10-28 18:44:05] ES outer3 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:44:21] ES outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.7550
+[2026-10-28 18:44:22] ES outer3 | trial 9/20 F1_inner=0.7258 | mejor=0.7280
+[2026-10-28 18:44:22] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7095
+[2026-10-28 18:44:22] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7240
+[2026-10-28 18:44:22] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7504
+[2026-10-28 18:44:22] ES outer3 | trial 10/20 F1_inner=0.7280 | mejor=0.7280
+[2026-10-28 18:44:22] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7095
+[2026-10-28 18:44:22] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7240
+[2026-10-28 18:44:22] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7504
+[2026-10-28 18:44:22] ES outer3 | trial 11/20 F1_inner=0.7280 | mejor=0.7280
+[2026-10-28 18:44:23] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7095
+[2026-10-28 18:44:23] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7240
+[2026-10-28 18:44:23] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7504
+[2026-10-28 18:44:23] ES outer3 | trial 12/20 F1_inner=0.7280 | mejor=0.7280
+[2026-10-28 18:44:23] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7095
+[2026-10-28 18:44:23] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7240
+[2026-10-28 18:44:23] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7504
+[2026-10-28 18:44:23] ES outer3 | trial 13/20 F1_inner=0.7280 | mejor=0.7280
+[2026-10-28 18:44:23] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7095
+[2026-10-28 18:44:23] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7240
+[2026-10-28 18:44:23] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7504
+[2026-10-28 18:44:24] ES outer3 | trial 14/20 F1_inner=0.7280 | mejor=0.7280
+[2026-10-28 18:44:24] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7116
+[2026-10-28 18:44:24] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7185
+[2026-10-28 18:44:24] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7454
+[2026-10-28 18:44:24] ES outer3 | trial 15/20 F1_inner=0.7251 | mejor=0.7280
+[2026-10-28 18:44:24] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.7070
+[2026-10-28 18:44:24] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7154
+[2026-10-28 18:44:24] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.7550
+[2026-10-28 18:44:24] ES outer3 | trial 16/20 F1_inner=0.7258 | mejor=0.7280
+[2026-10-28 18:44:24] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7095
+[2026-10-28 18:44:24] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7240
+[2026-10-28 18:44:24] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7504
+[2026-10-28 18:44:25] ES outer3 | trial 17/20 F1_inner=0.7280 | mejor=0.7280
+[2026-10-28 18:44:25] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7095
+[2026-10-28 18:44:25] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7240
+[2026-10-28 18:44:25] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7504
+[2026-10-28 18:44:25] ES outer3 | trial 18/20 F1_inner=0.7280 | mejor=0.7280
+[2026-10-28 18:44:25] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7095
+[2026-10-28 18:44:25] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7240
+[2026-10-28 18:44:25] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7504
+[2026-10-28 18:44:25] ES outer3 | trial 19/20 F1_inner=0.7280 | mejor=0.7280
+[2026-10-28 18:44:26] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7116
+[2026-10-28 18:44:26] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7185
+[2026-10-28 18:44:26] REUTILIZADO ES outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7454
+[2026-10-28 18:44:26] ES outer3 | trial 20/20 F1_inner=0.7251 | mejor=0.7280
+[2026-10-28 18:44:26] ES Outer 3: refit PYSENTIMIENTO, 5 épocas
+[2026-10-28 18:44:49] ES Outer 3 refit: F1_train=0.8419, F1_outer=0.7139
+[2026-10-28 18:44:50] [ES][DistilBETO][Outer 3/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.7280±0.0207 | F1_train=0.8419 | F1_outer=0.7139 | gap=0.1280
+[2026-10-28 18:44:50] ES | Outer 4/5
+[2026-10-28 18:44:50] ES outer4 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:45:07] ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.7026
+[2026-10-28 18:45:07] ES outer4 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:45:24] ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7155
+[2026-10-28 18:45:24] ES outer4 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:45:40] ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.7400
+[2026-10-28 18:45:40] ES outer4 | trial 1/20 F1_inner=0.7194 | mejor=0.7194
+[2026-10-28 18:45:40] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7026
+[2026-10-28 18:45:40] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7155
+[2026-10-28 18:45:40] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7400
+[2026-10-28 18:45:40] ES outer4 | trial 2/20 F1_inner=0.7194 | mejor=0.7194
+[2026-10-28 18:45:41] ES outer4 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:45:57] ES outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6993
+[2026-10-28 18:45:57] ES outer4 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:46:13] ES outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7070
+[2026-10-28 18:46:13] ES outer4 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:46:30] ES outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.7349
+[2026-10-28 18:46:30] ES outer4 | trial 3/20 F1_inner=0.7137 | mejor=0.7194
+[2026-10-28 18:46:31] ES outer4 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:46:47] ES outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.7074
+[2026-10-28 18:46:47] ES outer4 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:47:04] ES outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7077
+[2026-10-28 18:47:04] ES outer4 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:47:20] ES outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.7385
+[2026-10-28 18:47:20] ES outer4 | trial 4/20 F1_inner=0.7179 | mejor=0.7194
+[2026-10-28 18:47:21] ES outer4 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:47:37] ES outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.7040
+[2026-10-28 18:47:37] ES outer4 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:47:53] ES outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7127
+[2026-10-28 18:47:53] ES outer4 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:48:10] ES outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.7385
+[2026-10-28 18:48:10] ES outer4 | trial 5/20 F1_inner=0.7184 | mejor=0.7194
+[2026-10-28 18:48:10] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7026
+[2026-10-28 18:48:10] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7155
+[2026-10-28 18:48:10] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7400
+[2026-10-28 18:48:11] ES outer4 | trial 6/20 F1_inner=0.7194 | mejor=0.7194
+[2026-10-28 18:48:11] ES outer4 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:48:27] ES outer4 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.7088
+[2026-10-28 18:48:27] ES outer4 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:48:43] ES outer4 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7092
+[2026-10-28 18:48:43] ES outer4 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:49:00] ES outer4 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.7374
+[2026-10-28 18:49:00] ES outer4 | trial 7/20 F1_inner=0.7185 | mejor=0.7194
+[2026-10-28 18:49:00] ES outer4 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:49:17] ES outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6974
+[2026-10-28 18:49:17] ES outer4 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:49:33] ES outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7064
+[2026-10-28 18:49:33] ES outer4 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:49:49] ES outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.7331
+[2026-10-28 18:49:50] ES outer4 | trial 8/20 F1_inner=0.7123 | mejor=0.7194
+[2026-10-28 18:49:50] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7026
+[2026-10-28 18:49:50] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7155
+[2026-10-28 18:49:50] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7400
+[2026-10-28 18:49:50] ES outer4 | trial 9/20 F1_inner=0.7194 | mejor=0.7194
+[2026-10-28 18:49:50] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7040
+[2026-10-28 18:49:50] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7127
+[2026-10-28 18:49:50] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7385
+[2026-10-28 18:49:51] ES outer4 | trial 10/20 F1_inner=0.7184 | mejor=0.7194
+[2026-10-28 18:49:51] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7074
+[2026-10-28 18:49:51] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7077
+[2026-10-28 18:49:51] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7385
+[2026-10-28 18:49:51] ES outer4 | trial 11/20 F1_inner=0.7179 | mejor=0.7194
+[2026-10-28 18:49:51] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7026
+[2026-10-28 18:49:51] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7155
+[2026-10-28 18:49:51] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7400
+[2026-10-28 18:49:51] ES outer4 | trial 12/20 F1_inner=0.7194 | mejor=0.7194
+[2026-10-28 18:49:51] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7026
+[2026-10-28 18:49:51] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7155
+[2026-10-28 18:49:51] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7400
+[2026-10-28 18:49:52] ES outer4 | trial 13/20 F1_inner=0.7194 | mejor=0.7194
+[2026-10-28 18:49:52] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7026
+[2026-10-28 18:49:52] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7155
+[2026-10-28 18:49:52] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7400
+[2026-10-28 18:49:52] ES outer4 | trial 14/20 F1_inner=0.7194 | mejor=0.7194
+[2026-10-28 18:49:52] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6993
+[2026-10-28 18:49:52] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7070
+[2026-10-28 18:49:52] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.7349
+[2026-10-28 18:49:52] ES outer4 | trial 15/20 F1_inner=0.7137 | mejor=0.7194
+[2026-10-28 18:49:52] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7026
+[2026-10-28 18:49:52] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7155
+[2026-10-28 18:49:52] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7400
+[2026-10-28 18:49:53] ES outer4 | trial 16/20 F1_inner=0.7194 | mejor=0.7194
+[2026-10-28 18:49:53] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7026
+[2026-10-28 18:49:53] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7155
+[2026-10-28 18:49:53] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7400
+[2026-10-28 18:49:53] ES outer4 | trial 17/20 F1_inner=0.7194 | mejor=0.7194
+[2026-10-28 18:49:53] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7026
+[2026-10-28 18:49:53] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7155
+[2026-10-28 18:49:53] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7400
+[2026-10-28 18:49:53] ES outer4 | trial 18/20 F1_inner=0.7194 | mejor=0.7194
+[2026-10-28 18:49:54] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7040
+[2026-10-28 18:49:54] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7127
+[2026-10-28 18:49:54] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7385
+[2026-10-28 18:49:54] ES outer4 | trial 19/20 F1_inner=0.7184 | mejor=0.7194
+[2026-10-28 18:49:54] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6993
+[2026-10-28 18:49:54] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7070
+[2026-10-28 18:49:54] REUTILIZADO ES outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.7349
+[2026-10-28 18:49:54] ES outer4 | trial 20/20 F1_inner=0.7137 | mejor=0.7194
+[2026-10-28 18:49:54] ES Outer 4: refit PYSENTIMIENTO, 4 épocas
+[2026-10-28 18:50:13] ES Outer 4 refit: F1_train=0.7923, F1_outer=0.6944
+[2026-10-28 18:50:14] [ES][DistilBETO][Outer 4/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.7194±0.0190 | F1_train=0.7923 | F1_outer=0.6944 | gap=0.0979
+[2026-10-28 18:50:14] ES | Outer 5/5
+[2026-10-28 18:50:14] ES outer5 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:50:31] ES outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.7069
+[2026-10-28 18:50:31] ES outer5 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:50:47] ES outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7084
+[2026-10-28 18:50:47] ES outer5 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:51:04] ES outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.7214
+[2026-10-28 18:51:04] ES outer5 | trial 1/20 F1_inner=0.7122 | mejor=0.7122
+[2026-10-28 18:51:04] ES outer5 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:51:20] ES outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.7040
+[2026-10-28 18:51:20] ES outer5 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:51:37] ES outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7070
+[2026-10-28 18:51:37] ES outer5 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:51:53] ES outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.7152
+[2026-10-28 18:51:53] ES outer5 | trial 2/20 F1_inner=0.7087 | mejor=0.7122
+[2026-10-28 18:51:53] ES outer5 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:52:10] ES outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.7035
+[2026-10-28 18:52:10] ES outer5 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:52:27] ES outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7092
+[2026-10-28 18:52:27] ES outer5 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:52:44] ES outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.7195
+[2026-10-28 18:52:44] ES outer5 | trial 3/20 F1_inner=0.7107 | mejor=0.7122
+[2026-10-28 18:52:44] ES outer5 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:53:00] ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.7120
+[2026-10-28 18:53:00] ES outer5 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:53:17] ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7099
+[2026-10-28 18:53:17] ES outer5 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:53:33] ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.7180
+[2026-10-28 18:53:34] ES outer5 | trial 4/20 F1_inner=0.7133 | mejor=0.7133
+[2026-10-28 18:53:34] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.7035
+[2026-10-28 18:53:34] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7092
+[2026-10-28 18:53:34] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.7195
+[2026-10-28 18:53:34] ES outer5 | trial 5/20 F1_inner=0.7107 | mejor=0.7133
+[2026-10-28 18:53:34] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7120
+[2026-10-28 18:53:34] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7099
+[2026-10-28 18:53:34] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7180
+[2026-10-28 18:53:34] ES outer5 | trial 6/20 F1_inner=0.7133 | mejor=0.7133
+[2026-10-28 18:53:35] ES outer5 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:53:51] ES outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.7011
+[2026-10-28 18:53:51] ES outer5 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:54:08] ES outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7060
+[2026-10-28 18:54:08] ES outer5 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:54:25] ES outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.7147
+[2026-10-28 18:54:26] ES outer5 | trial 7/20 F1_inner=0.7073 | mejor=0.7133
+[2026-10-28 18:54:26] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7120
+[2026-10-28 18:54:26] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7099
+[2026-10-28 18:54:26] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7180
+[2026-10-28 18:54:26] ES outer5 | trial 8/20 F1_inner=0.7133 | mejor=0.7133
+[2026-10-28 18:54:26] ES outer5 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:54:42] ES outer5 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.7035
+[2026-10-28 18:54:42] ES outer5 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:54:59] ES outer5 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7092
+[2026-10-28 18:54:59] ES outer5 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:55:15] ES outer5 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.7180
+[2026-10-28 18:55:15] ES outer5 | trial 9/20 F1_inner=0.7102 | mejor=0.7133
+[2026-10-28 18:55:16] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7120
+[2026-10-28 18:55:16] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7099
+[2026-10-28 18:55:16] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7180
+[2026-10-28 18:55:16] ES outer5 | trial 10/20 F1_inner=0.7133 | mejor=0.7133
+[2026-10-28 18:55:16] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7069
+[2026-10-28 18:55:16] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7084
+[2026-10-28 18:55:16] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7214
+[2026-10-28 18:55:16] ES outer5 | trial 11/20 F1_inner=0.7122 | mejor=0.7133
+[2026-10-28 18:55:16] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7120
+[2026-10-28 18:55:16] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7099
+[2026-10-28 18:55:16] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7180
+[2026-10-28 18:55:17] ES outer5 | trial 12/20 F1_inner=0.7133 | mejor=0.7133
+[2026-10-28 18:55:17] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7120
+[2026-10-28 18:55:17] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7099
+[2026-10-28 18:55:17] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7180
+[2026-10-28 18:55:17] ES outer5 | trial 13/20 F1_inner=0.7133 | mejor=0.7133
+[2026-10-28 18:55:17] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7120
+[2026-10-28 18:55:17] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7099
+[2026-10-28 18:55:17] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7180
+[2026-10-28 18:55:17] ES outer5 | trial 14/20 F1_inner=0.7133 | mejor=0.7133
+[2026-10-28 18:55:17] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7040
+[2026-10-28 18:55:17] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7070
+[2026-10-28 18:55:17] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7152
+[2026-10-28 18:55:18] ES outer5 | trial 15/20 F1_inner=0.7087 | mejor=0.7133
+[2026-10-28 18:55:18] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7120
+[2026-10-28 18:55:18] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7099
+[2026-10-28 18:55:18] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7180
+[2026-10-28 18:55:18] ES outer5 | trial 16/20 F1_inner=0.7133 | mejor=0.7133
+[2026-10-28 18:55:18] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7120
+[2026-10-28 18:55:18] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7099
+[2026-10-28 18:55:18] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7180
+[2026-10-28 18:55:19] ES outer5 | trial 17/20 F1_inner=0.7133 | mejor=0.7133
+[2026-10-28 18:55:19] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7120
+[2026-10-28 18:55:19] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7099
+[2026-10-28 18:55:19] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7180
+[2026-10-28 18:55:19] ES outer5 | trial 18/20 F1_inner=0.7133 | mejor=0.7133
+[2026-10-28 18:55:19] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7069
+[2026-10-28 18:55:19] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7084
+[2026-10-28 18:55:19] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7214
+[2026-10-28 18:55:19] ES outer5 | trial 19/20 F1_inner=0.7122 | mejor=0.7133
+[2026-10-28 18:55:19] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7040
+[2026-10-28 18:55:19] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7070
+[2026-10-28 18:55:19] REUTILIZADO ES outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7152
+[2026-10-28 18:55:20] ES outer5 | trial 20/20 F1_inner=0.7087 | mejor=0.7133
+[2026-10-28 18:55:20] ES Outer 5: refit PYSENTIMIENTO, 6 épocas
+[2026-10-28 18:55:48] ES Outer 5 refit: F1_train=0.8304, F1_outer=0.7789
+[2026-10-28 18:55:48] [ES][DistilBETO][Outer 5/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.7133±0.0042 | F1_train=0.8304 | F1_outer=0.7789 | gap=0.0515
+[2026-10-28 18:55:49] CU | Outer 1/5
+[2026-10-28 18:55:49] CU outer1 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:56:03] CU outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6762
+[2026-10-28 18:56:03] CU outer1 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:56:20] CU outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7076
+[2026-10-28 18:56:20] CU outer1 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:56:36] CU outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6668
+[2026-10-28 18:56:36] CU outer1 | trial 1/20 F1_inner=0.6835 | mejor=0.6835
+[2026-10-28 18:56:36] CU outer1 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:56:50] CU outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6770
+[2026-10-28 18:56:50] CU outer1 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:57:07] CU outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7059
+[2026-10-28 18:57:07] CU outer1 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:57:23] CU outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6702
+[2026-10-28 18:57:24] CU outer1 | trial 2/20 F1_inner=0.6844 | mejor=0.6844
+[2026-10-28 18:57:24] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6762
+[2026-10-28 18:57:24] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7076
+[2026-10-28 18:57:24] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6668
+[2026-10-28 18:57:24] CU outer1 | trial 3/20 F1_inner=0.6835 | mejor=0.6844
+[2026-10-28 18:57:24] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6762
+[2026-10-28 18:57:24] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7076
+[2026-10-28 18:57:24] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6668
+[2026-10-28 18:57:24] CU outer1 | trial 4/20 F1_inner=0.6835 | mejor=0.6844
+[2026-10-28 18:57:24] CU outer1 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:57:41] CU outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6855
+[2026-10-28 18:57:41] CU outer1 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:57:55] CU outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7053
+[2026-10-28 18:57:55] CU outer1 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:58:11] CU outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6764
+[2026-10-28 18:58:12] CU outer1 | trial 5/20 F1_inner=0.6891 | mejor=0.6891
+[2026-10-28 18:58:12] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6855
+[2026-10-28 18:58:12] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7053
+[2026-10-28 18:58:12] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6764
+[2026-10-28 18:58:12] CU outer1 | trial 6/20 F1_inner=0.6891 | mejor=0.6891
+[2026-10-28 18:58:12] CU outer1 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:58:29] CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6848
+[2026-10-28 18:58:29] CU outer1 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:58:43] CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7082
+[2026-10-28 18:58:43] CU outer1 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:58:59] CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6772
+[2026-10-28 18:58:59] CU outer1 | trial 7/20 F1_inner=0.6901 | mejor=0.6901
+[2026-10-28 18:58:59] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6848
+[2026-10-28 18:58:59] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7082
+[2026-10-28 18:58:59] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6772
+[2026-10-28 18:59:00] CU outer1 | trial 8/20 F1_inner=0.6901 | mejor=0.6901
+[2026-10-28 18:59:00] CU outer1 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 18:59:14] CU outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6828
+[2026-10-28 18:59:14] CU outer1 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 18:59:30] CU outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7011
+[2026-10-28 18:59:30] CU outer1 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 18:59:47] CU outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6800
+[2026-10-28 18:59:47] CU outer1 | trial 9/20 F1_inner=0.6880 | mejor=0.6901
+[2026-10-28 18:59:48] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6848
+[2026-10-28 18:59:48] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7082
+[2026-10-28 18:59:48] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6772
+[2026-10-28 18:59:48] CU outer1 | trial 10/20 F1_inner=0.6901 | mejor=0.6901
+[2026-10-28 18:59:48] CU outer1 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:00:02] CU outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6828
+[2026-10-28 19:00:02] CU outer1 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:00:16] CU outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7064
+[2026-10-28 19:00:16] CU outer1 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:00:33] CU outer1 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6800
+[2026-10-28 19:00:33] CU outer1 | trial 11/20 F1_inner=0.6897 | mejor=0.6901
+[2026-10-28 19:00:33] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6848
+[2026-10-28 19:00:33] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7082
+[2026-10-28 19:00:33] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6772
+[2026-10-28 19:00:33] CU outer1 | trial 12/20 F1_inner=0.6901 | mejor=0.6901
+[2026-10-28 19:00:33] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6848
+[2026-10-28 19:00:33] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7082
+[2026-10-28 19:00:33] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6772
+[2026-10-28 19:00:34] CU outer1 | trial 13/20 F1_inner=0.6901 | mejor=0.6901
+[2026-10-28 19:00:34] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6848
+[2026-10-28 19:00:34] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7082
+[2026-10-28 19:00:34] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6772
+[2026-10-28 19:00:34] CU outer1 | trial 14/20 F1_inner=0.6901 | mejor=0.6901
+[2026-10-28 19:00:34] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6848
+[2026-10-28 19:00:34] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7082
+[2026-10-28 19:00:34] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6772
+[2026-10-28 19:00:34] CU outer1 | trial 15/20 F1_inner=0.6901 | mejor=0.6901
+[2026-10-28 19:00:34] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6828
+[2026-10-28 19:00:34] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7011
+[2026-10-28 19:00:34] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6800
+[2026-10-28 19:00:35] CU outer1 | trial 16/20 F1_inner=0.6880 | mejor=0.6901
+[2026-10-28 19:00:35] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6770
+[2026-10-28 19:00:35] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7059
+[2026-10-28 19:00:35] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6702
+[2026-10-28 19:00:35] CU outer1 | trial 17/20 F1_inner=0.6844 | mejor=0.6901
+[2026-10-28 19:00:35] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6848
+[2026-10-28 19:00:35] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7082
+[2026-10-28 19:00:35] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6772
+[2026-10-28 19:00:36] CU outer1 | trial 18/20 F1_inner=0.6901 | mejor=0.6901
+[2026-10-28 19:00:36] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6848
+[2026-10-28 19:00:36] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7082
+[2026-10-28 19:00:36] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6772
+[2026-10-28 19:00:36] CU outer1 | trial 19/20 F1_inner=0.6901 | mejor=0.6901
+[2026-10-28 19:00:36] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6848
+[2026-10-28 19:00:36] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7082
+[2026-10-28 19:00:36] REUTILIZADO CU outer1 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6772
+[2026-10-28 19:00:36] CU outer1 | trial 20/20 F1_inner=0.6901 | mejor=0.6901
+[2026-10-28 19:00:36] CU Outer 1: refit PYSENTIMIENTO, 4 épocas
+[2026-10-28 19:00:56] CU Outer 1 refit: F1_train=0.8113, F1_outer=0.7287
+[2026-10-28 19:00:56] [CU][DistilBETO][Outer 1/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.6901±0.0161 | F1_train=0.8113 | F1_outer=0.7287 | gap=0.0826
+[2026-10-28 19:00:56] CU | Outer 2/5
+[2026-10-28 19:00:57] CU outer2 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:01:14] CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6727
+[2026-10-28 19:01:14] CU outer2 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:01:28] CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.6943
+[2026-10-28 19:01:28] CU outer2 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:01:44] CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.7016
+[2026-10-28 19:01:44] CU outer2 | trial 1/20 F1_inner=0.6895 | mejor=0.6895
+[2026-10-28 19:01:45] CU outer2 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:02:01] CU outer2 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6696
+[2026-10-28 19:02:01] CU outer2 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:02:17] CU outer2 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.6970
+[2026-10-28 19:02:17] CU outer2 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:02:34] CU outer2 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6939
+[2026-10-28 19:02:34] CU outer2 | trial 2/20 F1_inner=0.6868 | mejor=0.6895
+[2026-10-28 19:02:34] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6727
+[2026-10-28 19:02:34] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6943
+[2026-10-28 19:02:34] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7016
+[2026-10-28 19:02:34] CU outer2 | trial 3/20 F1_inner=0.6895 | mejor=0.6895
+[2026-10-28 19:02:35] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6727
+[2026-10-28 19:02:35] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6943
+[2026-10-28 19:02:35] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7016
+[2026-10-28 19:02:35] CU outer2 | trial 4/20 F1_inner=0.6895 | mejor=0.6895
+[2026-10-28 19:02:35] CU outer2 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:02:51] CU outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6722
+[2026-10-28 19:02:51] CU outer2 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:03:05] CU outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.6896
+[2026-10-28 19:03:05] CU outer2 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:03:22] CU outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6960
+[2026-10-28 19:03:22] CU outer2 | trial 5/20 F1_inner=0.6859 | mejor=0.6895
+[2026-10-28 19:03:22] CU outer2 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:03:39] CU outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6693
+[2026-10-28 19:03:39] CU outer2 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:03:53] CU outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.6910
+[2026-10-28 19:03:53] CU outer2 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:04:09] CU outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.7009
+[2026-10-28 19:04:09] CU outer2 | trial 6/20 F1_inner=0.6871 | mejor=0.6895
+[2026-10-28 19:04:09] CU outer2 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:04:26] CU outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6722
+[2026-10-28 19:04:26] CU outer2 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:04:40] CU outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.6910
+[2026-10-28 19:04:40] CU outer2 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:04:56] CU outer2 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6974
+[2026-10-28 19:04:56] CU outer2 | trial 7/20 F1_inner=0.6869 | mejor=0.6895
+[2026-10-28 19:04:56] CU outer2 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:05:10] CU outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6611
+[2026-10-28 19:05:10] CU outer2 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:05:27] CU outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.6990
+[2026-10-28 19:05:27] CU outer2 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:05:44] CU outer2 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6932
+[2026-10-28 19:05:44] CU outer2 | trial 8/20 F1_inner=0.6844 | mejor=0.6895
+[2026-10-28 19:05:44] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6727
+[2026-10-28 19:05:44] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6943
+[2026-10-28 19:05:44] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7016
+[2026-10-28 19:05:44] CU outer2 | trial 9/20 F1_inner=0.6895 | mejor=0.6895
+[2026-10-28 19:05:44] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6722
+[2026-10-28 19:05:44] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6896
+[2026-10-28 19:05:44] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6960
+[2026-10-28 19:05:45] CU outer2 | trial 10/20 F1_inner=0.6859 | mejor=0.6895
+[2026-10-28 19:05:45] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6693
+[2026-10-28 19:05:45] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6910
+[2026-10-28 19:05:45] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7009
+[2026-10-28 19:05:45] CU outer2 | trial 11/20 F1_inner=0.6871 | mejor=0.6895
+[2026-10-28 19:05:45] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6727
+[2026-10-28 19:05:45] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6943
+[2026-10-28 19:05:45] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7016
+[2026-10-28 19:05:45] CU outer2 | trial 12/20 F1_inner=0.6895 | mejor=0.6895
+[2026-10-28 19:05:46] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6727
+[2026-10-28 19:05:46] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6943
+[2026-10-28 19:05:46] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7016
+[2026-10-28 19:05:46] CU outer2 | trial 13/20 F1_inner=0.6895 | mejor=0.6895
+[2026-10-28 19:05:46] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6727
+[2026-10-28 19:05:46] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6943
+[2026-10-28 19:05:46] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7016
+[2026-10-28 19:05:46] CU outer2 | trial 14/20 F1_inner=0.6895 | mejor=0.6895
+[2026-10-28 19:05:46] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6696
+[2026-10-28 19:05:46] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6970
+[2026-10-28 19:05:46] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6939
+[2026-10-28 19:05:47] CU outer2 | trial 15/20 F1_inner=0.6868 | mejor=0.6895
+[2026-10-28 19:05:47] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6727
+[2026-10-28 19:05:47] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6943
+[2026-10-28 19:05:47] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7016
+[2026-10-28 19:05:47] CU outer2 | trial 16/20 F1_inner=0.6895 | mejor=0.6895
+[2026-10-28 19:05:47] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6727
+[2026-10-28 19:05:47] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6943
+[2026-10-28 19:05:47] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7016
+[2026-10-28 19:05:47] CU outer2 | trial 17/20 F1_inner=0.6895 | mejor=0.6895
+[2026-10-28 19:05:47] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6727
+[2026-10-28 19:05:47] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6943
+[2026-10-28 19:05:47] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7016
+[2026-10-28 19:05:48] CU outer2 | trial 18/20 F1_inner=0.6895 | mejor=0.6895
+[2026-10-28 19:05:48] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6693
+[2026-10-28 19:05:48] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6910
+[2026-10-28 19:05:48] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7009
+[2026-10-28 19:05:48] CU outer2 | trial 19/20 F1_inner=0.6871 | mejor=0.6895
+[2026-10-28 19:05:48] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6722
+[2026-10-28 19:05:48] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6896
+[2026-10-28 19:05:48] REUTILIZADO CU outer2 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6960
+[2026-10-28 19:05:48] CU outer2 | trial 20/20 F1_inner=0.6859 | mejor=0.6895
+[2026-10-28 19:05:48] CU Outer 2: refit PYSENTIMIENTO, 5 épocas
+[2026-10-28 19:06:12] CU Outer 2 refit: F1_train=0.8349, F1_outer=0.6953
+[2026-10-28 19:06:12] [CU][DistilBETO][Outer 2/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.6895±0.0150 | F1_train=0.8349 | F1_outer=0.6953 | gap=0.1396
+[2026-10-28 19:06:12] CU | Outer 3/5
+[2026-10-28 19:06:13] CU outer3 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:06:25] CU outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.7015
+[2026-10-28 19:06:25] CU outer3 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:06:41] CU outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.6910
+[2026-10-28 19:06:41] CU outer3 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:06:58] CU outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6779
+[2026-10-28 19:06:58] CU outer3 | trial 1/20 F1_inner=0.6902 | mejor=0.6902
+[2026-10-28 19:06:58] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.7015
+[2026-10-28 19:06:58] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6910
+[2026-10-28 19:06:58] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6779
+[2026-10-28 19:06:58] CU outer3 | trial 2/20 F1_inner=0.6902 | mejor=0.6902
+[2026-10-28 19:06:58] CU outer3 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:07:10] CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.7018
+[2026-10-28 19:07:10] CU outer3 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:07:26] CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.6932
+[2026-10-28 19:07:26] CU outer3 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:07:43] CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6883
+[2026-10-28 19:07:43] CU outer3 | trial 3/20 F1_inner=0.6944 | mejor=0.6944
+[2026-10-28 19:07:43] CU outer3 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:07:55] CU outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.7040
+[2026-10-28 19:07:55] CU outer3 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:08:11] CU outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.6904
+[2026-10-28 19:08:11] CU outer3 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:08:28] CU outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6869
+[2026-10-28 19:08:28] CU outer3 | trial 4/20 F1_inner=0.6938 | mejor=0.6944
+[2026-10-28 19:08:28] CU outer3 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:08:40] CU outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.7014
+[2026-10-28 19:08:40] CU outer3 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:08:56] CU outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.6960
+[2026-10-28 19:08:56] CU outer3 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:09:08] CU outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6584
+[2026-10-28 19:09:08] CU outer3 | trial 5/20 F1_inner=0.6852 | mejor=0.6944
+[2026-10-28 19:09:08] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7018
+[2026-10-28 19:09:08] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6932
+[2026-10-28 19:09:08] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6883
+[2026-10-28 19:09:08] CU outer3 | trial 6/20 F1_inner=0.6944 | mejor=0.6944
+[2026-10-28 19:09:08] CU outer3 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:09:20] CU outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.7014
+[2026-10-28 19:09:20] CU outer3 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:09:36] CU outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.6960
+[2026-10-28 19:09:36] CU outer3 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:09:48] CU outer3 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6605
+[2026-10-28 19:09:48] CU outer3 | trial 7/20 F1_inner=0.6859 | mejor=0.6944
+[2026-10-28 19:09:48] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7018
+[2026-10-28 19:09:48] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6932
+[2026-10-28 19:09:48] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6883
+[2026-10-28 19:09:49] CU outer3 | trial 8/20 F1_inner=0.6944 | mejor=0.6944
+[2026-10-28 19:09:49] CU outer3 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:10:00] CU outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6993
+[2026-10-28 19:10:00] CU outer3 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:10:17] CU outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.6890
+[2026-10-28 19:10:17] CU outer3 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:10:33] CU outer3 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6779
+[2026-10-28 19:10:34] CU outer3 | trial 9/20 F1_inner=0.6887 | mejor=0.6944
+[2026-10-28 19:10:34] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7018
+[2026-10-28 19:10:34] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6932
+[2026-10-28 19:10:34] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6883
+[2026-10-28 19:10:34] CU outer3 | trial 10/20 F1_inner=0.6944 | mejor=0.6944
+[2026-10-28 19:10:34] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7040
+[2026-10-28 19:10:34] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6904
+[2026-10-28 19:10:34] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6869
+[2026-10-28 19:10:34] CU outer3 | trial 11/20 F1_inner=0.6938 | mejor=0.6944
+[2026-10-28 19:10:34] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7018
+[2026-10-28 19:10:34] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6932
+[2026-10-28 19:10:34] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6883
+[2026-10-28 19:10:35] CU outer3 | trial 12/20 F1_inner=0.6944 | mejor=0.6944
+[2026-10-28 19:10:35] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7018
+[2026-10-28 19:10:35] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6932
+[2026-10-28 19:10:35] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6883
+[2026-10-28 19:10:35] CU outer3 | trial 13/20 F1_inner=0.6944 | mejor=0.6944
+[2026-10-28 19:10:35] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7018
+[2026-10-28 19:10:35] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6932
+[2026-10-28 19:10:35] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6883
+[2026-10-28 19:10:35] CU outer3 | trial 14/20 F1_inner=0.6944 | mejor=0.6944
+[2026-10-28 19:10:36] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7014
+[2026-10-28 19:10:36] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6960
+[2026-10-28 19:10:36] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6584
+[2026-10-28 19:10:36] CU outer3 | trial 15/20 F1_inner=0.6852 | mejor=0.6944
+[2026-10-28 19:10:36] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7018
+[2026-10-28 19:10:36] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6932
+[2026-10-28 19:10:36] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6883
+[2026-10-28 19:10:36] CU outer3 | trial 16/20 F1_inner=0.6944 | mejor=0.6944
+[2026-10-28 19:10:36] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7018
+[2026-10-28 19:10:36] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6932
+[2026-10-28 19:10:36] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6883
+[2026-10-28 19:10:37] CU outer3 | trial 17/20 F1_inner=0.6944 | mejor=0.6944
+[2026-10-28 19:10:37] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7018
+[2026-10-28 19:10:37] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6932
+[2026-10-28 19:10:37] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6883
+[2026-10-28 19:10:37] CU outer3 | trial 18/20 F1_inner=0.6944 | mejor=0.6944
+[2026-10-28 19:10:37] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7040
+[2026-10-28 19:10:37] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6904
+[2026-10-28 19:10:37] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6869
+[2026-10-28 19:10:37] CU outer3 | trial 19/20 F1_inner=0.6938 | mejor=0.6944
+[2026-10-28 19:10:38] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7014
+[2026-10-28 19:10:38] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6960
+[2026-10-28 19:10:38] REUTILIZADO CU outer3 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6584
+[2026-10-28 19:10:38] CU outer3 | trial 20/20 F1_inner=0.6852 | mejor=0.6944
+[2026-10-28 19:10:38] CU Outer 3: refit PYSENTIMIENTO, 5 épocas
+[2026-10-28 19:11:02] CU Outer 3 refit: F1_train=0.8429, F1_outer=0.7395
+[2026-10-28 19:11:02] [CU][DistilBETO][Outer 3/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.6944±0.0068 | F1_train=0.8429 | F1_outer=0.7395 | gap=0.1034
+[2026-10-28 19:11:02] CU | Outer 4/5
+[2026-10-28 19:11:02] CU outer4 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:11:19] CU outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6924
+[2026-10-28 19:11:19] CU outer4 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:11:36] CU outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7132
+[2026-10-28 19:11:36] CU outer4 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:11:50] CU outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6828
+[2026-10-28 19:11:50] CU outer4 | trial 1/20 F1_inner=0.6961 | mejor=0.6961
+[2026-10-28 19:11:50] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6924
+[2026-10-28 19:11:50] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7132
+[2026-10-28 19:11:50] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6828
+[2026-10-28 19:11:50] CU outer4 | trial 2/20 F1_inner=0.6961 | mejor=0.6961
+[2026-10-28 19:11:50] CU outer4 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:12:07] CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6946
+[2026-10-28 19:12:07] CU outer4 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:12:24] CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7090
+[2026-10-28 19:12:24] CU outer4 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:12:38] CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6890
+[2026-10-28 19:12:38] CU outer4 | trial 3/20 F1_inner=0.6975 | mejor=0.6975
+[2026-10-28 19:12:38] CU outer4 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:12:54] CU outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6932
+[2026-10-28 19:12:54] CU outer4 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:13:12] CU outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7119
+[2026-10-28 19:13:12] CU outer4 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:13:26] CU outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6807
+[2026-10-28 19:13:26] CU outer4 | trial 4/20 F1_inner=0.6952 | mejor=0.6975
+[2026-10-28 19:13:26] CU outer4 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:13:43] CU outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6904
+[2026-10-28 19:13:43] CU outer4 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:13:59] CU outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7137
+[2026-10-28 19:13:59] CU outer4 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:14:13] CU outer4 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6849
+[2026-10-28 19:14:13] CU outer4 | trial 5/20 F1_inner=0.6963 | mejor=0.6975
+[2026-10-28 19:14:14] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6946
+[2026-10-28 19:14:14] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7090
+[2026-10-28 19:14:14] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6890
+[2026-10-28 19:14:14] CU outer4 | trial 6/20 F1_inner=0.6975 | mejor=0.6975
+[2026-10-28 19:14:14] CU outer4 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:14:31] CU outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6926
+[2026-10-28 19:14:31] CU outer4 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:14:47] CU outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7076
+[2026-10-28 19:14:47] CU outer4 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:15:01] CU outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6890
+[2026-10-28 19:15:02] CU outer4 | trial 7/20 F1_inner=0.6964 | mejor=0.6975
+[2026-10-28 19:15:02] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6946
+[2026-10-28 19:15:02] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7090
+[2026-10-28 19:15:02] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6890
+[2026-10-28 19:15:02] CU outer4 | trial 8/20 F1_inner=0.6975 | mejor=0.6975
+[2026-10-28 19:15:02] CU outer4 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:15:19] CU outer4 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6946
+[2026-10-28 19:15:19] CU outer4 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:15:35] CU outer4 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7093
+[2026-10-28 19:15:35] CU outer4 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:15:49] CU outer4 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6820
+[2026-10-28 19:15:49] CU outer4 | trial 9/20 F1_inner=0.6953 | mejor=0.6975
+[2026-10-28 19:15:50] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6946
+[2026-10-28 19:15:50] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7090
+[2026-10-28 19:15:50] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6890
+[2026-10-28 19:15:50] CU outer4 | trial 10/20 F1_inner=0.6975 | mejor=0.6975
+[2026-10-28 19:15:50] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6926
+[2026-10-28 19:15:50] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7076
+[2026-10-28 19:15:50] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6890
+[2026-10-28 19:15:50] CU outer4 | trial 11/20 F1_inner=0.6964 | mejor=0.6975
+[2026-10-28 19:15:50] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6946
+[2026-10-28 19:15:50] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7090
+[2026-10-28 19:15:50] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6890
+[2026-10-28 19:15:51] CU outer4 | trial 12/20 F1_inner=0.6975 | mejor=0.6975
+[2026-10-28 19:15:51] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6946
+[2026-10-28 19:15:51] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7090
+[2026-10-28 19:15:51] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6890
+[2026-10-28 19:15:51] CU outer4 | trial 13/20 F1_inner=0.6975 | mejor=0.6975
+[2026-10-28 19:15:51] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6946
+[2026-10-28 19:15:51] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7090
+[2026-10-28 19:15:51] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6890
+[2026-10-28 19:15:51] CU outer4 | trial 14/20 F1_inner=0.6975 | mejor=0.6975
+[2026-10-28 19:15:51] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6932
+[2026-10-28 19:15:51] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7119
+[2026-10-28 19:15:51] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6807
+[2026-10-28 19:15:52] CU outer4 | trial 15/20 F1_inner=0.6952 | mejor=0.6975
+[2026-10-28 19:15:52] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6946
+[2026-10-28 19:15:52] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7090
+[2026-10-28 19:15:52] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6890
+[2026-10-28 19:15:52] CU outer4 | trial 16/20 F1_inner=0.6975 | mejor=0.6975
+[2026-10-28 19:15:52] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6946
+[2026-10-28 19:15:52] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7090
+[2026-10-28 19:15:52] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6890
+[2026-10-28 19:15:52] CU outer4 | trial 17/20 F1_inner=0.6975 | mejor=0.6975
+[2026-10-28 19:15:53] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6946
+[2026-10-28 19:15:53] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7090
+[2026-10-28 19:15:53] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6890
+[2026-10-28 19:15:53] CU outer4 | trial 18/20 F1_inner=0.6975 | mejor=0.6975
+[2026-10-28 19:15:53] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6926
+[2026-10-28 19:15:53] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7076
+[2026-10-28 19:15:53] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6890
+[2026-10-28 19:15:53] CU outer4 | trial 19/20 F1_inner=0.6964 | mejor=0.6975
+[2026-10-28 19:15:53] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6932
+[2026-10-28 19:15:53] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7119
+[2026-10-28 19:15:53] REUTILIZADO CU outer4 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6807
+[2026-10-28 19:15:54] CU outer4 | trial 20/20 F1_inner=0.6952 | mejor=0.6975
+[2026-10-28 19:15:54] CU Outer 4: refit PYSENTIMIENTO, 5 épocas
+[2026-10-28 19:16:17] CU Outer 4 refit: F1_train=0.8333, F1_outer=0.7322
+[2026-10-28 19:16:17] [CU][DistilBETO][Outer 4/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.6975±0.0103 | F1_train=0.8333 | F1_outer=0.7322 | gap=0.1011
+[2026-10-28 19:16:17] CU | Outer 5/5
+[2026-10-28 19:16:18] CU outer5 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:16:35] CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.7132
+[2026-10-28 19:16:35] CU outer5 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:16:52] CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7045
+[2026-10-28 19:16:52] CU outer5 | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:17:04] CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6827
+[2026-10-28 19:17:04] CU outer5 | trial 1/20 F1_inner=0.7001 | mejor=0.7001
+[2026-10-28 19:17:04] CU outer5 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:17:21] CU outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6962
+[2026-10-28 19:17:21] CU outer5 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:17:37] CU outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7029
+[2026-10-28 19:17:37] CU outer5 | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:17:49] CU outer5 cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6799
+[2026-10-28 19:17:49] CU outer5 | trial 2/20 F1_inner=0.6930 | mejor=0.7001
+[2026-10-28 19:17:49] CU outer5 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:18:06] CU outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.7032
+[2026-10-28 19:18:06] CU outer5 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:18:22] CU outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7014
+[2026-10-28 19:18:22] CU outer5 | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:18:34] CU outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6889
+[2026-10-28 19:18:34] CU outer5 | trial 3/20 F1_inner=0.6978 | mejor=0.7001
+[2026-10-28 19:18:34] CU outer5 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:18:51] CU outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.7108
+[2026-10-28 19:18:51] CU outer5 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:19:07] CU outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7009
+[2026-10-28 19:19:07] CU outer5 | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:19:24] CU outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6854
+[2026-10-28 19:19:24] CU outer5 | trial 4/20 F1_inner=0.6991 | mejor=0.7001
+[2026-10-28 19:19:24] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.7032
+[2026-10-28 19:19:24] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7014
+[2026-10-28 19:19:24] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6889
+[2026-10-28 19:19:25] CU outer5 | trial 5/20 F1_inner=0.6978 | mejor=0.7001
+[2026-10-28 19:19:25] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7132
+[2026-10-28 19:19:25] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7045
+[2026-10-28 19:19:25] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6827
+[2026-10-28 19:19:25] CU outer5 | trial 6/20 F1_inner=0.7001 | mejor=0.7001
+[2026-10-28 19:19:25] CU outer5 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:19:42] CU outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6995
+[2026-10-28 19:19:42] CU outer5 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:19:58] CU outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7009
+[2026-10-28 19:19:58] CU outer5 | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:20:10] CU outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6775
+[2026-10-28 19:20:10] CU outer5 | trial 7/20 F1_inner=0.6926 | mejor=0.7001
+[2026-10-28 19:20:10] CU outer5 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:20:27] CU outer5 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.7032
+[2026-10-28 19:20:27] CU outer5 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:20:44] CU outer5 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7028
+[2026-10-28 19:20:44] CU outer5 | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:20:56] CU outer5 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6889
+[2026-10-28 19:20:56] CU outer5 | trial 8/20 F1_inner=0.6983 | mejor=0.7001
+[2026-10-28 19:20:56] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7132
+[2026-10-28 19:20:56] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7045
+[2026-10-28 19:20:56] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6827
+[2026-10-28 19:20:57] CU outer5 | trial 9/20 F1_inner=0.7001 | mejor=0.7001
+[2026-10-28 19:20:57] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7132
+[2026-10-28 19:20:57] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7045
+[2026-10-28 19:20:57] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6827
+[2026-10-28 19:20:57] CU outer5 | trial 10/20 F1_inner=0.7001 | mejor=0.7001
+[2026-10-28 19:20:57] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6995
+[2026-10-28 19:20:57] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7009
+[2026-10-28 19:20:57] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6775
+[2026-10-28 19:20:57] CU outer5 | trial 11/20 F1_inner=0.6926 | mejor=0.7001
+[2026-10-28 19:20:57] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7132
+[2026-10-28 19:20:57] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7045
+[2026-10-28 19:20:57] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6827
+[2026-10-28 19:20:58] CU outer5 | trial 12/20 F1_inner=0.7001 | mejor=0.7001
+[2026-10-28 19:20:58] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7132
+[2026-10-28 19:20:58] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7045
+[2026-10-28 19:20:58] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6827
+[2026-10-28 19:20:58] CU outer5 | trial 13/20 F1_inner=0.7001 | mejor=0.7001
+[2026-10-28 19:20:58] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7132
+[2026-10-28 19:20:58] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7045
+[2026-10-28 19:20:58] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6827
+[2026-10-28 19:20:58] CU outer5 | trial 14/20 F1_inner=0.7001 | mejor=0.7001
+[2026-10-28 19:20:59] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7108
+[2026-10-28 19:20:59] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7009
+[2026-10-28 19:20:59] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6854
+[2026-10-28 19:20:59] CU outer5 | trial 15/20 F1_inner=0.6991 | mejor=0.7001
+[2026-10-28 19:20:59] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.7032
+[2026-10-28 19:20:59] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7028
+[2026-10-28 19:20:59] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6889
+[2026-10-28 19:20:59] CU outer5 | trial 16/20 F1_inner=0.6983 | mejor=0.7001
+[2026-10-28 19:20:59] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7132
+[2026-10-28 19:20:59] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7045
+[2026-10-28 19:20:59] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6827
+[2026-10-28 19:21:00] CU outer5 | trial 17/20 F1_inner=0.7001 | mejor=0.7001
+[2026-10-28 19:21:00] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7132
+[2026-10-28 19:21:00] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7045
+[2026-10-28 19:21:00] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6827
+[2026-10-28 19:21:00] CU outer5 | trial 18/20 F1_inner=0.7001 | mejor=0.7001
+[2026-10-28 19:21:00] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7132
+[2026-10-28 19:21:00] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7045
+[2026-10-28 19:21:00] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6827
+[2026-10-28 19:21:00] CU outer5 | trial 19/20 F1_inner=0.7001 | mejor=0.7001
+[2026-10-28 19:21:00] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6995
+[2026-10-28 19:21:00] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7009
+[2026-10-28 19:21:00] REUTILIZADO CU outer5 cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6775
+[2026-10-28 19:21:01] CU outer5 | trial 20/20 F1_inner=0.6926 | mejor=0.7001
+[2026-10-28 19:21:01] CU Outer 5: refit PYSENTIMIENTO, 6 épocas
+[2026-10-28 19:21:28] CU Outer 5 refit: F1_train=0.8259, F1_outer=0.7122
+[2026-10-28 19:21:28] [CU][DistilBETO][Outer 5/5] FINALIZADO | prep=PYSENTIMIENTO | F1_inner=0.7001±0.0157 | F1_train=0.8259 | F1_outer=0.7122 | gap=0.1137
+[2026-10-28 19:21:28] FINALIZADO: Nested CV completado (MX, ES, CU) (915/915 contados)
+[2026-10-28 19:21:30] MX | Optimización final
+[2026-10-28 19:21:31] MX final | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:21:51] MX final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6362
+[2026-10-28 19:21:51] MX final | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:22:02] MX final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.6228
+[2026-10-28 19:22:02] MX final | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:22:22] MX final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6894
+[2026-10-28 19:22:22] MX final | trial 1/20 F1_inner=0.6495 | mejor=0.6495
+[2026-10-28 19:22:22] MX final | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:22:43] MX final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6320
+[2026-10-28 19:22:43] MX final | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:22:54] MX final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.6163
+[2026-10-28 19:22:54] MX final | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:23:14] MX final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.6875
+[2026-10-28 19:23:14] MX final | trial 2/20 F1_inner=0.6453 | mejor=0.6495
+[2026-10-28 19:23:14] REUTILIZADO MX final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6362
+[2026-10-28 19:23:14] REUTILIZADO MX final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6228
+[2026-10-28 19:23:14] REUTILIZADO MX final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6894
+[2026-10-28 19:23:14] MX final | trial 3/20 F1_inner=0.6495 | mejor=0.6495
+[2026-10-28 19:23:15] REUTILIZADO MX final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6362
+[2026-10-28 19:23:15] REUTILIZADO MX final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6228
+[2026-10-28 19:23:15] REUTILIZADO MX final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6894
+[2026-10-28 19:23:15] MX final | trial 4/20 F1_inner=0.6495 | mejor=0.6495
+[2026-10-28 19:23:15] MX final | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:23:35] MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6346
+[2026-10-28 19:23:35] MX final | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:23:55] MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.6404
+[2026-10-28 19:23:55] MX final | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:24:16] MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6941
+[2026-10-28 19:24:16] MX final | trial 5/20 F1_inner=0.6564 | mejor=0.6564
+[2026-10-28 19:24:16] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6346
+[2026-10-28 19:24:16] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6404
+[2026-10-28 19:24:16] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6941
+[2026-10-28 19:24:17] MX final | trial 6/20 F1_inner=0.6564 | mejor=0.6564
+[2026-10-28 19:24:17] MX final | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:24:37] MX final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6397
+[2026-10-28 19:24:37] MX final | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:24:48] MX final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.6251
+[2026-10-28 19:24:48] MX final | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:25:08] MX final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6902
+[2026-10-28 19:25:09] MX final | trial 7/20 F1_inner=0.6517 | mejor=0.6564
+[2026-10-28 19:25:09] MX final | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:25:29] MX final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6326
+[2026-10-28 19:25:29] MX final | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:25:50] MX final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.6418
+[2026-10-28 19:25:50] MX final | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:26:11] MX final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.6886
+[2026-10-28 19:26:11] MX final | trial 8/20 F1_inner=0.6544 | mejor=0.6564
+[2026-10-28 19:26:11] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6346
+[2026-10-28 19:26:11] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6404
+[2026-10-28 19:26:11] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6941
+[2026-10-28 19:26:11] MX final | trial 9/20 F1_inner=0.6564 | mejor=0.6564
+[2026-10-28 19:26:11] MX final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:26:32] MX final cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6386
+[2026-10-28 19:26:32] MX final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:26:43] MX final cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.6213
+[2026-10-28 19:26:43] MX final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:27:03] MX final cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.6883
+[2026-10-28 19:27:03] MX final | trial 10/20 F1_inner=0.6494 | mejor=0.6564
+[2026-10-28 19:27:04] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6346
+[2026-10-28 19:27:04] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6404
+[2026-10-28 19:27:04] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6941
+[2026-10-28 19:27:04] MX final | trial 11/20 F1_inner=0.6564 | mejor=0.6564
+[2026-10-28 19:27:04] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6346
+[2026-10-28 19:27:04] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6404
+[2026-10-28 19:27:04] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6941
+[2026-10-28 19:27:04] MX final | trial 12/20 F1_inner=0.6564 | mejor=0.6564
+[2026-10-28 19:27:04] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6346
+[2026-10-28 19:27:04] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6404
+[2026-10-28 19:27:04] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6941
+[2026-10-28 19:27:05] MX final | trial 13/20 F1_inner=0.6564 | mejor=0.6564
+[2026-10-28 19:27:05] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6346
+[2026-10-28 19:27:05] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6404
+[2026-10-28 19:27:05] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6941
+[2026-10-28 19:27:05] MX final | trial 14/20 F1_inner=0.6564 | mejor=0.6564
+[2026-10-28 19:27:05] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6397
+[2026-10-28 19:27:05] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.6251
+[2026-10-28 19:27:05] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.6902
+[2026-10-28 19:27:05] MX final | trial 15/20 F1_inner=0.6517 | mejor=0.6564
+[2026-10-28 19:27:05] REUTILIZADO MX final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6326
+[2026-10-28 19:27:05] REUTILIZADO MX final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6418
+[2026-10-28 19:27:05] REUTILIZADO MX final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6886
+[2026-10-28 19:27:06] MX final | trial 16/20 F1_inner=0.6544 | mejor=0.6564
+[2026-10-28 19:27:06] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6320
+[2026-10-28 19:27:06] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.6163
+[2026-10-28 19:27:06] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.6875
+[2026-10-28 19:27:06] MX final | trial 17/20 F1_inner=0.6453 | mejor=0.6564
+[2026-10-28 19:27:06] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6346
+[2026-10-28 19:27:06] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6404
+[2026-10-28 19:27:06] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6941
+[2026-10-28 19:27:06] MX final | trial 18/20 F1_inner=0.6564 | mejor=0.6564
+[2026-10-28 19:27:07] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6346
+[2026-10-28 19:27:07] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6404
+[2026-10-28 19:27:07] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6941
+[2026-10-28 19:27:07] MX final | trial 19/20 F1_inner=0.6564 | mejor=0.6564
+[2026-10-28 19:27:07] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6346
+[2026-10-28 19:27:07] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.6404
+[2026-10-28 19:27:07] REUTILIZADO MX final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.6941
+[2026-10-28 19:27:07] MX final | trial 20/20 F1_inner=0.6564 | mejor=0.6564
+[2026-10-28 19:27:07] ES | Optimización final
+[2026-10-28 19:27:08] ES final | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:27:22] ES final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.7021
+[2026-10-28 19:27:22] ES final | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:27:43] ES final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7218
+[2026-10-28 19:27:43] ES final | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:28:03] ES final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.7253
+[2026-10-28 19:28:03] ES final | trial 1/20 F1_inner=0.7164 | mejor=0.7164
+[2026-10-28 19:28:03] ES final | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:28:18] ES final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.7021
+[2026-10-28 19:28:18] ES final | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:28:38] ES final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7205
+[2026-10-28 19:28:38] ES final | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:28:58] ES final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.7226
+[2026-10-28 19:28:59] ES final | trial 2/20 F1_inner=0.7150 | mejor=0.7164
+[2026-10-28 19:28:59] REUTILIZADO ES final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7021
+[2026-10-28 19:28:59] REUTILIZADO ES final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7218
+[2026-10-28 19:28:59] REUTILIZADO ES final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7253
+[2026-10-28 19:28:59] ES final | trial 3/20 F1_inner=0.7164 | mejor=0.7164
+[2026-10-28 19:28:59] REUTILIZADO ES final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7021
+[2026-10-28 19:28:59] REUTILIZADO ES final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7218
+[2026-10-28 19:28:59] REUTILIZADO ES final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7253
+[2026-10-28 19:28:59] ES final | trial 4/20 F1_inner=0.7164 | mejor=0.7164
+[2026-10-28 19:29:00] ES final | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:29:14] ES final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.7042
+[2026-10-28 19:29:14] ES final | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:29:34] ES final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7253
+[2026-10-28 19:29:34] ES final | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:29:54] ES final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.7184
+[2026-10-28 19:29:54] ES final | trial 5/20 F1_inner=0.7160 | mejor=0.7164
+[2026-10-28 19:29:55] ES final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:30:09] ES final cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.7036
+[2026-10-28 19:30:09] ES final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:30:29] ES final cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7215
+[2026-10-28 19:30:29] ES final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:30:49] ES final cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.7238
+[2026-10-28 19:30:49] ES final | trial 6/20 F1_inner=0.7163 | mejor=0.7164
+[2026-10-28 19:30:49] ES final | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:31:03] ES final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.7005
+[2026-10-28 19:31:03] ES final | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:31:24] ES final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7273
+[2026-10-28 19:31:24] ES final | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:31:44] ES final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.7215
+[2026-10-28 19:31:44] ES final | trial 7/20 F1_inner=0.7164 | mejor=0.7164
+[2026-10-28 19:31:44] REUTILIZADO ES final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.7005
+[2026-10-28 19:31:44] REUTILIZADO ES final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7273
+[2026-10-28 19:31:44] REUTILIZADO ES final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.7215
+[2026-10-28 19:31:44] ES final | trial 8/20 F1_inner=0.7164 | mejor=0.7164
+[2026-10-28 19:31:45] REUTILIZADO ES final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.7005
+[2026-10-28 19:31:45] REUTILIZADO ES final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7273
+[2026-10-28 19:31:45] REUTILIZADO ES final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.7215
+[2026-10-28 19:31:45] ES final | trial 9/20 F1_inner=0.7164 | mejor=0.7164
+[2026-10-28 19:31:45] ES final | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:31:59] ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.7036
+[2026-10-28 19:31:59] ES final | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:32:19] ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7246
+[2026-10-28 19:32:19] ES final | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:32:39] ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.7238
+[2026-10-28 19:32:40] ES final | trial 10/20 F1_inner=0.7173 | mejor=0.7173
+[2026-10-28 19:32:40] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7036
+[2026-10-28 19:32:40] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7246
+[2026-10-28 19:32:40] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7238
+[2026-10-28 19:32:40] ES final | trial 11/20 F1_inner=0.7173 | mejor=0.7173
+[2026-10-28 19:32:40] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7036
+[2026-10-28 19:32:40] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7246
+[2026-10-28 19:32:40] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7238
+[2026-10-28 19:32:40] ES final | trial 12/20 F1_inner=0.7173 | mejor=0.7173
+[2026-10-28 19:32:41] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7036
+[2026-10-28 19:32:41] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7246
+[2026-10-28 19:32:41] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7238
+[2026-10-28 19:32:41] ES final | trial 13/20 F1_inner=0.7173 | mejor=0.7173
+[2026-10-28 19:32:41] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7036
+[2026-10-28 19:32:41] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7246
+[2026-10-28 19:32:41] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7238
+[2026-10-28 19:32:41] ES final | trial 14/20 F1_inner=0.7173 | mejor=0.7173
+[2026-10-28 19:32:41] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7036
+[2026-10-28 19:32:41] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7246
+[2026-10-28 19:32:41] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7238
+[2026-10-28 19:32:42] ES final | trial 15/20 F1_inner=0.7173 | mejor=0.7173
+[2026-10-28 19:32:42] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7036
+[2026-10-28 19:32:42] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7246
+[2026-10-28 19:32:42] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7238
+[2026-10-28 19:32:42] ES final | trial 16/20 F1_inner=0.7173 | mejor=0.7173
+[2026-10-28 19:32:42] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.7021
+[2026-10-28 19:32:42] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7205
+[2026-10-28 19:32:42] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7226
+[2026-10-28 19:32:43] ES final | trial 17/20 F1_inner=0.7150 | mejor=0.7173
+[2026-10-28 19:32:43] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.7042
+[2026-10-28 19:32:43] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7253
+[2026-10-28 19:32:43] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.7184
+[2026-10-28 19:32:43] ES final | trial 18/20 F1_inner=0.7160 | mejor=0.7173
+[2026-10-28 19:32:43] REUTILIZADO ES final cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7036
+[2026-10-28 19:32:43] REUTILIZADO ES final cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7215
+[2026-10-28 19:32:43] REUTILIZADO ES final cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7238
+[2026-10-28 19:32:43] ES final | trial 19/20 F1_inner=0.7163 | mejor=0.7173
+[2026-10-28 19:32:44] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.7036
+[2026-10-28 19:32:44] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7246
+[2026-10-28 19:32:44] REUTILIZADO ES final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7238
+[2026-10-28 19:32:44] ES final | trial 20/20 F1_inner=0.7173 | mejor=0.7173
+[2026-10-28 19:32:44] CU | Optimización final
+[2026-10-28 19:32:45] CU final | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:33:05] CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6747
+[2026-10-28 19:33:05] CU final | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:33:25] CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7313
+[2026-10-28 19:33:25] CU final | cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:33:46] CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.7310
+[2026-10-28 19:33:46] CU final | trial 1/20 F1_inner=0.7124 | mejor=0.7124
+[2026-10-28 19:33:46] CU final | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:34:06] CU final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 1: F1=0.6775
+[2026-10-28 19:34:06] CU final | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:34:26] CU final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 2: F1=0.7290
+[2026-10-28 19:34:26] CU final | cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:34:46] CU final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 Inner 3: F1=0.7269
+[2026-10-28 19:34:47] CU final | trial 2/20 F1_inner=0.7111 | mejor=0.7124
+[2026-10-28 19:34:47] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6747
+[2026-10-28 19:34:47] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7313
+[2026-10-28 19:34:47] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7310
+[2026-10-28 19:34:47] CU final | trial 3/20 F1_inner=0.7124 | mejor=0.7124
+[2026-10-28 19:34:47] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6747
+[2026-10-28 19:34:47] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7313
+[2026-10-28 19:34:47] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7310
+[2026-10-28 19:34:47] CU final | trial 4/20 F1_inner=0.7124 | mejor=0.7124
+[2026-10-28 19:34:48] CU final | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:35:08] CU final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6784
+[2026-10-28 19:35:08] CU final | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:35:28] CU final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7150
+[2026-10-28 19:35:28] CU final | cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:35:49] CU final cfg=P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.7299
+[2026-10-28 19:35:49] CU final | trial 5/20 F1_inner=0.7078 | mejor=0.7124
+[2026-10-28 19:35:49] CU final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:36:10] CU final cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6774
+[2026-10-28 19:36:10] CU final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:36:27] CU final cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7105
+[2026-10-28 19:36:27] CU final | cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:36:47] CU final cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.7299
+[2026-10-28 19:36:48] CU final | trial 6/20 F1_inner=0.7059 | mejor=0.7124
+[2026-10-28 19:36:48] CU final | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:37:08] CU final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 1: F1=0.6790
+[2026-10-28 19:37:08] CU final | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:37:28] CU final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 2: F1=0.7167
+[2026-10-28 19:37:28] CU final | cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:37:48] CU final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 Inner 3: F1=0.7292
+[2026-10-28 19:37:49] CU final | trial 7/20 F1_inner=0.7083 | mejor=0.7124
+[2026-10-28 19:37:49] CU final | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 1/3
+[2026-10-28 19:38:09] CU final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 1: F1=0.6768
+[2026-10-28 19:38:09] CU final | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 2/3
+[2026-10-28 19:38:26] CU final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 2: F1=0.7116
+[2026-10-28 19:38:26] CU final | cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 | Inner 3/3
+[2026-10-28 19:38:46] CU final cfg=P_l2_b16_e6_w1_b_d2_s1_r9_i2_c0_m15 Inner 3: F1=0.7299
+[2026-10-28 19:38:46] CU final | trial 8/20 F1_inner=0.7061 | mejor=0.7124
+[2026-10-28 19:38:47] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6747
+[2026-10-28 19:38:47] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7313
+[2026-10-28 19:38:47] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7310
+[2026-10-28 19:38:47] CU final | trial 9/20 F1_inner=0.7124 | mejor=0.7124
+[2026-10-28 19:38:47] REUTILIZADO CU final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6775
+[2026-10-28 19:38:47] REUTILIZADO CU final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7290
+[2026-10-28 19:38:47] REUTILIZADO CU final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7269
+[2026-10-28 19:38:47] CU final | trial 10/20 F1_inner=0.7111 | mejor=0.7124
+[2026-10-28 19:38:47] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=1: F1=0.6774
+[2026-10-28 19:38:47] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=2: F1=0.7105
+[2026-10-28 19:38:47] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d2_s1_r9_i2_c0_m15 inner=3: F1=0.7299
+[2026-10-28 19:38:48] CU final | trial 11/20 F1_inner=0.7059 | mejor=0.7124
+[2026-10-28 19:38:48] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6747
+[2026-10-28 19:38:48] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7313
+[2026-10-28 19:38:48] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7310
+[2026-10-28 19:38:48] CU final | trial 12/20 F1_inner=0.7124 | mejor=0.7124
+[2026-10-28 19:38:48] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6747
+[2026-10-28 19:38:48] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7313
+[2026-10-28 19:38:48] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7310
+[2026-10-28 19:38:48] CU final | trial 13/20 F1_inner=0.7124 | mejor=0.7124
+[2026-10-28 19:38:49] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6747
+[2026-10-28 19:38:49] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7313
+[2026-10-28 19:38:49] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7310
+[2026-10-28 19:38:49] CU final | trial 14/20 F1_inner=0.7124 | mejor=0.7124
+[2026-10-28 19:38:49] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6790
+[2026-10-28 19:38:49] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7167
+[2026-10-28 19:38:49] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.7292
+[2026-10-28 19:38:49] CU final | trial 15/20 F1_inner=0.7083 | mejor=0.7124
+[2026-10-28 19:38:49] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6747
+[2026-10-28 19:38:49] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7313
+[2026-10-28 19:38:49] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7310
+[2026-10-28 19:38:50] CU final | trial 16/20 F1_inner=0.7124 | mejor=0.7124
+[2026-10-28 19:38:50] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6747
+[2026-10-28 19:38:50] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7313
+[2026-10-28 19:38:50] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7310
+[2026-10-28 19:38:50] CU final | trial 17/20 F1_inner=0.7124 | mejor=0.7124
+[2026-10-28 19:38:50] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6747
+[2026-10-28 19:38:50] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7313
+[2026-10-28 19:38:50] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7310
+[2026-10-28 19:38:50] CU final | trial 18/20 F1_inner=0.7124 | mejor=0.7124
+[2026-10-28 19:38:50] REUTILIZADO CU final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=1: F1=0.6775
+[2026-10-28 19:38:50] REUTILIZADO CU final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=2: F1=0.7290
+[2026-10-28 19:38:50] REUTILIZADO CU final cfg=P_l2_b16_e6_w1_b_d1_s1_r9_i2_c0_m15 inner=3: F1=0.7269
+[2026-10-28 19:38:51] CU final | trial 19/20 F1_inner=0.7111 | mejor=0.7124
+[2026-10-28 19:38:51] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=1: F1=0.6790
+[2026-10-28 19:38:51] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=2: F1=0.7167
+[2026-10-28 19:38:51] REUTILIZADO CU final cfg=P_l2_b16_e6_w10_b_d3_s1_r9_i2_c0_m15 inner=3: F1=0.7292
+[2026-10-28 19:38:51] CU final | trial 20/20 F1_inner=0.7083 | mejor=0.7124
+[2026-10-28 19:38:51] FINALIZADO: Optimización final completada (180/180 contados)
+[2026-10-28 19:43:06] MX | Test oficial | semilla 42
+[2026-10-28 19:43:33] MX test semilla 42: F1=0.7100
+[2026-10-28 19:43:33] MX | Test oficial | semilla 52
+[2026-10-28 19:43:59] MX test semilla 52: F1=0.6998
+[2026-10-28 19:43:59] MX | Test oficial | semilla 62
+[2026-10-28 19:44:26] MX test semilla 62: F1=0.6933
+[2026-10-28 19:44:26] MX | Test oficial | semilla 72
+[2026-10-28 19:44:53] MX test semilla 72: F1=0.7063
+[2026-10-28 19:44:53] MX | Test oficial | semilla 82
+[2026-10-28 19:45:19] MX test semilla 82: F1=0.7028
+[2026-10-28 19:45:20] ES | Test oficial | semilla 42
+[2026-10-28 19:45:47] ES test semilla 42: F1=0.7314
+[2026-10-28 19:45:47] ES | Test oficial | semilla 52
+[2026-10-28 19:46:14] ES test semilla 52: F1=0.7380
+[2026-10-28 19:46:14] ES | Test oficial | semilla 62
+[2026-10-28 19:46:41] ES test semilla 62: F1=0.7305
+[2026-10-28 19:46:41] ES | Test oficial | semilla 72
+[2026-10-28 19:47:08] ES test semilla 72: F1=0.7406
+[2026-10-28 19:47:08] ES | Test oficial | semilla 82
+[2026-10-28 19:47:34] ES test semilla 82: F1=0.7344
+[2026-10-28 19:47:35] CU | Test oficial | semilla 42
+[2026-10-28 19:48:06] CU test semilla 42: F1=0.6955
+[2026-10-28 19:48:06] CU | Test oficial | semilla 52
+[2026-10-28 19:48:38] CU test semilla 52: F1=0.7286
+[2026-10-28 19:48:38] CU | Test oficial | semilla 62
+[2026-10-28 19:49:08] ACTIVO: CU | Test oficial | semilla 62
+[2026-10-28 19:49:10] CU test semilla 62: F1=0.7046
+[2026-10-28 19:49:10] CU | Test oficial | semilla 72
+[2026-10-28 19:49:41] CU test semilla 72: F1=0.7014
+[2026-10-28 19:49:41] CU | Test oficial | semilla 82
+[2026-10-28 19:50:13] CU test semilla 82: F1=0.7030
+[2026-10-28 19:50:13] FINALIZADO: Test oficial completado (5 semillas por variante) (15/15 contados)
+[2026-10-28 19:50:14] MX: modelo ya exportado (se reutiliza)
+[2026-10-28 19:50:14] ES: modelo ya exportado (se reutiliza)
+[2026-10-28 19:50:14] CU: modelo ya exportado (se reutiliza)
+[2026-10-28 19:50:14] FINALIZADO: Modelos finales exportados (6/3 contados)
+[2026-10-28 19:50:22] MX | SHAP (50 tuits por tipo)
+[2026-10-28 19:56:32] MX: 200 tuits explicados ({'VP': 50, 'VN': 50, 'FP': 50, 'FN': 50})
+[2026-10-28 19:56:32] ES | SHAP (50 tuits por tipo)
+[2026-10-28 20:03:20] ES: 200 tuits explicados ({'VP': 50, 'VN': 50, 'FP': 50, 'FN': 50})
+[2026-10-28 20:03:20] CU | SHAP (50 tuits por tipo)
+[2026-10-28 20:09:57] CU: 200 tuits explicados ({'VP': 50, 'VN': 50, 'FP': 50, 'FN': 50})
+[2026-10-28 20:09:57] FINALIZADO: SHAP completado (3/3 contados)
+[2026-10-29 10:53:23] [MX][DistilBETO][Outer 1/5] resultado recuperado; se omite.
+[2026-10-29 10:53:23] [MX][DistilBETO][Outer 2/5] resultado recuperado; se omite.
+[2026-10-29 10:53:23] [MX][DistilBETO][Outer 3/5] resultado recuperado; se omite.
+[2026-10-29 10:53:23] [MX][DistilBETO][Outer 4/5] resultado recuperado; se omite.
+[2026-10-29 10:53:23] [MX][DistilBETO][Outer 5/5] resultado recuperado; se omite.
+[2026-10-29 10:53:24] [ES][DistilBETO][Outer 1/5] resultado recuperado; se omite.
+[2026-10-29 10:53:24] [ES][DistilBETO][Outer 2/5] resultado recuperado; se omite.
+[2026-10-29 10:53:24] [ES][DistilBETO][Outer 3/5] resultado recuperado; se omite.
+[2026-10-29 10:53:24] [ES][DistilBETO][Outer 4/5] resultado recuperado; se omite.
+[2026-10-29 10:53:24] [ES][DistilBETO][Outer 5/5] resultado recuperado; se omite.
+[2026-10-29 10:53:25] [CU][DistilBETO][Outer 1/5] resultado recuperado; se omite.
+[2026-10-29 10:53:25] [CU][DistilBETO][Outer 2/5] resultado recuperado; se omite.
+[2026-10-29 10:53:25] [CU][DistilBETO][Outer 3/5] resultado recuperado; se omite.
+[2026-10-29 10:53:25] [CU][DistilBETO][Outer 4/5] resultado recuperado; se omite.
+[2026-10-29 10:53:25] [CU][DistilBETO][Outer 5/5] resultado recuperado; se omite.
+[2026-10-29 10:53:25] FINALIZADO: Nested CV completado (MX, ES, CU) (915/915 contados)
+[2026-10-29 10:53:28] MX | Optimización final
+[2026-10-29 10:53:28] Recuperados 20 trials de mx final; faltan 0.
+[2026-10-29 10:53:28] ES | Optimización final
+[2026-10-29 10:53:29] Recuperados 20 trials de es final; faltan 0.
+[2026-10-29 10:53:29] CU | Optimización final
+[2026-10-29 10:53:29] Recuperados 20 trials de cu final; faltan 0.
+[2026-10-29 10:53:29] FINALIZADO: Optimización final completada (180/180 contados)
+[2026-10-29 10:53:39] FINALIZADO: Test oficial completado (5 semillas por variante) (15/15 contados)
+[2026-10-29 10:53:41] MX: modelo ya exportado (se reutiliza)
+[2026-10-29 10:53:41] ES: modelo ya exportado (se reutiliza)
+[2026-10-29 10:53:41] CU: modelo ya exportado (se reutiliza)
+[2026-10-29 10:53:41] FINALIZADO: Modelos finales exportados (6/3 contados)
+[2026-10-29 10:53:49] MX | SHAP (50 tuits por tipo)
+[2026-10-29 10:59:27] MX: 200 tuits explicados ({'VP': 50, 'VN': 50, 'FP': 50, 'FN': 50})
+[2026-10-29 10:59:27] ES | SHAP (50 tuits por tipo)
+[2026-10-29 11:05:36] ES: 200 tuits explicados ({'VP': 50, 'VN': 50, 'FP': 50, 'FN': 50})
+[2026-10-29 11:05:36] CU | SHAP (50 tuits por tipo)
+[2026-10-29 11:11:41] CU: 200 tuits explicados ({'VP': 50, 'VN': 50, 'FP': 50, 'FN': 50})
+[2026-10-29 11:11:41] FINALIZADO: SHAP completado (3/3 contados)

@@ -73,7 +73,7 @@ data/resultados_ml_*/prueba/
 # Modelos finales de ML (solo los usa Hard Voting, en la misma máquina)
 data/resultados_ml_*/modelos_finales/
 
-# Corridas antiguas de los Transformers (sin _v3): datos ya no válidos
-data/resultados_*_tpe20/
+# Modelos finales de los Transformers (pesos de cientos de MB)
+data/resultados_*/modelo_final/
 *.pkl.tmp
 *.csv.tmp
