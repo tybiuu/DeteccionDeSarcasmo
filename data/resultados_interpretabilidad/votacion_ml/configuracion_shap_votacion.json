@@ -1,0 +1,79 @@
+{
+  "seed": 42,
+  "permutaciones": 128,
+  "versiones": {
+    "numpy": "1.26.4",
+    "pandas": "3.0.3",
+    "scikit-learn": "1.8.0",
+    "xgboost": "3.2.0",
+    "shap": "0.49.1",
+    "spacy": "3.7.5",
+    "nltk": "3.9.4"
+  },
+  "salida_explicada": "decisión binaria de la mayoría; no probabilidad",
+  "referencia": "texto vacío y nueve rasgos en cero",
+  "unidades": "ocurrencias de palabras normalizadas y rasgos no nulos",
+  "formas_preprocesadas_fijas": true,
+  "entrenamientos": 0,
+  "valores_referencia": {
+    "cu": 0.0,
+    "es": 1.0
+  },
+  "n_textos": {
+    "cu": 599,
+    "es": 577
+  },
+  "max_error_aditividad": 0.0,
+  "fuente_predicciones": "resultados_ml_hard_voting_tfidf10k/hard_voting_test_predicciones.csv",
+  "filtro": "resultados_comparacion_final/ids_test_coincidentes_con_train.csv",
+  "comprobacion_estabilidad": [
+    {
+      "variante": "es",
+      "n_textos": 12,
+      "n_contribuciones": 286,
+      "media_diferencia_absoluta_128_256": 0.003646743881118881,
+      "max_diferencia_absoluta_128_256": 0.03125,
+      "n_contribuciones_fuertes": 54,
+      "coincidencia_signo_fuertes": 1.0,
+      "valores_base": [
+        1.0
+      ],
+      "max_error_aditividad": 0.0
+    },
+    {
+      "variante": "cu",
+      "n_textos": 12,
+      "n_contribuciones": 428,
+      "media_diferencia_absoluta_128_256": 0.0023455753504672897,
+      "max_diferencia_absoluta_128_256": 0.025390625,
+      "n_contribuciones_fuertes": 32,
+      "coincidencia_signo_fuertes": 1.0,
+      "valores_base": [
+        0.0
+      ],
+      "max_error_aditividad": 0.0
+    }
+  ],
+  "huellas_fuentes": {
+    "data/resultados_ml_groupcv_tfidf_lr_rf_10k/seleccion_final_ml.csv": "d7b9d0b787252a7c5daf4e8b5bf649b9d2f8add3fb91d74c18d38e2676fec3f5",
+    "data/resultados_ml_groupcv_tfidf_lr_rf_10k/predicciones_test_ml.csv": "bcfade89ccc166c9961cee87295177c1b92c32a340b44313d6e1f59ffce8a04b",
+    "data/resultados_ml_hard_voting_tfidf10k/hard_voting_test_predicciones.csv": "baee22663c7a07fc5243e82e44b02c71aacfda9e64f090d97fb4725344037cc7",
+    "data/resultados_comparacion_final/ids_test_coincidentes_con_train.csv": "36c5b2bf2e509e252d382d46c31d5f662a4e897ab0be84381c5759083abce7af",
+    "data/resultados_comparacion_final/tabla_resumen_test.csv": "23b8671264a7681d34b02e2ceb1daa382217d377f90920a4ae72378c5defe5b2",
+    "data/test_clean_es.csv": "804662bef8a5fcde14e50591f6e97334b454dd68eb806824384052460d924b14",
+    "data/test_clean_stem_es.csv": "0e27076ae98f73e479e06627487449bb2dc1d03d05a894b43e725f05129bb717",
+    "data/test_clean_lemma_es.csv": "2fcfb75415f476b73e8a4b67c77a7ef1d48f60b209665846a35d90c486dcbe3e",
+    "data/test_clean_cu.csv": "f91b875c0981ee999eefc23ab1b7603352ea0849a121e0af9d92ca907384a4ed",
+    "data/test_clean_stem_cu.csv": "5570fa12bc1ac77d249d788e285a4b4757a0fd39d1bb747659cbe117e4e6e2c1",
+    "data/test_clean_lemma_cu.csv": "4cb1dfdaf40e6b7793794630b95f457f210c5421fa224867cfec5396e59d874f",
+    "data/resultados_ml_groupcv_tfidf_lr_rf_10k/modelos_finales/lr_mx_normal_seed42.pkl": "be698b7a88dcf7e0e357f78ddc4f5705167ef8831cc85f1561215ee495f23ae1",
+    "data/resultados_ml_groupcv_tfidf_lr_rf_10k/modelos_finales/rf_mx_lemma_seed42.pkl": "ab1d9ab67ce529abb9ee4f72738556d5e2085544004b0005844b0ad9f82a26ac",
+    "data/resultados_ml_groupcv_tfidf_lr_rf_10k/modelos_finales/xgboost_mx_lemma_seed42.pkl": "6ceb808054e29e7add7c9a4178a9490122bc775b8b0c4169f872560c7daac848",
+    "data/resultados_ml_groupcv_tfidf_lr_rf_10k/modelos_finales/lr_es_lemma_seed42.pkl": "8c3f0f91f69c33411180c9c663bba8116c1b440b6c645957edb52f9485210052",
+    "data/resultados_ml_groupcv_tfidf_lr_rf_10k/modelos_finales/rf_es_stem_seed42.pkl": "5c888c2f02589973e68add72077027c043b57f2105f92300f426b50543900e19",
+    "data/resultados_ml_groupcv_tfidf_lr_rf_10k/modelos_finales/xgboost_es_stem_seed42.pkl": "84abc8a9afce7618b57600e079979058d47a14ced5388ce012cf27588a65a4cc",
+    "data/resultados_ml_groupcv_tfidf_lr_rf_10k/modelos_finales/lr_cu_stem_seed42.pkl": "d4b02ade84c4389dbe198141a3ff0d13edd8178532d80168720a96fd3597b55f",
+    "data/resultados_ml_groupcv_tfidf_lr_rf_10k/modelos_finales/rf_cu_stem_seed42.pkl": "b6387a57cfe51fe8f96b75b3a9d376c6e964d1928ce3137ba58134263cd83e7a",
+    "data/resultados_ml_groupcv_tfidf_lr_rf_10k/modelos_finales/xgboost_cu_stem_seed42.pkl": "f1ea4aa40ab1e79306ee4bc48397f9a29bc3aca7198724e0e6e1dec34ae6fb4f"
+  }
+}

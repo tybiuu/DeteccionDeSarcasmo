@@ -1,0 +1,10 @@
+variante,modelo,preprocessing,semilla,atol,rtol,estado,sha256_modelo,avisos_carga,n_train,n_test,escala,modo,n_incumplimientos,n_no_finitos,error_maximo,error_medio,n_error_mayor_1e_6,n_error_mayor_1e_5,n_error_mayor_1e_3
+cu,LR,stem,42,0.001,0.0,PASA,d4b02ade84c4389dbe198141a3ff0d13edd8178532d80168720a96fd3597b55f,,2400,599,log-odds,lineal_independiente,0,0,8.881784197001252e-16,1.4211410753444722e-16,0,0,0
+cu,RF,stem,42,0.001,0.0,PASA,b6387a57cfe51fe8f96b75b3a9d376c6e964d1928ce3137ba58134263cd83e7a,,2400,599,probabilidad_clase_1,TreeSHAP_interventional,0,0,3.302872531030232e-09,4.5397616235699343e-10,0,0,0
+cu,XGBoost,stem,42,0.001,0.0,PASA,f1ea4aa40ab1e79306ee4bc48397f9a29bc3aca7198724e0e6e1dec34ae6fb4f,,2400,599,margen_log-odds,TreeSHAP_nativo,0,0,1.5579535102006048e-06,2.0574196193208652e-07,16,0,0
+es,LR,lemma,42,0.001,0.0,PASA,8c3f0f91f69c33411180c9c663bba8116c1b440b6c645957edb52f9485210052,,2397,577,log-odds,lineal_independiente,0,0,8.881784197001252e-16,3.451889265472324e-16,0,0,0
+es,RF,stem,42,0.001,0.0,PASA,5c888c2f02589973e68add72077027c043b57f2105f92300f426b50543900e19,,2397,577,probabilidad_clase_1,TreeSHAP_interventional,0,0,2.066057414040756e-08,4.38751452534492e-09,0,0,0
+es,XGBoost,stem,42,0.001,0.0,PASA,84abc8a9afce7618b57600e079979058d47a14ced5388ce012cf27588a65a4cc,,2397,577,margen_log-odds,TreeSHAP_nativo,0,0,2.7300193323753774e-06,3.474279848755413e-07,43,0,0
+mx,LR,normal,42,0.001,0.0,PASA,be698b7a88dcf7e0e357f78ddc4f5705167ef8831cc85f1561215ee495f23ae1,,2399,598,log-odds,lineal_independiente,0,0,1.3322676295501878e-15,2.790758148543023e-16,0,0,0
+mx,RF,lemma,42,0.001,0.0,PASA,ab1d9ab67ce529abb9ee4f72738556d5e2085544004b0005844b0ad9f82a26ac,,2399,598,probabilidad_clase_1,TreeSHAP_interventional,0,0,5.552567738931202e-09,6.559765511811501e-10,0,0,0
+mx,XGBoost,lemma,42,0.001,0.0,PASA,6ceb808054e29e7add7c9a4178a9490122bc775b8b0c4169f872560c7daac848,,2399,598,margen_log-odds,TreeSHAP_nativo,0,0,1.75471359398216e-06,2.8283769197849225e-07,20,0,0

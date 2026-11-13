@@ -1,0 +1,4 @@
+variante,modelo,criterio
+mx,LR,F1-Macro medio del test filtrado
+es,HardVoting,F1-Macro medio del test filtrado
+cu,HardVoting,F1-Macro medio del test filtrado

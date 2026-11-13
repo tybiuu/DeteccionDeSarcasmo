@@ -1,0 +1,10 @@
+variante,modelo,tipo,ID,real,predicha,prob_ironia,original,explicado
+mx,RoBERTuito,FP,7848dd4a3d97f9e1ec61b927789ebf18,0,1,0.913112712709578,Jajaja lo copio de un WhatsApp que rola en Jalisco.... pero que bueno!!!,Jjaja lo copio de un WhatsApp que rola en Jalisco... pero que bueno!!!
+es,RoBERTuito,VP,987610faf6fde801af91fb59f62f38c9,1,1,0.9236409942358248,"- ¿Te gusta el libro de Pedro Sánchez?
+
+- Me gustó más la película.....que tiene montada.","- ¿Te gusta el libro de Pedro Sánchez?
+
+- Me gustó más la película...que tiene montada."
+cu,RoBERTuito,FP,9a95b2dc61f5a657f2794e2d4995e22d,0,1,0.8511690609736696,"Javi creo que valió la pena la espera, jejej :P, FINALLY!!!!! y lo mejor es (aparte de su correcto enfoque) la aceptación entre los lectores.
+Slds","Javi creo que valió la pena la espera, jejej :P, FINALLY!!! y lo mejor es (aparte de su correcto enfoque) la aceptación entre los lectores.
+Slds"

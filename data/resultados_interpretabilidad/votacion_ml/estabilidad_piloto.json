@@ -1,0 +1,28 @@
+[
+  {
+    "variante": "es",
+    "n_textos": 12,
+    "n_contribuciones": 286,
+    "media_diferencia_absoluta_128_256": 0.003646743881118881,
+    "max_diferencia_absoluta_128_256": 0.03125,
+    "n_contribuciones_fuertes": 54,
+    "coincidencia_signo_fuertes": 1.0,
+    "valores_base": [
+      1.0
+    ],
+    "max_error_aditividad": 0.0
+  },
+  {
+    "variante": "cu",
+    "n_textos": 12,
+    "n_contribuciones": 428,
+    "media_diferencia_absoluta_128_256": 0.0023455753504672897,
+    "max_diferencia_absoluta_128_256": 0.025390625,
+    "n_contribuciones_fuertes": 32,
+    "coincidencia_signo_fuertes": 1.0,
+    "valores_base": [
+      0.0
+    ],
+    "max_error_aditividad": 0.0
+  }
+]

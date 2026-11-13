@@ -1,0 +1,14 @@
+{
+  "todos_reproducen_predicciones": true,
+  "modelos_individuales": 9,
+  "votaciones": 3,
+  "seed": 42,
+  "n_predicciones": 7200,
+  "versiones": {
+    "numpy": "1.26.4",
+    "pandas": "3.0.3",
+    "sklearn": "1.8.0",
+    "xgboost": "3.2.0"
+  },
+  "entrenamientos": 0
+}

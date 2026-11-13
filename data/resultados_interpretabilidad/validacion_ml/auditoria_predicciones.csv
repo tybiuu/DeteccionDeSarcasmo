@@ -1,0 +1,13 @@
+variante,modelo,seed,preprocessing,n_test,discrepancias_prediccion,max_error_probabilidad,n_features,ruta_modelo,sha256_modelo
+mx,LR,42,normal,600,0,2.220446049250313e-16,10009.0,/Users/taniac/Developer/DeteccionDeSarcasmo/data/resultados_ml_groupcv_tfidf_lr_rf_10k/modelos_finales/lr_mx_normal_seed42.pkl,be698b7a88dcf7e0e357f78ddc4f5705167ef8831cc85f1561215ee495f23ae1
+mx,RF,42,lemma,600,0,5.551115123125783e-17,6309.0,/Users/taniac/Developer/DeteccionDeSarcasmo/data/resultados_ml_groupcv_tfidf_lr_rf_10k/modelos_finales/rf_mx_lemma_seed42.pkl,ab1d9ab67ce529abb9ee4f72738556d5e2085544004b0005844b0ad9f82a26ac
+mx,XGBoost,42,lemma,600,0,5.960464477539063e-08,6309.0,/Users/taniac/Developer/DeteccionDeSarcasmo/data/resultados_ml_groupcv_tfidf_lr_rf_10k/modelos_finales/xgboost_mx_lemma_seed42.pkl,6ceb808054e29e7add7c9a4178a9490122bc775b8b0c4169f872560c7daac848
+mx,HardVoting,42,,600,0,,,,
+es,LR,42,lemma,600,0,2.220446049250313e-16,10009.0,/Users/taniac/Developer/DeteccionDeSarcasmo/data/resultados_ml_groupcv_tfidf_lr_rf_10k/modelos_finales/lr_es_lemma_seed42.pkl,8c3f0f91f69c33411180c9c663bba8116c1b440b6c645957edb52f9485210052
+es,RF,42,stem,600,0,1.1102230246251565e-16,5152.0,/Users/taniac/Developer/DeteccionDeSarcasmo/data/resultados_ml_groupcv_tfidf_lr_rf_10k/modelos_finales/rf_es_stem_seed42.pkl,5c888c2f02589973e68add72077027c043b57f2105f92300f426b50543900e19
+es,XGBoost,42,stem,600,0,2.980232233218416e-08,5152.0,/Users/taniac/Developer/DeteccionDeSarcasmo/data/resultados_ml_groupcv_tfidf_lr_rf_10k/modelos_finales/xgboost_es_stem_seed42.pkl,84abc8a9afce7618b57600e079979058d47a14ced5388ce012cf27588a65a4cc
+es,HardVoting,42,,600,0,,,,
+cu,LR,42,stem,600,0,2.220446049250313e-16,10009.0,/Users/taniac/Developer/DeteccionDeSarcasmo/data/resultados_ml_groupcv_tfidf_lr_rf_10k/modelos_finales/lr_cu_stem_seed42.pkl,d4b02ade84c4389dbe198141a3ff0d13edd8178532d80168720a96fd3597b55f
+cu,RF,42,stem,600,0,5.551115123125783e-17,5611.0,/Users/taniac/Developer/DeteccionDeSarcasmo/data/resultados_ml_groupcv_tfidf_lr_rf_10k/modelos_finales/rf_cu_stem_seed42.pkl,b6387a57cfe51fe8f96b75b3a9d376c6e964d1928ce3137ba58134263cd83e7a
+cu,XGBoost,42,stem,600,0,5.960464477539063e-08,10009.0,/Users/taniac/Developer/DeteccionDeSarcasmo/data/resultados_ml_groupcv_tfidf_lr_rf_10k/modelos_finales/xgboost_cu_stem_seed42.pkl,f1ea4aa40ab1e79306ee4bc48397f9a29bc3aca7198724e0e6e1dec34ae6fb4f
+cu,HardVoting,42,,600,0,,,,
