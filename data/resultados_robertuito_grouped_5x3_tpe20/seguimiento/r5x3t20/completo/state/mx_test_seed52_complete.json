@@ -1,6 +1,6 @@
 {
   "config_id": "P_l2_b16_e6_w1_b_d3_s1_r9_i2_c0_m0",
-  "inferencia": "fp32",
+  "inferencia": "fp32_desde_disco",
   "seed": 52,
   "f1_macro": 0.7498732871268718,
   "accuracy": 0.7683333333333333,
@@ -8,9 +8,9 @@
   "recall_macro": 0.7633992907179288,
   "f1_macro_sin_coincidencias": 0.7509536455818445,
   "n_coincidencias": 2,
-  "nll": 0.4706550823706664,
-  "ece": 0.03864626922429194,
-  "nll_calibrada": 0.4752869169970927,
-  "ece_calibrada": 0.045686585189965746,
+  "nll": 0.47030793388676995,
+  "ece": 0.04186338248647439,
+  "nll_calibrada": 0.4749879610317398,
+  "ece_calibrada": 0.04604051202596108,
   "temperatura": 1.1835394289311814
 }

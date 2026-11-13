@@ -2094,3 +2094,83 @@
 [2026-11-13 16:27:22] CU | SHAP (50 tuits por tipo)
 [2026-11-13 16:39:18] CU: 198 tuits explicados ({'VP': 50, 'VN': 50, 'FN': 50, 'FP': 48})
 [2026-11-13 16:39:18] FINALIZADO: SHAP completado (3/3 contados)
+[2026-11-13 17:21:19] [MX][RoBERTuito][Outer 1/5] resultado recuperado; se omite.
+[2026-11-13 17:21:19] [MX][RoBERTuito][Outer 2/5] resultado recuperado; se omite.
+[2026-11-13 17:21:19] [MX][RoBERTuito][Outer 3/5] resultado recuperado; se omite.
+[2026-11-13 17:21:19] [MX][RoBERTuito][Outer 4/5] resultado recuperado; se omite.
+[2026-11-13 17:21:19] [MX][RoBERTuito][Outer 5/5] resultado recuperado; se omite.
+[2026-11-13 17:21:20] [ES][RoBERTuito][Outer 1/5] resultado recuperado; se omite.
+[2026-11-13 17:21:20] [ES][RoBERTuito][Outer 2/5] resultado recuperado; se omite.
+[2026-11-13 17:21:20] [ES][RoBERTuito][Outer 3/5] resultado recuperado; se omite.
+[2026-11-13 17:21:20] [ES][RoBERTuito][Outer 4/5] resultado recuperado; se omite.
+[2026-11-13 17:21:20] [ES][RoBERTuito][Outer 5/5] resultado recuperado; se omite.
+[2026-11-13 17:21:20] [CU][RoBERTuito][Outer 1/5] resultado recuperado; se omite.
+[2026-11-13 17:21:20] [CU][RoBERTuito][Outer 2/5] resultado recuperado; se omite.
+[2026-11-13 17:21:20] [CU][RoBERTuito][Outer 3/5] resultado recuperado; se omite.
+[2026-11-13 17:21:20] [CU][RoBERTuito][Outer 4/5] resultado recuperado; se omite.
+[2026-11-13 17:21:20] [CU][RoBERTuito][Outer 5/5] resultado recuperado; se omite.
+[2026-11-13 17:21:20] FINALIZADO: Nested CV completado (MX, ES, CU) (915/915 contados)
+[2026-11-13 17:21:22] MX | Optimización final
+[2026-11-13 17:21:23] Recuperados 20 trials de mx final; faltan 0.
+[2026-11-13 17:21:23] ES | Optimización final
+[2026-11-13 17:21:24] Recuperados 20 trials de es final; faltan 0.
+[2026-11-13 17:21:24] CU | Optimización final
+[2026-11-13 17:21:24] Recuperados 20 trials de cu final; faltan 0.
+[2026-11-13 17:21:24] FINALIZADO: Optimización final completada (180/180 contados)
+[2026-11-13 17:21:31] MX | Test oficial | semilla 42
+[2026-11-13 17:22:01] ACTIVO: MX | Test oficial | semilla 42
+[2026-11-13 17:22:26] MX test semilla 42: F1=0.7598
+[2026-11-13 17:22:26] MX | Test oficial | semilla 52
+[2026-11-13 17:22:56] ACTIVO: MX | Test oficial | semilla 52
+[2026-11-13 17:23:21] MX test semilla 52: F1=0.7499
+[2026-11-13 17:23:21] MX | Test oficial | semilla 62
+[2026-11-13 17:23:51] ACTIVO: MX | Test oficial | semilla 62
+[2026-11-13 17:24:15] MX test semilla 62: F1=0.7572
+[2026-11-13 17:24:15] MX | Test oficial | semilla 72
+[2026-11-13 17:24:45] ACTIVO: MX | Test oficial | semilla 72
+[2026-11-13 17:25:09] MX test semilla 72: F1=0.7468
+[2026-11-13 17:25:10] MX | Test oficial | semilla 82
+[2026-11-13 17:25:40] ACTIVO: MX | Test oficial | semilla 82
+[2026-11-13 17:26:04] MX test semilla 82: F1=0.7541
+[2026-11-13 17:26:04] ES | Test oficial | semilla 42
+[2026-11-13 17:26:34] ACTIVO: ES | Test oficial | semilla 42
+[2026-11-13 17:26:50] ES test semilla 42: F1=0.7575
+[2026-11-13 17:26:51] ES | Test oficial | semilla 52
+[2026-11-13 17:27:21] ACTIVO: ES | Test oficial | semilla 52
+[2026-11-13 17:27:37] ES test semilla 52: F1=0.7791
+[2026-11-13 17:27:37] ES | Test oficial | semilla 62
+[2026-11-13 17:28:07] ACTIVO: ES | Test oficial | semilla 62
+[2026-11-13 17:28:24] ES test semilla 62: F1=0.7728
+[2026-11-13 17:28:24] ES | Test oficial | semilla 72
+[2026-11-13 17:28:54] ACTIVO: ES | Test oficial | semilla 72
+[2026-11-13 17:29:10] ES test semilla 72: F1=0.7702
+[2026-11-13 17:29:10] ES | Test oficial | semilla 82
+[2026-11-13 17:29:40] ACTIVO: ES | Test oficial | semilla 82
+[2026-11-13 17:29:56] ES test semilla 82: F1=0.7583
+[2026-11-13 17:29:57] CU | Test oficial | semilla 42
+[2026-11-13 17:30:27] ACTIVO: CU | Test oficial | semilla 42
+[2026-11-13 17:30:44] CU test semilla 42: F1=0.7229
+[2026-11-13 17:30:44] CU | Test oficial | semilla 52
+[2026-11-13 17:31:14] ACTIVO: CU | Test oficial | semilla 52
+[2026-11-13 17:31:30] CU test semilla 52: F1=0.7248
+[2026-11-13 17:31:30] CU | Test oficial | semilla 62
+[2026-11-13 17:32:00] ACTIVO: CU | Test oficial | semilla 62
+[2026-11-13 17:32:16] CU test semilla 62: F1=0.7444
+[2026-11-13 17:32:16] CU | Test oficial | semilla 72
+[2026-11-13 17:32:46] ACTIVO: CU | Test oficial | semilla 72
+[2026-11-13 17:33:03] CU test semilla 72: F1=0.7347
+[2026-11-13 17:33:03] CU | Test oficial | semilla 82
+[2026-11-13 17:33:33] ACTIVO: CU | Test oficial | semilla 82
+[2026-11-13 17:33:49] CU test semilla 82: F1=0.7351
+[2026-11-13 17:33:49] FINALIZADO: Test oficial completado (5 semillas por variante) (15/15 contados)
+[2026-11-13 17:33:51] MX: modelo ya exportado (se reutiliza)
+[2026-11-13 17:33:51] ES: modelo ya exportado (se reutiliza)
+[2026-11-13 17:33:51] CU: modelo ya exportado (se reutiliza)
+[2026-11-13 17:33:51] FINALIZADO: Modelos finales exportados (6/3 contados)
+[2026-11-13 17:33:57] MX | SHAP (50 tuits por tipo)
+[2026-11-13 17:44:01] MX: 200 tuits explicados ({'VP': 50, 'VN': 50, 'FP': 50, 'FN': 50})
+[2026-11-13 17:44:01] ES | SHAP (50 tuits por tipo)
+[2026-11-13 17:56:43] ES: 200 tuits explicados ({'VP': 50, 'VN': 50, 'FP': 50, 'FN': 50})
+[2026-11-13 17:56:43] CU | SHAP (50 tuits por tipo)
+[2026-11-13 18:08:44] CU: 198 tuits explicados ({'VP': 50, 'VN': 50, 'FN': 50, 'FP': 48})
+[2026-11-13 18:08:44] FINALIZADO: SHAP completado (3/3 contados)
