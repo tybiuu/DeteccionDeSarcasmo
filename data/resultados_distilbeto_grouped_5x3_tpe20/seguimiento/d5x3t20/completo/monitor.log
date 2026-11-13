@@ -1905,3 +1905,68 @@
 [2026-10-29 11:05:36] CU | SHAP (50 tuits por tipo)
 [2026-10-29 11:11:41] CU: 200 tuits explicados ({'VP': 50, 'VN': 50, 'FP': 50, 'FN': 50})
 [2026-10-29 11:11:41] FINALIZADO: SHAP completado (3/3 contados)
+[2026-11-13 15:54:25] [MX][DistilBERT][Outer 1/5] resultado recuperado; se omite.
+[2026-11-13 15:54:25] [MX][DistilBERT][Outer 2/5] resultado recuperado; se omite.
+[2026-11-13 15:54:25] [MX][DistilBERT][Outer 3/5] resultado recuperado; se omite.
+[2026-11-13 15:54:25] [MX][DistilBERT][Outer 4/5] resultado recuperado; se omite.
+[2026-11-13 15:54:25] [MX][DistilBERT][Outer 5/5] resultado recuperado; se omite.
+[2026-11-13 15:54:25] [ES][DistilBERT][Outer 1/5] resultado recuperado; se omite.
+[2026-11-13 15:54:25] [ES][DistilBERT][Outer 2/5] resultado recuperado; se omite.
+[2026-11-13 15:54:25] [ES][DistilBERT][Outer 3/5] resultado recuperado; se omite.
+[2026-11-13 15:54:25] [ES][DistilBERT][Outer 4/5] resultado recuperado; se omite.
+[2026-11-13 15:54:25] [ES][DistilBERT][Outer 5/5] resultado recuperado; se omite.
+[2026-11-13 15:54:26] [CU][DistilBERT][Outer 1/5] resultado recuperado; se omite.
+[2026-11-13 15:54:26] [CU][DistilBERT][Outer 2/5] resultado recuperado; se omite.
+[2026-11-13 15:54:26] [CU][DistilBERT][Outer 3/5] resultado recuperado; se omite.
+[2026-11-13 15:54:26] [CU][DistilBERT][Outer 4/5] resultado recuperado; se omite.
+[2026-11-13 15:54:26] [CU][DistilBERT][Outer 5/5] resultado recuperado; se omite.
+[2026-11-13 15:54:26] FINALIZADO: Nested CV completado (MX, ES, CU) (915/915 contados)
+[2026-11-13 15:54:29] MX | Optimización final
+[2026-11-13 15:54:30] Recuperados 20 trials de mx final; faltan 0.
+[2026-11-13 15:54:30] ES | Optimización final
+[2026-11-13 15:54:30] Recuperados 20 trials de es final; faltan 0.
+[2026-11-13 15:54:30] CU | Optimización final
+[2026-11-13 15:54:30] Recuperados 20 trials de cu final; faltan 0.
+[2026-11-13 15:54:30] FINALIZADO: Optimización final completada (180/180 contados)
+[2026-11-13 15:54:37] MX | Test oficial | semilla 42
+[2026-11-13 15:55:04] MX test semilla 42: F1=0.7100
+[2026-11-13 15:55:04] MX | Test oficial | semilla 52
+[2026-11-13 15:55:30] MX test semilla 52: F1=0.7013
+[2026-11-13 15:55:30] MX | Test oficial | semilla 62
+[2026-11-13 15:55:56] MX test semilla 62: F1=0.6933
+[2026-11-13 15:55:57] MX | Test oficial | semilla 72
+[2026-11-13 15:56:23] MX test semilla 72: F1=0.7042
+[2026-11-13 15:56:23] MX | Test oficial | semilla 82
+[2026-11-13 15:56:49] MX test semilla 82: F1=0.7028
+[2026-11-13 15:56:49] ES | Test oficial | semilla 42
+[2026-11-13 15:57:15] ES test semilla 42: F1=0.7314
+[2026-11-13 15:57:15] ES | Test oficial | semilla 52
+[2026-11-13 15:57:41] ES test semilla 52: F1=0.7380
+[2026-11-13 15:57:41] ES | Test oficial | semilla 62
+[2026-11-13 15:58:07] ES test semilla 62: F1=0.7290
+[2026-11-13 15:58:07] ES | Test oficial | semilla 72
+[2026-11-13 15:58:33] ES test semilla 72: F1=0.7406
+[2026-11-13 15:58:33] ES | Test oficial | semilla 82
+[2026-11-13 15:58:59] ES test semilla 82: F1=0.7344
+[2026-11-13 15:58:59] CU | Test oficial | semilla 42
+[2026-11-13 15:59:30] CU test semilla 42: F1=0.6955
+[2026-11-13 15:59:30] CU | Test oficial | semilla 52
+[2026-11-13 16:00:00] CU test semilla 52: F1=0.7286
+[2026-11-13 16:00:01] CU | Test oficial | semilla 62
+[2026-11-13 16:00:31] CU test semilla 62: F1=0.7046
+[2026-11-13 16:00:31] CU | Test oficial | semilla 72
+[2026-11-13 16:01:02] CU test semilla 72: F1=0.7014
+[2026-11-13 16:01:02] CU | Test oficial | semilla 82
+[2026-11-13 16:01:32] CU test semilla 82: F1=0.7030
+[2026-11-13 16:01:32] FINALIZADO: Test oficial completado (5 semillas por variante) (15/15 contados)
+[2026-11-13 16:01:34] MX: modelo ya exportado (se reutiliza)
+[2026-11-13 16:01:34] ES: modelo ya exportado (se reutiliza)
+[2026-11-13 16:01:34] CU: modelo ya exportado (se reutiliza)
+[2026-11-13 16:01:34] FINALIZADO: Modelos finales exportados (6/3 contados)
+[2026-11-13 16:01:42] MX | SHAP (50 tuits por tipo)
+[2026-11-13 16:07:31] MX: 200 tuits explicados ({'VP': 50, 'VN': 50, 'FP': 50, 'FN': 50})
+[2026-11-13 16:07:31] ES | SHAP (50 tuits por tipo)
+[2026-11-13 16:13:52] ES: 200 tuits explicados ({'VP': 50, 'VN': 50, 'FP': 50, 'FN': 50})
+[2026-11-13 16:13:52] CU | SHAP (50 tuits por tipo)
+[2026-11-13 16:20:11] CU: 200 tuits explicados ({'VP': 50, 'VN': 50, 'FP': 50, 'FN': 50})
+[2026-11-13 16:20:11] FINALIZADO: SHAP completado (3/3 contados)
